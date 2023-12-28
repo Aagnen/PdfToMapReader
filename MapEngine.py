@@ -6,6 +6,7 @@ def get_bounding_box_spans(dictSpans):
     for span in dictSpans:
         page = span["page"]
         bbox = span["bbox"]
+        if not isinstance(page, int): continue
         if page not in bboxSelf:
             bboxSelf[page] = bbox
         else:
@@ -16,11 +17,19 @@ def get_bounding_box_spans(dictSpans):
                 max(current_bbox[2], bbox[2]),
                 max(current_bbox[3], bbox[3])
             ]
+    for key, bbox in bboxSelf.items():
+        bboxSelf[key] = [
+                round(bbox[0]-5, 2),
+                round(bbox[1]-5, 2),
+                round(bbox[2]+5, 2),
+                round(bbox[3]+5, 2)
+            ]
     return bboxSelf
 
 def update_dict_box(original_dict, new_dict):
     for key, new_bbox in new_dict.items():
-        if not original_dict:
+        if not isinstance(key, int): continue
+        elif not original_dict:
            # Add the new key-value pair from new_dict to original_dict
             original_dict[key] = new_bbox
         elif key in original_dict:
@@ -36,6 +45,13 @@ def update_dict_box(original_dict, new_dict):
         else:
             # Add the new key-value pair from new_dict to original_dict
             original_dict[key] = new_bbox
+    for key, bbox in original_dict.items():
+        original_dict[key] = [
+                round(bbox[0]-5, 2),
+                round(bbox[1]-5, 2),
+                round(bbox[2]+5, 2),
+                round(bbox[3]+5, 2)
+            ]
     return original_dict
 
 
@@ -119,11 +135,13 @@ def pdf_to_map(map_guide):
         bboxSelfWithChildren1 = {}
 
         for level2 in res[level1]:
+            if level2 == "bboxSelf": continue
             if not isinstance(res[level1][level2], dict): continue
             if "spans" in res[level1][level2]: res[level1][level2]["bboxSelf"] = get_bounding_box_spans(res[level1][level2]["spans"])
             bboxSelfWithChildren2 = {}
 
             for level3 in res[level1][level2]:
+                if level3 == "bboxSelf": continue
                 if not isinstance(res[level1][level2][level3], dict): continue
                 if "spans" in res[level1][level2][level3]:
                     res[level1][level2][level3]["bboxSelf"] = get_bounding_box_spans(res[level1][level2][level3]["spans"])
