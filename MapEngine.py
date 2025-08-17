@@ -87,10 +87,14 @@ def pdf_to_map(map_guide):
         # ----------------- MAP FILE ----------------- #
         # loop over all text fragments
         for block in dict_pdf["blocks"]:
+            if "lines" not in block: 
+                print("Block without lines:")
+                continue  # skip blocks without lines
             for line in block["lines"]:
                 for span in line["spans"]:
                     # If the text is too small, leave it out
-                    if int(span["size"]) != map_guide["main_text_font_size"]:
+                    if int(span["size"]) < map_guide["main_text_font_size"]:
+                        # print("Text too small:", span["size"])
                         continue
 
                     # ----------------- FIND DELIMITER ----------------- #

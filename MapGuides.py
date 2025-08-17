@@ -29,6 +29,30 @@ paths = {
 Map_guides = [
     {
         "paths": paths,
+        "file_name": "2023_05_16-2023_05_16",
+        "depth_patterns": depth_patterns_Par_1,
+        "main_text_font_size": 10,
+    },
+    {
+        "paths": paths,
+        "file_name": "2023_05_31-2023_05_31",
+        "depth_patterns": depth_patterns_Par_1,
+        "main_text_font_size": 9,
+    },
+    {
+        "paths": paths,
+        "file_name": "2024_07_12-2024_07_12-doZmiany",
+        "depth_patterns": depth_patterns_Art_1,
+        "main_text_font_size": 12,
+    },
+    {
+        "paths": paths,
+        "file_name": "1998_09_10_1998_09_10",
+        "depth_patterns": depth_patterns_Art_1,
+        "main_text_font_size": 12,
+    },
+    {
+        "paths": paths,
         "file_name": "1989_05_17-2021_11_03",
         "depth_patterns": depth_patterns_Art_1,
         "main_text_font_size": 12,
@@ -38,6 +62,12 @@ Map_guides = [
         "file_name": "1994_07_07-2023_12_04",
         "depth_patterns": depth_patterns_Art_1,
         "main_text_font_size": 12,
+    },
+        {
+        "paths": paths,
+        "file_name": "1994_07_07-2025_04_02",
+        "depth_patterns": depth_patterns_Art_1,
+        "main_text_font_size": 9,
     },
     {
         "paths": paths,
