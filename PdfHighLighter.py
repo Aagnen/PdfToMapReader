@@ -1,14 +1,12 @@
 from HighlighterEngine import pdf_highlighter
-import fitz  # library of PyMuPDF
 import MapGuides
-import json
 import os
 import subprocess
 import time
 
 # ----------------- VARIABLES ----------------- #
 
-dir_path = r'01_Pdf_original'
+dir_path = r"01_Pdf_original"
 
 # FILES
 All_map_guides = MapGuides.Map_guides
@@ -92,8 +90,10 @@ for guide in MAP_GUIDES:
         print("\n\n\n\n")
         # ----------------- HIGHLIGHT PDF ----------------- #
         print(f"Working on the branch: {branches_list[i]}")
-        highlighted_pdf, new_page = pdf_highlighter(guide, branches_list[i], PAGES_AROUND)
-        if page-new_page > 2:
+        highlighted_pdf, new_page = pdf_highlighter(
+            guide, branches_list[i], PAGES_AROUND
+        )
+        if page - new_page > 2:
             print(f"CAREFULLY! {page} - {new_page}")
         page = new_page
 
@@ -108,11 +108,14 @@ for guide in MAP_GUIDES:
         # Prompt the user for input
         while True:
             user_input = input(
-                "Choose an option: enter - Close the PDF file and continue with the loop. n -  Exit the code.\n")
+                "Choose an option: enter - Close the PDF file and continue with the loop. n -  Exit the code.\n"
+            )
 
             if user_input == "":
                 # Close the PDF file
-                subprocess.run(["taskkill", "/f", "/im", "chrome.exe"], shell=True)  # Update the process name if needed
+                subprocess.run(
+                    ["taskkill", "/f", "/im", "chrome.exe"], shell=True
+                )  # Update the process name if needed
                 # Remove the processed branch from the list
                 branches_list.pop(i)
                 txt_file_path = f"{guide['file_name']}_branches_to_check.txt"
@@ -123,6 +126,3 @@ for guide in MAP_GUIDES:
                 exit()
             else:
                 print("Invalid option. Please choose 1 or 2.")
-
-
-

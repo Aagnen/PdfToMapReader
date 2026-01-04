@@ -1,0 +1,2443 @@
+DZIENNIK USTAW
+RZECZYPOSPOLITEJ  POLSKIEJ
+Warszawa, dnia 3 kwietnia 2023 r.
+Poz.
+ 628
+ 628
+ROZPORZĄDZENIE
+MINISTRA CYFRYZACJI
+1)
+z dnia 8 marca 2023 r.
+w sprawie informacji o infrastrukturze technicznej i kanałach technologicznych  
+oraz o stawkach opłaty za zajęcie pasa drogowego
+Na podstawie art. 29e ustawy z dnia 7 maja 2010 r. o wspieraniu rozwoju usług i sieci telekomunikacyjnych (Dz. U. 
+z 2022 r. poz. 884 i 2164) zarządza się, co następuje:
+§ 1.
+ Rozporządzenie określa:
+1)	
+szczegółowy zakres przekazywanych informacji o istniejącej infrastrukturze technicznej i kanałach technologicznych, 
+o planach inwestycyjnych w zakresie wykonywanych lub planowanych robót budowlanych dotyczących infrastruktu-
+ry technicznej i kanałów technologicznych oraz o wysokości stawek opłaty za zajęcie pasa drogowego, zwanych dalej 
+„informacjami”;
+2)	
+elektroniczny format przekazywania informacji;
+3)	
+wzory formularzy służących do przekazywania informacji Prezesowi Urzędu Komunikacji Elektronicznej przez pod-
+mioty, o których mowa w art. 29c ust. 1 i art. 29d ust. 4 i 6 ustawy z dnia 7 maja 2010 r. o wspieraniu rozwoju usług 
+i sieci telekomunikacyjnych, zwanej dalej „ustawą”, wraz z objaśnieniami co do sposobu ich wypełniania.
+§ 2.
+ Informacje o istniejącej infrastrukturze technicznej, innej niż infrastruktura objęta inwentaryzacją, o której mowa 
+w art. 29 ust. 1 ustawy, lub o kanałach technologicznych w zakresie:
+1)	
+ich lokalizacji i przebiegu ‒ obejmują:
+a)	
+numer drogi, kilometraż, oznaczenie miejscowości, identyfikator działki, na której lokalizowany lub umieszcza-
+ny jest element infrastruktury technicznej, dla którego zarządca drogi wydał decyzję, o której mowa w art. 39 
+ust. 3 lub art. 40 ust. 1 ustawy z dnia 21 marca 1985 r. o drogach publicznych (Dz. U. z 2022 r. poz. 1693, 1768, 
+1783 i 2185),
+b)	
+oznaczenie zastosowanego układu współrzędnych oraz wskazanie współrzędnych geograficznych albo współ-
+rzędnych płaskich prostokątnych, jeżeli są przekazywane w zakresie innym niż określony w lit. a:
+–	 środka geometrycznego punktowego elementu infrastruktury technicznej lub kanału technologicznego,
+–	 punktu początkowego, końcowego i punktów załamania osi liniowego elementu infrastruktury technicznej lub 
+kanału technologicznego,
+–	 punktów załamania krawędzi powierzchniowego elementu infrastruktury technicznej;
+2)	
+ich rodzaju ‒ obejmują:
+a)	
+określenie kategorii elementu infrastruktury technicznej albo wskazanie kanału technologicznego,
+b)	
+określenie typu elementu infrastruktury technicznej lub kanału technologicznego;
+1)
+	
+Minister Cyfryzacji kieruje działem administracji rządowej – informatyzacja, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady 
+Ministrów z dnia 6 października 2020 r. w sprawie szczegółowego zakresu działania Ministra Cyfryzacji (Dz. U. poz. 1716).
+Dziennik Ustaw	
+– 2 – 	
+Poz. 628
+﻿
+3)	
+ich aktualnego stanu ‒ obejmują wskazanie na możliwość albo brak możliwości umieszczenia w elemencie infrastruk-
+tury technicznej lub elemencie kanału technologicznego lub na tych elementach elementów infrastruktury lub sieci 
+telekomunikacyjnej;
+4)	
+ich sposobu użytkowania ‒ obejmują określenie aktualnego celu wykorzystania elementu infrastruktury technicznej 
+lub kanału technologicznego;
+5)	
+danych kontaktowych w sprawie dostępu ‒ obejmują nazwę, dane adresowe, numer telefonu i adres poczty elektro-
+nicznej podmiotu uprawnionego do kontaktu w sprawie umożliwienia faktycznego dostępu do elementu infrastruktury 
+technicznej lub kanału technologicznego albo podmiotu, dla którego wydano decyzję, o której mowa w art. 39 ust. 3 
+lub art. 40 ust. 1 ustawy z dnia 21 marca 1985 r. o drogach publicznych.
+§ 3.
+ Informacje o planach inwestycyjnych w zakresie wykonywanych lub planowanych robót budowlanych, finansowa-
+nych w całości lub w części ze środków publicznych, dotyczących infrastruktury technicznej lub kanałów technologicznych, 
+w zakresie:
+1)	
+lokalizacji tych robót – obejmują określenie lokalizacji elementu infrastruktury technicznej lub kanału technologicz-
+nego, którego dotyczą roboty budowlane, przez oznaczenie zastosowanego układu współrzędnych oraz wskazanie 
+współrzędnych geograficznych albo współrzędnych płaskich prostokątnych w układzie współrzędnych:
+a)	
+środka geometrycznego punktowego elementu infrastruktury technicznej lub kanału technologicznego,
+b)	
+punktu początkowego, końcowego i punktów załamania osi liniowego elementu infrastruktury technicznej lub 
+kanału technologicznego,
+c)	
+punktów załamania krawędzi powierzchniowego elementu infrastruktury technicznej;
+2)	
+rodzaju tych robót – obejmują określenie, czy roboty te będą polegały na budowie, przebudowie, montażu, remoncie 
+lub rozbiórce;
+3)	
+elementu infrastruktury technicznej lub kanału technologicznego, którego dotyczą roboty budowlane, obejmują:
+a)	
+określenie kategorii tego elementu albo wskazanie tego kanału,
+b)	
+określenie typu tego elementu lub tego kanału;
+4)	
+przewidywanej daty rozpoczęcia tych robót – obejmują określenie daty przystąpienia do pierwszej czynności składa-
+jącej się na dany rodzaj robót budowlanych;
+5)	
+przewidywanego czasu trwania tych robót – obejmują wskazanie, wyrażonego w dniach, okresu między datą rozpo-
+częcia robót budowlanych, a datą zakończenia ostatniej czynności składającej się na dany rodzaj robót budowlanych;
+6)	
+danych kontaktowych w sprawach koordynacji tych robót ‒ obejmują nazwę, dane adresowe, numer telefonu i adres 
+poczty elektronicznej podmiotu uprawnionego do kontaktu w sprawach koordynacji robót budowlanych.
+§ 4.
+ Informacje o obowiązujących stawkach opłaty za zajęcie pasa drogowego w odniesieniu do infrastruktury tele- 
+komunikacyjnej ‒ obejmują:
+1)	
+oznaczenia jednostki samorządu terytorialnego, której organ stanowiący wydał uchwałę, o której mowa w art. 40 
+ust. 8 ustawy z dnia 21 marca 1985 r. o drogach publicznych, i numer tej uchwały;
+2)	
+wysokości stawek opłaty za zajęcie pasa drogowego w celu:
+a)	
+prowadzenia w nim robót, z uwzględnieniem w szczególności kategorii drogi, której pas drogowy zostaje zajęty, 
+zajętej części drogi oraz procentowej wielkości zajmowanej szerokości jezdni,
+b)	
+umieszczania w nim liniowych urządzeń obcych, z uwzględnieniem w szczególności kategorii drogi, której pas 
+drogowy zostaje zajęty, i zajętej części drogi,
+c)	
+umieszczania w nim urządzeń obcych innych niż liniowe oraz reklam, z uwzględnieniem w szczególności kate-
+gorii drogi, której pas drogowy zostaje zajęty, i zajętej części drogi.
+§ 5.
+ Informacje są przekazywane do systemu teleinformatycznego, o którym mowa w art. 29b ust. 2 ustawy:
+1)	
+w przypadku informacji, o których mowa w § 2 i § 3 – w formacie CSV, SHP, KML, GML, GeoJSON lub w formacie 
+tekstowym kodowanym zgodnie ze standardem UNICODE, metodą kodowania UTF-8;
+2)	
+w przypadku informacji, o których mowa w § 4 – w formacie tekstowym kodowanym zgodnie ze standardem UNICODE, 
+metodą kodowania UTF-8.
+Dziennik Ustaw	
+– 3 – 	
+Poz. 628
+﻿
+§ 6.
+ Wzór formularza służący do przekazywania informacji, o których mowa:
+1)	
+w § 2 rozporządzenia, określa załącznik nr 1 do rozporządzenia;
+2)	
+w § 3 rozporządzenia, określa załącznik nr 2 do rozporządzenia;
+3)	
+w § 4 rozporządzenia, określa załącznik nr 3 do rozporządzenia.
+§ 7.
+ Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia, z wyjątkiem § 6 pkt 3, który wchodzi w życie 
+z dniem 1 maja 2023 r.
+2)
+Minister Cyfryzacji: wz. 
+J. Cieszyński
+2)
+	
+Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Cyfryzacji z dnia 31 lipca 2019 r. w sprawie informacji o in-
+frastrukturze technicznej i kanałach technologicznych oraz o stawkach opłat za zajęcie pasa drogowego (Dz. U. poz. 1618), które 
+utraciło moc z dniem 2 stycznia 2023 r. na podstawie art. 34 pkt 1 ustawy z dnia 30 sierpnia 2019 r. o zmianie ustawy o wspieraniu 
+rozwoju usług i sieci telekomunikacyjnych oraz niektórych innych ustaw (Dz. U. poz. 1815, z 2020 r. poz. 695 oraz z 2021 r. 
+poz. 2333).
+Dziennik Ustaw	
+– 4 – 	
+Poz. 628
+﻿
+Załączniki do rozporządzenia Ministra Cyfryzacji 
+z dnia 8 marca 2023 r. (Dz. U. poz. 628)
+Załącznik nr 1
+WZÓR
+FORMULARZ SŁUŻĄCY DO PRZEKAZYWANIA INFORMACJI, O KTÓRYCH MOWA W § 2 ROZPORZĄDZENIA
+1), 2)
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+                                                     
+1)
+ Formularz wypełnia się osobno dla każdego elementu: 
+1) infrastruktury technicznej lub 
+2) kanału technologicznego. 
+2)
+  W przypadku aktualizacji informacji wypełnia się wszystkie pola formularza. Jeżeli podmiot przekazujący informacje przestał dysponować elementem infrastruktury technicznej lub kanału technologicznego, odnośnie do którego wcześniej przekazał informacje (np. z powodu jego 
+zniszczenia, likwidacji albo zbycia), wypełnia się tylko pole 1 „Identyfikator elementu infrastruktury technicznej lub kanału technologicznego” w odpowiednio II, III albo IV części formularza, dodaje po identyfikatorze wyrazy „do wykreślenia” i pozostawia pozostałe pola 
+niewypełnione. 
+Dziennik Ustaw	
+– 5 – 	
+Poz. 628
+﻿
+Część I.A.
+ Dane kontaktowe podmiotu uprawnionego do kontaktu w sprawie umożliwienia faktycznego dostępu do elementu infrastruktury technicznej lub kanału technologicznego
+3) 
+ 
+ 
+ 
+ 
+ 
+                                                     
+3)  
+Część I.A. wypełnia podmiot (w tym zarządca drogi) w przypadkach innych niż przekazywanie informacji o decyzji, o której mowa w art. 39 ust. 3 lub art. 40 ust. 1 ustawy z dnia 21 marca 1985 r. o drogach publicznych (Dz. U. z 2022 r. poz. 1693, z późn. zm.).
+ 
+ 
+4)
+ System identyfikatorów i nazw miejscowości.
+ 
+5
+)
+ 
+Krajowy rejestr urzędowy podziału terytorialnego kraju.
+ 
+6
+)
+ Pocztowy numer adresowy.
+ 
+Kod pola 
+Nazwa pola 
+Sposób określania wartości pól 
+Objaśnienia sposobu wypełniania pól 
+Z1.IA.1. 
+Nazwa podmiotu 
+litery duże i małe, liczby oraz znaki specjalne (np. –) 
+Zgodne z nazwą podmiotu uprawnionego 
+Z1.IA.2.1. 
+Dane adresowe 
+kod SIMC
+4)
+ 
+cyfry 
+Kod SIMC zgodny z TERYT
+5)
+,
+ 
+składający się z 7 cyfr 
+Z1.IA.2.2. 
+miejscowość 
+litery duże i małe oraz znaki specjalne (np. –) 
+Zgodna z nazwą w TERYT 
+Z1.IA.2.3. 
+kod pocztowy 
+cyfry 
+Kod pocztowy podaje się w formacie [DD-DDD], gdzie „D” to cyfra, zgodny z PNA
+6)
+ 
+budynku 
+ 
+Z1.IA.2.4. 
+kod ULIC 
+cyfry 
+Kod ULIC zgodny z TERYT, składający się z 5 cyfr 
+Z1.IA.2.5. 
+ulica 
+litery duże i małe, cyfry oraz znaki specjalne (np. –) 
+Zgodna z nazwą w TERYT. W przypadku budynków, budowli lub nieruchomości bez 
+przyporządkowanej nazwy ulicy pole należy pozostawić niewypełnione.  
+Z1.IA.2.6. 
+numer porządkowy 
+cyfry, litery duże lub małe, znaki specjalne (np. /, .) 
+Numer porządkowy nieruchomości, podany z dokładnością do punktu adresowego, np.: 
+1, 2, 3, 
+1A, 1B, 1C, 
+1a, 2b, 3a, 
+1.1, 2.B, 3/c, 
+1/3, 2/6, 7/15 
+Z1.IA.2.7. 
+oznaczenie lokalu 
+cyfry, litery duże lub małe, znaki specjalne (np. /, .) 
+Podaje się, gdy w adresie do doręczeń występuje numer lokalu albo numer z literą lokalu, 
+np.: 
+1, 2, 3, 
+1A, 1B, 1C,  
+1a, 2b, 3a,  
+1.1, 2.B, 3/c 
+Jeśli budynki, budowle lub nieruchomości wolnostojące nie mają przyporządkowanych 
+oznaczeń lokali albo jeśli cały budynek, cała budowla lub cała nieruchomość są użytkowane 
+wyłącznie przez podmiot, pole należy pozostawić niewypełnione. 
+Z1.IA.3. 
+numer telefonu 
+cyfry 
+Pole należy pozostawić niewypełnione, jeżeli podmiot nie posiada numeru telefonu. 
+Z1.IA.4. 
+adres poczty elektronicznej 
+cyfry, litery duże lub małe, znaki specjalne (np. @ 
+,, – .) 
+Pole należy pozostawić niewypełnione, jeżeli podmiot nie posiada adresu poczty 
+elektronicznej. 
+ 
+Dziennik Ustaw	
+– 6 – 	
+Poz. 628
+﻿
+Część I.B. 
+Dane kontaktowe podmiotu, dla którego wydano decyzję, o której mowa w art. 39 ust. 3 lub art. 40 ust. 1 ustawy z dnia 21 marca 1985 r. o drogach publicznych (Dz. U. z 2022 r. poz. 1693, 1768, 1783 
+i 2185) 
+ 
+Kod pola 
+Nazwa pola 
+Sposób określania wartości pól 
+Objaśnienia sposobu wypełniania pól 
+Z1.IB.1. 
+Nazwa podmiotu 
+litery duże i małe, cyfry oraz znaki specjalne (np. –) 
+Zgodne z nazwą podmiotu, dla którego wydano decyzję 
+Z1.IB.2.1. 
+dane 
+adresowe 
+kod SIMC 
+cyfry 
+Kod SIMC zgodny z TERYT składający się z 7 cyfr 
+Z1.IB.2.2. 
+miejscowość 
+litery duże i małe oraz znaki specjalne (np. –) 
+Zgodna z nazwą w TERYT 
+Z1.IB.2.3. 
+kod pocztowy 
+cyfry 
+Kod pocztowy podaje się w formacie [DD-DDD], gdzie „D” to cyfra, zgodny z PNA budynku  
+Z1.IB.2.4. 
+kod ULIC 
+cyfry 
+Kod ULIC zgodny z TERYT składający się z 5 cyfr 
+Z1.IB.2.5. 
+ulica 
+litery duże i małe, cyfry oraz znaki specjalne (np. –) 
+Zgodna z nazwą w TERYT. W przypadku budynków, budowli lub nieruchomości bez przyporządkowanej 
+nazwy ulicy pole należy pozostawić niewypełnione.  
+Z1.IB.2.6. 
+numer porządkowy 
+litery duże i małe, cyfry oraz znaki specjalne (np. /, .) 
+Numer porządkowy nieruchomości, podany z dokładnością do punktu adresowego, np.: 
+1, 2, 3, 
+1A, 1B, 1C,  
+1a, 2b, 3a,  
+1.1, 2.B, 3/c, 
+1/3, 2/6, 7/15 
+Z1.IB.2.7. 
+oznaczenie lokalu 
+litery duże i małe, cyfry oraz znaki specjalne (np. /, .) 
+Podaje się gdy w adresie do doręczeń występuje numer lokalu albo numer z literą lokalu, np.: 
+1, 2, 3, 
+1A, 1B, 1C,  
+1a, 2b, 3a,  
+1.1, 2.B, 3/c 
+Jeśli budynki, budowle lub nieruchomości wolnostojące nie mają przyporządkowanych oznaczeń lokali 
+albo jeśli cały budynek, cała budowla lub cała nieruchomość są użytkowane wyłącznie przez podmiot, 
+pole należy pozostawić niewypełnione. 
+Z1.IB.3. 
+numer telefonu 
+cyfry 
+Pole należy pozostawić niewypełnione, jeżeli zarządca drogi nie posiada numeru telefonu podmiotu, dla 
+którego wydano decyzję. 
+Z1.IB.4. 
+adres poczty elektronicznej 
+cyfry, litery duże lub małe, znaki specjalne (np. @,, _– .) 
+Pole należy pozostawić niewypełnione, jeżeli zarządca drogi nie posiada adresu poczty elektronicznej 
+podmiotu, dla którego wydano decyzję. 
+ 
+ 
+Dziennik Ustaw	
+– 7 – 	
+Poz. 628
+﻿
+Część II.
+ Informacje o elementach punktowych infrastruktury technicznej lub kanału technologicznego 
+ 
+Kod pola 
+Nazwa pola 
+Sposób określania wartości pól 
+Objaśnienia sposobu wypełniania pól 
+Z.1.II.1. 
+identyfikator elementu infrastruktury 
+technicznej lub kanału technologicznego 
+dowolny ciąg znaków o maksymalnej długości 
+100 znaków 
+Wartość identyfikatora powinna być unikalna dla każdego elementu 
+Ciągi znaków różniące się wielkością liter traktowane są jako ciągi różne 
+Przy aktualizacji danych podaje się identyfikator wskazany wcześniej dla elementu 
+  
+Z.1.II.2.1. 
+lokalizacja 
+elementu 
+infrastruktury 
+technicznej lub 
+kanału 
+technologicznego 
+numer drogi 
+duże litery i cyfry 
+ 
+Numer drogi, o którym mowa w art. 10 ust. 7 ustawy z dnia 21 marca 1985 r. o drogach publicznych 
+Kilometraż stanowi wyrażoną w kilometrach odległość danego miejsca na drodze od początku tej drogi – 
+jeżeli zarządca drogi wskazał w decyzji ten kilometraż. 
+Kod SIMC zgodny z TERYT, składający się z 7 cyfr 
+Pole wypełnia zarządca drogi w zakresie elementu infrastruktury technicznej, dla którego wydał decyzję, 
+o której mowa w art. 39 ust. 3 lub art. 40 ust. 1 ustawy z dnia 21 marca 1985 r. o drogach publicznych. 
+Identyfikator działki zgodnie z przepisami wydanymi na podstawie art. 26 ust. 2 ustawy z dnia 17 maja 
+1989 r. – Prawo geodezyjne i kartograficzne (Dz. U. z 2021 r. poz. 1990 oraz z 2022 r. poz. 1846 i 2185) 
+ 
+Układ identyfikatora jednostki ewidencyjnej wynika z przepisów wykonawczych wydanych na podstawie 
+art. 49 ustawy z dnia 29 czerwca 1995 r. o statystyce publicznej (Dz. U. z 2022 r. poz. 459 i 830). 
+ 
+Identyfikator działki podaje się w formacie WWPPGG_R.XXXX.NDZ, gdzie WW oznacza kod 
+województwa, PP – kod powiatu w województwie, GG – kod gminy, R – cyfrę określającą rodzaj 
+jednostki z TERC (należy podać 1, 2, 3, 4, 5, 8 albo 9)
+7)
+, XXXX – numer ewidencyjny obrębu w jednostce 
+ewidencyjnej (należy podać liczbę całkowitą z przedziału od 0001 do 9999), a NDZ – numer ewidencyjny 
+działki ewidencyjnej. 
+ 
+ 
+Z.1.II.2.2. 
+kilometraż 
+cyfry 
+ 
+Z.1.II.2.3. 
+kod SIMC 
+cyfry 
+Z.1.II.2.4. 
+ 
+identyfikator działki 
+cyfry, znaki specjalne (_, .) 
+ 
+Z.1.II.2.5. 
+oznaczenie 
+zastosowanego 
+układu 
+współrzędnych 
+a)
+ 
+WGS 84 albo 4326, 
+b)
+ 
+PL-UTM strefa 33 albo 32633, 
+c)
+ 
+PL-UTM strefa 34 albo 32634, 
+d)
+ 
+PL-UTM strefa 35 albo 32635, 
+e)
+ 
+PL-1992 albo 2180, 
+f)
+ 
+PL-2000 strefa 5 albo 2176, 
+g)
+ 
+PL-2000 strefa 6 albo 2177, 
+h)
+ 
+PL-2000 strefa 7 albo 2178, 
+i)
+ 
+PL-2000 strefa 8 albo 2179 
+Pole wypełnia się w przypadku przekazywania informacji innych niż dotyczące elementu infrastruktury 
+technicznej, dla którego zarządca drogi wydał decyzję, o której mowa w art. 39 ust. 3 lub art. 40 ust. 1 
+ustawy z dnia 21 marca 1985 r. o drogach publicznych. 
+ 
+Oznaczenie układu współrzędnych należy podać, wybierając nazwę układu współrzędnych lub jego kod 
+EPSG. Przy przekazywaniu informacji za pomocą pliku w formacie KML lokalizację określa się 
+współrzędnymi geograficznymi odniesionymi do układu WGS-84. 
+                                                     
+7
+)
+ 
+System identyfikatorów i nazw jednostek podziału terytorialnego w TERYT.
+ 
+Dziennik Ustaw	
+– 8 – 	
+Poz. 628
+﻿
+Kod pola 
+Nazwa pola 
+Sposób określania wartości pól 
+Objaśnienia sposobu wypełniania pól 
+Z.1.II.2.6. 
+współrzędne środka 
+geometrycznego 
+elementu 
+infrastruktury 
+technicznej lub 
+kanału 
+technologicznego 
+wartości współrzędnych 
+Pole wypełnia się w przypadku przekazywania informacji innych niż dotyczące elementu infrastruktury 
+technicznej, dla którego zarządca drogi wydał decyzję, o której mowa w art. 39 ust. 3 lub art. 40 ust. 1 
+ustawy z dnia 21 marca 1985 r. o drogach publicznych. 
+ 
+Należy podać współrzędne geograficzne: długość (λ) oraz szerokość (φ), wyrażone w stopniach oraz 
+ułamku dziesiętnym stopnia, albo współrzędne płaskie prostokątne: północną – X i wschodnią – Y. Dane 
+należy zapisywać z dokładnością do 1 metra. 
+Z.1.II.3. 
+kategoria elementu infrastruktury 
+technicznej lub wskazanie kanału 
+technologicznego 
+a)
+ 
+ urządzenie techniczne związane z siecią, 
+b)
+ 
+ punkt o określonej wysokości, 
+c)
+ 
+ słup, maszt i wieża, 
+d)
+ 
+ wysoka budowla techniczna, 
+e)
+ 
+ kanał technologiczny. 
+Należy wskazać kategorię właściwą dla danego elementu albo wskazać kanał technologiczny 
+Z.1.II.4. 
+typ elementu infrastruktury technicznej 
+lub kanału technologicznego   
+a)
+ 
+ urządzenie techniczne związane z siecią: 
+–
+ 
+kontener telekomunikacyjny, 
+– przepompownia, 
+– słupek telekomunikacyjny, 
+– słupowa stacja transformatorowa, 
+– stacja transformatorowa, 
+– studzienka, 
+– szafa telekomunikacyjna, 
+– szafa elektroenergetyczna, 
+– złącze kablowe, 
+– niezidentyfikowane urządzenie techniczne, 
+– inne urządzenie techniczne, 
+b)
+ 
+punkt o określonej wysokości: 
+– punkt o określonej wysokości, 
+c)
+ 
+ słup, maszt i wieża: 
+– latarnia, 
+– maszt oświetleniowy, 
+– maszt telekomunikacyjny, 
+– słup,  
+– słup łączony, 
+– słup kratowy, 
+– słup trakcji kolejowej, 
+– słup trakcji tramwajowej, 
+– słup trakcji trolejbusowej, 
+– turbina wiatrowa, 
+– wieża telekomunikacyjna, 
+– inny słup, maszt lub wieża, 
+d)
+ 
+ wysoka budowla techniczna: 
+– chłodnia kominowa, 
+– komin przemysłowy, 
+– słup energetyczny, 
+– podpora kolei linowej, 
+– wieża ciśnień, 
+Należy wybrać właściwy 
+Dziennik Ustaw	
+– 9 – 	
+Poz. 628
+﻿
+Kod pola 
+Nazwa pola 
+Sposób określania wartości pól 
+Objaśnienia sposobu wypełniania pól 
+– wieża przeciwpożarowa, 
+– wieża szybu kopalnianego, 
+– inna wysoka budowla techniczna, 
+e)
+ 
+ kanał technologiczny: 
+– studnia kablowa, 
+– zasobnik, 
+– inny element kanału technologicznego 
+Z.1.II.5. 
+aktualny stan elementu infrastruktury 
+technicznej lub kanału technologicznego 
+a)
+ 
+stan techniczny umożliwia wykorzystanie 
+elementu infrastruktury technicznej lub kanału 
+technologicznego w celu umieszczenia w nim lub 
+na nim elementów infrastruktury lub sieci 
+telekomunikacyjnej, 
+b)
+ 
+stan techniczny uniemożliwia wykorzystanie 
+elementu infrastruktury technicznej lub kanału 
+technologicznego w celu umieszczenia w nim lub 
+na nim elementów infrastruktury lub sieci 
+telekomunikacyjnej. 
+Należy wybrać właściwy 
+Z.1.II.6. 
+sposób użytkowania elementu 
+infrastruktury technicznej 
+a)
+ 
+element infrastruktury technicznej 
+wykorzystywany jest w celu eksploatacji 
+infrastruktury wodociągowej, 
+b)
+ 
+element infrastruktury technicznej 
+wykorzystywany jest w celu eksploatacji 
+infrastruktury kanalizacyjnej, 
+c)
+ 
+element infrastruktury technicznej 
+wykorzystywany jest w celu eksploatacji, 
+infrastruktury gazowej, 
+d)
+ 
+element infrastruktury technicznej 
+wykorzystywany jest w celu eksploatacji 
+infrastruktury cieplnej, 
+e)
+ 
+element infrastruktury technicznej 
+wykorzystywany jest w celu eksploatacji 
+infrastruktury telekomunikacyjnej, 
+f)
+ 
+element infrastruktury technicznej 
+wykorzystywany jest w celu eksploatacji 
+infrastruktury elektroenergetycznej, 
+g)
+ 
+element infrastruktury technicznej 
+wykorzystywany jest w celu eksploatacji 
+infrastruktury transportowej, 
+h)
+ 
+element infrastruktury technicznej 
+wykorzystywany jest w celu eksploatacji 
+infrastruktury oświetleniowej, 
+i)
+ 
+element infrastruktury technicznej 
+wykorzystywany jest w celu eksploatacji 
+infrastruktury odwodnieniowej 
+Należy wybrać właściwy 
+Pole wypełnia się w przypadku przekazywania informacji o elemencie infrastruktury technicznej 
+Dziennik Ustaw	
+– 10 – 	
+Poz. 628
+﻿
+Kod pola 
+Nazwa pola 
+Sposób określania wartości pól 
+Objaśnienia sposobu wypełniania pól 
+Z.1.II.7. 
+sposób użytkowania kanału 
+technologicznego 
+a)
+ 
+element kanału technologicznego 
+wykorzystywany jest w celu umieszczania lub 
+eksploatacji urządzeń infrastruktury technicznej 
+związanych z potrzebami zarządzania drogami lub 
+potrzebami ruchu drogowego, 
+b)
+ 
+element kanału technologicznego 
+wykorzystywany jest w celu umieszczania lub 
+eksploatacji linii telekomunikacyjnych wraz 
+z zasilaniem, 
+c)
+ 
+element kanału technologicznego 
+wykorzystywany jest w celu umieszczania lub 
+eksploatacji linii elektroenergetycznych 
+niezwiązanych z potrzebami zarządzania drogami 
+lub potrzebami ruchu drogowego, 
+d)
+ 
+element kanału technologicznego nie jest 
+wykorzystywany 
+Należy wybrać właściwy 
+Pole wypełnia się w przypadku przekazywania informacji o elemencie kanału technologicznego 
+Jeżeli kanał technologiczny jest wykorzystywany w różnych celach, należy wybrać wszystkie cele 
+aktualnego wykorzystania 
+ 
+ 
+ 
+Dziennik Ustaw	
+– 11 – 	
+Poz. 628
+﻿
+Część III.
+ Informacje o elementach liniowych infrastruktury technicznej lub kanału technologicznego 
+ 
+Kod pola 
+Nazwa pola 
+Sposób określania wartości pól 
+Objaśnienia sposobu wypełniania pól 
+Z.1.III.1. 
+identyfikator elementu infrastruktury 
+technicznej lub kanału technologicznego 
+dowolne ciągi znaków o maksymalnej długości 
+100 znaków 
+Wartość identyfikatora powinna być unikalna dla każdego elementu. 
+Ciągi znaków różniące się wielkością liter są traktowane jako ciągi różne. 
+Przy aktualizacji danych podaje się wcześniej wskazany identyfikator. 
+Z.1.III.2.1. 
+lokalizacja i przebieg 
+infrastruktury 
+technicznej lub 
+kanału 
+technologicznego 
+numer drogi 
+duże litery i cyfry 
+Numer drogi, o którym mowa w art. 10 ust. 7 ustawy z dnia 21 marca 1985 r. o drogach publicznych 
+Wyrażona w kilometrach odległość danego miejsca na drodze od początku tej drogi – jeżeli zarządca 
+drogi wskazał w decyzji ten kilometraż 
+Wyrażona w kilometrach odległość danego miejsca na drodze od początku tej drogi – jeżeli zarządca 
+drogi wskazał w decyzji ten kilometraż 
+Kod SIMC zgodny z TERYT składający się z 7 cyfr 
+Pole wypełnia zarządca drogi w zakresie elementu infrastruktury technicznej, dla którego wydał decyzję, 
+o której mowa w art. 39 ust. 3 lub art. 40 ust. 1 ustawy z dnia 21 marca 1985 r. o drogach publicznych. 
+Identyfikator działki zgodnie z przepisami wydanymi na podstawie art. 26 ust. 2 ustawy z dnia 17 maja 
+1989 r. – Prawo geodezyjne i kartograficzne   
+Układ identyfikatora jednostki ewidencyjnej wynika z przepisów wykonawczych wydanych na podstawie 
+art. 49 ustawy z dnia 29 czerwca 1995 r. o statystyce publicznej. 
+Identyfikator działki podaje się w formacie WWPPGG_R.XXXX.NDZ, gdzie WW oznacza kod 
+województwa, PP – kod powiatu w województwie, GG – kod gminy, R – cyfrę określającą rodzaj 
+jednostki zgodnie z TERC (należy podać 1, 2, 3, 4, 5, 8 albo 9)
+8)
+, XXXX – numer ewidencyjny obrębu 
+w jednostce ewidencyjnej (należy podać liczbę całkowitą z przedziału od 0001 do 9999), a NDZ – numer 
+ewidencyjny działki ewidencyjnej. 
+Z.1.III.2.2. 
+kilometraż 
+początku elementu 
+cyfry 
+Z.1.III.2.3. 
+kilometraż końca 
+elementu 
+cyfry  
+Z.1.III.2.4. 
+kod SIMC 
+cyfry 
+Z.1.III.2.5. 
+identyfikator 
+działki 
+cyfry, znaki specjalne (_, .) 
+Z.1.III.2.6. 
+oznaczenie 
+zastosowanego 
+układu 
+współrzędnych 
+a)
+ 
+WGS 84 albo 4326, 
+b)
+ 
+PL-UTM strefa 33 albo 32633, 
+c)
+ 
+PL-UTM strefa 34 albo 32634, 
+d)
+ 
+PL-UTM strefa 35 albo 32635, 
+e)
+ 
+PL-1992 albo 2180, 
+f)
+ 
+PL-2000 strefa 5 albo 2176, 
+g)
+ 
+PL-2000 strefa 6 albo 2177, 
+h)
+ 
+PL-2000 strefa 7 albo 2178, 
+i)
+ 
+PL-2000 strefa 8 albo 2179. 
+Pole wypełnia się w przypadku przekazywania informacji innych niż dotyczące elementu infrastruktury 
+technicznej, dla którego zarządca drogi wydał decyzję, o której mowa w art. 39 ust. 3 lub art. 40 ust. 1 
+ustawy z dnia 21 marca 1985 r. o drogach publicznych. 
+ 
+Oznaczenie układu współrzędnych należy podać, wybierając nazwę układu współrzędnych lub jego kod 
+EPSG. Przy przekazywaniu informacji za pomocą pliku w formacie KML  lokalizację określa się 
+współrzędnymi geograficznymi odniesionymi do układu WGS-84. 
+                                                     
+8
+)
+ 
+System identyfikatorów i nazw jednostek podziału terytorialnego w TERYT.
+ 
+Dziennik Ustaw	
+– 12 – 	
+Poz. 628
+﻿
+Kod pola 
+Nazwa pola 
+Sposób określania wartości pól 
+Objaśnienia sposobu wypełniania pól 
+Z.1.III.2.7. 
+współrzędne 
+punktu 
+początkowego, 
+końcowego 
+i punktów 
+załamania osi 
+elementu 
+infrastruktury 
+technicznej lub 
+kanału 
+technologicznego 
+wartości współrzędnych 
+Pole wypełnia się w przypadku przekazywania informacji innych niż dotyczące elementu infrastruktury 
+technicznej, dla którego zarządca drogi wydał decyzję, o której mowa w art. 39 ust. 3 lub art. 40 ust. 1 
+ustawy z dnia 21 marca 1985 r. o drogach publicznych. 
+ 
+Należy podać współrzędne geograficzne: długość (λ) oraz szerokość (φ) wyrażoną w stopniach oraz 
+ułamku dziesiętnym stopnia albo współrzędne płaskie prostokątne: północną – X i wschodnią – Y. Dane 
+należy zapisywać z dokładnością do 1 metra. 
+Z.1.III.3. 
+kategoria elementu infrastruktury 
+technicznej lub wskazanie kanału 
+technologicznego 
+a)
+ 
+przewód kanalizacyjny, 
+b)
+ 
+inny przewód, 
+c)
+ 
+obudowa przewodu, 
+d)
+ 
+kanał technologiczny 
+Należy wskazać kategorię właściwą dla danego elementu lub wskazać kanał technologiczny 
+Z.1.III.4. 
+typ elementu infrastruktury technicznej lub 
+kanału technologicznego 
+a)
+ 
+przewód kanalizacyjny: 
+– przewód kanalizacyjny deszczowy, 
+– przewód kanalizacyjny lokalny, 
+– przewód kanalizacyjny ogólnospławny, 
+– przewód kanalizacyjny przemysłowy, 
+– przewód kanalizacyjny sanitarny, 
+– inny przewód kanalizacyjny, 
+b)
+ 
+inny przewód: 
+– inny przewód, 
+c)
+ 
+obudowa przewodu: 
+– kanalizacja kablowa, 
+– rura ochronna, 
+– rurociąg telekomunikacyjny, 
+– inna obudowa przewodu, 
+d)
+ 
+kanał technologiczny: 
+– rura osłonowa, 
+– rura ochronna, 
+– rura światłowodowa, 
+– prefabrykowana wiązka mikrorur, 
+– inny element kanału technologicznego 
+Należy wybrać właściwy 
+Z.1.III.5. 
+aktualny stan infrastruktury technicznej lub 
+kanału technologicznego 
+a)
+ 
+stan techniczny umożliwia wykorzystanie 
+elementu infrastruktury technicznej lub kanału 
+technologicznego w celu umieszczenia w nim 
+lub na nim elementów infrastruktury lub sieci 
+telekomunikacyjnej, 
+b)
+ 
+stan techniczny uniemożliwia wykorzystanie 
+elementu infrastruktury technicznej lub kanału 
+technologicznego w celu umieszczenia w nim 
+lub na nim elementów infrastruktury lub sieci 
+telekomunikacyjnej 
+Należy wybrać właściwy 
+Dziennik Ustaw	
+– 13 – 	
+Poz. 628
+﻿
+Kod pola 
+Nazwa pola 
+Sposób określania wartości pól 
+Objaśnienia sposobu wypełniania pól 
+Z.1.III.6. 
+sposób użytkowania infrastruktury 
+technicznej 
+a)
+ 
+element infrastruktury technicznej 
+wykorzystywany jest w celu eksploatacji 
+infrastruktury wodociągowej, 
+b)
+ 
+element infrastruktury technicznej 
+wykorzystywany jest w celu eksploatacji 
+infrastruktury kanalizacyjnej, 
+c)
+ 
+element infrastruktury technicznej 
+wykorzystywany jest w celu eksploatacji 
+infrastruktury gazowej, 
+d)
+ 
+element infrastruktury technicznej 
+wykorzystywany jest w celu eksploatacji 
+infrastruktury cieplnej, 
+e)
+ 
+element infrastruktury technicznej 
+wykorzystywany jest w celu eksploatacji 
+infrastruktury telekomunikacyjnej, 
+f)
+ 
+element infrastruktury technicznej 
+wykorzystywany jest w celu eksploatacji 
+infrastruktury elektroenergetycznej, 
+g)
+ 
+element infrastruktury technicznej 
+wykorzystywany jest w celu eksploatacji 
+infrastruktury transportowej, 
+h)
+ 
+element infrastruktury technicznej 
+wykorzystywany jest w celu eksploatacji 
+infrastruktury oświetleniowej, 
+i)
+ 
+element infrastruktury technicznej 
+wykorzystywany jest w celu eksploatacji 
+infrastruktury odwodnieniowej 
+Należy wybrać właściwy 
+Pole wypełnia się w przypadku przekazywania informacji o elemencie infrastruktury technicznej 
+Z.1.III.7. 
+sposób użytkowania kanału 
+technologicznego 
+a)
+ 
+element kanału technologicznego 
+wykorzystywany jest w celu umieszczania lub 
+eksploatacji urządzeń infrastruktury technicznej 
+związanych z potrzebami zarządzania drogami 
+lub potrzebami ruchu drogowego, 
+b)
+ 
+element kanału technologicznego 
+wykorzystywany jest w celu umieszczania lub 
+eksploatacji linii telekomunikacyjnych wraz 
+z zasilaniem, 
+c)
+ 
+element kanału technologicznego 
+wykorzystywany jest w celu umieszczania lub 
+eksploatacji linii elektroenergetycznych, 
+niezwiązanych z potrzebami zarządzania 
+drogami lub potrzebami ruchu drogowego, 
+d)
+ 
+element kanału technologicznego nie jest 
+wykorzystywany 
+Należy wybrać właściwy 
+Jeżeli kanał technologiczny jest wykorzystywany w różnych celach, należy wybrać wszystkie cele 
+aktualnego wykorzystania  
+Pole wypełnia się w przypadku przekazywania informacji o elemencie kanału technologicznego 
+ 
+ 
+Dziennik Ustaw	
+– 14 – 	
+Poz. 628
+﻿
+Część IV.
+ Informacje o elementach powierzchniowych infrastruktury technicznej 
+ 
+Kod pola 
+Nazwa pola 
+Sposób określania wartości pól 
+Objaśnienia sposobu wypełniania pól 
+Z.1.IV.1. 
+identyfikator elementu infrastruktury 
+technicznej 
+dowolne ciągi znaków o maksymalnej długości 
+100 znaków 
+Wartość identyfikatora powinna być unikalna dla każdego elementu 
+Ciągi znaków różniące się wielkością liter traktowane są jako ciągi różne 
+Przy aktualizacji danych podaje się wcześniej wskazany identyfikator 
+Z.1.IV.2.1. 
+lokalizacja 
+i przebieg 
+elementu 
+infrastruktury 
+technicznej 
+numer drogi 
+duże litery i cyfry  
+Numer drogi, o którym mowa w art. 10 ust. 7 ustawy z dnia 21 marca 1985 r. o drogach publicznych 
+Wyrażona w kilometrach odległość danego miejsca na drodze od początku tej drogi – jeżeli zarządca 
+drogi wskazał w decyzji ten kilometraż 
+Kod SIMC zgodny z TERYT składający się z 7 cyfr 
+Pole wypełnia zarządca drogi w zakresie elementu infrastruktury technicznej, dla którego wydał decyzję, 
+o której mowa w art. 39 ust. 3 lub art. 40 ust. 1 ustawy z dnia 21 marca 1985 r. o drogach publicznych. 
+Identyfikator działki zgodnie z przepisami wydanymi na podstawie art. 26 ust. 2 ustawy z dnia 17 maja 
+1989 r. – Prawo geodezyjne i kartograficzne 
+Układ identyfikatora jednostki ewidencyjnej wynika z przepisów wykonawczych wydanych na podstawie 
+art. 49 ustawy z dnia 29 czerwca 1995 r. o statystyce publicznej. 
+Identyfikator działki podaje się w formacie WWPPGG_R.XXXX.NDZ, gdzie WW oznacza kod 
+województwa, PP – kod powiatu w województwie, GG – kod gminy, R – cyfrę określającą rodzaj 
+jednostki zgodnie z TERC (należy podać 1, 2, 3, 4, 5, 8 albo 9)
+9)
+, XXXX – numer ewidencyjny obrębu 
+w jednostce ewidencyjnej (należy podać liczbę całkowitą z przedziału od 0001 do 9999), a NDZ – numer 
+ewidencyjny działki ewidencyjnej.  
+Z.1.IV.2.2. 
+kilometraż 
+cyfry  
+Z.1.IV.2.3. 
+kod SIMC 
+cyfry 
+Z.1.IV.2.4. 
+identyfikator 
+działki 
+cyfry, znaki specjalne (_, .) 
+Z.1.IV.2.5. 
+oznaczenie 
+zastosowanego 
+układu 
+współrzędnych 
+a)
+ 
+WGS 84 albo 4326, 
+b)
+ 
+PL-UTM strefa 33 albo 32633, 
+c)
+ 
+PL-UTM strefa 34 albo 32634, 
+d)
+ 
+PL-UTM strefa 35 albo 32635, 
+e)
+ 
+PL-1992 albo 2180, 
+f)
+ 
+PL-2000 strefa 5 albo 2176, 
+g)
+ 
+PL-2000 strefa 6 albo 2177, 
+h)
+ 
+PL-2000 strefa 7 albo 2178, 
+i)
+ 
+PL-2000 strefa 8 albo 2179 
+Pole wypełnia się w przypadku przekazywania informacji innych niż dotyczące elementu infrastruktury 
+technicznej, dla którego zarządca drogi wydał decyzję, o której mowa w art. 39 ust. 3 lub art. 40 ust. 1 
+ustawy z dnia 21 marca 1985 r. o drogach publicznych. 
+ 
+Oznaczenie układu współrzędnych należy podać, wybierając nazwę układu współrzędnych lub jego kod 
+EPSG. Przy przekazywaniu informacji za pomocą pliku w formacie KML  lokalizację określa się 
+współrzędnymi geograficznymi odniesionymi do układu WGS-84. 
+                                                     
+9
+)
+ 
+System identyfikatorów i nazw jednostek podziału terytorialnego w TERYT.
+ 
+Dziennik Ustaw	
+– 15 – 	
+Poz. 628
+﻿
+Kod pola 
+Nazwa pola 
+Sposób określania wartości pól 
+Objaśnienia sposobu wypełniania pól 
+Z.1.IV.2.6. 
+współrzędne 
+punktów 
+załamania 
+krawędzi 
+elementu 
+infrastruktury 
+technicznej 
+wartości współrzędnych 
+Pole wypełnia się w przypadku przekazywania informacji innych niż dotyczące elementu infrastruktury 
+technicznej, dla którego zarządca drogi wydał decyzję, o której mowa w art. 39 ust. 3 lub art. 40 ust. 1 
+ustawy z dnia 21 marca 1985 r. o drogach publicznych. 
+ 
+Należy podać współrzędne geograficzne: długość (λ) oraz szerokość (φ) wyrażoną w stopniach oraz 
+ułamku dziesiętnym stopnia albo współrzędne płaskie prostokątne: północną – X i wschodnią – Y. Dane 
+należy zapisywać z dokładnością do 1 metra. Początkowe i końcowe współrzędne punktów załamania 
+krawędzi elementu infrastruktury technicznej muszą być identyczne. 
+Z.1.IV.3. 
+kategoria elementu infrastruktury 
+technicznej 
+a)
+ 
+budowla podziemna, 
+b)
+ 
+korytarz przesyłowy, 
+c)
+ 
+budowla inżynierska 
+Należy wskazać kategorię właściwą dla danego elementu 
+Z.1.IV.4. 
+typ elementu infrastruktury 
+technicznej 
+a)
+ 
+budowla podziemna: 
+– komora podziemna,  
+– osadnik, 
+– przejście podziemne,  
+– tunel drogowy, 
+– tunel kolejowy, 
+– tunel metra, 
+– tunel tramwajowy, 
+– inna budowla podziemna, 
+b)
+ 
+korytarz przesyłowy 
+– korytarz przesyłowy, 
+c)
+ 
+budowla inżynierska: 
+– most, 
+– kładka, 
+– wiadukt, 
+– estakada, 
+– inna budowla inżynierska 
+Należy wybrać właściwy 
+Z.1.IV.5. 
+aktualny stan elementu infrastruktury 
+technicznej 
+a)
+ 
+stan techniczny umożliwia wykorzystanie elementu 
+infrastruktury technicznej w celu umieszczenia w nim 
+lub na nim elementów infrastruktury lub sieci 
+telekomunikacyjnej, 
+b)
+ 
+stan techniczny uniemożliwia wykorzystanie elementu 
+infrastruktury technicznej w celu umieszczenia w nim 
+lub na nim elementów infrastruktury lub sieci 
+telekomunikacyjnej 
+Należy wybrać właściwy 
+Dziennik Ustaw	
+– 16 – 	
+Poz. 628
+﻿
+Kod pola 
+Nazwa pola 
+Sposób określania wartości pól 
+Objaśnienia sposobu wypełniania pól 
+Z.1.IV.6 
+sposób użytkowania elementu 
+infrastruktury technicznej 
+a)
+ 
+element infrastruktury technicznej wykorzystywany 
+jest w celu eksploatacji infrastruktury wodociągowej, 
+b)
+ 
+element infrastruktury technicznej wykorzystywany 
+jest w celu eksploatacji infrastruktury kanalizacyjnej, 
+c)
+ 
+element infrastruktury technicznej wykorzystywany 
+jest w celu eksploatacji infrastruktury gazowej, 
+d)
+ 
+element infrastruktury technicznej wykorzystywany 
+jest w celu eksploatacji infrastruktury cieplnej, 
+e)
+ 
+element infrastruktury technicznej wykorzystywany 
+jest w celu eksploatacji infrastruktury 
+telekomunikacyjnej, 
+f)
+ 
+element infrastruktury technicznej wykorzystywany 
+jest w celu eksploatacji infrastruktury 
+elektroenergetycznej, 
+g)
+ 
+element infrastruktury technicznej wykorzystywany 
+jest w celu eksploatacji infrastruktury transportowej, 
+h)
+ 
+element infrastruktury technicznej wykorzystywany 
+jest w celu eksploatacji infrastruktury oświetleniowej, 
+i)
+ 
+element infrastruktury technicznej wykorzystywany 
+jest w celu eksploatacji infrastruktury 
+odwodnieniowej 
+Należy wybrać właściwy 
+ 
+Pole wypełnia się w przypadku przekazywania informacji o elemencie infrastruktury technicznej 
+ 
+ 
+ 
+Dziennik Ustaw	
+– 17 – 	
+Poz. 628
+﻿
+FORMULARZ SŁUŻĄCY DO PRZEKAZYWANIA INFORMACJI, O KTÓRYCH MOWA W § 3 ROZPORZĄDZENIA
+1)
+ 
+ 
+Część I.
+ Dane kontaktowe podmiotu uprawnionego do kontaktu w sprawach koordynacji robót budowlanych 
+ 
+ 
+                                                     
+1)
+ Formularz wypełnia się dla każdego elementu:  
+1) infrastruktury technicznej lub 
+2) kanału technologicznego  
+– którego dotyczą roboty budowlane. W przypadku gdy roboty budowlane różnego rodzaju dotyczą jednego elementu, informację dotyczącą danego rodzaju robót przekazuje się na osobnym formularzu.
+ 
+2)
+ System identyfikatorów i nazw miejscowości.
+ 
+3)
+ Krajowy rejestr urzędowy podziału terytorialnego kraju.
+ 
+4)
+ Pocztowy numer adresowy.
+ 
+Kod pola 
+Nazwa pola 
+Sposób określania wartości pól 
+Objaśnienia sposobu wypełniania pól 
+Z.2.I.1. 
+nazwa podmiotu 
+litery duże i małe, cyfry oraz znaki specjalne (np. –) 
+Zgodne z nazwą podmiotu 
+Z.2.I.2.1. 
+dane 
+adresowe 
+kod SIMC
+2)
+ 
+cyfry 
+Kod SIMC zgodny z TERYT
+3)
+ składający się z 7 cyfr 
+Z.2.I.2.2. 
+miejscowość 
+litery duże i małe oraz znaki specjalne (np. –) 
+Zgodna z nazwą w TERYT 
+Z.2.I.2.3. 
+kod pocztowy 
+cyfry 
+ 
+Kod pocztowy podaje się w formacie [DD-DDD], gdzie „D” to cyfra, zgodny z PNA
+4)
+ budynku  
+Z.2.I.2.4. 
+kod ULIC 
+cyfry 
+Kod ULIC zgodny z TERYT składający się z 5 cyfr 
+ Z.2.I.2.5. 
+ulica 
+litery duże i małe, cyfry oraz znaki specjalne (np. –) 
+Zgodna z nazwą w TERYT 
+W przypadku budynków, budowli lub nieruchomości bez przyporządkowanej nazwy ulicy pole należy 
+pozostawić niewypełnione 
+ Z.2.I.2.6. 
+numer porządkowy 
+litery duże i małe, cyfry oraz znaki specjalne (np. /, .) 
+Numer porządkowy nieruchomości, podany z dokładnością do punktu adresowego 
+Z.2.I.2.7. 
+oznaczenie lokalu 
+litery duże i małe, cyfry oraz znaki specjalne (np. /, .) 
+Podaje się gdy w adresie do doręczeń występuje numer lokalu. 
+Z.2.I.3. 
+numer telefonu 
+cyfry 
+Pole należy pozostawić niewypełnione, jeżeli podmiot nie posiada numeru telefonu 
+Z.2.I.4. 
+adres poczty elektronicznej 
+cyfry, litery duże lub małe, znaki specjalne (np. @,, _– .) 
+Pole należy pozostawić niewypełnione, jeżeli podmiot nie posiada adresu poczty elektronicznej 
+ 
+Załącznik nr 2
+WZÓR
+Dziennik Ustaw	
+– 18 – 	
+Poz. 628
+﻿
+Część II.
+ Informacja o planach inwestycyjnych w zakresie wykonywanych lub planowanych robót budowlanych, finansowanych w całości lub w części ze środków publicznych, dotyczących infrastruktury technicznej 
+lub kanału technologicznego ‒ w odniesieniu do elementów punktowych 
+Kod pola 
+Nazwa pola 
+Sposób określania wartości pól 
+Objaśnienia sposobu wypełniania pól 
+Z.2.II.1. 
+identyfikator elementu infrastruktury 
+technicznej lub kanału technologicznego 
+dowolne ciągi znaków o maksymalnej długości 
+100 znaków 
+Wartość identyfikatora powinna być unikalna dla każdego elementu 
+Ciągi znaków różniące się wielkością liter traktowane są, jako ciągi różne 
+Przy aktualizacji lub zawiadomieniu o zmianie informacji podaje się wcześniej wskazany identyfikator 
+Z.2.II.2.1. 
+lokalizacja 
+elementu 
+infrastruktury 
+technicznej lub 
+kanału 
+technologicznego, 
+którego dotyczą 
+roboty 
+budowlane 
+oznaczenie 
+zastosowanego 
+układu 
+współrzędnych 
+a)
+ 
+WGS 84 albo 4326, 
+b)
+ 
+PL-UTM strefa 33 albo 32633, 
+c)
+ 
+PL-UTM strefa 34 albo 32634, 
+d)
+ 
+PL-UTM strefa 35 albo 32635, 
+e)
+ 
+PL-1992 albo 2180, 
+f)
+ 
+PL-2000 strefa 5 albo 2176, 
+g)
+ 
+PL-2000 strefa 6 albo 2177, 
+h)
+ 
+PL-2000 strefa 7 albo 2178, 
+i)
+ 
+PL-2000 strefa 8 albo 2179 
+Oznaczenie układu współrzędnych należy podać wybierając nazwę układu współrzędnych lub jego kod 
+EPSG 
+Przy przekazywaniu informacji za pomocą pliku w formacie KML lokalizację określa się współrzędnymi 
+geograficznymi odniesionymi do układu WGS-84 
+Z.2.II.2.2. 
+współrzędne środka 
+geometrycznego 
+elementu 
+infrastruktury 
+technicznej lub 
+kanału 
+technologicznego  
+wartości współrzędnych 
+Należy podać współrzędne geograficzne: długość (λ) oraz szerokość (φ) wyrażoną w stopniach oraz 
+ułamku dziesiętnym stopnia albo współrzędne płaskie prostokątne: północną – X i wschodnią – Y. Dane 
+należy zapisywać z dokładnością do 1 metra. 
+Z.2.II.3. 
+rodzaj robót budowlanych 
+a)
+ 
+budowa, 
+b)
+ 
+przebudowa, 
+c)
+ 
+montaż, 
+d)
+ 
+remont, 
+e)
+ 
+rozbiórka 
+Należy wybrać właściwy 
+Z.2.II.4. 
+kategoria elementu infrastruktury 
+technicznej lub wskazanie kanału 
+technologicznego 
+a)
+ 
+urządzenie techniczne związane z siecią, 
+b)
+ 
+punkt o określonej wysokości, 
+c)
+ 
+słup, maszt i wieża, 
+d)
+ 
+wysoka budowla techniczna, 
+e)
+ 
+kanał technologiczny 
+Należy wybrać kategorię właściwą dla danego elementu lub wskazać kanał technologiczny 
+Z.2.II.5. 
+typ elementu infrastruktury technicznej 
+lub kanału technologicznego 
+a)
+ 
+urządzenie techniczne związane z siecią: 
+– kontener telekomunikacyjny, 
+– przepompownia, 
+– słupek telekomunikacyjny, 
+– słupowa stacja transformatorowa, 
+– stacja transformatorowa, 
+– studzienka, 
+– szafa telekomunikacyjna, 
+– szafa elektroenergetyczna, 
+– złącze kablowe, 
+– niezidentyfikowane urządzenie techniczne, 
+– inne urządzenie techniczne, 
+Należy wybrać właściwy 
+Dziennik Ustaw	
+– 19 – 	
+Poz. 628
+﻿
+Kod pola 
+Nazwa pola 
+Sposób określania wartości pól 
+Objaśnienia sposobu wypełniania pól 
+b)
+ 
+punkt o określonej wysokości: 
+– punkt o określonej wysokości, 
+c)
+ 
+słup, maszt i wieża: 
+– latarnia, 
+– maszt oświetleniowy, 
+– maszt telekomunikacyjny, 
+– słup,  
+– słup łączony, 
+– słup kratowy, 
+– słup trakcji kolejowej, 
+– słup trakcji tramwajowej, 
+– słup trakcji trolejbusowej, 
+– turbina wiatrowa, 
+– wieża telekomunikacyjna, 
+– inny słup, maszt lub wieża, 
+d)
+ 
+wysoka budowla techniczna: 
+– chłodnia kominowa, 
+– komin przemysłowy, 
+– słup energetyczny, 
+– podpora kolei linowej, 
+– wieża ciśnień, 
+– wieża przeciwpożarowa, 
+– wieża szybu kopalnianego 
+– inna wysoka budowla techniczna, 
+e)
+ 
+kanał technologiczny: 
+– studnia kablowa, 
+– zasobnik, 
+– inny element kanału technologicznego 
+Z.2.II.6. 
+przewidywana data rozpoczęcia robót 
+budowlanych 
+cyfry,
+ 
+znak specjalny (–) 
+ 
+Datę podaje się w formacie YYYY-MM-DD, gdzie „Y”, „M”, „D” to cyfry oznaczające kolejno rok, 
+miesiąc, dzień 
+Należy określić datę przystąpienia do pierwszej czynności składającej się na dany rodzaj robót 
+budowlanych 
+Z.2.II.7. 
+przewidywany czas trwania robót 
+budowlanych 
+cyfry 
+Należy wskazać okres wyrażony w dniach między datą rozpoczęcia robót budowlanych, a datą 
+zakończenia ostatniej czynności składającej się na dany rodzaj robót budowlanych 
+ 
+ 
+Dziennik Ustaw	
+– 20 – 	
+Poz. 628
+﻿
+Część III.
+ Informacja o planach inwestycyjnych w zakresie wykonywanych lub planowanych robót budowlanych, finansowanych w całości lub w części ze środków publicznych, dotyczących infrastruktury technicznej 
+lub kanału technologicznego ‒ w odniesieniu do elementów liniowych 
+Kod pola 
+Nazwa pola 
+Sposób określania wartości 
+pól 
+Objaśnienia sposobu wypełniania pól 
+Z.2.III.1. 
+identyfikator elementu infrastruktury 
+technicznej lub kanału technologicznego 
+dowolne ciągi znaków 
+o maksymalnej długości 
+100 znaków 
+Wartość identyfikatora powinna być unikalna dla każdego elementu 
+Ciągi znaków różniące się wielkością liter traktowane są jako ciągi różne 
+Przy aktualizacji lub zawiadomieniu o zmianie informacji podaje się wcześniej wskazany identyfikator 
+Z.2.III.2.1 
+lokalizacja 
+elementu 
+infrastruktury 
+technicznej lub 
+kanału 
+technologicznego, 
+którego dotyczą 
+roboty budowlane 
+oznaczenie 
+zastosowanego 
+układu 
+współrzędnych 
+a)
+ 
+WGS 84 albo 4326, 
+b)
+ 
+PL-UTM strefa 33 albo 
+32633, 
+c)
+ 
+PL-UTM strefa 34 albo 
+32634, 
+d)
+ 
+PL-UTM strefa 35 albo 
+32635, 
+e)
+ 
+PL-1992 albo 2180, 
+f)
+ 
+PL-2000 strefa 5 albo 
+2176, 
+g)
+ 
+PL-2000 strefa 6 albo 
+2177, 
+h)
+ 
+PL-2000 strefa 7 albo 
+2178, 
+i)
+ 
+PL-2000 strefa 8 albo 
+2179 
+Oznaczenie układu współrzędnych należy podać wybierając nazwę układu współrzędnych lub jego kod EPSG 
+Przy przekazywaniu informacji za pomocą pliku w formacie KML lokalizację określa się współrzędnymi 
+geograficznymi odniesionymi do układu WGS-84 
+Z.2.III.2.2. 
+współrzędne 
+punktu 
+początkowego, 
+końcowego 
+i punktów 
+załamania osi 
+elementu 
+infrastruktury 
+technicznej lub 
+kanału 
+technologicznego 
+wartości współrzędnych 
+Należy podać współrzędne geograficzne: długość (λ) oraz szerokość (φ) wyrażoną w stopniach oraz ułamku 
+dziesiętnym stopnia albo współrzędne płaskie prostokątne: północną – X i wschodnią – Y. Dane należy zapisywać 
+z dokładnością 1 metra. 
+Z.2.III.3. 
+rodzaj robót budowlanych 
+a)
+ 
+budowa, 
+b)
+ 
+przebudowa, 
+c)
+ 
+montaż, 
+d)
+ 
+remont, 
+e)
+ 
+rozbiórka 
+Należy wybrać właściwy 
+Z.2.III.4. 
+kategoria elementu infrastruktury 
+technicznej lub wskazanie kanału 
+technologicznego 
+a)
+ 
+przewód kanalizacyjny, 
+b)
+ 
+przewód inny, 
+c)
+ 
+obudowa przewodu, 
+d)
+ 
+kanał technologiczny 
+Należy wybrać kategorię właściwą dla danego elementu lub wskazać kanał technologiczny 
+Dziennik Ustaw	
+– 21 – 	
+Poz. 628
+﻿
+Kod pola 
+Nazwa pola 
+Sposób określania wartości 
+pól 
+Objaśnienia sposobu wypełniania pól 
+Z.2.III.5. 
+typ elementu infrastruktury technicznej 
+lub kanału technologicznego 
+a)
+ 
+przewód kanalizacyjny: 
+– przewód kanalizacyjny 
+deszczowy, 
+– przewód kanalizacyjny 
+lokalny, 
+– przewód kanalizacyjny 
+ogólnospławny, 
+– przewód kanalizacyjny 
+przemysłowy, 
+– przewód kanalizacyjny 
+sanitarny, 
+– inny przewód 
+kanalizacyjny, 
+b)
+ 
+przewód inny: 
+– przewód inny, 
+c)
+ 
+obudowa przewodu: 
+– kanalizacja kablowa, 
+– rura ochronna, 
+– rurociąg 
+telekomunikacyjny, 
+– inna obudowa przewodu, 
+d)
+ 
+kanał technologiczny: 
+– rura osłonowa, 
+– rura ochronna obudowa, 
+– rura światłowodowa, 
+– prefabrykowana wiązka    
+mikrorur, 
+– inny element kanału 
+technologicznego 
+Należy wybrać właściwy 
+Z.2.III.6. 
+przewidywana data rozpoczęcia robót 
+budowlanych 
+cyfry, znak specjalny (–) 
+ 
+Datę podaje się w formacie YYYY-MM-DD, gdzie „Y”, „M”, „D” to wymagane cyfry oznaczające kolejno rok, 
+miesiąc, dzień 
+ 
+Należy określić datę przystąpienia do pierwszej czynności składającej się na dany rodzaj robót budowlanych 
+Z.2.III.7. 
+przewidywany czas trwania robót 
+budowlanych 
+cyfry 
+Należy wskazać okres wyrażony w dniach między datą rozpoczęcia robót budowlanych, a datą zakończenia ostatniej 
+czynności składającej się na dany rodzaj robót budowlanych 
+ 
+ 
+Dziennik Ustaw	
+– 22 – 	
+Poz. 628
+﻿
+Część IV.
+ Informacja o planach inwestycyjnych w zakresie wykonywanych lub planowanych robót budowlanych, finansowanych w całości lub w części ze środków publicznych, dotyczących infrastruktury technicznej ‒  
+w odniesieniu do elementów powierzchniowych 
+Kod pola 
+Nazwa pola 
+Sposób określania wartości pól 
+Objaśnienia sposobu wypełniania pól 
+Z.2.IV.1. 
+identyfikator elementu infrastruktury 
+technicznej 
+dowolne ciągi znaków o maksymalnej długości 
+100 znaków 
+Wartość identyfikatora powinna być unikalna dla każdego elementu 
+Ciągi znaków różniące się wielkością liter traktowane są, jako ciągi różne 
+Przy aktualizacji lub zawiadomieniu o zmianie informacji podaje się wcześniej używany identyfikator 
+Z.2.IV.2.1. 
+lokalizacja 
+elementu 
+infrastruktury 
+technicznej, 
+którego dotyczą 
+roboty 
+budowlane 
+oznaczenie 
+zastosowanego 
+układu 
+współrzędnych 
+a)
+ 
+WGS 84 albo 4326, 
+b)
+ 
+PL-UTM strefa 33 albo 32633, 
+c)
+ 
+PL-UTM strefa 34 albo 32634, 
+d)
+ 
+PL-UTM strefa 35 albo 32635, 
+e)
+ 
+PL-1992 albo 2180, 
+f)
+ 
+PL-2000 strefa 5 albo 2176, 
+g)
+ 
+PL-2000 strefa 6 albo 2177, 
+h)
+ 
+PL-2000 strefa 7 albo 2178, 
+i)
+ 
+PL-2000 strefa 8 albo 2179 
+Oznaczenie układu współrzędnych należy podać wybierając nazwę układu współrzędnych lub jego kod 
+EPSG. 
+Przy przekazywaniu informacji za pomocą pliku w formacie KML lokalizację określa się współrzędnymi 
+geograficznymi odniesionymi do układu WGS-84. 
+ 
+Z.2.IV.2.2. 
+współrzędne 
+punktów załamania 
+krawędzi elementu 
+infrastruktury 
+technicznej 
+wartości współrzędnych 
+Należy podać współrzędne geograficzne: długość (λ) oraz szerokość (φ) wyrażoną w stopniach oraz 
+ułamku dziesiętnym stopnia albo współrzędne płaskie prostokątne: północną – X i wschodnią – Y. Dane 
+należy zapisywać z dokładnością do 1 metra. Początkowe i końcowe współrzędne punktów załamania 
+krawędzi elementu infrastruktury technicznej muszą być identyczne. 
+Z.2.IV.3. 
+rodzaj robót budowlanych 
+a)
+ 
+budowa, 
+b)
+ 
+przebudowa, 
+c)
+ 
+montaż, 
+d)
+ 
+remont, 
+e)
+ 
+rozbiórka 
+Należy wybrać właściwy 
+Z.2.IV.4. 
+kategoria elementu infrastruktury 
+technicznej 
+a)
+ 
+budowla podziemna, 
+b)
+ 
+korytarz przesyłowy, 
+c)
+ 
+budowla inżynierska 
+Należy wybrać kategorię właściwą dla danego elementu 
+Z.2.IV.5. 
+typ elementu infrastruktury technicznej 
+a)
+ 
+budowla podziemna: 
+– komora podziemna,  
+– osadnik, 
+– przejście podziemne,  
+– tunel drogowy, 
+– tunel kolejowy, 
+– tunel metra, 
+– tunel tramwajowy, 
+– inna budowla podziemna, 
+b)
+ 
+korytarz przesyłowy 
+– korytarz przesyłowy, 
+c)
+ 
+budowla inżynierska: 
+– most, 
+– kładka, 
+– wiadukt, 
+– estakada, 
+– inna budowla inżynierska 
+Należy wybrać właściwy 
+Dziennik Ustaw	
+– 23 – 	
+Poz. 628
+﻿
+Kod pola 
+Nazwa pola 
+Sposób określania wartości pól 
+Objaśnienia sposobu wypełniania pól 
+Z.2.IV.6. 
+przewidywana data rozpoczęcia robót 
+budowlanych 
+cyfry, znak specjalny (–) 
+ 
+Datę podaje się w formacie YYYY-MM-DD, gdzie „Y”, „M”, „D” to wymagane cyfry oznaczające 
+kolejno rok, miesiąc, dzień 
+Należy określić datę przystąpienia do pierwszej czynności składającej się na dany rodzaj robót 
+budowlanych 
+Z.2.IV.7. 
+przewidywany czas trwania robót 
+budowlanych 
+cyfry 
+Należy wskazać wyrażony w dniach okres między datą rozpoczęcia robót budowlanych, a datą 
+zakończenia ostatniej czynności składającej się na dany rodzaj robót budowlanych 
+Dziennik Ustaw	
+– 24 – 	
+Poz. 628
+﻿
+FORMULARZ SŁUŻĄCY DO PRZEKAZYWANIA INFORMACJI, O KTÓRYCH MOWA W § 4 ROZPORZĄDZENIA 
+Część I.
+ Oznaczenie jednostki samorządu terytorialnego, której organ stanowiący wydał uchwałę, o której mowa w art. 40 ust. 8 ustawy z dnia 21 marca 1985 r. o drogach publicznych 
+Nr 
+Nazwa pola 
+Sposób określania wartości pól 
+Objaśnienia sposobu wypełniania pól 
+Z.3.I.1. 
+pełna nazwa jednostki samorządu 
+terytorialnego 
+litery małe i duże oraz znaki specjalne (np. –) 
+Nazwa zgodna z załącznikiem do obwieszczenia Prezesa Rady Ministrów z dnia 23 sierpnia 2017 r. 
+w sprawie wykazu gmin i powiatów wchodzących w skład województw (M.P. poz. 853) 
+Przykłady: województwo dolnośląskie, powiat bolesławiecki, gmina Bolesławiec (m.), gmina Gromadka, 
+gmina Jelenia Góra (m.p.) 
+Z.3.I.2. 
+kod TERC
+1)
+ 
+cyfry 
+Kod TERC podaje się w formacie WWPPGGR, gdzie WW oznacza kod województwa, PP – kod 
+powiatu, GG – kod gminy, R– kod typu gminy 
+Z.3.I.3. 
+numer uchwały  
+litery małe i duże oraz znaki specjalne (np. –) 
+Numer uchwały, o której mowa w art. 40 ust. 8 ustawy z dnia 21 marca 1985 r.
+ 
+o drogach publicznych 
+ 
+ 
+                                                     
+1)
+ System identyfikatorów i nazw jednostek podziału terytorialnego w TERYT .
+ 
+Załącznik nr 3
+WZÓR
+Dziennik Ustaw	
+– 25 – 	
+Poz. 628
+﻿
+Część II.
+ Informacje dotyczące wysokości stawek opłaty za zajęcie pasa drogowego w odniesieniu do infrastruktury telekomunikacyjnej w celach, o których mowa w art. 40 ust. 2 pkt 1–3 ustawy z dnia 21 marca 1985 r. 
+o drogach publicznych, ustalonych w drodze uchwały, o której mowa w art. 40 ust. 8 tej ustawy
+2), 3), 4)
+ 
+                                                     
+2)
+ W przypadku gdy uchwała nie przewiduje stawek opłat wskazanych w poszczególnych pozycjach części II, pozycje te należy pozostawić puste.   
+3)
+ W przypadku gdy zgłoszenie ma na celu aktualizację informacji, wypełnienia się wszystkie pozycje formularza. 
+4)
+ Stawki opłat należy wpisać jako liczby dziesiętne z dwoma miejscami po przecinku i bez wskazywania nazwy waluty. 
+Nr 
+Nazwa pola 
+Sposób określania wartości pól 
+Objaśnienia sposobu wypełniania pól 
+Z.3.II.1. 
+kategoria drogi 
+a)
+ 
+droga krajowa, 
+b)
+ 
+droga wojewódzka, 
+c)
+ 
+droga powiatowa,  
+d)
+ 
+droga gminna 
+Należy wypełnić w przypadku, gdy uchwała przewiduje stawki opłaty dla różnych kategorii dróg – wskazać 
+kategorię, zgodnie z art. 2 ust. 1 ustawy z dnia 21 marca 1985 r. o drogach publicznych:  
+– droga krajowa, 
+– droga wojewódzka, 
+– droga powiatowa,  
+– droga gminna, 
+oraz wypełnić część II osobno dla każdej kategorii dróg. 
+Z.3.II.2. 
+stawka opłaty za zajęcie pasa drogowego 
+w celu prowadzenia robót w pasie 
+drogowym 
+cyfry, wartości podawane z dokładnością do dwóch 
+miejsc po przecinku 
+Jeżeli uchwała nie przewiduje jednej stawki opłaty za zajęcie pasa drogowego w celu prowadzenia robót 
+w pasie drogowym, należy wypełnić odpowiednie pola Z.3.II.2.1.–Z.3.II.2.2. 
+W przypadku gdy uchwała przewiduje odrębną stawkę opłaty za zajęcie pasa drogowego w celu prowadzenia 
+robót w pasie drogowym, dotyczącą infrastruktury telekomunikacyjnej, należy podać tę stawkę. Jeżeli 
+uchwała przewiduje kilka stawek opłaty za zajęcie pasa drogowego w celu prowadzenia robót w pasie 
+drogowym dotyczących infrastruktury telekomunikacyjnej: 
+– zróżnicowanych w sposób wskazany w polach  
+Z.3.II.2.1.– Z.3.II.2.2., należy wypełnić te pola, 
+– zróżnicowanych w inny sposób niż wskazano w polach Z.3.II.2.1.–Z.3.II.2.2., należy wypełnić pole 
+Z.3.II.2.3. 
+1. 
+stawka opłaty za zajęcie pasa 
+drogowego w celu prowadzenia robót 
+w pasie drogowym w obszarze 
+zabudowanym 
+cyfry, wartości podawane z dokładnością do dwóch 
+miejsc po przecinku 
+W przypadku gdy uchwała nie przewiduje odrębnych stawek opłaty za zajęcie pasa drogowego w celu 
+prowadzenia robót w pasie drogowym w obszarze zabudowanym i poza obszarem zabudowanym należy 
+wypełnić tylko pola właściwe dla obszaru zabudowanego (pola Z.3.II.2.1. – Z.3.II.2.1.2.7.). 
+Jeżeli uchwała nie przewiduje jednej stawki opłaty za zajęcie pasa drogowego w celu prowadzenia robót 
+w pasie drogowym w obszarze zabudowanym należy wypełnić odpowiednie pola Z.3.II.2.1.1. – Z.3.II.2.1.2.7. 
+1. 
+1. 
+w jezdni 
+cyfry, wartości podawane z dokładnością do dwóch 
+miejsc po przecinku 
+Jezdnię należy rozumieć zgodnie z art. 4 pkt 5 ustawy z dnia 21 marca 1985 r. o drogach publicznych 
+Pole należy wypełnić w przypadku, gdy uchwała nie przewiduje różnych stawek opłaty ze względu na 
+poziom zajętości jezdni. 
+1. 
+1. 1. 
+do 20% szerokości jezdni 
+cyfry, wartości podawane z dokładnością do dwóch 
+miejsc po przecinku 
+Pola należy wypełnić w przypadku, gdy uchwała przewiduje takie rozróżnienie 
+1. 
+1. 2. 
+powyżej 20% do 50% 
+szerokości jezdni 
+cyfry, wartości podawane z dokładnością do dwóch 
+miejsc po przecinku 
+Dziennik Ustaw	
+– 26 – 	
+Poz. 628
+﻿
+1. 
+1. 3. 
+powyżej 50% do 100% 
+szerokości jezdni 
+cyfry, wartości podawane z dokładnością do dwóch 
+miejsc po przecinku 
+1. 
+1. 4. 
+innym niż określony w polach 
+Z.3.II.2.1.1.1.–
+ 
+Z.3.II.2.1.1.3. 
+sposób zróżnicowania stawek 
+opłaty ze względu na poziom 
+zajętości jezdni 
+litery duże i małe, znaki specjalne, cyfry; wartości 
+liczbowe podawane z dokładnością do dwóch miejsc po 
+przecinku 
+Pole należy wypełnić w przypadku, gdy uchwała przewiduje stawki opłaty zróżnicowane ze względu na 
+poziom zajętości jezdni w sposób inny niż przedstawiono w polach Z.3.II.2.1.1.1.–
+ 
+Z.3.II.2.1.1.3. W takim 
+przypadku należy wskazać kryterium zróżnicowania i odpowiadającą mu stawkę opłaty, przy czym każdą 
+stawkę opłaty należy wpisywać w oddzielnym polu.  
+1. 
+2. 
+poza jezdnią 
+cyfry, wartości podawane z dokładnością do dwóch 
+miejsc po przecinku 
+Pole należy wypełnić w przypadku, gdy uchwała nie przewiduje zróżnicowanych stawek opłaty ze względu 
+na zajętą część drogi.  
+1. 
+2. 1. 
+w drodze dla pieszych 
+cyfry, wartości podawane z dokładnością do dwóch 
+miejsc po przecinku 
+Drogę dla pieszych należy rozumieć zgodnie z art. 2 pkt 4a ustawy z dnia 20 czerwca 1997 r. – Prawo o ruchu 
+drogowym (Dz. U. z 2022 r. poz. 988, z późn. zm.) 
+1. 
+2. 2. 
+w zatoce postojowej 
+cyfry, wartości podawane z dokładnością do dwóch 
+miejsc po przecinku 
+Zatokę postojową należy rozumieć zgodnie z przepisami techniczno-budowlanymi dotyczącymi dróg 
+publicznych wydanymi na podstawie art. 7 ust. 2 pkt 2 i ust. 3 pkt 2 ustawy z dnia 7 lipca 1994 r. – Prawo 
+budowlane (Dz. U. z 2021 r. poz. 2351, z późn. zm.) 
+1. 
+2. 3. 
+w drodze dla rowerów 
+cyfry, wartości podawane z dokładnością do dwóch 
+miejsc po przecinku 
+Drogę dla rowerów należy rozumieć zgodnie z art. 2 pkt 5 ustawy z dnia 20 czerwca 1997 r. – Prawo o ruchu 
+drogowym 
+1. 
+2. 4. 
+na zjazdach 
+cyfry, wartości podawane z dokładnością do dwóch 
+miejsc po przecinku 
+Zjazd należy rozumieć zgodnie z art. 4 pkt 8 ustawy z dnia 21 marca 1985 r. o drogach publicznych 
+1. 
+2. 5. 
+w poboczu 
+cyfry, wartości podawane z dokładnością do dwóch 
+miejsc po przecinku 
+Pobocze należy rozumieć zgodnie z art. 2 pkt 8 ustawy z dnia 20 czerwca 1997 r. – Prawo o ruchu drogowym 
+1. 
+2. 6. 
+w torowisku tramwajowym 
+cyfry, wartości podawane z dokładnością do dwóch 
+miejsc po przecinku 
+Torowisko tramwajowe należy rozumieć zgodnie z przepisami techniczno-budowlanymi dotyczącymi dróg 
+publicznych wydanymi na podstawie art. 7 ust. 2 pkt 2 i ust. 3 pkt 2 ustawy z dnia 7 lipca 1994 r. – Prawo 
+budowlane 
+1. 
+2. 7. 
+w innych częściach drogi 
+litery duże i małe, znaki specjalne, cyfry; wartości 
+liczbowe podawane z dokładnością do dwóch miejsc po 
+przecinku 
+Pole należy wypełnić, jeżeli uchwała przewiduje zróżnicowane stawki opłaty ze względu na zajętą część 
+drogi, która nie została ujęta w kategoriach wyszczególnionych w polach Z.3.II.2.1.2.1–
+ 
+Z.3.II.2.1.2.6. 
+W takim przypadku należy wskazać część drogi i odpowiadającą jej stawkę opłaty, przy czym każdą stawkę 
+opłaty należy wpisywać w oddzielnym polu. W nazwie każdego pola należy wskazać element drogi, a w polu 
+do wypełnienia wpisać wartość stawki opłaty. 
+2. 
+stawka opłaty za zajęcie pasa 
+drogowego w celu prowadzenia robót 
+w pasie drogowym poza obszarem 
+zabudowanym 
+cyfry, wartości podawane z dokładnością do dwóch 
+miejsc po przecinku 
+W przypadku, gdy uchwała nie przewiduje odrębnych stawek opłaty za zajęcie pasa drogowego w celu 
+prowadzenia robót w pasie drogowym w obszarze zabudowanym i poza obszarem zabudowanym, należy 
+wypełnić tylko pola właściwe dla obszaru zabudowanego. Pola Z.3.II.2.2.–Z.3.II.2.2.2.7. należy pozostawić 
+niewypełnione. 
+Jeżeli uchwała nie przewiduje jednej stawki opłaty za zajęcie pasa drogowego w celu prowadzenia robót 
+w pasie drogowym poza obszarem zabudowanym, należy wypełnić odpowiednie pola Z.3.II.2.2.1.–Z.3.II.2.2.2.7. 
+Dziennik Ustaw	
+– 27 – 	
+Poz. 628
+﻿
+2. 
+1. 
+w jezdni 
+cyfry, wartości podawane z dokładnością do dwóch 
+miejsc po przecinku 
+Pole należy wypełnić w przypadku, gdy uchwała nie przewiduje różnych stawek opłaty ze względu na 
+poziom zajętości jezdni 
+2. 
+1. 1. 
+do 20% szerokości jezdni 
+cyfry, wartości podawane z dokładnością do dwóch 
+miejsc po przecinku 
+Pola należy wypełnić w przypadku, gdy uchwała przewiduje takie rozróżnienie 
+2. 
+1. 2. 
+powyżej 20% do 50% 
+szerokości jezdni 
+cyfry, wartości podawane z dokładnością do dwóch 
+miejsc po przecinku 
+2. 
+1. 3. 
+powyżej 50% do 100% 
+szerokości jezdni 
+cyfry, wartości podawane z dokładnością do dwóch 
+miejsc po przecinku 
+2. 
+1. 4. 
+innym niż określony w polach 
+Z.3.II.2.1.1.– Z.3.II.2.2.1.3. 
+sposób zróżnicowania stawek 
+opłaty ze względu na poziom 
+zajętości jezdni 
+litery duże i małe, znaki specjalne, cyfry; wartości 
+liczbowe podawane z dokładnością do dwóch miejsc po 
+przecinku 
+Pole należy wypełnić w przypadku, gdy uchwała przewiduje stawki opłaty zróżnicowane ze względu na 
+poziom zajętości jezdni w sposób inny niż przedstawiono w polach
+ 
+Z.3.II.2.2.1.1.–
+ 
+Z.3.II.2.2.1.3. 
+W takim przypadku należy wskazać kryterium zróżnicowania i odpowiadającą mu stawkę opłaty, przy czym 
+każdą stawkę opłaty należy wpisywać w oddzielnym polu.  
+2. 
+2. 
+poza jezdnią 
+cyfry, wartości podawane z dokładnością do dwóch 
+miejsc po przecinku 
+Pole należy wypełnić w przypadku, gdy uchwała nie przewiduje zróżnicowanych stawek opłat ze względu na 
+zajętą część drogi.  
+2. 
+2. 1. 
+w drodze dla pieszych 
+cyfry, wartości podawane z dokładnością do dwóch 
+miejsc po przecinku 
+Pola należy wypełnić w przypadku, gdy uchwała przewiduje takie rozróżnienie. 
+2. 
+2. 2. 
+w zatoce postojowej 
+cyfry, wartości podawane z dokładnością do dwóch 
+miejsc po przecinku 
+2. 
+2. 3. 
+w drodze dla rowerów 
+cyfry, wartości podawane z dokładnością do dwóch 
+miejsc po przecinku 
+2. 
+2. 4. 
+na zjazdach 
+cyfry, wartości podawane z dokładnością do dwóch 
+miejsc po przecinku 
+2. 
+2. 5. 
+w poboczu 
+cyfry, wartości podawane z dokładnością do dwóch 
+miejsc po przecinku 
+2. 
+2. 6. 
+w torowisku tramwajowym 
+cyfry, wartości podawane z dokładnością do dwóch 
+miejsc po przecinku 
+2. 
+2. 7. 
+w innych częściach drogi 
+litery duże i małe, znaki specjalne, cyfry; wartości 
+liczbowe podawane z dokładnością do dwóch miejsc po 
+przecinku 
+Pole należy wypełnić, jeżeli uchwała przewiduje zróżnicowane stawki opłaty ze względu na zajętą część 
+drogi, która nie została ujęta w kategoriach wyszczególnionych w polach Z.3.II.2.2.2.1
+–
+Z.3.II.2.2.2.6. 
+W takim przypadku należy wskazać część drogi i odpowiadającą jej stawkę opłaty. 
+Każdą stawkę opłaty należy wpisywać w oddzielnym polu. W nazwie każdego pola należy wskazać element 
+drogi, a w polu do wypełnienia wpisać wartość stawki opłaty. 
+Dziennik Ustaw	
+– 28 – 	
+Poz. 628
+﻿
+3. 
+stawki opłaty za zajęcie pasa drogowego 
+w celu prowadzenia robót w pasie 
+drogowym – zróżnicowane w sposób 
+inny niż w pkt Z.3.II.2.1.–Z.3.II.2.2.  
+litery duże i małe, znaki specjalne, cyfry; wartości 
+liczbowe podawane z dokładnością do dwóch miejsc 
+po przecinku 
+Każdą stawkę opłaty należy wpisywać w oddzielnym polu wraz z podaniem kryterium różnicującego tę 
+stawkę
+ 
+Z.3.II.3. 
+stawka opłaty za zajęcie pasa drogowego 
+w celu umieszczania w nim liniowych 
+urządzeń obcych 
+cyfry, wartości podawane z dokładnością do dwóch  
+miejsc po przecinku 
+Jeżeli uchwała nie przewiduje jednej stawki opłaty za zajęcie pasa drogowego w celu umieszczania w nim 
+liniowych urządzeń obcych należy wypełnić odpowiednie pola Z.3.II.5.1–Z.3.II.5.2.  
+W przypadku, gdy uchwała przewiduje odrębną stawkę opłaty za zajęcie pasa drogowego w celu 
+umieszczania w nim liniowych urządzeń obcych, dotyczącą infrastruktury telekomunikacyjnej, należy podać 
+tę stawkę. Jeżeli uchwała przewiduje kilka stawek opłaty za zajęcie pasa drogowego w celu umieszczania 
+w nim liniowych urządzeń obcych, dotyczących infrastruktury telekomunikacyjnej: 
+– zróżnicowanych w sposób wskazany w polach Z.3.II.3.1.–Z.3.II.3.2. – należy wypełnić te pola; 
+– zróżnicowanych w inny sposób niż wskazano w polach Z.3.II.3.1.– Z.3.II.3.2. – należy wypełnić pole 
+Z.3.II.3.4. 
+1. 
+stawka opłaty za zajęcie pasa 
+drogowego w celu umieszczania w nim 
+liniowych urządzeń obcych w obszarze 
+zabudowanym 
+cyfry, wartości podawane z dokładnością do dwóch 
+miejsc po przecinku 
+Pole należy wypełnić w przypadku, gdy uchwała nie różnicuje wysokości stawek opłaty ze względu na 
+umiejscowienie liniowych urządzeń obcych wzdłuż albo w poprzek drogi. 
+1. 
+1. w poprzek drogi: 
+cyfry, wartości podawane z dokładnością do dwóch 
+miejsc po przecinku 
+Pole należy wypełnić w przypadku, gdy uchwała nie różnicuje wysokości stawek opłaty ze względu na 
+umiejscowienie liniowych urządzeń obcych w jezdni albo poza jezdnią. 
+1. 
+1. 1. w jezdni 
+cyfry, wartości podawane z dokładnością do dwóch 
+miejsc po przecinku 
+Pola należy wypełnić w przypadku, gdy uchwała przewiduje takie rozróżnienie. 
+1. 
+1. 2. poza jezdnią 
+cyfry, wartości podawane z dokładnością do dwóch 
+miejsc po przecinku 
+1. 
+2. wzdłuż drogi: 
+cyfry, wartości podawane z dokładnością do dwóch 
+miejsc po przecinku 
+Pole należy wypełnić w przypadku, gdy uchwała nie różnicuje wysokości stawek opłaty ze względu na 
+umiejscowienie liniowych urządzeń obcych w jezdni albo poza jezdnią. 
+1. 
+2. 1. w jezdni 
+cyfry, wartości podawane z dokładnością do dwóch 
+miejsc po przecinku 
+Pole należy wypełnić w przypadku, gdy uchwała przewiduje takie rozróżnienie. 
+1. 
+2. 2. poza jezdnią 
+cyfry, wartości podawane z dokładnością do dwóch 
+miejsc po przecinku 
+Pole należy wypełnić w przypadku, gdy uchwała nie różnicuje wysokości stawek opłaty ze względu na 
+umiejscowienie liniowych urządzeń obcych w innych częściach drogi. 
+1. 
+2. 2. 1. w drodze dla pieszych 
+cyfry, wartości podawane z dokładnością do dwóch 
+miejsc po przecinku 
+Pola należy wypełnić w przypadku, gdy uchwała przewiduje takie rozróżnienie. 
+1. 
+2. 2. 2. w zatoce postojowej 
+cyfry, wartości podawane z dokładnością do dwóch 
+miejsc po przecinku 
+1. 
+2. 2. 3. w drodze dla rowerów 
+cyfry, wartości podawane z dokładnością do dwóch 
+miejsc po przecinku 
+1. 
+2. 2. 4. na zjazdach 
+cyfry, wartości podawane z dokładnością do dwóch 
+miejsc po przecinku 
+Dziennik Ustaw	
+– 29 – 	
+Poz. 628
+﻿
+1. 
+2. 2. 5. w poboczu 
+cyfry, wartości podawane z dokładnością do dwóch 
+miejsc po przecinku 
+1. 
+2. 2. 6. w torowisku tramwajowym 
+cyfry, wartości podawane z dokładnością do dwóch 
+miejsc po przecinku 
+1. 
+2. 2. 7. w innych częściach drogi 
+litery duże i małe, znaki specjalne, cyfry; wartości 
+liczbowe podawane z dokładnością do dwóch miejsc po 
+przecinku 
+Pole należy wypełnić, jeżeli uchwała przewiduje zróżnicowane stawki opłaty ze względu część zajętej drogi, 
+która nie została ujęta w kategoriach wyszczególnionych w polach Z.3.II.3.1.2.2.1.–
+ 
+Z.3.II.3.1.2.2.6. W takim 
+przypadku należy wskazać część drogi i odpowiadającą jej stawkę opłaty. 
+Każdą stawkę opłaty należy wpisywać w oddzielnym polu. W nazwie pola należy wskazać element drogi, 
+a w polu do wypełnienia wpisać wartość stawki opłaty. 
+2. 
+stawka opłaty za zajęcie pasa 
+drogowego w celu umieszczania w nim 
+liniowych urządzeń obcych poza 
+obszarem zabudowanym 
+cyfry, wartości podawane z dokładnością do dwóch 
+miejsc po przecinku 
+Pole należy wypełnić w przypadku, gdy uchwała nie różnicuje wysokości stawek opłaty ze względu na 
+umiejscowienie liniowych urządzeń obcych wzdłuż albo w poprzek drogi. 
+2. 
+1. w poprzek drogi 
+cyfry, wartości podawane z dokładnością do dwóch 
+miejsc po przecinku 
+Pole należy wypełnić w przypadku, gdy uchwała nie różnicuje wysokości stawek opłaty ze względu na 
+umiejscowienie liniowych urządzeń obcych w jezdni albo poza jezdnią. 
+2. 
+1. 1. w jezdni 
+cyfry, wartości podawane z dokładnością do dwóch 
+miejsc po przecinku 
+Pola należy wypełnić w przypadku, gdy uchwała przewiduje takie rozróżnienie. 
+2. 
+1. 2. poza jezdnią 
+cyfry, wartości podawane z dokładnością do dwóch 
+miejsc po przecinku 
+2. 
+2. wzdłuż drogi 
+cyfry, wartości podawane z dokładnością do dwóch 
+miejsc po przecinku 
+Pole należy wypełnić w przypadku, gdy uchwała nie różnicuje wysokości stawek opłaty ze względu na 
+umiejscowienie liniowych urządzeń obcych w jezdni albo poza jezdnią. 
+2. 
+2. 1. w jezdni 
+cyfry, wartości podawane z dokładnością do dwóch 
+miejsc po przecinku 
+Pole należy wypełnić w przypadku, gdy uchwała przewiduje takie rozróżnienie. 
+2. 
+2. 2. poza jezdnią 
+cyfry, wartości podawane z dokładnością do dwóch 
+miejsc po przecinku 
+Pole należy wypełnić w przypadku, gdy uchwała nie różnicuje wysokości stawek opłaty ze względu na 
+umiejscowienie liniowych urządzeń obcych w innych częściach drogi. 
+2. 
+2. 2. 1. w drodze dla pieszych 
+cyfry, wartości podawane z dokładnością do dwóch 
+miejsc po przecinku 
+Pola należy wypełnić w przypadku, gdy uchwała przewiduje takie rozróżnienie. 
+2. 
+2. 2. 2. w zatoce postojowej 
+cyfry, wartości podawane z dokładnością do dwóch 
+miejsc po przecinku 
+2. 
+2. 2. 3. w drodze dla rowerów 
+cyfry, wartości podawane z dokładnością do dwóch 
+miejsc po przecinku 
+2. 
+2. 2. 4. na zjazdach 
+cyfry, wartości podawane z dokładnością do dwóch 
+miejsc po przecinku 
+2. 
+2. 2. 5. w poboczu 
+cyfry, wartości podawane z dokładnością do dwóch 
+miejsc po przecinku 
+Dziennik Ustaw	
+– 30 – 	
+Poz. 628
+﻿
+ 
+2. 
+2. 2. 6. w torowisku tramwajowym 
+cyfry, wartości podawane z dokładnością do dwóch 
+miejsc po przecinku 
+2. 
+2. 2. 7. w innych częściach drogi 
+litery duże i małe, znaki specjalne, cyfry; wartości 
+liczbowe podawane z dokładnością do dwóch miejsc po 
+przecinku 
+Pole należy wypełnić, jeżeli uchwała przewiduje zróżnicowane stawki opłaty ze względu na część zajętej 
+drogi, która nie została ujęta w kategoriach wyszczególnionych w polach Z.3.II.3.2.2.2.1.–
+ 
+Z.3.II.3.2.2.2.6. 
+W takim przypadku należy wskazać część drogi i odpowiadającą jej stawkę opłaty. 
+Każdą stawkę opłaty należy wpisywać w oddzielnym polu. W nazwie pola należy wskazać element drogi, 
+a w polu do wypełnienia wpisać wartość stawki opłaty. 
+3. 
+stawka opłaty za zajęcie pasa 
+drogowego w celu umieszczania 
+liniowych urządzeń obcych na 
+drogowym obiekcie inżynierskim 
+cyfry, wartości podawane z dokładnością do dwóch 
+miejsc po przecinku 
+Drogowy obiekt inżynierski należy rozumieć zgodnie z art. 4 pkt 12 ustawy z dnia 21 marca 1985 r. o drogach 
+publicznych 
+4. 
+stawki opłaty za zajęcie pasa 
+drogowego w celu umieszczania w nim 
+liniowych urządzeń obcych – 
+zróżnicowane w sposób inny  
+niż w pkt Z.3.II.3.1.–Z.3.II.3.2. 
+litery duże i małe, znaki specjalne, cyfry; wartości 
+liczbowe podawane z dokładnością do dwóch miejsc 
+po przecinku 
+Każdą stawkę opłaty należy wpisywać w oddzielnym polu wraz z podaniem kryterium różnicującego tę 
+stawkę 
+Z.3.II.4. 
+stawka opłaty za zajęcie pasa drogowego 
+w celu umieszczania w nim urządzeń obcych 
+innych niż liniowe oraz reklam 
+cyfry, wartości podawane z dokładnością do dwóch 
+miejsc po przecinku 
+Jeżeli uchwała przewiduje jedną stawkę opłaty za zajecie pasa drogowego w celu umieszczania w nim 
+urządzeń obcych innych niż liniowe oraz reklam, należy podać tę stawkę. 
+W przypadku gdy uchwała przewiduje odrębną stawkę opłaty za zajęcie pasa drogowego w celu 
+umieszczania w nim urządzeń obcych innych niż liniowe oraz reklam,  należy podać stawkę dotyczącą 
+infrastruktury telekomunikacyjnej.  
+Jeżeli uchwała nie przewiduje jednej stawki opłaty za zajęcie pasa drogowego w celu umieszczania w nim 
+urządzeń obcych innych niż liniowe oraz reklam, należy wypełnić odpowiednio pola Z.3.II.4.1.–
+ 
+Z.3.II.4.3. 
+1. 
+stawka opłaty za zajęcie pasa 
+drogowego w celu umieszczania w nim 
+urządzeń obcych innych niż liniowe 
+oraz reklam w obszarze zabudowanym 
+cyfry, wartości podawane z dokładnością do dwóch 
+miejsc po przecinku 
+Pola należy wypełnić w przypadku, gdy uchwała przewiduje takie rozróżnienie. 
+2. 
+stawka opłaty za zajęcie pasa 
+drogowego w celu umieszczania w nim 
+urządzeń obcych innych niż liniowe 
+oraz reklam poza obszarem 
+zabudowanym 
+cyfry, wartości podawane z dokładnością do dwóch 
+miejsc po przecinku 
+3. 
+inny sposób zróżnicowania stawek 
+opłaty za zajęcie pasa drogowego 
+w celu umieszczania w nim urządzeń 
+obcych innych niż liniowe oraz reklam 
+litery duże i małe, znaki specjalne, cyfry; wartości 
+liczbowe podawane z dokładnością do dwóch miejsc 
+po przecinku 
+Pole należy wypełnić, jeżeli stawki opłaty zróżnicowano w inny sposób niż ze względu na umiejscowienie 
+pasa drogowego w obszarze zabudowanym albo poza obszarem zabudowanym. W takim przypadku należy 
+wskazać kryterium różnicujące i odpowiadającą mu stawkę opłaty. 
+Każdą stawkę opłaty należy wpisywać w oddzielnym polu. W nazwie każdego pola należy wskazać kryterium 
+różnicujące, a w polu do wypełnienia wpisać wartość stawki opłaty. 

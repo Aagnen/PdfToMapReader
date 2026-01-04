@@ -1,5 +1,4 @@
 import fitz  # library of PyMuPDF
-import os
 import json
 
 
@@ -35,7 +34,7 @@ def pdf_highlighter(guide, section_path, pages_around=(2, 2)):
     pages_to_see_first = pages_to_see[0]
     pages_to_see_last = pages_to_see[-1]
 
-    for i in range(1, pages_around[0]+1):
+    for i in range(1, pages_around[0] + 1):
         if pages_to_see_first - i >= 0:
             pages_to_see.append(pages_to_see_first - i)
     for i in range(1, pages_around[1] + 1):
@@ -61,9 +60,8 @@ def highlight(nested_map, pdf_file, section_pages):
                 pdf_file[int(span["page"]) - 1].draw_rect(
                     rect, fill=(0, 1, 1), fill_opacity=0.2, stroke_opacity=0
                 )
-                section_pages.append(span['page'])
+                section_pages.append(span["page"])
             # print(f"Section on pages: {set(section_pages)}")
         else:
             highlight(value, pdf_file, section_pages)
     print(f"Section on pages: {set(section_pages)}")
-

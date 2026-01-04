@@ -1,0 +1,1717 @@
+1516
+ROZPORZÑDZENIE MINISTRA GOSPODARKI MORSKIEJ
+1)
+z dnia 23 paêdziernika 2006 r.
+w sprawie warunków technicznych u˝ytkowania oraz szczegó∏owego zakresu
+kontroli morskich budowli hydrotechnicznych
+2)
+Na podstawie art. 7 ust. 3 pkt 2 i art. 62 ust. 7 usta-
+wy z dnia 7 lipca 1994 r. — Prawo budowlane (Dz. U.
+z 2006 r. Nr 156, poz. 1118 i Nr 170, poz. 1217) zarzà-
+dza si´, co nast´puje:
+———————
+1)
+ Minister Gospodarki Morskiej kieruje dzia∏em administracji rzàdowej — gospodarka morska, na podstawie § 1 ust. 2 roz-
+porzàdzenia Prezesa Rady Ministrów z dnia 18 lipca 2006 r. w sprawie szczegó∏owego zakresu dzia∏ania Ministra Gospo-
+darki Morskiej (Dz. U. Nr 131, poz. 910).
+2)
+ Niniejsze rozporzàdzenie zosta∏o notyfikowane Komisji Europejskiej w dniu 24 kwietnia 2006 r. pod nr 2006/187/PL zgod-
+nie z § 4 rozporzàdzenia Rady Ministrów z dnia 23 grudnia 2002 r. w sprawie sposobu funkcjonowania krajowego syste-
+mu notyfikacji norm i aktów prawnych (Dz. U. Nr 239, poz. 2039 oraz z 2004 r. Nr 65, poz. 597), które wdra˝a dyrekty-
+w´ 98/34/WE z dnia 22 czerwca 1998 r. ustanawiajàcà procedur´ udzielania informacji w zakresie norm i przepisów tech-
+nicznych (Dz. Urz. WE L 204 z 21.07.1998, z póên. zm.).
+DZIA¸ I
+Przepisy ogólne
+§ 1. Rozporzàdzenie okreÊla warunki techniczne
+u˝ytkowania morskich budowli hydrotechnicznych
+oraz szczegó∏owy zakres kontroli tych budowli.
+§ 2. Warunki techniczne u˝ytkowania morskich bu-
+dowli hydrotechnicznych, zwanych dalej „budowlami
+morskimi”, powinny zapewniç:
+1) utrzymanie nale˝ytego stanu technicznego i wy-
+maganego stanu estetycznego budowli morskiej
+oraz zwiàzanych z nià urzàdzeƒ, a tak˝e bezpie-
+czeƒstwa ludzi i mienia w okresie jej u˝ytkowania;
+2) u˝ytkowanie budowli morskich zgodnie z ich prze-
+znaczeniem.
+§ 3. Ilekroç w rozporzàdzeniu jest mowa o: 
+1) elemencie budowli morskiej — rozumie si´ przez
+to cz´Êç budowli morskiej, o okreÊlonym kszta∏cie
+i wymiarach, spe∏niajàcà okreÊlonà funkcj´ kon-
+strukcyjnà, u˝ytkowà i estetycznà;
+2) brusie — rozumie si´ przez to pojedynczy, pod∏u˝-
+ny element zapuszczanej w grunt drewnianej, sta-
+lowej lub ˝elbetowej Êcianki szczelnej;
+3) gabionie — rozumie si´ przez to konstrukcj´ z siat-
+ki spe∏niajàcej ustalone wymogi, wype∏nionà ka-
+mieniami, stosowanà jako element umocnieƒ po-
+wierzchniowych lub jako element konstrukcji;
+4) budowli morskiej — rozumie si´ przez to budowl´
+nawodnà lub podwodnà, która wraz z instalacjami
+i urzàdzeniami technicznymi oraz innym wyposa-
+˝eniem stanowi ca∏oÊç techniczno-u˝ytkowà, usy-
+tuowanà:
+a) na obszarach morskich,
+b) w rejonie bezpoÊredniego kontaktu z akwenami
+morskimi:
+— w pasie technicznym wybrze˝a morskiego
+okreÊlonym zgodnie z ustawà z dnia 21 mar-
+ca 1991 r. o obszarach morskich Rzeczy-
+pospolitej Polskiej i administracji morskiej
+(Dz. U. z 2003 r. Nr 153, poz. 1502, z póên.
+zm.
+3)
+),
+— w portach i przystaniach morskich;
+5) okresie trwania budowli morskiej — rozumie si´
+przez to przewidywanà liczb´ lat, w ciàgu których
+dana budowla ma istnieç, przy za∏o˝onych warun-
+kach u˝ytkowania;
+6) okresie u˝ytkowania budowli morskiej — rozumie
+si´ przez to faktycznà liczb´ lat, w ciàgu których
+budowla morska zachowuje za∏o˝one funkcje u˝yt-
+kowe;
+7) próbnym obcià˝eniu budowli morskiej — rozumie
+si´ przez to metod´ badania nowo wykonanej kon-
+strukcji poprzez jej obcià˝enie, majàcà na celu
+sprawdzenie, czy spe∏nia ona warunki okreÊlone
+na podstawie obliczeƒ statycznych albo czy kon-
+strukcja istniejàcej budowli morskiej pozwala na
+podj´cie decyzji w sprawie dalszego u˝ytkowania
+oraz na okreÊlenie parametrów techniczno-u˝ytko-
+wych danej budowli morskiej;
+8) punktowym lub lokalnym przeg∏´bieniu dna — 
+rozumie si´ przez to wystàpienie g∏´bokoÊci 
+dna wi´kszej od g∏´bokoÊci dopuszczalnej (H
+dop
+)
+w okreÊlonym punkcie, na odcinku albo na ca∏ej
+d∏ugoÊci przy budowli morskiej;
+9) punktowym lub lokalnym sp∏yceniu dna — rozu-
+mie si´ przez to wystàpienie g∏´bokoÊci dna
+mniejszej ni˝ g∏´bokoÊç techniczna (H
+t
+) w okreÊlo-
+nym punkcie, na odcinku albo na ca∏ej d∏ugoÊci
+przy budowli morskiej;
+10) umocnieniu dna — rozumie si´ przez to konstruk-
+cj´, która stanowi integralnà cz´Êç konstrukcji 
+danej budowli morskiej, obejmujàcà obszar dna
+przy podwodnej cz´Êci konstrukcji, zabezpieczony
+przed powstawaniem przeg∏´bieƒ dna;
+11) ustawie — nale˝y przez to rozumieç ustaw´ z dnia
+7 lipca 1994 r. — Prawo budowlane;
+12) wypornoÊci pe∏no∏adunkowej statku — rozumie
+si´ przez to mas´ jednostki p∏ywajàcej, wyra˝onà
+w tonach, równà co do wartoÊci masie wody wy-
+partej przez cz´Êç kad∏uba tej jednostki, przy zanu-
+rzeniu jednostki do poziomu letniej linii ∏adunko-
+wej, na którà statek zosta∏ zaprojektowany.
+§ 4. 1. Na potrzeby analiz dotyczàcych u˝ytkowa-
+nych budowli morskich okreÊla si´ nast´pujàce okre-
+sy trwania tych budowli, przyjmujàc wyst´powanie
+przeci´tnych warunków u˝ytkowania:
+1) budowle ochrony przeciw-
+powodziowej
+— 100 lat;
+2) portowe nabrze˝a, mola 
+i obrze˝a
+— 60, maksymalnie
+100 lat;
+3) falochrony portowe
+i brzegowe
+— 60, maksymalnie
+100 lat;
+4) pomosty i pirsy
+— 45, maksymalnie
+100 lat;
+5) dalby stalowe i ˝elbetowe
+— 25 lat;
+6) dalby drewniane
+— 10 lat;
+7) stoczniowe konstrukcje 
+hydrotechniczne
+— 25, maksymalnie
+60 lat;
+Dziennik Ustaw Nr 206
+— 10337 —
+Poz. 1516
+———————
+3)
+ Zmiany tekstu jednolitego wymienionej ustawy zosta∏y
+og∏oszone w Dz. U. z 2003 r. Nr 170, poz. 1652, z 2004 r.
+Nr 6, poz. 41, Nr 93, poz. 895 i Nr 273, poz. 2703 oraz
+z 2005 r. Nr 203, poz. 1683.
+8) nadwodna cz´Êç budowli 
+morskich
+— 30, maksymalnie
+60 lat;
+9) umocnienia brzegów 
+morskich
+— 20, maksymalnie
+100 lat;
+10) zejÊcia na pla˝´
+— 5 lat;
+11) tymczasowe budowle 
+morskie
+— 5 lat.
+2. Jako przeci´tne warunki u˝ytkowania przyjmuje
+si´ warunki poÊrednie pomi´dzy warunkami inten-
+sywnymi, oznaczajàcymi u˝ytkowanie ciàg∏e, i warun-
+kami rzadkimi, oznaczajàcymi u˝ytkowanie sporadycz-
+ne lub wyst´pujàce w okresach krótszych ni˝ jeden ty-
+dzieƒ na miesiàc.
+3. Okres trwania budowli morskiej przyjmuje si´,
+zak∏adajàc zgodnoÊç ze spodziewanym okresem u˝yt-
+kowania ju˝ istniejàcej budowli morskiej danego typu. 
+4. Dla budowli morskich lub elementów budowli
+morskich o charakterze konstrukcji drewnianych oraz
+dla wyposa˝enia budowli morskich wykonanych
+z drewna od˝ywiczonego okres u˝ytkowania wynosi
+10 lat, z wyjàtkiem elementów odbojowych, dla któ-
+rych okres ten wynosi 5 lat.
+5. Dla pali oraz Êcianek szczelnych wykonanych
+z drewna nieod˝ywiczonego, stale umieszczonych pod
+wodà okres u˝ytkowania wynosi 10 lat.
+6. Dla wyposa˝enia budowli morskich, okreÊlone-
+go w rozporzàdzeniu Ministra Transportu i Gospodar-
+ki Morskiej z dnia 1 czerwca 1998 r. w sprawie warun-
+ków technicznych, jakim powinny odpowiadaç mor-
+skie budowle hydrotechniczne i ich usytuowanie
+(Dz. U. Nr 101, poz. 645), okresy u˝ytkowania okreÊla
+Êwiadectwo producenta. Okres u˝ytkowania wyposa-
+˝enia o nieokreÊlonym terminie u˝ytkowania wynosi
+10 lat. 
+DZIA¸ II
+Warunki u˝ytkowania
+i utrzymania sprawnoÊci technicznej
+budowli morskich
+Rozdzia∏ 1
+Warunki ogólne
+§ 5. W∏aÊciciel, zarzàdca lub u˝ytkownik budowli
+morskiej obowiàzany jest do:
+1) u˝ytkowania budowli zgodnie z jej przeznaczeniem
+oraz utrzymania w∏aÊciwych parametrów tech-
+niczno-u˝ytkowych, z uwzgl´dnieniem wymogów
+dotyczàcych bezpieczeƒstwa po˝arowego, bezpie-
+czeƒstwa i higieny pracy oraz wymogów dotyczà-
+cych ochrony Êrodowiska làdowego i morskiego,
+na obszarze lokalizacji budowli;
+2) przeprowadzania bie˝àcej konserwacji konstrukcji
+budowli morskiej i jej wyposa˝enia;
+3) nadzoru nad wykonywaniem wszelkich zmian kon-
+strukcyjnych, technologicznych i funkcjonalnych
+danej budowli morskiej.
+Rozdzia∏ 2
+Badania elementów betonowych
+istniejàcych budowli morskich przed przystàpieniem
+do remontu, przebudowy lub naprawy
+§ 6. Przed przystàpieniem do remontu, przebudo-
+wy lub naprawy budowli morskiej nale˝y wykonaç:
+1) szczegó∏owà kontrol´ budowli lub jej elementów;
+2) inwentaryzacj´ budowli morskiej, pozwalajàcà na
+ustalenie koniecznego zakresu remontu, przebu-
+dowy lub naprawy;
+3) badania, o których mowa w § 8.
+§ 7. Inwentaryzacja uszkodzeƒ budowli morskiej
+podlegajàcej remontowi lub przebudowie powinna
+okreÊlaç:
+1) rodzaj, po∏o˝enie i wymiary elementów budowli
+morskiej podlegajàcych remontowi, przebudowie
+lub naprawie;
+2) rodzaj i jakoÊç zastosowanych w budowli materia-
+∏ów i wyrobów budowlanych;
+3) charakterystyk´ uszkodzeƒ — rodzaj i
+zakres
+uszkodzeƒ, wymiary uszkodzeƒ, opis uszkodzeƒ; 
+4) dokumentacj´ graficznà — fotografie, szkice i ry-
+sunki techniczne; 
+5) inne niezb´dne dane wymagane przez projektanta
+albo rzeczoznawc´ budowlanego.
+§ 8. 1. Zakres badaƒ dotyczàcy betonowych, ˝elbe-
+towych lub wst´pnie spr´˝onych budowli morskich
+oraz ich elementów podlegajàcych remontowi lub
+przebudowie okreÊla w ocenie lub opinii technicznej
+osoba posiadajàca uprawnienia, okreÊlone w ustawie,
+w specjalnoÊci odpowiadajàcej zakresowi opinii. 
+2. W zale˝noÊci od potrzeb, badania, o których mo-
+wa w ust. 1, powinny okreÊlaç:
+1) w odniesieniu do betonu:
+a) wyst´powanie przewilgoceƒ, naroÊli organicz-
+nych, zafarbowaƒ, wykwitów i odprysków beto-
+nu,
+b) szorstkoÊç powierzchni zewn´trznych,
+c) wytrzyma∏oÊç na rozciàganie przyczepne,
+d) szczelnoÊç,
+e) g∏´bokoÊç karbonatyzacji,
+f) zawartoÊç chlorków,
+Dziennik Ustaw Nr 206
+— 10338 —
+Poz. 1516
+g) przebieg, lokalizacj´ i rodzaj rys,
+h) przemieszczenia w rysach,
+i) stan szczelin dylatacyjnych sekcji budowli;
+2) w odniesieniu do zbrojenia:
+a) stan i gruboÊç otuliny betonowej,
+b) wyst´powanie korozji i powierzchnie pokryte
+produktami korozji,
+c) zmniejszenia przekroju stali zbrojeniowej;
+3) w odniesieniu do kabli spr´˝ajàcych:
+a) stan i gruboÊç otuliny betonowej,
+b) stan zacisków kabli,
+c) stan pr´tów i kabli spr´˝ajàcych,
+d) istniejàcy stopieƒ spr´˝enia kabli;
+4) w odniesieniu do ca∏ej konstrukcji budowli mor-
+skiej:
+a) odkszta∏cenia,
+b) wielkoÊç obcià˝eƒ, jakim by∏a i jest poddana bu-
+dowla i jej elementy,
+c) zachowanie si´ budowli pod wp∏ywem drgaƒ.
+3. W zale˝noÊci od potrzeb, badania, o których mo-
+wa w ust. 1, powinny okreÊlaç koniecznoÊç pobrania
+próbki materia∏u z wykwitów betonu lub próbki beto-
+nu i stali z uszkodzonych elementów betonowych.
+§ 9. Ocena lub opinia techniczna, o której mowa
+w § 8 ust. 1, powinna zawieraç obliczenia statyczne,
+okreÊlajàce statecznoÊç i bezpieczeƒstwo ca∏ej bu-
+dowli morskiej oraz poszczególnych jej elementów,
+przed i po naprawie, lub uzasadnienie odstàpienia od
+ca∏oÊci bàdê okreÊlonej cz´Êci tego wymogu.
+Rozdzia∏ 3
+Konserwacja budowli morskiej
+§ 10. Konserwacj´ budowli morskiej, jej wyposa˝e-
+nia, urzàdzeƒ i instalacji nale˝y przeprowadzaç w spo-
+sób zapewniajàcy ciàg∏à sprawnoÊç technicznà bu-
+dowli.
+§ 11. Do zakresu bie˝àcej konserwacji budowli
+morskiej nale˝y w szczególnoÊci:
+1) w odniesieniu do elementów budowli morskiej:
+a) renowacja antykorozyjnych zabezpieczeƒ po-
+w∏okowych oraz naprawa elementów instalacji
+ochrony katodowej Êcianki szczelnej lub palo-
+Êcianki,
+b) dokr´cenie Êrub lub nakr´tek elementów st´˝a-
+jàcych, 
+c) uzupe∏nienie ubytków narzutów kamiennych
+oraz bloków betonowych w cz´Êciach nadwod-
+nych budowli morskich,
+d) uzupe∏nienie filtrów i zasypów,
+e) wymiana uszkodzonej dyliny,
+f) powierzchniowe impregnowanie drewnianych
+elementów konstrukcyjnych,
+g) poprawianie i regulacja koron skarp,
+h) uzupe∏nianie drobnych ubytków w ok∏adzinach
+skarp,
+i) uszczelnianie i spoinowanie szczelin mi´dzy
+p∏ytami lub blokami ok∏adzinowymi,
+j) usuwanie produktów korozji i z∏uszczeƒ oraz
+renowacja pow∏ok powierzchniowych kon-
+strukcji stalowych i ˝elbetowych,
+k) uzupe∏nienie drobnych ubytków betonu, ∏àcz-
+nie z oczyszczeniem zbrojenia, iniekcja rys
+i szczelin w betonie,
+l) usuwanie lokalnych zapadlisk nawierzchni
+dróg oraz placów sk∏adowych i manewrowych
+usytuowanych w linii budowli morskich, jeÊ-
+li nie sà skutkiem nieszczelnoÊci budowli;
+w przeciwnym razie nale˝y w mo˝liwie najkrót-
+szym czasie usunàç przyczyn´ zapadlisk,
+m) naprawa ogrodzenia budowli morskich,
+n) utrzymanie czystoÊci i estetyki korony budowli
+morskich,
+o) wymiana 
+uszkodzonych 
+kleszczy 
+Êcianek
+szczelnych lub paloÊcianek,
+p) lokalne uzupe∏nianie narzutu kamiennego lub
+kamienia w gabionach, falochronach i matera-
+cach faszynowo-kamiennych umocnienia dna
+lub skarp,
+r) likwidowanie lokalnych nieszczelnoÊci w zam-
+kach Êcianki szczelnej lub paloÊcianki,
+s) naprawa i konserwacja elementów spe∏niajà-
+cych funkcje oznakowania nawigacyjnego, ta-
+blic informacyjnych i ostrzegawczych;
+2) w odniesieniu do wyposa˝enia, urzàdzeƒ i instala-
+cji:
+a) wymiana na identyczne nowe lub naprawa
+uszkodzonych lub zu˝ytych elementów urzà-
+dzeƒ odbojowych, w tym opierzenia, drewnia-
+nych belek i ram odbojowych oraz elementów
+z gumy i tworzyw sztucznych,
+b) prostowanie, zabezpieczanie przed korozjà
+i drobne naprawy balustrad, barierek i por´czy,
+c) naprawa stopni i podestów schodów,
+d) oczyszczenie i zabezpieczenie przed korozjà kà-
+towników ochronnych oraz naprawa, uzupe∏-
+nienie lub wymiana poluzowanych odcinków
+kàtowników ochronnych,
+e) oczyszczenie i udro˝nienie systemów odprowa-
+dzajàcych wod´ opadowà, systemów drena˝o-
+wych oraz instalacji kanalizacyjnych, 
+Dziennik Ustaw Nr 206
+— 10339 —
+Poz. 1516
+f) uruchomienie istniejàcego systemu ochrony ka-
+todowej, 
+g) naprawa, wzgl´dnie wymiana pokryw studzie-
+nek lub przykryw kana∏ów instalacyjnych albo
+naprawa wn´k i kana∏ów instalacyjnych,
+h) naprawa lub wymiana drabinek wyjÊciowych,
+i) odnowienie barwnego oznakowania sta∏ych
+elementów wyposa˝enia budowli,
+j) wymiana uszkodzonych urzàdzeƒ cumowni-
+czych na identyczne nowe urzàdzenia,
+k) oczyszczanie opraw êróde∏ Êwiat∏a oraz ich po-
+wierzchni odbijajàcej;
+3) w odniesieniu do akwenu przyleg∏ego do budowli
+morskiej, okreÊlonego w dokumentacji:
+a) oczyszczenie dna z elementów sta∏ych,
+b) usuni´cie materia∏ów powodujàcych sp∏ycenia
+powsta∏e w wyniku eksploatacji,
+c) usuni´cie i utylizacja warstwy gruntu zanie-
+czyszczonego,
+d) usuni´cie powsta∏ych przeg∏´bieƒ dna.
+§ 12. Zakoƒczenie konserwacji nale˝y potwierdziç
+opisem wykonanych prac konserwacyjnych za∏àcza-
+nym do dokumentów, o których mowa w § 83 ust. 1
+pkt 8. 
+§ 13. Budowla morska, wykazujàca uszkodzenia
+niestanowiàce zagro˝enia dla ludzi, jednostek p∏ywa-
+jàcych lub statecznoÊci konstrukcji budowli, mo˝e byç
+u˝ytkowana do czasu przeprowadzenia remontu, pod
+warunkiem okreÊlenia i wprowadzenia ograniczeƒ
+u˝ytkowych.
+Rozdzia∏ 4
+Remont betonowych elementów budowli morskiej
+§ 14. W∏aÊciciel lub zarzàdca za∏àcza do ksià˝ki
+obiektu budowlanego dokument zawierajàcy wyniki
+inwentaryzacji elementów remontowanych lub prze-
+budowywanych przed remontem lub przebudowà bu-
+dowli morskiej, okreÊlajàcy w szczególnoÊci rodzaj,
+po∏o˝enie i wymiary elementów budowli podlegajà-
+cych remontowi lub przebudowie, aktualny stan mate-
+ria∏ów, z których wykonane sà te elementy, oraz rodzaj
+i zakres uszkodzeƒ, z dok∏adnym okreÊleniem wymia-
+rów miejsc tych uszkodzeƒ.
+§ 15. 1. W przypadku stwierdzenia zniszczeƒ
+i uszkodzeƒ betonowych elementów budowli morskiej
+w toku przeprowadzonej kontroli, stanowiàcych za-
+gro˝enie dla ludzi, jednostek p∏ywajàcych lub statecz-
+noÊci konstrukcji, nale˝y wykonaç ekspertyz´ technicz-
+nà stanu budowli. Wykonanie ekspertyzy nale˝y po-
+wierzyç osobie posiadajàcej uprawnienia budowlane
+w specjalnoÊci odpowiadajàcej zakresowi ekspertyzy.
+2. W ekspertyzie, o której mowa w ust. 1, nale˝y
+okreÊliç:
+1) przyczyny i zakres uszkodzeƒ;
+2) zakres napraw i plan kolejnoÊci ich przeprowadza-
+nia;
+3) wp∏yw istniejàcych uszkodzeƒ oraz projektowa-
+nych napraw na statecznoÊç, trwa∏oÊç i bezpie-
+czeƒstwo u˝ytkowania budowli morskiej, w opar-
+ciu o szczegó∏owà inwentaryzacj´ i przeprowadzo-
+ne badania.
+§ 16. Plan kolejnoÊci przeprowadzenia naprawy,
+o którym mowa w § 15 ust. 2 pkt 2, powinien w szcze-
+gólnoÊci zawieraç:
+1) rodzaj oraz zakres koniecznych badaƒ laboratoryj-
+nych pobranych próbek;
+2) rodzaj wst´pnej obróbki pod∏o˝a betonowego,
+z ewentualnym wskazaniem wymaganych urzà-
+dzeƒ oraz wst´pnego oczyszczenia stali zbrojenio-
+wej lub profili stalowych;
+3) rodzaj i sk∏ad przewidzianych do stosowania ma-
+teria∏ów, takich jak beton, beton natryskowy, be-
+ton natryskowy z dodatkiem tworzyw sztucznych,
+z ewentualnym okreÊleniem urzàdzeƒ wymaga-
+nych dla na∏o˝enia, wzgl´dnie wbudowania tych
+materia∏ów;
+4) wskazanie okreÊlonego systemu napraw;
+5) sposób i wymagania dotyczàce prac piel´gnacyj-
+nych betonu;
+6) sposób, urzàdzenia i rodzaj materia∏ów przewi-
+dzianych do uszczelnienia rys oraz do uszczelnie-
+nia szczelin dylatacyjnych sekcji budowli;
+7) rodzaj i sposób nak∏adania pow∏ok ochronnych,
+w szczególnoÊci materia∏, przygotowanie pod∏o˝a,
+liczb´ i gruboÊç warstw;
+8) zalecenie dostosowania zbrojenia do zastosowa-
+nia ochrony katodowej poprzez zapewnienie ciàg-
+∏oÊci elektrycznej;
+9) rodzaj i rozmieszczenie instalacji ochrony katodo-
+wej;
+10) wytyczne majàce na celu zapewnienie wymaganej
+jakoÊci naprawy.
+§ 17. W zakresie wykonanych na potrzeby eksperty-
+zy technicznej, o której mowa w § 15, obliczeƒ spraw-
+dzajàcych wytrzyma∏oÊç i statecznoÊç ca∏ej budowli
+morskiej lub pojedynczych jej elementów nale˝y do-
+k∏adnie ustaliç nowe dane wyjÊciowe i uwzgl´dniç
+mo˝liwe do osiàgni´cia wspó∏dzia∏anie mi´dzy beto-
+nem konstrukcji i betonem uzupe∏nionym, gwarantujà-
+ce przenoszenie obcià˝eƒ przez powierzchnie stykowe.
+§ 18. Nadzór wykonywania naprawy budowli mor-
+skiej powinien obejmowaç w szczególnoÊci czynnoÊci
+zwiàzane z:
+1) przygotowaniem pod∏o˝a dla zapewnienia dobre-
+go po∏àczenia mi´dzy nowym i dotychczas istnie-
+jàcym betonem;
+Dziennik Ustaw Nr 206
+— 10340 —
+Poz. 1516
+2) wykonaniem prac nadwodnych i podwodnych
+obejmujàcych usuni´cie s∏abego i uszkodzonego
+betonu oraz oczyszczenie stalowych pr´tów zbro-
+jenia i uzupe∏nienie zbrojenia skorodowanego;
+3) wykonaniem robót zwiàzanych z przystosowaniem
+budowli morskiej do za∏o˝enia instalacji ochrony
+katodowej;
+4) betonowaniem uprzednio przygotowanych frag-
+mentów budowli betonem lub betonem z two-
+rzywami sztucznymi, ∏àcznie z wype∏nieniem rys
+i uszczelnieniem spoin.
+Rozdzia∏ 5
+U˝ytkowanie elementów ziemnych
+budowli ochronnej brzegu morskiego
+tworzonych i utrzymywanych
+metodà sztucznego zasilania 
+§ 19. Utrzymywanie odcinków brzegu morskiego
+o sztucznie zmienionym poprzecznym profilu natural-
+nym jest u˝ytkowaniem ziemnej budowli ochronnej
+lub elementu ziemnej budowli ochronnej.
+§ 20. 1. Utrzymywanie odcinków brzegu morskie-
+go o sztucznie zmienionym poprzecznym profilu natu-
+ralnym, poprzez zwi´kszenie szerokoÊci erodowanych
+wydm, zabezpieczenie wydmy przed podmyciem, po-
+szerzenie pla˝y oraz poprawienie stanu podbrze˝a
+i rew, wymaga wykonania i aktualizacji dokumentacji
+zasilania i utrzymania okreÊlonego odcinka brzegu,
+opartej na badaniach przeprowadzonych na obszarze
+zasilania.
+2. Gwa∏towne zniszczenie elementu budowli ziem-
+nej, utworzonego metodà sztucznego zasilania, jest
+za∏o˝eniem u˝ytkowym funkcjonowania budowli tego
+typu. 
+§ 21. 1. Dokumentacja, o której mowa w § 20 ust. 1,
+okreÊla:
+1) projektowany przebieg linii wody; 
+2) projektowany kszta∏t strefy brzegowej, w tym
+w szczególnoÊci kszta∏t i wysokoÊç wydmy, nachy-
+lenie pla˝y i dna, odpowiadajàce uziarnieniu ma-
+teria∏u zasilajàcego i warunkom hydrodynamicz-
+nym;
+3) iloÊç materia∏u zasilajàcego.
+2. Dane, o których mowa w ust. 1 pkt 2, powinny
+byç okreÊlone w oparciu o profile strefy brzegowej do-
+wiàzane do sytuacyjnej i wysokoÊciowej paƒstwowej
+sieci geodezyjnej, rozmieszczone maksymalnie co
+100 m, prostopad∏e do stycznej do linii brzegu w punk-
+cie pomiaru.
+§ 22. 1. Przed przystàpieniem do sztucznego zasi-
+lania brzegu morskiego oraz bezzw∏ocznie po ustalo-
+nym w dokumentach budowy zakoƒczeniu zasilania
+nale˝y wykonaç szczegó∏owe pomiary batymetryczne
+oraz wysokoÊciowe wzd∏u˝ prostopad∏ych do linii
+brzegu morskiego profili, dowiàzanych do geodezyj-
+nej sieci paƒstwowej, w rozstawie nie wi´kszym ni˝
+100 m, si´gajàcych w morze poza stref´ rew.
+2. Pomiar wykonany przed przystàpieniem do
+sztucznego zasilania brzegu morskiego stanowi wyjÊ-
+ciowy, zerowy pomiar batymetryczny do okreÊlenia
+przyrostu przekroju brzegu morskiego po wykonaniu
+sztucznego zasilania.
+3. Pomiary batymetryczne, w przekrojach ustalo-
+nych w czasie pomiaru wyjÊciowego, nale˝y powta-
+rzaç nie rzadziej ni˝ co 1 rok, w celu okreÊlenia wielko-
+Êci ubytku materia∏u zasilajàcego.
+§ 23. W oparciu o udokumentowanà intensywnoÊç
+rozmyç i powstajàce ubytki materia∏u zasilajàcego
+w okresach, o których mowa w § 68 ust. 1 pkt 3, nale-
+˝y dokonaç oceny trwa∏oÊci ochrony wykonanej po-
+przez sztuczne zasilanie brzegu morskiego oraz okreÊ-
+liç, czy zachodzi potrzeba kontynuowania zasilania
+i w jakim terminie. Ponadto nale˝y okreÊliç koniecz-
+noÊç ewentualnej korekty miejsc zasilania oraz sk∏adu
+materia∏u zasilajàcego.
+Rozdzia∏ 6
+U˝ytkowanie sztucznych progów podwodnych
+§ 24. Budowle morskie tworzàce sztuczne progi
+podwodne, zwane dalej „progami podwodnymi”, wy-
+magajà kontroli sta∏oÊci ich wysokoÊci i usytuowania.
+§ 25. Progi podwodne dzia∏ajàce jako wzd∏u˝brze-
+gowe budowle rozpraszajàce energi´ falowania mor-
+skiego, ulegajàce znacznemu osiadaniu spowodowa-
+nemu erozjà lokalnà, drganiami konstrukcji oraz ru-
+chami czàstek materia∏u dennego pod budowlà, nale-
+˝y poddawaç pomiarom osiadaƒ oraz przemieszczeƒ
+poziomych poszczególnych ich elementów w oparciu
+o ustalone repery, okreÊlajàce usytuowanie progu
+podwodnego i stanowiàce jednoczeÊnie punkty odnie-
+sienia badaƒ zachowania si´ progu podwodnego.
+§ 26. 1. W przypadku progów podwodnych o kon-
+strukcji:
+1) monolitycznej — repery nale˝y za∏o˝yç w konstruk-
+cji progu;
+2) narzutowej z kamienia lub bloków betonowych —
+w punktach skrajnych progu nale˝y wbiç pale ru-
+rowe i obsypaç narzutem kamiennym.
+2. Pal rurowy powinien byç zakoƒczony pokry-
+wà z przyspawanym reperem umo˝liwiajàcym pomiar
+przemieszczeƒ pionowych i poziomych.
+§ 27. W progach podwodnych o konstrukcji narzu-
+towej oprócz reperów nale˝y u∏o˝yç odpowiednio
+oznakowane bloki, których po∏o˝enie powinno byç
+przedmiotem obserwacji w okresie prowadzenia po-
+miarów przemieszczeƒ progu podwodnego.
+Dziennik Ustaw Nr 206
+— 10341 —
+Poz. 1516
+Rozdzia∏ 7
+U˝ytkowanie budowli morskiej w warunkach
+wystàpienia przeg∏´bienia lub sp∏ycenia dna
+przy budowli oraz koniecznoÊci wykonania
+podczyszczeniowych robót czerpalnych
+§ 28. W∏aÊciciel lub zarzàdca budowli morskiej jest
+obowiàzany do okresowego sprawdzania g∏´bokoÊci
+dna przy budowli, w okresach, o których mowa
+w § 90, a tak˝e do niezw∏ocznej likwidacji przeg∏´bieƒ
+dna. 
+§ 29. W przypadku stwierdzenia wystàpienia prze-
+g∏´bieƒ dna w pasie przy konstrukcji budowli mor-
+skiej, okreÊlonym w projekcie technicznym, w∏aÊciciel
+lub zarzàdca tej budowli powinien podjàç bezzw∏ocz-
+ne dzia∏ania zmierzajàce do ustalenia stopnia zagro˝e-
+nia statecznoÊci budowli, a nast´pnie wprowadziç nie-
+zb´dne Êrodki zaradcze, ograniczenia wielkoÊci obcià-
+˝eƒ lub wielkoÊci jednostek p∏ywajàcych albo inne
+ograniczenia eksploatacyjne albo wstrzymaç u˝ytko-
+wanie budowli, je˝eli dalsze jej u˝ytkowanie grozi
+awarià lub katastrofà budowlanà.
+§ 30. W przypadku stwierdzenia powstania prze-
+g∏´bienia dna przy budowli morskiej, spowodowane-
+go oddzia∏ywaniem strumieni zaÊrubowych statków,
+tworzàcego stan zagro˝enia statecznoÊci budowli,
+u˝ytkowanie budowli wymaga okreÊlenia rozwiàzania
+sposobu stabilizacji dna w odr´bnym projekcie bu-
+dowlanym.
+§ 31. W przypadku stwierdzenia wystàpienia prze-
+g∏´bieƒ dna przy budowli morskiej, spowodowanych
+oddzia∏ywaniem pràdów przydennych, wynikajàcych
+z przep∏ywu wzd∏u˝ budowli morskiej, okreÊlonego
+cieku lub wywo∏anych falowaniem w rejonie budowli
+likwidowanych poprzez zasyp, u˝ytkowanie budowli
+po likwidacji przeg∏´bienia wymaga sporzàdzenia do-
+kumentacji okreÊlajàcej, ˝e:
+1) zasypy zosta∏y wykonane przy u˝yciu gruntu majà-
+cego miarodajnà Êrednic´ ziaren d
+50
+ trzykrotnie
+wi´kszà od Êrednicy ziaren gruntu rodzimego;
+2) grunt zasypowy jest gruntem sypkim, niezawiera-
+jàcym frakcji ilastych;
+3) uzyskano zaprojektowany stopieƒ zag´szczenia za-
+sypu;
+4) podczas realizacji zasypów prowadzona by∏a kon-
+trola powierzchni zasypu, poziomu stropu zasypu
+oraz profilu zasypu;
+5) sprawdzona jest statecznoÊç rozpatrywanego na-
+brze˝a, pirsu lub pomostu, z uwzgl´dnieniem oce-
+ny zjawiska tarcia negatywnego i wynikajàcych
+z niego dodatkowych obcià˝eƒ pala w przypadku
+wykonania zasypu w otoczeniu pali nabrze˝y po-
+mostowych, pirsów lub pomostów, o mià˝szoÊci
+zwi´kszonej ponad poziom okreÊlony g∏´bokoÊcià
+technicznà (H
+t
+). 
+§ 32. Wstrzymanie u˝ytkowania zagro˝onej bu-
+dowli morskiej, o którym mowa w § 29, po∏àczone
+musi byç z maksymalnym mo˝liwym odcià˝eniem bu-
+dowli, polegajàcym w szczególnoÊci na:
+1) usuni´ciu sk∏adowanych towarów i materia∏ów;
+2) wprowadzeniu zakazu cumowania jednostek p∏y-
+wajàcych;
+3) wstrzymaniu ruchu dêwignic, pojazdów i ludzi.
+§ 33. Je˝eli w wyniku ograniczenia u˝ytkowania
+budowli morskiej nie dopuszcza si´ do wjazdu dêwig-
+nic szynowych na sekcje zagro˝one utratà stateczno-
+Êci, to do czasu usuni´cia zagro˝enia sekcje te nale˝y
+zabezpieczyç przed mo˝liwoÊcià przypadkowego wjaz-
+du dêwignic. Zabezpieczenie to nale˝y trwale po∏àczyç
+z szynami toru poddêwignicowego.
+§ 34. W przypadku wystàpienia, obok konstrukcji
+budowli morskiej, g∏´bokoÊci dna poni˝ej g∏´bokoÊci
+technicznej (H
+t
+), a nieprzekraczajàcej g∏´bokoÊci do-
+puszczalnej (H
+dop
+), budowla ta mo˝e byç nadal u˝ytko-
+wana pod warunkiem wprowadzenia przez w∏aÊciciela
+lub zarzàdc´ budowli obowiàzku kontroli o okreÊlonej
+cz´stotliwoÊci, dotyczàcej g∏´bokoÊci dna. 
+§ 35. W dokumentach u˝ytkowania budowli mor-
+skich, w których sàsiedztwie wykonano roboty zasy-
+powe przeg∏´bieƒ dna, wymagane jest przedstawienie
+danych okreÊlajàcych:
+1) obszar robót zasypowych;
+2) rodzaj gruntu zasypowego;
+3) technologi´ robót;
+4) nachylenie dna po zakoƒczeniu robót zasypowych;
+5) metod´ i zakres podwodnego zag´szczenia gruntu
+zasypowego;
+6) zakres badaƒ i sposób udokumentowania w∏aÊci-
+wego podwodnego zag´szczenia gruntu zasypo-
+wego;
+7) metod´ zabezpieczenia dna przed ponownym roz-
+myciem.
+§ 36. 1. W odleg∏oÊci mniejszej ni˝ 30 m od kon-
+strukcji budowli morskiej nie wykonuje si´ usuwania
+sp∏yceƒ dna poprzez wykonywanie robót czerpalnych
+pog∏´biarkà ssàcà.
+2. Przepisu ust. 1 nie stosuje si´ w przypadku, gdy:
+1) wyst´puje umocnienie dna pozwalajàce na u˝ycie
+sprz´tu do wykonania tego rodzaju robót;
+2) zbadana i zapewniona jest szczelnoÊç po∏àczenia
+umocnienia dna z konstrukcjà budowli morskiej; 
+3) zbadana i zapewniona jest szczelnoÊç konstrukcji
+budowli morskiej podtrzymujàcej uskok naziomu.
+§ 37. Sp∏ycenia dna dla przypadków g∏´bokoÊci
+dna mniejszej od g∏´bokoÊci technicznej (H
+t
+) kwalifi-
+kuje si´ do podczyszczeniowych robót czerpalnych,
+o których mowa w art. 29 ust. 2 pkt 13 ustawy.
+Dziennik Ustaw Nr 206
+— 10342 —
+Poz. 1516
+§ 38. Obszar prowadzenia robót zasypowych lub
+czerpalnych oraz miejsca zrzucania kotwic pog∏´bia-
+rek nale˝y oznakowaç na akwenie zgodnie z wymaga-
+niami przepisów portowych. 
+§ 39. Budowla morska, w której sàsiedztwie wyko-
+nywane by∏y podczyszczeniowe roboty czerpalne lub
+zasypowe, mo˝e byç u˝ytkowana pod warunkiem wy-
+konania planu batymetrycznego akwenu oraz atestu
+czystoÊci dna.
+Rozdzia∏ 8
+U˝ytkowanie urzàdzeƒ cumowniczych i odbojowych
+§ 40. 1. Nie wykonuje si´ wykopów wokó∏ u˝ytko-
+wanych samodzielnych urzàdzeƒ cumowniczych po-
+sadowionych bezpoÊrednio na gruncie.
+2. W przypadku koniecznoÊci wykonania wyko-
+pów, o których mowa w ust. 1, do czasu zasypania
+i w∏aÊciwego zag´szczenia gruntu w tych wykopach,
+nie dopuszcza si´ do cumowania jednostek p∏ywajà-
+cych do danego samodzielnego urzàdzenia cumowni-
+czego.
+§ 41. 1. Jednostki p∏ywajàce nale˝y cumowaç w ta-
+ki sposób, aby dziób lub rufa nie wystawa∏y poza na-
+ro˝niki budowli morskiej, z wyjàtkiem gdy taki sposób
+cumowania jest przewidziany w dokumentach u˝ytko-
+wania budowli.
+2. Upowa˝niony przedstawiciel w∏aÊciwego urz´-
+du morskiego dla budowli morskiej, zlokalizowanej
+w porcie bàdê podlegajàcej mu przystani morskiej,
+mo˝e udzieliç zgody na cumowanie jednostek p∏ywa-
+jàcych w sposób odmienny, ni˝ okreÊlono w ust. 1, co
+wymaga umieszczenia w dokumentacji u˝ytkowania
+budowli morskiej.
+§ 42. 1. Urzàdzenia cumownicze nale˝y oznakowy-
+waç numerami widocznymi z làdu.
+2. Numeracj´ pacho∏ów cumowniczych nale˝y na-
+nosiç w sposób trwa∏y, na górnej poziomej cz´Êci g∏o-
+wicy pacho∏a. Numeracj´ nale˝y wykonywaç w kolo-
+rze czarnym.
+3. Zasady numeracji pacho∏ów cumowniczych
+ustala w∏aÊciciel, zarzàdca lub u˝ytkownik budowli
+morskiej, w uzgodnieniu z upowa˝nionym przedstawi-
+cielem w∏aÊciwego urz´du morskiego.
+§ 43. Nie dopuszcza si´ do: 
+1) zakrywania lub tarasowania urzàdzeƒ cumowni-
+czych;
+2) wykonywania i utrzymywania instalacji na urzà-
+dzeniach odbojowych.
+Rozdzia∏ 9
+U˝ytkowanie torów poddêwignicowych
+§ 44. 1. Tolerancja u∏o˝enia szyn toru poddêwigni-
+cowego w stanie u˝ytkowania nie mo˝e przekraczaç
+wi´cej ni˝ 20 % tolerancji szyn dla stanu budowy,
+okreÊlonej w Polskiej Normie.
+2. W przypadku przekroczenia granicy, o której 
+mowa w ust. 1, bezzw∏ocznie nale˝y dokonaç regulacji
+u∏o˝enia szyn toru.
+§ 45. Odst´p pomi´dzy obrysem sk∏adowanych 
+∏adunków lub towarów od poszczególnych szyn toru
+poddêwignicowego nie mo˝e byç mniejszy ni˝ 1,5 m.
+§ 46. Nie dopuszcza si´ do sk∏adowania ∏adunków
+i towarów na szynach torów poddêwignicowych.
+Rozdzia∏ 10
+Utrzymanie Êcianek szczelnych
+§ 47. 1. Oceny stanu technicznego Êcianek szczel-
+nych oraz paloÊcianek pod wzgl´dem wytrzyma∏o-
+Êciowym nale˝y dokonaç po up∏ywie 30 lat od dnia ich
+pogrà˝enia.
+2. Kolejny termin oceny stanu technicznego okreÊ-
+la si´ w dokumentacji b´dàcej wynikiem dokonanej
+oceny, o której mowa w ust. 1.
+3. Sprawdzenia stanu technicznego Êcianki szczel-
+nej lub paloÊcianki pod wzgl´dem wytrzyma∏oÊcio-
+wym wczeÊniej ni˝ przed up∏ywem 30 lat od dnia ich
+pogrà˝enia nale˝y dokonywaç w przypadku:
+1) zmiany sposobu u˝ytkowania budowli morskiej,
+po∏àczonej ze zmianà wielkoÊci lub uk∏adu obcià-
+˝eƒ na bardziej niekorzystne;
+2) uszkodzenia konstrukcji budowli morskiej;
+3) wszelkich zmian konstrukcji noÊnej budowli;
+4) stwierdzonego na podstawie badaƒ wzrostu agre-
+sywnoÊci Êrodowiska wodnego w stosunku do
+stanu przyj´tego w projekcie budowlanym, na
+podstawie którego wybudowano budowl´ morskà
+z danà Êciankà szczelnà albo paloÊciankà;
+5) stwierdzenia w czasie okresowych badaƒ podwod-
+nych znacznej korozji Êcianki szczelnej lub palo-
+Êcianki.
+§ 48. Po up∏ywie okresu trwania danego typu bu-
+dowli morskiej, okreÊlonego zgodnie z § 4, w odniesie-
+niu do stalowej Êcianki szczelnej albo paloÊcianki, dal-
+szà ich przydatnoÊç powinien okreÊliç rzeczoznawca
+budowlany lub osoba posiadajàca uprawnienia bu-
+dowlane w specjalnoÊci odpowiadajàcej zakresowi
+opinii, w szczególnoÊci na podstawie pomiarów gru-
+boÊci grzbietów i ramion brusów Êcianki szczelnej lub
+paloÊcianki.
+§ 49. Pomiaru gruboÊci brusów stalowej Êcianki
+szczelnej albo stalowej paloÊcianki nale˝y dokonaç co
+najmniej z dok∏adnoÊcià:
+1) ± 0,5 mm — dla brusów o wskaêniku wytrzyma∏o-
+Êci W
+x
+ do 1 100 cm
+3
+/m.b.;
+Dziennik Ustaw Nr 206
+— 10343 —
+Poz. 1516
+2) ± 1,0 mm — dla brusów o wskaêniku wytrzyma∏o-
+Êci W
+x
+ wi´kszym od 1 100 cm
+3
+/m.b.
+§ 50. Pomiar gruboÊci brusów na ich d∏ugoÊci na-
+le˝y wykonaç:
+1) w poziomie I — tu˝ pod poziomem spodu ˝elbeto-
+wej nadbudowy budowli morskiej; odleg∏oÊç ta 
+limitowana jest mo˝liwoÊcià zeszlifowania po-
+wierzchni Êcianki i wykonania pomiaru gruboÊci;
+2) w poziomie II — na g∏´bokoÊci 0,50 m poni˝ej
+Êredniego poziomu morza (SWW);
+3) w poziomie III — na g∏´bokoÊci równej 1/3 g∏´bo-
+koÊci technicznej (H
+t
+); 
+4) w poziomie IV — na g∏´bokoÊci równej 2/3 g∏´bo-
+koÊci technicznej (H
+t
+);
+5) w poziomie V — nad samym dnem akwenu;
+6) na rz´dnej wyst´powania maksymalnego momen-
+tu zginajàcego w Êciance szczelnej lub paloÊcian-
+ce.
+§ 51. 1. Powsta∏e w trakcie u˝ytkowania budowli
+morskich uszkodzenia mechaniczne, a tak˝e nieszczel-
+noÊci lub uszkodzenia mechaniczne, które mia∏y miej-
+sce w czasie wbijania brusów Êcianek szczelnych pali
+i brusów paloÊcianki, a które ods∏oni´to w trakcie po-
+g∏´biania dna akwenów albo w wyniku wystàpienia
+przeg∏´bieƒ dna zaistnia∏ych w czasie u˝ytkowania bu-
+dowli morskich, powodujàce utrat´ mo˝liwoÊci prawi-
+d∏owego dzia∏ania Êcianek szczelnych lub paloÊcianek
+w zakresie utrzymania uskoku naziomu, wymagajà
+bezzw∏ocznych napraw i uszczelnieƒ w trakcie u˝ytko-
+wania.
+2. Bezzw∏ocznej naprawy wymagajà tak˝e przebi-
+cia, uszkodzenia, ugi´cia, rysy, z∏amania i zerwania
+zamków Êcianki szczelnej lub paloÊcianki, a tak˝e ze-
+rwania kleszczy, powsta∏e w wyniku uderzenia kad∏u-
+ba jednostki p∏ywajàcej w Êciank´ szczelnà lub palo-
+Êciank´.
+§ 52. Sposób wykonania uszczelnienia bàdê napra-
+wy uszkodzonych Êcianek szczelnych albo paloÊcianek
+nale˝y okreÊliç w dokumentacji stanowiàcej podstaw´
+do rozpocz´cia zamierzonego zakresu robót okreÊ-
+lonego zgodnie z wymogami ustawy.
+Rozdzia∏ 11
+Ustalenia szczególne dotyczàce u˝ytkowania
+i utrzymania sprawnoÊci technicznej
+budowli morskich
+§ 53. Przy u˝ytkowaniu budowli morskiej nie nale˝y:
+1) tarasowaç dróg po˝arowych i ewakuacyjnych oraz
+dojÊç do urzàdzeƒ przeciwpo˝arowych i ratunko-
+wych;
+2) stosowaç Êrodków do konserwacji budowli mor-
+skich, w szczególnoÊci: farb, lakierów, materia∏ów
+uszczelniajàcych i pow∏ok ochronnych, które mo-
+g∏yby spowodowaç zanieczyszczenie wód mor-
+skich zwiàzkami toksycznymi;
+3) instalowaç na budowli morskiej, bez zgody w∏aÊci-
+wego organu, wyposa˝enia i urzàdzeƒ nieprzewi-
+dzianych w projekcie budowlanym, wed∏ug które-
+go wykonano t´ budowl´;
+4) obcià˝aç budowli morskiej od strony wody i làdu
+ponad obcià˝enia dopuszczalne;
+5) obcià˝aç budowli morskiej o konstrukcji oporowej
+w jej klinie od∏amu fundamentami bezpoÊrednimi,
+je˝eli obcià˝enie tych fundamentów nie zosta∏o
+uwzgl´dnione w obliczeniach statycznych danej
+budowli morskiej;
+6) wykonywaç odkrywek i wykopów przed tarczà lub
+blokiem kotwiàcym budowl´ morskà.
+§ 54. 1. Dopuszcza si´ wykonywanie robót, o któ-
+rych mowa w § 53 pkt 6, je˝eli jest to niezb´dne ze
+wzgl´dów bezpieczeƒstwa budowli morskiej. W takim
+przypadku nale˝y ograniczyç u˝ytkowanie budowli
+morskiej poprzez odcià˝enie rozpatrywanej sekcji lub
+ca∏ej budowli morskiej oraz wprowadzenie, w szcze-
+gólnoÊci na czas prowadzenia tych robót, zakazu ob-
+cià˝ania konstrukcji budowli, urzàdzeƒ cumowniczych
+oraz przyleg∏ego naziomu. 
+2. Grunt u˝yty do zasypania powsta∏ych odkrywek
+i wykopów nale˝y zag´Êciç zgodnie z wymogami pro-
+jektu technicznego. 
+§ 55. 1. Próby silników nap´du g∏ównego jedno-
+stek p∏ywajàcych odbywajà si´ wy∏àcznie na stanowi-
+skach prób statków na uwi´zi, wyposa˝onych i spe-
+cjalnie przystosowanych do tego celu.
+2. Próby, o których mowa w ust. 1, przeprowadza
+si´ zgodnie z wymaganiami instrukcji u˝ytkowania
+stanowiska prób statków na uwi´zi.
+3. Instrukcja, o której mowa w ust. 2, przed za-
+twierdzeniem przez w∏aÊciciela budowli morskiej,
+podlega uzgodnieniu z dyrektorem w∏aÊciwego tery-
+torialnie urz´du morskiego.
+4. Instrukcja, o której mowa w ust. 2, po zatwier-
+dzeniu przez w∏aÊciciela budowli podlega przekazaniu
+do kapitanatu portu lub podleg∏ej mu przystani mor-
+skiej.
+5. W∏aÊciciel, zarzàdca lub u˝ytkownik stanowiska
+stacji prób statków na uwi´zi powinien pisemnie poin-
+formowaç, w j´zyku polskim lub angielskim, kapitana
+statku odbywajàcego próby na uwi´zi o ustaleniach
+obowiàzujàcych na podstawie tej instrukcji.
+§ 56. Odst´p pomi´dzy obrysem sk∏adowanych ∏a-
+dunków lub towarów od odwodnej kraw´dzi budowli
+morskiej nie mo˝e byç mniejszy ni˝ 2,0 m.
+§ 57. 1. Przy ustalaniu wysokoÊci sk∏adowania ∏a-
+dunków nale˝y uwzgl´dniç odpornoÊç ∏adunku na kru-
+szenie si´ oraz mo˝liwoÊç samozap∏onu.
+2. Przy prze∏adunku materia∏ów powodujàcych
+zwi´kszenie intensywnoÊci korozji poza bie˝àcymi ogl´-
+dzinami samych konstrukcji prowadziç nale˝y tak˝e
+Dziennik Ustaw Nr 206
+— 10344 —
+Poz. 1516
+badania agresywnoÊci wód, na podstawie warunków
+okreÊlonych przez organ ochrony Êrodowiska.
+§ 58. W∏aÊciciel, zarzàdca lub u˝ytkownik budowli
+morskiej w okresie wyst´powania niskich temperatur
+i zjawisk lodowych ma obowiàzek zapewnienia od-
+Ênie˝ania i usuwania zalodzenia elementów niezb´d-
+nych do bezpiecznego u˝ytkowania budowli morskiej
+oraz w∏aÊciwego i nieprzerwanego dzia∏ania urzàdzeƒ
+zainstalowanych w i na budowli morskiej.
+§ 59. W przypadku zmiany sposobu u˝ytkowania
+budowli morskiej polegajàcej na: 
+1) zmianie wielkoÊci lub uk∏adu obcià˝eƒ konstrukcji
+budowli morskiej, na które rozpatrywana budowla
+by∏a zaprojektowana i wybudowana, poprzez:
+a) ustawienie i prac´ urzàdzenia technicznego na
+szynach toru poddêwignicowego, posadowio-
+nego na konstrukcji budowli morskiej, wywo∏u-
+jàcego obcià˝enia wi´ksze albo bardziej nieko-
+rzystne od przyj´tych w projekcie budowlanym
+lub w posiadanej ekspertyzie technicznej,
+b) sk∏adowanie w istniejàcych zasobniach albo
+placach sk∏adowych, usytuowanych na kon-
+strukcji budowli morskiej lub w jej bezpoÊred-
+nim sàsiedztwie, ∏adunków i towarów w iloÊ-
+ci powodujàcej przekroczenie dopuszczalnego
+równomiernie roz∏o˝onego jednostkowego ob-
+cià˝enia dla zasobni lub placu sk∏adowego
+(q
+dop
+) wyra˝onego w kN/m
+2
+ 
+lub kPa,
+c) dobijanie, odbijanie i postój przy budowli mor-
+skiej jednostek p∏ywajàcych, o wymiarach wi´k-
+szych od statku uwzgl´dnionego w obliczeniach
+statycznych projektu budowlanego, wed∏ug któ-
+rego zrealizowano budowl´ morskà, w tym du-
+˝ych statków odlichtowanych o zredukowanym
+zanurzeniu (T
+zr
+) lub statków pustych o zanurze-
+niu (T
+p
+),
+2) z∏omowaniu jednostek p∏ywajàcych przy budowli
+morskiej, sk∏adowaniu z∏omu lub wraków jedno-
+stek p∏ywajàcych na konstrukcji budowli morskiej
+lub na naziomie przyleg∏ym do budowli morskiej,
+wybudowanej i przystosowanej do innego celu,
+3) zmianie rodzaju prze∏adowywanych towarów lub
+∏adunków na budowli morskiej, powodujàcych po-
+wstanie albo wzrost ucià˝liwoÊci dla Êrodowiska
+— nale˝y sporzàdziç ekspertyz´ technicznà zgodnie
+z art. 71 ust. 2 pkt 5 ustawy. 
+§ 60. W przypadku zmiany sposobu u˝ytkowania
+budowli morskiej, polegajàcej na podj´ciu prze∏adun-
+ku paliw p∏ynnych, gazów p∏ynnych, innych ∏adunków
+niebezpiecznych lub powodujàcych powstanie zagro-
+˝enia bezpieczeƒstwa po˝arowego na budowlach mor-
+skich, wybudowanych i przystosowanych dotychczas
+do prze∏adunku innych towarów lub ∏adunków albo do
+innych celów, nale˝y wykonaç ekspertyz´ rzeczoznaw-
+cy do spraw zabezpieczeƒ przeciwpo˝arowych.
+§ 61. W przypadku zmiany sposobu u˝ytkowania
+budowli morskiej, polegajàcej na zwi´kszeniu g∏´bo-
+koÊci dopuszczalnej (H
+dop
+) przy budowli morskiej,
+a tak˝e zwi´kszeniu g∏´bokoÊci technicznej (H
+t
+) umo˝-
+liwiajàcej obs∏ug´ statków wi´kszych ni˝ to okreÊlono
+w pierwotnym projekcie budowlanym lub decyzji
+o zmianie sposobu u˝ytkowania danej budowli mor-
+skiej, gdy zwi´kszenie g∏´bokoÊci dopuszczalnej (H
+dop
+)
+lub technicznej (H
+t
+) wià˝e si´ z wykonaniem robót
+czerpalnych, przeprowadza si´ je zgodnie z wymoga-
+mi okreÊlonymi dla wykonania robót czerpalnych przy
+budowli morskiej.
+DZIA¸ III
+Szczegó∏owy zakres konroli 
+budowli morskich
+§ 62. 1. Kontrole budowli morskich przeprowadza,
+z uwzgl´dnieniem art. 62 ust. 4 ustawy, w∏aÊciciel lub
+zarzàdca tych budowli. Kontrole powinny obejmowaç
+ca∏à konstrukcj´ budowli morskiej wraz z instalacjami,
+urzàdzeniami oraz innym celowym wyposa˝eniem,
+z wy∏àczeniem urzàdzeƒ technicznych. 
+2. Kontrole przeprowadza si´ z cz´stotliwoÊcià
+i stopniem szczegó∏owoÊci dostosowanymi do celu,
+jakiemu majà s∏u˝yç.
+3. Wszelkie dokumenty uzyskane w wyniku prze-
+prowadzenia kontroli i badaƒ budowli morskiej oraz
+techniczne oceny, opinie, ekspertyzy i atesty nale˝y
+do∏àczaç do ksià˝ki obiektu budowlanego budowli
+morskiej.
+§ 63. Wyró˝nia si´ nast´pujàce rodzaje kontroli bu-
+dowli morskich:
+1) bie˝àce ogl´dziny w czasie u˝ytkowania budowli
+morskiej;
+2) kontrola okresowa, o której mowa w art. 62 ust. 1
+pkt 1 ustawy;
+3) kontrola okresowa, o której mowa w art. 62 ust. 1
+pkt 2 ustawy;
+4) kontrola nadzwyczajna.
+§ 64. Bie˝àce ogl´dziny, o których mowa w § 63
+pkt 1, polegajà na wizualnych obserwacjach nadwod-
+nych elementów budowli morskiej oraz wyposa˝enia,
+dokonywanych przez osoby wyznaczone przez w∏aÊci-
+ciela lub zarzàdc´ budowli morskiej. Cz´stotliwoÊç
+bie˝àcych ogl´dzin ustala w∏aÊciciel lub zarzàdca tej
+budowli. 
+§ 65. Zakres bie˝àcych ogl´dzin nadwodnych ele-
+mentów budowli morskiej powinien obejmowaç ob-
+serwacje co najmniej:
+1) korony budowli i przyleg∏ego naziomu;
+2) umocnieƒ skarp i narzutów wraz z przyleg∏ym na-
+ziomem;
+3) elementów konstrukcji budowli;
+4) urzàdzeƒ cumowniczych i odbojowych;
+Dziennik Ustaw Nr 206
+— 10345 —
+Poz. 1516
+5) urzàdzeƒ wyjÊciowych;
+6) przykryç kana∏ów, studzienek i wn´k instalacyj-
+nych;
+7) stanu funkcjonowania instalacji odwodnienio-
+wych;
+8) stanu elementów drewnianych, gumowych, stalo-
+wych, betonowych, ˝elbetowych i z betonu spr´-
+˝onego;
+9) stanu pow∏ok ochronnych oraz elementów instala-
+cji ochrony katodowej;
+10) stanu oznakowania nawigacyjnego budowli mor-
+skiej;
+11) dzia∏ania oÊwietlenia:
+a) zewn´trznego Êwiat∏em bia∏ym,
+b) oznakowania nawigacyjnego,
+c) Êwiate∏ ostrzegawczych;
+12) stanu tablic informacyjnych i ostrzegawczych oraz
+ich oÊwietlenia.
+§ 66. Bie˝àce ogl´dziny nadwodnych elementów
+budowli morskiej nale˝y przeprowadzaç w szczegól-
+noÊci:
+1) po zacumowaniu oraz po odcumowaniu wszelkich
+jednostek p∏ywajàcych;
+2) po wystàpieniu warunków pogodowych odbiega-
+jàcych od przeci´tnych, a w szczególnoÊci:
+a) po silnych sztormach,
+b) w czasie wystàpienia ekstremalnie wysokich
+lub niskich stanów wody i zaraz po ich ustàpie-
+niu,
+c) po ustàpieniu silnych mrozów,
+d) po d∏ugotrwa∏ych i intensywnych opadach at-
+mosferycznych.
+§ 67. W przypadku stwierdzenia podczas bie˝àcych
+ogl´dzin widocznych zmian mogàcych wp∏ywaç na
+bezpieczeƒstwo konstrukcji lub na bezpieczeƒstwo
+u˝ytkowania budowli morskiej nale˝y sporzàdziç opis
+zauwa˝onych zmian uzupe∏niony, w przypadku takiej
+potrzeby, dokumentacjà fotograficznà. 
+§ 68. 1. Kontrol´ okresowà, o
+której mowa
+w art. 62 ust. 1 pkt 1 ustawy, polegajàcà na sprawdza-
+niu stanu technicznej sprawnoÊci budowli morskich
+przeprowadza, z uwzgl´dnieniem art. 62 ust. 4 ustawy,
+w∏aÊciciel lub zarzàdca budowli morskiej co najmniej
+raz w roku, z wyjàtkiem:
+1) budowli morskich, na których prze∏adowuje si´
+materia∏y, ∏adunki lub towary wchodzàce w reak-
+cje z materia∏ami, z których zbudowana jest bu-
+dowla morska, oraz mogàce spowodowaç ska˝e-
+nie wód portowych, powodujàce intensyfikacj´
+korozji elementów konstrukcyjnych i wyposa˝enia
+budowli morskich,
+2) przystani promów morskich i portowych oraz
+przystani statków Ro-Ro i pasa˝erskich,
+3) falochronów narzutowych, nasypowych lub mie-
+szanych oraz budowli ochrony brzegu morskiego
+o tym rodzaju konstrukcji
+— dla których obowiàzek przeprowadzania tych kon-
+troli ustala si´ co pó∏ roku.
+2. Kontrol´ okresowà ok∏adzin skarp kana∏ów mor-
+skich i umocnieƒ brzegowych, o której mowa w ust. 1
+pkt 3, nale˝y wykonaç w ciàgu szeÊciu miesi´cy po za-
+koƒczeniu budowy i powtarzaç a˝ do momentu, gdy
+zastosowane do zatrzymania erozji Êrodki osiàgnà wy-
+magane warunki stabilnego zabezpieczenia. Nast´p-
+nie kontrole okresowe przeprowadza si´ w terminach
+okreÊlonych w ust. 1 pkt 3 i § 71.
+§ 69. Podczas kontroli okresowej, o której mowa
+w art. 62 ust. 1 pkt 1 ustawy, nale˝y przeprowadziç
+szczegó∏owy przeglàd cz´Êci nadwodnej budowli mor-
+skiej, poprzedzajàc go sporzàdzeniem planów baty-
+metrycznych zgodnie z § 90.
+§ 70. Kontrola okresowa budowli morskiej, o której
+mowa w art. 62 ust. 1 pkt 1 ustawy, powinna w szcze-
+gólnoÊci obejmowaç:
+1) sprawdzenie stanu technicznego wyposa˝enia,
+urzàdzeƒ i instalacji nara˝onych w sposób szcze-
+gólny na wp∏ywy szkodliwe z otoczenia;
+2) sprawdzenie sprawnoÊci dzia∏ania instalacji i urzà-
+dzeƒ zapewniajàcych bezpieczeƒstwo u˝ytkowa-
+nia budowli morskiej oraz s∏u˝àcych ochronie Êro-
+dowiska;
+3) sprawdzenie elementów budowli morskiej wymie-
+nianych w dokumentach sporzàdzanych z bie˝à-
+cych ogl´dzin, okreÊlonych w § 67. 
+§ 71. Okresowa kontrola, o której mowa w art. 62
+ust. 1 pkt 1 ustawy, skarp kana∏ów morskich oraz
+umocnieƒ brzegowych powinna obejmowaç obserwa-
+cje w zakresie:
+1) odkszta∏ceƒ — osiadania górnej cz´Êci skarpy
+i wybrzuszania si´ jej w kierunku podstawy, wska-
+zujàce na poczàtkowà utrat´ statecznoÊci;
+2) p´kni´ç — szeregu p´kni´ç równoleg∏ych do
+grzbietu i równoleg∏ego obsuwania si´ w kierunku
+podstawy, wskazujàce na poczàtkowà utrat´ sta-
+tecznoÊci poprzez obsuwanie si´ skarpy górnej; 
+3) p´kni´ç — szeregu p´kni´ç o heksagonalnym lub
+losowym przebiegu sp´kaƒ, wskazujàce na skurcz
+powsta∏y w wyniku wysuszania si´ i∏ów;
+4) szczelin — otwarcia si´ spoin i szczelin w ok∏adzi-
+nie z elementów prefabrykowanych, wskazujàce
+na poczàtkowà utrat´ statecznoÊci na skutek poÊliz-
+gu pionowego lub poÊlizgu powierzchniowego;
+5) przecieków — wody unoszàcej czàstki gruntu ze
+skarpy, wskazujàce na erozj´ wewn´trznà lub ero-
+zj´ sp∏ywowà.
+Dziennik Ustaw Nr 206
+— 10346 —
+Poz. 1516
+§ 72. Skarpy ilaste nale˝y sprawdzaç bezpoÊrednio
+po ulewnym lub d∏ugotrwa∏ym deszczu albo po ataku
+fal, a tak˝e po okresie suchym, dla okreÊlenia efektu
+wchodzenia wody do powierzchniowych szczelin
+gruntu.
+§ 73. W przypadku istnienia wàtpliwoÊci w odnie-
+sieniu do krótko- i d∏ugookresowej obserwacji statecz-
+noÊci skarp wa∏ów nale˝y zainstalowaç urzàdzenia ba-
+dawcze, które b´dà ostrzegaç o zagro˝eniu utraty sta-
+tecznoÊci skarpy, w celu umo˝liwienia skutecznej na-
+prawy przed osiàgni´ciem stanu katastrofalnego
+w postaci obsuni´cia si´ skarpy.
+§ 74. Dla skarp podwodnych, a w szczególnoÊci
+tych, przy których odbywa si´ ruch jednostek p∏ywajà-
+cych, nale˝y przy badaniu statecznoÊci skarp wykony-
+waç sondowanie zboczy i dna, pozwalajàce na okreÊ-
+lenie istniejàcego nachylenia skarp i porównanie go
+z nachyleniem dopuszczalnym.
+§ 75. Kontrol´ okresowà, o której mowa w art. 62
+ust. 1 pkt 2 ustawy, polegajàcà na sprawdzeniu stanu
+sprawnoÊci technicznej i wartoÊci u˝ytkowej ca∏ej bu-
+dowli morskiej wraz z jej cz´Êcià podwodnà oraz
+sprawdzeniu estetyki i otoczenia tej budowli, przepro-
+wadza, z uwzgl´dnieniem art. 62 ust. 4 ustawy, w∏aÊci-
+ciel lub zarzàdca danej budowli co najmniej raz na
+5 lat, z wyjàtkiem:
+1) elementów konstrukcyjnych budowli morskich,
+w pierwszych 3 latach u˝ytkowania budowli mor-
+skiej,
+2) falochronów narzutowych, nasypowych lub mie-
+szanych
+— dla których obowiàzek przeprowadzania tych kon-
+troli ustala si´ co 3 lata.
+§ 76. Podczas kontroli okresowej, o której mowa
+w art. 62 ust. 1 pkt 2 ustawy, nale˝y przeprowadziç
+kontrol´ cz´Êci nadwodnej i podwodnej budowli mor-
+skiej, poprzedzajàc jà:
+1) pomiarami geodezyjnymi przemieszczeƒ piono-
+wych i poziomych jej elementów konstrukcyjnych;
+2) sporzàdzeniem planów batymetrycznych akwenu;
+3) sporzàdzeniem atestów badania podwodnego;
+4) sporzàdzeniem sprawozdania z badania dna.
+§ 77. 1. Kontrola okresowa, o
+której mowa
+w art. 62 ust. 1 pkt 2 ustawy, powinna w szczególnoÊci
+obejmowaç:
+1) dla nabrze˝a, obrze˝a, pirsu, mola i pomostu:
+a) przeprowadzenie badaƒ sonarowych oraz po-
+miarów batymetrycznych akwenu, w
+pasie
+o szerokoÊci nie mniejszej ni˝ 3-krotna g∏´bo-
+koÊç akwenu w miejscu posadowienia budowli
+i nie mniejszej ni˝ 20 m,
+b) sprawdzenie 
+szczelnoÊci 
+zamków 
+Êcianek
+szczelnych, paloÊcianek i skrzyƒ, 
+c) ustalenie wielkoÊci ubytków, p´kni´ç, obszarów
+i zasi´gu korozji elementów konstrukcyjnych
+budowli,
+d) sprawdzenie aktualnych warunków posadowie-
+nia budowli na podstawie planów batymetrycz-
+nych akwenu, sprawozdania z badania dna
+i atestów badania podwodnego,
+e) okreÊlenie stanu dost´pnych elementów syste-
+mu noÊnego budowli oraz ich po∏àczeƒ,
+f) ustalenie wielkoÊci osiadaƒ, ugi´ç i przemiesz-
+czeƒ ca∏ych konstrukcji i ich elementów sk∏ado-
+wych,
+g) okreÊlenie stanu nawierzchni i zasypów za kon-
+strukcjà nabrze˝y,
+h) okreÊlenie dzia∏ania instalacji obni˝ajàcej po-
+ziom wody gruntowej za Êcianà nabrze˝a lub
+obrze˝a,
+i) sprawdzenie stanu elementów oraz podzespo-
+∏ów instalacji ochrony katodowej,
+j) sprawdzenie stanu technicznego umocnienia
+dna,
+k) okreÊlenie nat´˝enia i równomiernoÊci oÊwiet-
+lenia,
+l) okreÊlenie stanu technicznego ca∏oÊci wyposa-
+˝enia budowli morskiej;
+2) dla falochronów:
+a) przeprowadzenie badaƒ sonarowych i pomia-
+rów batymetrycznych akwenu, w pasie o sze-
+rokoÊci nie mniejszej ni˝ 3-krotna g∏´bokoÊç
+akwenu w miejscu posadowienia budowli i nie
+mniejszej ni˝ 20 m,
+b) ustalenie wielkoÊci ubytków materia∏ów zasy-
+powych i wype∏niajàcych,
+c) sprawdzenie aktualnych warunków posadowie-
+nia budowli na podstawie planów batymetrycz-
+nych akwenu, sprawozdania z badania dna
+i atestów badania podwodnego,
+d) ustalenie wielkoÊci przemieszczeƒ ca∏ych kon-
+strukcji i ich elementów sk∏adowych,
+e) okreÊlenie stanu technicznego ca∏oÊci wyposa-
+˝enia falochronów;
+3) dla dalb i innych samodzielnych konstrukcji cu-
+mowniczo-odbojowych:
+a) sprawdzenie stanu technicznego elementów
+noÊnych, w tym szczególnie stanu zabezpieczeƒ
+antykorozyjnych,
+b) okreÊlenie wyst´powania w promieniu 30 m
+wokó∏ budowli morskiej odchyleƒ od przyj´tej
+g∏´bokoÊci technicznej (H
+t
+),
+c) sprawdzenie po∏àczenia pali z konstrukcjà g∏o-
+wicowà,
+d) okreÊlenie stanu po∏àczeƒ elementów konstruk-
+cji g∏owicowej oraz zamocowaƒ urzàdzeƒ odbo-
+jowych lub cumowniczych,
+Dziennik Ustaw Nr 206
+— 10347 —
+Poz. 1516
+e) sprawdzenie stanu technicznego umocnienia
+dna,
+f) okreÊlenie stanu technicznego ca∏oÊci wyposa-
+˝enia;
+4) dla budowli ochrony brzegu morskiego:
+a) sprawdzenie aktualnych warunków posadowie-
+nia budowli,
+b) ustalenie wielkoÊci ubytków materia∏u narzuto-
+wego i zasypowego,
+c) okreÊlenie stanu ok∏adzin skarp,
+d) okreÊlenie stanu zu˝ycia elementów drewnia-
+nych i ˝elbetowych budowli,
+e) sprawdzenie, czy nie wyst´pujà przeg∏´bienia
+dna w obszarze wp∏ywu konstrukcji,
+f) sprawdzenie stanu konstrukcji i przemieszczeƒ
+opasek brzegowych,
+g) ustalenie wielkoÊci osiadaƒ i innych przemiesz-
+czeƒ pozosta∏ych budowli ochrony brzegu mor-
+skiego.
+2. Zakres kontroli okresowej, o
+której mowa
+w ust. 1, obejmuje równie˝ szczegó∏owe sprawdzenie
+stanu technicznego wyposa˝enia, urzàdzeƒ i instalacji
+budowli morskiej, ∏àcznie z ich zamocowaniami, os∏o-
+nami i przekryciami.
+§ 78. Przerwy w u˝ytkowaniu instalacji, urzàdzeƒ,
+wyposa˝enia lub ca∏ej budowli morskiej nie majà
+wp∏ywu na terminy przeprowadzania kontroli okreso-
+wych.
+§ 79. 1. Za pierwszà kontrol´ okresowà, o której
+mowa w art. 62 ust. 1 pkt 2 ustawy, uznaje si´ spraw-
+dzenie budowli podczas odbioru po∏àczonego z prze-
+kazaniem do u˝ytkowania.
+2. Poza stwierdzeniem prawid∏owego dzia∏ania
+wszystkich instalacji i urzàdzeƒ technicznych nale˝y
+uzyskaç wyniki wszystkich pomiarów wyjÊciowych pa-
+rametrów podlegajàcych monitoringowi i opisaç zda-
+rzenia, warunki i okolicznoÊci wyst´pujàce w trakcie
+tych pomiarów.
+3. Je˝eli w okresie wykonywania budowli morskiej
+przeprowadzano pomiary geodezyjne, konieczne jest
+do∏àczenie tych pomiarów do wyników pomiaru wyj-
+Êciowego wraz z opisem zdarzeƒ i okolicznoÊci wyst´-
+pujàcych w momencie dokonanego pomiaru.
+§ 80. Wyniki kontroli okresowej przedstawia si´
+w protokole kontroli okresowej, w którym zamieszcza
+si´ wykaz koniecznych robót budowlanych, ich rodzaj
+i zakres oraz uzasadnienie zaleconych terminów wy-
+konania.
+§ 81. 1. W przypadku wystàpienia nieprzewidywa-
+nych zdarzeƒ, a w szczególnoÊci gdy:
+1) wystàpi∏a kl´ska ˝ywio∏owa, wskutek której bu-
+dowla morska uleg∏a uszkodzeniu,
+2) dosz∏o do kolizji jednostki p∏ywajàcej z budowlà
+morskà,
+3) wystàpi∏o w obszarze wp∏ywu budowli morskiej
+nag∏e przeg∏´bienie dna, 
+4) stan techniczny konstrukcji budowli morskiej budzi
+powa˝ne zastrze˝enia z punktu widzenia jej noÊno-
+Êci lub statecznoÊci
+— w∏aÊciciel lub zarzàdca budowli morskiej obowià-
+zany jest do przeprowadzenia kontroli nadzwyczaj-
+nej, realizowanej przez osoby posiadajàce uprawnie-
+nia budowlane do projektowania lub kierowania ro-
+botami budowlanymi albo rzeczoznawców budowla-
+nych.
+2. Kontrola nadzwyczajna wymagana jest równie˝,
+gdy:
+1) protokó∏ kontroli okresowej zabrania dalszego
+zgodnego z przeznaczeniem u˝ytkowania budowli
+morskiej lub jej elementów;
+2) planowana jest zmiana warunków lub sposobu
+u˝ytkowania budowli morskiej.
+3. Zakres kontroli nadzwyczajnej oraz wymagane
+badania okreÊlajà osoby posiadajàce uprawnienia,
+o których mowa w ust. 1, tak, aby koƒcowym wyni-
+kiem by∏a ocena techniczna, dotyczàca w szczególno-
+Êci przydatnoÊci budowli morskiej do dalszego u˝ytko-
+wania, warunków dalszego u˝ytkowania, a tak˝e do-
+puszczalnych obcià˝eƒ i napr´˝eƒ.
+§ 82. Kontrola sprawnoÊci dzia∏ania instalacji
+ochrony katodowej stalowych elementów konstruk-
+cyjnych budowli morskich, g∏ównie pali, paloÊcianki
+i Êcianki szczelnej, powinna polegaç na wykonaniu po-
+miarów potencja∏u elektrochemicznego oraz spraw-
+dzeniu zamocowania anod.
+DZIA¸ IV
+Dokumentowanie warunków u˝ytkowania
+budowli morskiej
+Rozdzia∏ 1
+Wymagania ogólne
+§ 83. 1. Dokumentacj´ u˝ytkowania budowli mor-
+skiej stanowià:
+1) dokumentacja budowy i powykonawcza;
+2) dokumentacja przejmowania budowli morskich
+do u˝ytkowania;
+3) dokumentacja odbioru budowli morskiej;
+4) ksià˝ka obiektu budowlanego;
+5) instrukcja u˝ytkowania oraz konserwacji maszyn
+i urzàdzeƒ, w jakie wyposa˝ona jest budowla mor-
+ska;
+Dziennik Ustaw Nr 206
+— 10348 —
+Poz. 1516
+6) decyzja o pozwoleniu na u˝ytkowanie budowli
+morskiej;
+7) decyzja o zmianie sposobu u˝ytkowania budowli
+morskiej lub jej cz´Êci;
+8) sporzàdzone w ca∏ym okresie u˝ytkowania danej
+budowli morskiej:
+a) ekspertyzy stanu technicznego ca∏ej budowli
+morskiej lub jej cz´Êci wykonane przez osoby
+uprawnione,
+b) opinie oraz oceny stanu technicznego ca∏ej 
+budowli morskiej lub jej cz´Êci, wykonane
+i sprawdzone przez osoby posiadajàce upraw-
+nienia, okreÊlone w ustawie, w specjalnoÊci
+odpowiadajàcej zakresowi opinii,
+c) projekty opracowane w okresie u˝ytkowania
+budowli,
+d) protoko∏y kontroli okresowych, 
+e) protoko∏y badaƒ, pomiarów i sprawdzeƒ spo-
+rzàdzone w ca∏ym okresie u˝ytkowania budow-
+li morskiej,
+f) protoko∏y okresowych pomiarów agresywno-
+Êci korozyjnej Êrodowiska, post´pu procesów
+korozyjnych i skutecznoÊci zabezpieczeƒ anty-
+korozyjnych,
+g) projekty lub programy d∏ugoletnich badaƒ
+przemieszczeƒ poziomych i pionowych budow-
+li morskiej, a tak˝e wyniki i analizy badaƒ tych
+przemieszczeƒ,
+h) plany batymetryczne akwenu okreÊlonego dla
+danej budowli morskiej,
+i) atesty czystoÊci dna,
+j) sprawozdanie z badania dna,
+k) atesty badaƒ podwodnych podwodnej cz´Êci
+budowli morskiej,
+l) analizy chemiczne prób osadów dennych,
+m) inne dokumenty dotyczàce zagadnieƒ technicz-
+nych lub eksploatacyjnych sporzàdzane w ca-
+∏ym okresie u˝ytkowania budowli morskiej.
+2. Dokumentacj´, o której mowa w ust. 1, nale˝y
+przechowywaç w warunkach zapewniajàcych jej przy-
+datnoÊç do u˝ytku oraz mo˝liwoÊç natychmiastowego
+wykorzystania w ca∏ym okresie u˝ytkowania budowli
+morskiej.
+§ 84. W przypadku zagini´cia lub zniszczenia doku-
+mentacji budowy i dokumentacji powykonawczej w∏a-
+Êciciel lub zarzàdca budowli morskiej ma obowiàzek
+sporzàdzenia inwentaryzacji budowli oraz ekspertyzy
+technicznej lub przeprowadzenia próbnego obcià˝enia
+budowli morskiej w celu okreÊlenia aktualnych para-
+metrów techniczno-u˝ytkowych oraz warunków dal-
+szego u˝ytkowania takiej budowli.
+Rozdzia∏ 2
+Dokumentowanie przejmowania budowli morskich
+do u˝ytkowania
+§ 85. 1. Przed przekazaniem budowli morskiej u˝yt-
+kownikowi w∏aÊciciel tej budowli powinien w szcze-
+gólnoÊci:
+1) zapewniç przy∏àczenie budowli morskiej do insta-
+lacji i sieci, zasilajàcych t´ budowl´ w media takie,
+jak: energia elektryczna, telekomunikacja, gazy
+techniczne, olej bunkrowy, spr´˝one powietrze,
+para wodna, woda pitna, technologiczna i do ce-
+lów przeciwpo˝arowych;
+2) ustawiç tablice okreÊlajàce wielkoÊç dopuszczal-
+nego obcià˝enia naziomu lub konstrukcji budowli
+morskiej, z okreÊleniem szerokoÊci pasa lub ob-
+szaru, w którym ma byç ona zachowana;
+3) ustawiç tablice zakazu kotwiczenia jednostek p∏y-
+wajàcych, spe∏niajàce wymagania Polskiej Normy,
+oraz zapewniç ich w∏aÊciwe oÊwietlenie, od zacho-
+du do wschodu s∏oƒca, w przypadku budowli mor-
+skiej: 
+a) przez którà do przyleg∏ego akwenu przechodzà
+wszelkiego rodzaju kable lub rurociàgi,
+b) przy której wykonane jest umocnienie dna;
+4) zapewniç wykonanie i ustawienie tablic informa-
+cyjnych o maksymalnej wysokoÊci statków mogà-
+cych przep∏ywaç pod przewodami napowietrzny-
+mi przechodzàcymi nad okreÊlonymi budowlami
+morskimi lub akwenami;
+5) wystawiç oznakowanie nawigacyjne zgodne z wy-
+mogami projektu budowlanego.
+2. Spe∏nienie wymogów wymienionych w ust. 1
+nale˝y potwierdziç pisemnie. 
+§ 86. 1. W przypadku zmiany w∏aÊciciela budowli
+morskiej w czasie jej u˝ytkowania dotychczasowy w∏a-
+Êciciel budowli morskiej przekazuje nowemu w∏aÊci-
+cielowi kompletnà dokumentacj´ u˝ytkowania danej
+budowli.
+2. W przypadku braków w dokumentacji, o której
+mowa w ust. 1, obowiàzek jej uzupe∏nienia cià˝y na
+dotychczasowym w∏aÊcicielu budowli morskiej.
+§ 87. 1. Warunki u˝ytkowania budowli morskiej
+wymagajà udokumentowania aktualnego stanu przy-
+leg∏ego obszaru gruntów pokrytych wodami oraz ak-
+tualnego stanu podwodnej cz´Êci budowli morskiej.
+2. Wymaganymi dokumentami potwierdzajàcymi
+stan, o którym mowa w ust. 1, sà: 
+1) plan batymetryczny akwenu;
+2) atest badania podwodnego;
+3) sprawozdanie z badania dna;
+4) atest czystoÊci dna.
+Dziennik Ustaw Nr 206
+— 10349 —
+Poz. 1516
+Rozdzia∏ 3
+Plan batymetryczny akwenu
+§ 88. 1. Plan batymetryczny akwenu jest zapisem
+wykonanych pomiarów hydrograficznych, opracowa-
+nym zgodnie z obowiàzujàcymi przepisami s∏u˝by hy-
+drograficznej, s∏u˝àcym w szczególnoÊci do ustalenia:
+1) g∏´bokoÊci nawigacyjnej (H
+n
+);
+2) g∏´bokoÊci nawigacyjnej aktualnej (H
+na
+);
+3) przeg∏´bieƒ dna;
+4) sp∏yceƒ dna.
+2. Dok∏adnoÊç pomiarów batymetrycznych wyko-
+rzystywanych do opracowania planu batymetryczne-
+go nie mo˝e byç mniejsza ni˝ okreÊlona w obowiàzu-
+jàcych przepisach, o których mowa w ust. 1. 
+§ 89. 1. Plan batymetryczny akwenu jest wykorzy-
+stywany przez w∏aÊciciela, zarzàdc´ lub u˝ytkownika
+budowli morskiej oraz przez w∏aÊciwe organy przy
+okreÊlaniu statecznoÊci tych budowli. 
+2. Wyró˝nia si´ nast´pujàce rodzaje planów baty-
+metrycznych akwenu:
+1) okresowe;
+2) kontrolne;
+3) awaryjne.
+§ 90. 1. Okresowe plany batymetryczne akwenu
+sporzàdza si´: 
+1) co 2 lata — przy nieregularnym u˝ytkowaniu akwe-
+nów i budowli morskich oraz dla stoczniowych
+konstrukcji hydrotechnicznych;
+2) co 1 rok — przy regularnym u˝ytkowaniu akwe-
+nów i budowli morskich, w tym budowli przezna-
+czonych do prze∏adunku towarów i ∏adunków
+drobnicowych, masowych i kontenerów;
+3) w okresie krótszym ni˝ rok:
+a) przy intensywnym u˝ytkowaniu akwenów i bu-
+dowli morskich, przy których odbywa si´ prze-
+∏adunek ∏adunków masowych luzem oraz gdy
+∏adunek ten wpada do akwenu i mogà wystàpiç
+du˝e sp∏ycenia dna,
+b) przy budowlach morskich wchodzàcych w sk∏ad
+terminali pasa˝erskich, promowych, paliwo-
+wych, gazowych oraz paliwowo-gazowych,
+c) w przypadku koniecznoÊci u˝ytkowania budow-
+li morskiej b´dàcej w stanie przedawaryjnym,
+d) dla stanowisk stacji prób statków na uwi´zi.
+2. Ustalenie okresu krótszego ni˝ rok, o którym
+mowa w ust. 1 pkt 3, nale˝y okreÊliç w dokumentach
+kontroli okresowych. 
+§ 91. Kontrolne lub awaryjne plany batymetryczne
+akwenu nale˝y wykonywaç w przypadku: 
+1) wykonania robót czerpalnych;
+2) wykonania robót zasypowych, w celu likwidacji
+przeg∏´bieƒ dna;
+3) koniecznoÊci uzyskania decyzji o zmianie sposobu
+u˝ytkowania budowli morskiej, w szczególnoÊci
+przed obcià˝eniem budowli morskiej dêwignicà
+wywo∏ujàcà wi´ksze lub bardziej niekorzystne ob-
+cià˝enia;
+4) stwierdzenia u˝ycia Êruby przez statek zacumowa-
+ny do budowli morskiej, nieprzystosowanej do ta-
+kiego u˝ytkowania;
+5) po ka˝dym sztormie, który wywo∏a∏ okreÊlone
+w dokumentacji maksymalne falowanie na akwe-
+nie przy morskiej budowli hydrotechnicznej —
+w szczególnoÊci dla falochronów;
+6) ka˝dorazowo po zaistnia∏ej awarii budowli mor-
+skiej.
+§ 92. Dla zapewnienia bezpieczeƒstwa ˝eglugi jed-
+nostek p∏ywajàcych w∏aÊciwe sà wy∏àcznie plany ba-
+tymetryczne akwenu wykonane lub sprawdzone, na
+podstawie przepisów odr´bnych, przez w∏aÊciwe urz´-
+dy morskie albo Biuro Hydrograficzne Marynarki Wo-
+jennej.
+Rozdzia∏ 4
+Atest badania podwodnego
+§ 93. Kwalifikacje zawodowe osób wykonujàcych
+roboty podwodne zwiàzane z uzyskaniem atestów ba-
+dania podwodnego okreÊlajà odr´bne przepisy.
+§ 94. 1. Atest badania podwodnego z badaƒ pod-
+wodnej cz´Êci budowli morskiej powinien zawieraç 
+inwentaryzacj´ podwodnej cz´Êci budowli morskiej
+i ocen´ wyników tej inwentaryzacji oraz stwierdzaç,
+czy podwodne elementy konstrukcji budowli morskiej
+sà wykonane zgodnie z projektem budowlanym lub
+projektem budowlano-wykonawczym i znajdujà si´
+w okreÊlonym stanie technicznym oraz czy nie stano-
+wià zagro˝enia dla bezpieczeƒstwa kad∏ubów jedno-
+stek p∏ywajàcych obs∏ugiwanych przy tej budowli.
+2. Atest badania podwodnego powinien zawieraç
+w szczególnoÊci potwierdzenie:
+1) szczelnoÊci Êcianki szczelnej albo paloÊcianki, z do-
+k∏adnym przedstawieniem w cz´Êci rysunkowej,
+stanowiàcej integralnà cz´Êç atestu:
+a) rz´dnej dna, do jakiej zbadano szczelnoÊç Êcian-
+ki szczelnej lub paloÊcianki, wraz ze wszystkimi
+przejÊciami Êciàgów, rurociàgów, kabli i innych
+instalacji, oraz
+b) szkicowego planu sytuacyjnego z metra˝em
+Êcianki lub paloÊcianki oraz z okreÊleniem po-
+czàtku i kierunku prowadzenia badaƒ i pomia-
+rów;
+2) braku wystajàcych podwodnych elementów kon-
+strukcji budowli morskiej poza lico odwodnej Êcia-
+ny nadbudowy budowli morskiej, a tak˝e resztek
+konstrukcji mocujàcych deskowanie, które mog∏y-
+by uszkodziç kad∏ub jednostki p∏ywajàcej;
+Dziennik Ustaw Nr 206
+— 10350 —
+Poz. 1516
+3) braku uszkodzeƒ i odkszta∏ceƒ pali usytuowanych
+pod wodà;
+4) w∏aÊciwego wykonania ca∏oÊci umocnienia dna,
+wraz z okreÊleniem rz´dnych, wymiarów i ewentu-
+alnego nachylenia konstrukcji tego umocnienia, 
+ze szczególnym uwypukleniem wyników badaƒ
+szczelnoÊci styku po∏àczenia umocnienia dna ze
+Êciankà szczelnà, paloÊciankà i palami oraz badaƒ
+stanu zewn´trznej kraw´dzi konstrukcji umocnie-
+nia dna.
+3. Atest badania podwodnego sporzàdzany w cza-
+sie u˝ytkowania budowli morskiej powinien zawieraç
+ponadto informacje dotyczàce stanu technicznego
+podwodnych elementów konstrukcyjnych budowli
+morskich oraz okreÊlaç rodzaj, stopieƒ, obszar i miej-
+sce wyst´powania korozji, a tak˝e stan podwodnych
+zabezpieczeƒ pow∏okowych i stopieƒ zu˝ycia elemen-
+tów instalacji ochrony katodowej.
+4. Atest badania podwodnego sporzàdzany po wy-
+konaniu robót czerpalnych, majàcych na celu pog∏´-
+bienie dna akwenu przy budowli morskiej, a zwiàza-
+nych z ustaleniem nowej g∏´bokoÊci technicznej (H
+t
+),
+powinien tak˝e okreÊlaç szczelnoÊç i stan techniczny
+Êcianki szczelnej, paloÊcianki, pali lub innego rodzaju
+fundamentu budowli morskiej w miejscu ods∏oni´tym
+w czasie tych robót czerpalnych, z zastrze˝eniem ust. 2
+pkt 1.
+Rozdzia∏ 5
+Sprawozdanie z badania dna
+§ 95. Sprawozdanie z badania dna powinno stano-
+wiç dokument oparty na materia∏ach z realizacji prac
+przeprowadzonych przynajmniej jednym z wymienio-
+nych sposobów:
+1) tra∏owanie hydrograficzne (tra∏y mechaniczne);
+2) tra∏owanie hydroakustyczne (sonary, echosondy
+wielowiàzkowe i wieloprzetwornikowe);
+3) inspekcja Êrodkami telewizji podwodnej.
+§ 96. 1. Sprawozdanie z badania dna wymaga udo-
+kumentowania w formie opisowej i kartograficznej,
+przedstawiajàcej przetra∏owany lub przebadany ob-
+szar dna.
+2. W przypadku wykrycia przeszkód podwodnych
+dokument, o którym mowa w ust. 1, wymaga nanie-
+sienia ich po∏o˝enia oraz do∏àczenia udokumentowa-
+nego opisu wykrytych przeszkód podwodnych.
+§ 97. 1. Sprawozdanie z badania dna opartego na
+tra∏owaniu hydrograficznym w obr´bie budowli mor-
+skich wyposa˝onych w umocnienie dna nie mo˝e obej-
+mowaç obszaru umocnienia dna oraz przyleg∏ego do
+niego pasa o szerokoÊci 10 m. 
+2. Pas dna, o którym mowa w ust. 1, nieobj´ty tra-
+∏owaniem hydrograficznym wymaga sprawozdania
+z badania dna opartego na badaniu przez nurka lub
+Êrodkami telewizji podwodnej.
+§ 98. Sprawozdanie z badania dna akwenu sporzà-
+dza si´:
+1) w zwiàzku z przekazaniem do u˝ytkowania nowej
+budowli morskiej przeznaczonej do obs∏ugi jedno-
+stek p∏ywajàcych; 
+2) w zwiàzku z odbiorem i przekazaniem do u˝ytko-
+wania istniejàcej budowli morskiej przeznaczonej
+do obs∏ugi jednostek p∏ywajàcych, je˝eli dokona-
+no ich przebudowy, monta˝u, remontu lub adapta-
+cji, po∏àczonych z robotami rozbiórkowymi prowa-
+dzonymi od strony odwodnej kraw´dzi budowli
+morskiej;
+3) przed dokonaniem okresowej kontroli istniejàcej
+budowli morskiej, przeprowadzanej co najmniej
+raz na 5 lat.
+§ 99. Dla celów u˝ytkowania budowli morskich za-
+pewniajàcego bezpieczeƒstwo ˝eglugi jednostek p∏y-
+wajàcych w∏aÊciwe jest wy∏àcznie sprawozdanie z ba-
+dania dna wykonane lub sprawdzone, na podstawie
+przepisów odr´bnych, przez w∏aÊciwe terytorialnie
+urz´dy morskie albo Biuro Hydrograficzne Marynarki
+Wojennej.
+Rozdzia∏ 6
+Atest czystoÊci dna
+§ 100. Atest czystoÊci dna przy budowli morskiej jest
+dokumentem okreÊlajàcym, ˝e pas dna o szerokoÊci
+okreÊlonej przez upowa˝nionego przedstawiciela w∏aÊ-
+ciwego terytorialnie urz´du morskiego zosta∏ sprawdzo-
+ny i ˝e nie znajdujà si´ na nim ˝adne przeszkody ograni-
+czajàce eksploatacj´ budowli morskiej bàdê zagra˝ajàce
+bezpieczeƒstwu jednostek p∏ywajàcych.
+§ 101. Atest czystoÊci dna jest sporzàdzany na
+podstawie:
+1) sprawozdania z badania dna wykonanego po usu-
+ni´ciu wczeÊniej rozpoznanych przeszkód lub
+2) sprawozdania z badania dna okreÊlajàcego rozpo-
+znane przeszkody oraz dokumentów stwierdzajà-
+cych usuni´cie przeszkód, okreÊlajàcych miejsce
+ich z∏o˝enia na làdzie oraz osob´ fizycznà lub
+prawnà, której przekazano usuni´te przeszkody.
+DZIA¸ V
+Przepisy przejÊciowe, dostosowujàce 
+i koƒcowe
+§ 102. Dla u˝ytkowanych przed dniem wejÊcia
+w ˝ycie rozporzàdzenia budowli morskich, w terminie
+3 lat od dnia wejÊcia w ˝ycie rozporzàdzenia, nale˝y:
+1) sporzàdziç projekt lub program d∏ugoletnich ba-
+daƒ przemieszczeƒ poziomych i pionowych bu-
+dowli morskich okreÊlonych w § 83 ust. 1 pkt 8
+lit. g oraz za∏o˝yç sieç geodezyjnà do pomiaru tych
+przemieszczeƒ;
+2) wykonaç pierwszy pomiar geodezyjny przemiesz-
+czeƒ, o których mowa w pkt 1, zwany pomiarem
+wyjÊciowym.
+Dziennik Ustaw Nr 206
+— 10351 —
+Poz. 1516
+§ 103. Dokumentacja u˝ytkowa budowli morskiej
+u˝ytkowanej przed dniem wejÊcia w ˝ycie rozporzà-
+dzenia powinna zostaç dostosowana do wymogów
+okreÊlonych w niniejszym rozporzàdzeniu w terminie
+3 lat od dnia wejÊcia w ˝ycie niniejszego rozporzàdze-
+nia.
+§ 104. Rozporzàdzenie wchodzi w ˝ycie po up∏ywie
+3 miesi´cy od dnia og∏oszenia.
+Minister Gospodarki Morskiej: 
+R. Wiechecki
+Dziennik Ustaw Nr 206
+— 10352 —
+Poz. 1516

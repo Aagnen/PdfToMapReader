@@ -1,12 +1,16 @@
 import fitz  # library of PyMuPDF
 import re
 
+import MapGuides
+
+
 def get_bounding_box_spans(dictSpans, pad=0):
     bboxSelf = {}
     for span in dictSpans:
         page = span["page"]
         bbox = span["bbox"]
-        if not isinstance(page, int): continue
+        if not isinstance(page, int):
+            continue
         if page not in bboxSelf:
             bboxSelf[page] = bbox
         else:
@@ -15,22 +19,24 @@ def get_bounding_box_spans(dictSpans, pad=0):
                 min(current_bbox[0], bbox[0]),
                 min(current_bbox[1], bbox[1]),
                 max(current_bbox[2], bbox[2]),
-                max(current_bbox[3], bbox[3])
+                max(current_bbox[3], bbox[3]),
             ]
     for key, bbox in bboxSelf.items():
         bboxSelf[key] = [
-                round(bbox[0]-pad, 2),
-                round(bbox[1]-pad, 2),
-                round(bbox[2]+pad, 2),
-                round(bbox[3]+pad, 2)
-            ]
+            round(bbox[0] - pad, 2),
+            round(bbox[1] - pad, 2),
+            round(bbox[2] + pad, 2),
+            round(bbox[3] + pad, 2),
+        ]
     return bboxSelf
+
 
 def update_dict_box(original_dict, new_dict, pad=0):
     for key, new_bbox in new_dict.items():
-        if not isinstance(key, int): continue
+        if not isinstance(key, int):
+            continue
         elif not original_dict:
-           # Add the new key-value pair from new_dict to original_dict
+            # Add the new key-value pair from new_dict to original_dict
             original_dict[key] = new_bbox
         elif key in original_dict:
             # Compare and choose the bigger values for each coordinate
@@ -39,7 +45,7 @@ def update_dict_box(original_dict, new_dict, pad=0):
                 min(original_bbox[0], new_bbox[0]),
                 min(original_bbox[1], new_bbox[1]),
                 max(original_bbox[2], new_bbox[2]),
-                max(original_bbox[3], new_bbox[3])
+                max(original_bbox[3], new_bbox[3]),
             ]
             original_dict[key] = updated_bbox
         else:
@@ -47,13 +53,12 @@ def update_dict_box(original_dict, new_dict, pad=0):
             original_dict[key] = new_bbox
     for key, bbox in original_dict.items():
         original_dict[key] = [
-                round(bbox[0]-pad, 2),
-                round(bbox[1]-pad, 2),
-                round(bbox[2]+pad, 2),
-                round(bbox[3]+pad, 2)
-            ]
+            round(bbox[0] - pad, 2),
+            round(bbox[1] - pad, 2),
+            round(bbox[2] + pad, 2),
+            round(bbox[3] + pad, 2),
+        ]
     return original_dict
-
 
 
 def pdf_to_map(map_guide):
@@ -65,7 +70,7 @@ def pdf_to_map(map_guide):
 
     # ----------------- OPEN FILE ----------------- #
     pdf_fitz = fitz.open(
-        f"{map_guide['paths']['file_open_path']}/{map_guide['file_name']}.pdf"
+        f"{MapGuides.paths['file_open_path']}/{map_guide['file_name']}.pdf"
     )
 
     # ----------------- READ FILE ----------------- #
@@ -76,6 +81,9 @@ def pdf_to_map(map_guide):
 
         # ----------------- TXT FILE ----------------- #
         for block in dict_pdf["blocks"]:
+            if "lines" not in block:
+                # print("Block without lines")
+                continue  # skip blocks without lines
             try:
                 for line in block["lines"]:
                     for span in line["spans"]:
@@ -86,16 +94,34 @@ def pdf_to_map(map_guide):
 
         # ----------------- MAP FILE ----------------- #
         # loop over all text fragments
-        for block in dict_pdf["blocks"]:
-            if "lines" not in block: 
-                print("Block without lines:")
+        for block_index, block in enumerate(dict_pdf["blocks"]):
+            if "lines" not in block:
+                # print("Block without lines")
                 continue  # skip blocks without lines
+
             for line in block["lines"]:
                 for span in line["spans"]:
                     # If the text is too small, leave it out
-                    if int(span["size"]) < map_guide["main_text_font_size"]:
+                    if span["size"] < map_guide["main_text_font_size"]:
                         # print("Text too small:", span["size"])
                         continue
+
+                    # skip empty spans
+                    if not span["text"].strip() or span["text"] == "﻿":
+                        continue
+
+                    if (
+                        re.match(r"\s*Dziennik Ustaw\s*", span["text"])
+                        or re.match(r"\s*–\s\d{1,3}\s–\s*", span["text"])
+                        or re.match(r"\s*Poz.\s\d+\s*", span["text"])
+                        or re.match(r"\s*\d{4}-\d{2}-\d{2}\s*", span["text"])
+                    ):
+                        print("skipping header span:", span["text"])
+                        continue
+
+                    if re.match(r"\s*Rozdział \d+\s*", span["text"]):
+                        print("reached Rozdział:", span["text"])
+                        break
 
                     # ----------------- FIND DELIMITER ----------------- #
                     # check if any of the delimiter patterns match and adjust the currentPath based on found matches
@@ -103,15 +129,19 @@ def pdf_to_map(map_guide):
                         match = re.match(
                             map_guide["depth_patterns"][depth], span["text"]
                         )
-                        if match: # if found any appropriate delimiter
+                        if match:  # if found any appropriate delimiter
                             # if there are missing levels replace them with zeros
                             if len(current_path) < depth:
                                 current_path = current_path + [
                                     "0" for _ in range(depth - len(current_path))
                                 ]
-                            current_path = current_path[:depth] + [match.group(1)] #  updates current_path to include the new level identified by the regex match
-                            break # when found, break looking for delimiter pattern
-                    
+                            # Replace all whitespace with a single space
+                            matched_text = re.sub(r"\s+", " ", match.group(1))
+                            current_path = current_path[:depth] + [
+                                matched_text
+                            ]  #  updates current_path to include the new level identified by the regex match
+                            break  # when found, break looking for delimiter pattern
+
                     if not len(current_path):
                         continue
 
@@ -123,9 +153,10 @@ def pdf_to_map(map_guide):
                         nested_dict = nested_dict[key]
 
                     new_span = {
-                        "text": span["text"],
+                        "text": re.sub(r"\s+", " ", span["text"]).replace("\u0007", ""),
                         "page": page_num,
                         "bbox": span["bbox"],
+                        # "size": span["size"],
                     }
 
                     if current_path[-1] in nested_dict:
@@ -134,35 +165,58 @@ def pdf_to_map(map_guide):
                         nested_dict[current_path[-1]] = {"spans": [new_span]}
     # ----------------- ADD BBoxSelf and BBoxSelfAndChildren ----------------- #
     for level1 in res:
-        if not isinstance(res[level1], dict): continue
-        if "spans" in res[level1]: res[level1]["bboxSelf"] = get_bounding_box_spans(res[level1]["spans"], 5)
+        if not isinstance(res[level1], dict):
+            continue
+        if "spans" in res[level1]:
+            res[level1]["bboxSelf"] = get_bounding_box_spans(res[level1]["spans"], 5)
         bboxSelfWithChildren1 = {}
 
         for level2 in res[level1]:
-            if level2 == "bboxSelf": continue
-            if not isinstance(res[level1][level2], dict): continue
-            if "spans" in res[level1][level2]: res[level1][level2]["bboxSelf"] = get_bounding_box_spans(res[level1][level2]["spans"], 5)
+            if level2 == "bboxSelf":
+                continue
+            if not isinstance(res[level1][level2], dict):
+                continue
+            if "spans" in res[level1][level2]:
+                res[level1][level2]["bboxSelf"] = get_bounding_box_spans(
+                    res[level1][level2]["spans"], 5
+                )
             bboxSelfWithChildren2 = {}
 
             for level3 in res[level1][level2]:
-                if level3 == "bboxSelf": continue
-                if not isinstance(res[level1][level2][level3], dict): continue
+                if level3 == "bboxSelf":
+                    continue
+                if not isinstance(res[level1][level2][level3], dict):
+                    continue
                 if "spans" in res[level1][level2][level3]:
-                    res[level1][level2][level3]["bboxSelf"] = get_bounding_box_spans(res[level1][level2][level3]["spans"], 5)
-                    bboxSelfWithChildren2 = update_dict_box(bboxSelfWithChildren2, res[level1][level2][level3]["bboxSelf"])
-                    #print(f"{level1}:{level2}:{level3}: {bboxSelfWithChildren2}")
-            
-            if "spans" in res[level1][level2]: bboxSelfWithChildren2 = update_dict_box(bboxSelfWithChildren2, res[level1][level2]["bboxSelf"])
-            res[level1][level2]["bboxSelfWithChildren"] = bboxSelfWithChildren2
-            
-            bboxSelfWithChildren1 = update_dict_box(bboxSelfWithChildren1, res[level1][level2]["bboxSelfWithChildren"])
-        
-        if "spans" in res[level1]: bboxSelfWithChildren1 = update_dict_box(bboxSelfWithChildren1, res[level1]["bboxSelf"])
-        res[level1]["bboxSelfWithChildren"] = bboxSelfWithChildren1
-        
+                    res[level1][level2][level3]["bboxSelf"] = get_bounding_box_spans(
+                        res[level1][level2][level3]["spans"], 5
+                    )
+                    bboxSelfWithChildren2 = update_dict_box(
+                        bboxSelfWithChildren2, res[level1][level2][level3]["bboxSelf"]
+                    )
+                    # print(f"{level1}:{level2}:{level3}: {bboxSelfWithChildren2}")
 
-    with open(f"{map_guide['paths']['txt_save_path']}/{map_guide['file_name']}_text.txt", "w", encoding='utf-8') \
-            as outfile:
+            if "spans" in res[level1][level2]:
+                bboxSelfWithChildren2 = update_dict_box(
+                    bboxSelfWithChildren2, res[level1][level2]["bboxSelf"]
+                )
+            res[level1][level2]["bboxSelfWithChildren"] = bboxSelfWithChildren2
+
+            bboxSelfWithChildren1 = update_dict_box(
+                bboxSelfWithChildren1, res[level1][level2]["bboxSelfWithChildren"]
+            )
+
+        if "spans" in res[level1]:
+            bboxSelfWithChildren1 = update_dict_box(
+                bboxSelfWithChildren1, res[level1]["bboxSelf"]
+            )
+        res[level1]["bboxSelfWithChildren"] = bboxSelfWithChildren1
+
+    with open(
+        f"{MapGuides.paths['txt_save_path']}/{map_guide['file_name']}_text.txt",
+        "w",
+        encoding="utf-8",
+    ) as outfile:
         outfile.write(txt_text)
     print("Saved txt file")
     print("Created Map file")

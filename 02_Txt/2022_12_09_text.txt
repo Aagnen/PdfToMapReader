@@ -1,0 +1,4250 @@
+DZIENNIK USTAW
+RZECZYPOSPOLITEJ  POLSKIEJ
+Warszawa, dnia 23 grudnia 2022 r.
+Poz.
+ 2750
+ 2750
+ROZPORZĄDZENIE
+MINISTRA RODZINY I POLITYKI SPOŁECZNEJ
+1)
+z dnia 9 grudnia 2022 r.
+w sprawie statystycznej karty wypadku przy pracy
+2)
+Na podstawie art. 237 § 3 ustawy z dnia 26 czerwca 1974 r. – Kodeks pracy (Dz. U. z 2022 r. poz. 1510, 1700 i 2140) 
+zarządza się, co następuje:
+§ 1.
+ Rozporządzenie określa wzór statystycznej karty wypadku przy pracy, sposób i terminy jej sporządzania i przeka-
+zywania do właściwego urzędu statystycznego.
+§ 2.
+ Określa się wzór statystycznej karty wypadku przy pracy, o symbolu Z-KW, zwanej dalej „statystyczną kartą”, 
+stanowiący załącznik nr 1 do rozporządzenia.
+§ 3.
+ Statystyczną kartę sporządza się na podstawie zatwierdzonego protokołu ustalenia okoliczności i przyczyn wypadku 
+przy pracy, zwanego dalej „protokołem powypadkowym”, albo na podstawie karty wypadku, w których stwierdzono, że 
+wypadek jest wypadkiem przy pracy lub wypadkiem traktowanym na równi z wypadkiem przy pracy.
+§ 4.
+ Statystyczną kartę sporządza się według objaśnień, klasyfikacji i oznaczeń kodowych do wypełnienia tej karty, 
+które są określone w załączniku nr 2 do rozporządzenia.
+§ 5.
+ 1. Statystyczną kartę, z wyjątkiem jej części II, uzupełniającej, pracodawca sporządza i przekazuje w terminie 
+14 dni roboczych od dnia, w którym został zatwierdzony protokół powypadkowy lub w którym sporządzono kartę wypadku.
+2. Część II, uzupełniającą, statystycznej karty pracodawca sporządza i przekazuje nie później niż z upływem 6 miesięcy 
+od dnia zatwierdzenia protokołu powypadkowego lub od dnia sporządzenia karty wypadku.
+3. Statystyczną kartę przekazuje się w postaci elektronicznej na portal sprawozdawczy Głównego Urzędu Statystycznego.
+4. Pracodawca zatrudniający nie więcej niż 5 pracujących może przekazać oryginał statystycznej karty w formie papie-
+rowej do Urzędu Statystycznego w Gdańsku.
+1)
+	
+Minister Rodziny i Polityki Społecznej kieruje działem administracji rządowej – praca, na podstawie § 1 ust. 2 pkt 3 rozporządzenia 
+Prezesa Rady Ministrów z dnia 6 października 2020 r. w sprawie szczegółowego zakresu działania Ministra Rodziny i Polityki Spo-
+łecznej (Dz. U. z 2022 r. poz. 416).
+2)
+	
+Niniejsze rozporządzenie służy stosowaniu rozporządzenia Parlamentu Europejskiego i Rady (WE) nr 1338/2008 z dnia 16 grudnia 
+2008 r. w sprawie statystyk Wspólnoty w zakresie zdrowia publicznego oraz zdrowia i bezpieczeństwa w pracy (Dz. Urz. UE L 354 
+z 31.12.2008, str. 70) oraz rozporządzenia Komisji (UE) nr 349/2011 z dnia 11 kwietnia 2011 r. w sprawie wykonania, w odniesieniu 
+do statystyk dotyczących wypadków przy pracy, rozporządzenia Parlamentu Europejskiego i Rady (WE) nr 1338/2008 w sprawie 
+statystyk Wspólnoty w zakresie zdrowia publicznego oraz zdrowia i bezpieczeństwa w pracy (Dz. Urz. UE L 97 z 12.04.2011, str. 3 
+oraz Dz. Urz. UE L 261 I z 14.10.2019, str. 11 i Dz. Urz. UE L 305 z 25.11.2022, str. 58).
+Dziennik Ustaw	
+– 2 – 	
+Poz. 2750
+﻿
+§ 6.
+ Do wypadków przy pracy zgłoszonych przed dniem wejścia w życie niniejszego rozporządzenia stosuje się przepisy 
+dotychczasowe.
+§ 7.
+ Traci moc rozporządzenie Ministra Pracy i Polityki Społecznej z dnia 7 stycznia 2009 r. w sprawie statystycznej 
+karty wypadku przy pracy (Dz. U. poz. 80, z 2010 r. poz. 1440 i 1612 oraz z 2019 r. poz. 1106 i 1972).
+§ 8.
+ Rozporządzenie wchodzi w życie z dniem 1 stycznia 2023 r. 
+Minister Rodziny i Polityki Społecznej: 
+M. Maląg
+Dziennik Ustaw	
+– 3 – 	
+Poz. 2750
+﻿
+Dane pracodawcy 
+(nazwa i adres) 
+Z-KW 
+ 
+Statystyczna karta wypadku
+ 
+przy pracy 
+ 
+CZĘŚĆ I
+ 
+Portal sprawozdawczy GUS 
+portal.stat.gov.pl 
+ 
+ 
+ 
+Urząd Statystyczny
+ 
+80-
+434 Gdańsk, ul. Danusi 4
+ 
+Numer identyfikacyjny 
+–
+ 
+REGON
+ 
+ 
+Termin przekazania: 
+14 dni roboczych od dnia zatwierdzenia 
+protokołu powypadkowego lub
+ 
+sporządzenia
+ 
+karty wypadku
+ 
+Uwaga:
+ 
+1) 
+należy wstawić
+ 
+liczbę
+; 
+2)
+ 
+należy wstawić znak „x”
+ 
+we właściwej komórce
+; 
+3)
+ 
+należy wstawić kod z odpowiedniej klasyfikacji 
+ 
+Liczba pracujących
+ w
+ 
+jednostce 
+lokalnej
+ (bez przeliczenia na 
+pełny etat)
+1)
+ 
+ 
+
+ 
+wypadek przy pracy
+2)
+ 
+1 
+ 
+Kolejny nr statystycznej 
+karty wypadku przy pracy 
+w 
+zakładzie pracy od 
+początku roku
+1)
+ 
+ 
+
+ 
+wypadek traktowany 
+na równi 
+z wypadkiem przy pracy
+2)
+ 
+2 
+ 
+ 
+Jednostka lokalna nie posiada własnego numeru statystycznego REGON
+ i 
+posługuje się numerem statystycznym jednostki prawnej lub nastąpiły zmiany 
+dotyczące lokalizacji siedziby (miasta, gminy), PKD lub FW w okresie spr
+awozdawczym
+2)
+ 
+1. 
+ 
+Tak → rozpocząć od 
+poz. X1, X2, X3
+ 
+2. 
+ 
+Nie → rozpocząć od 
+poz. 01 
+Dodatkowe dane o jednostce lokalnej (np. jej oddziale, filii, sklepie, magazynie) w
+edłu
+g faktycznego miejsca pracy poszkodowanego
+3)
+ 
+X1 
+Miejscowość (gmina), na terenie której znajduje się jednostka
+ lokalna 
+ 
+ 
+ 
+ 
+ 
+ 
+X2 
+Rodzaj działalności wedłu
+g PKD 
+ 
+ 
+ 
+ 
+ 
+X3 
+Forma własności
+  
+ 
+ 
+Poz. 
+Rodzaj informacji 
+Kod lub liczba 
+Opis 
+Poszkodowany 
+01. 
+Płeć
+2)
+ 
+1 
+ 
+mężczyzna
+ 
+2 
+ 
+kobieta 
+02. 
+Rok urodzenia
+1)
+ 
+ 
+ 
+ 
+03. 
+Obywatelstwo
+3)
+ 
+ 
+ 
+04. 
+Status zatrudnienia
+3)
+ 
+ 
+ 
+05. 
+Zawód wykonywany
+3)
+ 
+ 
+ 
+ 
+ 
+06. 
+Staż na zajmowanym stanowisku pracy w zakładzie
+ pracy (w latach)
+1)
+ 
+ 
+ 
+ 
+ 
+07. 
+Godziny przepracowane od podjęcia pracy do chwili wypadku
+1)
+ 
+ 
+ 
+ 
+ 
+Skutki wypadku (znane w momencie wypełniania karty)
+ 
+08. 
+Rodzaj urazu
+3)
+ 
+ 
+ 
+09. 
+Umiejscowienie urazu
+3)
+ 
+ 
+ 
+ 
+ 
+10. 
+Liczba osób poszkodowanych
+1)
+ 
+ 
+ 
+11. 
+Skutki wypadku
+2)
+ 
+1
+ 
+ 
+śmierć osoby poszkodowanej
+ 
+2
+ 
+ 
+ciężkie uszkodzenie ciała
+ 
+3
+ 
+ 
+inne skutki 
+12. 
+Liczba dni niezdolności do pracy
+1)
+ 
+ 
+ 
+13. 
+Straty czasu pracy innych osób (w 
+roboczogodzinach)
+1)
+ 
+ 
+ 
+ 
+ 
+14. 
+Szacunkowe straty materialne spowodowane wypadkiem 
+–
+ 
+w tys. zł, z jednym 
+miejscem 
+po przecinku (bez strat związanych ze stratami czasu pracy)
+1)
+ 
+ 
+ 
+ 
+ 
+ 
+Załączniki do rozporządzenia Ministra Rodziny i Polityki 
+Społecznej z dnia 9 grudnia 2022 r. (Dz. U. poz. 2750)
+Załącznik nr 1
+WZÓR
+Dziennik Ustaw	
+– 4 – 	
+Poz. 2750
+﻿
+  
+Czy w
+ypadek wydarzył się w związku z 
+wykonywaniem pracy zorganizowanej w formie zdalnej lub telepracy?
+2)
+ 
+Z1 
+ 
+Tak 
+Z2 
+ 
+Nie 
+ 
+Poz. 
+Rodzaj informacji 
+Kod lub liczba 
+Opis 
+Wypadek i jego przebieg 
+15. 
+Położenie geograficzne miejsca wypadku
+3)
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+16. 
+Data wypadku: (rok, 
+miesiąc
+, 
+dzień
+)
+1)
+ 
+R 
+R 
+R 
+R 
+- 
+M M 
+- 
+D 
+D 
+ 
+17. 
+Godzina wypadku (0
+–
+23)
+1)
+ 
+ 
+ 
+ 
+18. 
+Miejsce powstania wypadku
+3)
+ 
+ 
+ 
+ 
+ 
+19. 
+Proces pracy
+3)
+ 
+ 
+ 
+ 
+20. 
+Rodzaj miejsca wypadku
+3)
+ 
+ 
+ 
+ 
+ 
+21. 
+Czynność wykonywana przez poszkodowanego w chwili wypadku
+3)
+ 
+ 
+ 
+ 
+22. 
+Czynnik materialny 
+związany z czynnością wykonywaną przez poszkodowanego w chwili 
+wypadku
+3)
+ 
+ 
+ 
+ 
+ 
+ 
+23. 
+Wydarzenie będące odchyleniem od stanu normalnego
+3)
+ 
+ 
+ 
+ 
+24. 
+Czynnik materialny związany z odchyleniem
+ od stanu normalnego
+3)
+ 
+ 
+ 
+ 
+ 
+ 
+25. 
+Wydarzenie powodujące 
+uraz
+3)
+ 
+ 
+ 
+ 
+26. 
+Czynnik materialny będący źródłem urazu
+3)
+ 
+ 
+ 
+ 
+ 
+ 
+27. 
+Przyczyny wypadku (należy podać wszystkie przyczyny)
+3)
+ 
+1 
+ 
+ 
+ 
+ 
+ 
+2 
+ 
+ 
+ 
+ 
+3 
+ 
+ 
+ 
+ 
+4 
+ 
+ 
+ 
+ 
+5 
+ 
+ 
+ 
+ 
+6 
+ 
+ 
+ 
+ 
+7 
+ 
+ 
+ 
+ 
+ 
+ 
+Dane kontaktowe pracodawcy lub osoby przez niego 
+upoważnionej (wyznaczonej)
+ 
+w zakresie sporządzonej 
+statystycznej karty wypadku przy pracy Z-KW 
+(służbowy adres e
+-
+mail lub służbowy numer telefonu)
+: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+(e-mail 
+–
+ 
+NALEŻY WYPEŁNIĆ WIELKIMI LITERAMI)
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+(numer telefonu) 
+ 
+ 
+ 
+_____________________________________________ 
+ 
+(data, miejscowość)
+ 
+ 
+ 
+ 
+ 
+ 
+Dziennik Ustaw	
+– 5 – 	
+Poz. 2750
+﻿
+  
+Dane pracodawcy 
+(nazwa i adres) 
+Z-KW 
+ 
+Statystyczna karta wypadku
+ 
+przy pracy 
+ 
+CZĘŚĆ II 
+ 
+(
+uzupełniająca
+) 
+Portal sprawozdawczy GUS 
+portal.stat.gov.pl 
+ 
+ 
+ 
+Urząd Statystyczny
+ 
+80-
+434 Gdańsk, ul. Danusi 4
+ 
+Numer identyfikacyjny 
+–
+ 
+REGON
+ 
+Termin przekazania: 
+do 6 miesięcy od 
+dnia zatwierdzenia 
+protokołu powypadkowego lub 
+od dnia 
+sporządzenia karty 
+wypadku 
+Uwaga:
+ 
+1)
+ 
+należy wstawić liczbę
+; 
+2)
+ 
+należy wstawić znak „x”
+ 
+16. 
+Data wypadku: (rok, 
+miesiąc
+, 
+dzień
+)
+1)
+ 
+R 
+R 
+R 
+R 
+- 
+M 
+M 
+- 
+D 
+D 
+Kolejny nr statystycznej karty 
+wypadku przy pracy w 
+zakładzie 
+pracy od początku roku
+1
+)
+ 
+ 
+Rzeczywiste skutki wypadku
+ 
+Poz. 
+Rodzaj informacji 
+Kod lub liczba 
+Opis 
+28. 
+Skutki wypadku
+2)
+ 
+1. 
+ 
+śmierć osoby poszkodowanej
+ 
+2. 
+ 
+ciężkie uszkodzenie ciała
+ 
+3. 
+ 
+inne skutki 
+29. 
+Liczba dni niezdolności do pracy (znana w momencie wypełniania części II karty)
+1)
+ 
+ 
+ 
+ 
+ 
+ 
+Dane 
+kontaktowe pracodawcy lub osoby przez niego upoważnionej (wyznaczonej) w zakresie sporządzonej 
+statystycznej karty wypadku przy pracy Z-KW 
+(służbowy adres e
+-
+mail lub służbowy numer telefonu):
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+(e-mail 
+–
+ 
+NALEŻY
+ 
+WYPEŁNIĆ
+ WIELKIMI LITERAMI) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+(numer telefonu) 
+ 
+ 
+ 
+ 
+ 
+_____________________________________________ 
+ 
+(data, miejscowość)
+ 
+ 
+ 
+Dziennik Ustaw	
+– 6 – 	
+Poz. 2750
+﻿
+ 
+ 
+Statystyczną kartę wypadku
+ 
+przy pracy
+ 
+Z-KW
+ 
+wypełnia się na podstawie:
+ 
+
+ 
+zatwierdzonego protokołu ustalenia okoliczności i przyczyn wypadku przy pracy
+, 
+w 
+którym stwierdzono, że wypadek jest wypadkiem przy pracy lub wypadkiem traktowanym
+ 
+na równi z
+ 
+wypadkiem przy pracy, sporządzonego według wzoru określonego w przepisach 
+w
+ydanych na podstawie art. 237 §
+ 2 ustawy z dnia 26 czerwca 1974 r. 
+–
+ Kodeks pracy 
+(Dz. U. z 2022 r. poz. 1510
+, z późn. zm.)
+ 
+lub 
+
+ 
+karty wypadku, sporządzonej według wzoru określonego w przepisach wydanych na 
+podstawie art. 5 ust. 4 
+ustawy z dnia 30 października 2002 r. o ubezpieczeniu społecznym 
+z 
+tytułu wypadków przy pracy i chorób zawodowych (Dz. U. z 
+2022 r. poz. 2189). 
+Za wypadek przy pracy uważa się zdarzenie, o którym mowa w
+ art. 3 ustawy z dnia 
+30 
+października 2002 r. o ubezpieczeniu społecznym z tytułu wypadków przy pracy i chorób 
+zawodowych. 
+ 
+Liczba pracujących
+ w jednostce lokalnej
+ 
+(bez przeliczenia na pełny etat
+) 
+według
+ faktycznego 
+miejsca pracy poszkodowanego w dniu zaistnienia zdarzenia. 
+Do 
+pracujących zalicza się:
+ 
+1)
+ 
+osoby zatrudnione na podstawie stosunku pracy (umowa 
+o pracę, powołani
+e, 
+wybór, 
+mianowanie) 
+lub stosunku służbowego oraz osoby zatrudnione za granicą na rzecz 
+jednostek krajowych; 
+2)
+ 
+pracodawców i pracujących na własny rachunek:
+ 
+a)
+ 
+właścicieli, 
+współwłaścicieli 
+i 
+dzierżawców 
+gospodarstw 
+indywidualnych 
+w 
+rolnictwie (łącznie z pomagającymi członkami ich rodzin),
+ 
+b)
+ 
+właścicieli i współwłaścicieli (łącznie z pomagającymi członkami ich rodzin
+; 
+z 
+wyłączeniem wspólników spółek, którzy nie pracują w spółce
+) 
+podmiotów 
+prowad
+zących działalność gospodarczą
+ poza gospodarstwami indywidualnymi 
+w rolnictwie, 
+c)
+ 
+inne 
+osoby pracujące na własny rachunek, np. osoby wykonujące wolne zawody
+ 
+(np. architekt, lekarz, adwokat); 
+3)
+ 
+osoby wykonujące pracę nakładczą
+; 
+4)
+ 
+agentów
+; 
+5)
+ 
+członków spółdzielni pro
+dukcji rolnej 
+(rolniczych spółek produkcyjnych oraz powstałych 
+na ich bazie spółdzielni o innym profilu produkcyjnym, w odniesieniu do których 
+funkcjonuje prawo spółdzielcze)
+, 
+a także
+ 
+członków spółdzielni kółek rolniczych;
+ 
+6)
+ 
+duchownych pełniących obowiązki d
+uszpasterskie. 
+Do pracujących nie zalicza się:
+ 
+1)
+ 
+osób zatrudnionych na podstawie umowy o pracę w celu przygotowania zawodowego
+; 
+2)
+ 
+uczniów szkół 
+oraz 
+studentów uczelni odbywających pr
+aktyki wakacyjne lub 
+dyplomowe; 
+3)
+ 
+osób wykonujących pracę na podstawie umo
+wy 
+zlecenia lub umowy o dzieło;
+ 
+4)
+ 
+osób przebywających na urlopach wychowawczych w wymiarze powyżej 3 miesięcy 
+(nieprzerwanie); 
+Załącznik nr 2
+OBJAŚNIENIA, KLASYFIKACJE I OZNACZENIA KODOWE DO WYPEŁNIENIA STATYSTYCZNEJ KARTY 
+WYPADKU PRZY PRACY Z-KW
+Dziennik Ustaw	
+– 7 – 	
+Poz. 2750
+﻿
+ 
+ 
+5)
+ 
+osób, którym udzielono urlopów bezpłatnych w wymiarze powyżej 3 miesięcy
+ 
+(nieprzerwanie); 
+6)
+ 
+osób pobierających świadczenie 
+rehabilitacyjne; 
+7)
+ 
+osób zatrudnionych na kontraktach, których umowa nie ma charakteru umowy o pracę.
+ 
+Liczba 
+pracujących
+ 
+–
+ klasyfikacja i oznaczenia kodowe 
+Liczba pracujących
+ 
+Kod 
+Osoba prowadząca działalność na własny rachunek niezatrudniająca 
+pracowników
+ 
+0 
+0
+–9 pracujących (bez przeliczenia na pełny etat)
+ 
+1 
+10
+–49 pracujących (bez przeliczenia na pełny etat)
+ 
+2 
+50
+–249 pracujących (bez przeliczenia na pełny etat)
+ 
+3 
+250
+–499 pracujących (bez przeliczenia na pełny etat)
+ 
+4 
+500 lub więcej pracujących (bez przeliczenia na pełny etat)
+ 
+5 
+Nieznana liczba pracujących
+ 
+9 
+ 
+Jednostka lokalna 
+jest to zorganizowana całość (zakład, oddział, filia itp.) położona w
+ miejscu 
+zidentyfikowanym odrębnym adresem, pod którym lub z którego jest prowadzona działalność 
+co 
+najmniej przez jedną osobę pracującą, przy czym:
+ 
+1)
+ 
+zakłady samodzielnie bilansujące zlokalizowane pod 
+tym 
+adresem są odrębnymi 
+jednostkami lokalnymi; 
+2)
+ 
+objęte odrębną rejestracją prawną organizacyjne części podmiotów są jednostkami 
+lokalnymi; 
+3)
+ 
+jednostki prowadz
+ące działalność w zakresie transportu są jednostkami lokalnymi według 
+miejsc, z których wydawane są 
+polecenia lub organizowana jest praca; 
+4)
+ 
+jednostki prowadzące działalność w zakresie budownictwa są jednostkami lokalnymi 
+według miejsc, w których przyjmowane
+ 
+są zlecenia na wykonawstwo robót budowlanych 
+i pomocniczych albo wykonywane 
+są prace zarządu, albo prowadzona 
+jest organizacja 
+pracy budowlanej i pomocniczej; tereny budowy 
+(miejsca realizacji poszczególnych 
+terenów 
+budowy
+) nie są jednostkami lokalnymi;
+ 
+5)
+ 
+sprzedaż obwoźna, obnośna oraz punkt sprzedaży detalicznej bez stałej lokalizacji, jak 
+również prowadzenie usług wyłącznie u klienta jest jedną jednostką lokalną w miejscu 
+zamieszkania osoby fizycznej, miejscu siedziby osoby prawnej lub jednostki 
+organizacyjnej nie
+mającej osobowości prawnej.
+ 
+ 
+Pozycja X1. 
+Miejscowość (gmina), na terenie której znajduje się 
+jednostka lokalna 
+(oddział, filia, sklep, magazyn)
+, 
+według
+ faktycznego miejsca pracy poszkodowanego 
+–
+ 
+należy 
+podać nazwę miejscowości (gminy)
+ wraz z oznaczeniem kodowym. 
+ 
+Pozycja X2. 
+Rodzaj działalności według
+ 
+Polskiej Klasyfikacji Działalności
+ (PKD)
+ 
+–
+ 
+należy 
+podać nazwę rodzaju wykonywanej działalności przez jednostkę lokalną, która jest faktycznym 
+miejscem pracy poszkodowanego (np. oddziału, 
+filii, sklepu, magazynu), wraz z oznaczeniem 
+kodowym. 
+ 
+Pozycja X3. 
+Forma własności
+ 
+–
+ klasyfikacja i oznaczenia kodowe 
+Forma własności
+ 
+Kod 
+SEKTOR PUBLICZNY 
+ 
+Własność Skarbu Państwa
+ 
+111 
+Własność państwowych osób prawnych
+ 
+112 
+Dziennik Ustaw	
+– 8 – 	
+Poz. 2750
+﻿
+ 
+ 
+Własność jednostek samorządu terytorialnego lub samorządowych osób 
+prawnych 
+113 
+Własność mieszana w sektorze publicznym
+ 
+ 
+Własność mieszana w sektorze publicznym z przewagą własności Skarbu 
+Państwa
+ 
+121 
+Własność mieszana w sektorze publicznym z przewagą własności państwowych 
+osób 
+prawnych 
+122 
+Własność mieszana w sektorze publicznym z przewagą własności jednostek 
+samorządu terytorialnego lub samorządowych osób prawnych
+ 
+123 
+Własność mieszana w sektorze publicznym z brakiem przewagi któregokolwiek 
+rodzaju własności publicznej
+ 
+127 
+Własność mieszana między sektorami z przewagą własności sektora 
+publicznego 
+ 
+Własność mieszana między sektorami z przewagą własności sektora 
+publicznego, w tym z przewagą własności Skarbu Państwa
+ 
+131 
+Własność mieszana między sektorami z przewagą własności sektora 
+publicznego, w tym z przewagą własności państwowych osób prawnych
+ 
+132 
+Własność mieszana między sektorami z przewagą własności sektora 
+publicznego, w tym z przewagą własności jednostek samorządu terytorialnego 
+lub samorządowych osób 
+prawnych 
+133 
+Własność mieszana między sektorami z przewagą własności sektora publicznego 
+z brakiem przewagi któregokolwiek rodzaju własności publicznej
+ 
+137 
+SEKTOR PRYWATNY 
+ 
+Własność krajowych osób fizycznych
+ 
+214 
+Własność prywatna krajowa pozostała
+ 
+215 
+Własność zagraniczna
+ 
+216 
+Własność mieszana w sektorze prywatnym
+ 
+ 
+Własność mieszana w sektorze prywatnym z przewagą własności krajowych 
+osób fizycznych
+ 
+224 
+Własność mieszana w sektorze prywatnym z przewagą własności prywatnej 
+krajowej pozostałej
+ 
+225 
+Własność mieszana w sektorze prywatnym z przewagą własności zagranicznej
+ 
+226 
+Własność mieszana w sektorze prywatnym z brakiem przewagi któregokolwiek 
+rodzaju własności prywatnej
+ 
+227 
+Własność mieszana między sektorami z przewagą własności sektora 
+prywatnego 
+ 
+Własność mieszana między sektorami z przewagą własności sektora prywatnego, 
+w tym z przewagą własności krajowych osób fizycznych
+ 
+234 
+Własność mieszana między sektorami z przewagą własności sektora prywatnego, 
+w tym z przewagą własności prywatnej krajowej pozostałej
+ 
+235 
+Własność mieszana między sektorami z przewagą własności sektora prywatnego, 
+w tym z przewagą własności zagranicznej
+ 
+236 
+Własność mieszana między sektorami z przewagą własności sektora prywatnego 
+z brakiem przewagi 
+któregokolwiek rodzaju własności prywatnej
+ 
+237 
+BRAK PRZEWAGI SEKTOROWEJ 
+ 
+Własność mieszana między sektorami z takim samym udziałem własności 
+sektora publicznego i prywatnego z 
+najwyższym udziałem własności Skarbu 
+Państwa w
+ 
+kapitale ogółem
+ 
+331 
+Dziennik Ustaw	
+– 9 – 	
+Poz. 2750
+﻿
+ 
+ 
+ 
+Pozycja 03. Obywatelstwo 
+–
+ 
+klasyfikacja i oznaczenie kodowe 
+Obywatelstwo
+ 
+Kod 
+Nieznane 
+0 
+Polskie 
+1 
+P
+aństwa
+ 
+UE innego niż 
+Polska 
+2 
+Państwa 
+spoza UE 
+3 
+ 
+Pozycja 04. Status zatrudnienia
+ 
+–
+ klasyfikacja i oznaczenia kodowe 
+Status zatrudnienia
+ 
+Kod 
+Pracujący na własny rachunek
+ 
+100 
+Na postawie umowy innej 
+niż umowa o pracę
+ 
+301 
+Na 
+czas nieokreślony, w pełnym wymiarze czasu pracy
+ 
+311 
+Na 
+czas nieokreślony, w niepełnym wymiarze czasu pracy
+ 
+312 
+N
+a czas określony, w pełnym wymiarze czasu pracy
+ 
+321 
+N
+a czas określony, w niepełnym wymiarze czasu pracy
+ 
+322 
+P
+omagający
+ 
+członek
+ rodziny 
+400 
+W celu przygotowania zawodowego (praktykant lub ucz
+eń
+) 
+500 
+Inny status zatrudnienia 
+900 
+ 
+Pozycja 05. 
+Zawód wykonywany
+. 
+Należy posługiwać się klasyfikacją zawodów i specjalności 
+zgodną z przepisami 
+wydanymi na podstawie art. 36 ust. 8 ustawy z dnia 20 kwietnia 2004 r. 
+o promocji zatrudnienia i instytucjach rynku pracy (Dz. U. z 2022 r. poz. 690
+, z późn. zm.
+) 
+dotyczącymi klasyfikacji zawodów i specjalności na potrzeby rynku pracy oraz zakresu jej 
+stosowania. Informację o
+ 
+zawodzie (specjalności) wykonywan
+ym przez osoby poszkodowane 
+w wypadkach przy pracy 
+opisujemy pełnym kodem tego zawodu (specjalności), tj. sześcioma
+ 
+cyframi, zgodnie z przepisami wydanymi na podstawie art. 36 ust. 8 ustawy z dnia 20 kwietnia 
+2004 r. o promocji zatrudnienia i instytucjach rynku pracy. 
+ 
+Własność mieszana między sektorami z takim samym udziałem własności 
+sektora publicznego i prywatnego z 
+najwyższym udziałem własności 
+państwowych osób prawnych w kapitale ogółem
+ 
+332 
+Własność mieszana między sektorami z takim samym udziałem własności 
+sektora publicznego i prywatnego z najwyższym udziałem własności jednostek 
+samorządu terytorialnego lub samorządowych osób prawnych 
+ 
+333 
+Własność mieszana między sektorami z takim samym udziałem własności 
+sektora publicznego i prywatnego z 
+najwyższym udziałem własności krajowych 
+osób fizycznych w kapitale ogółem
+ 
+334 
+Własność mieszana między sektorami z takim samym udziałem własności 
+sektora publicznego i prywatnego z 
+najwyższym udziałem własności pozostałych 
+krajowych jednostek prywatnych w kapitale ogółem
+ 
+335 
+Własność mieszana między sektorami z takim samym udziałem własności 
+sektora publicznego i prywatnego z 
+najwyższym udziałem własności osób 
+zagranicznych w 
+kapitale ogółem
+ 
+336 
+Własność mieszana między sektorami z takim samym udziałem własności 
+sektora publicznego i prywatnego z 
+brakiem przewagi któregokolwiek rodzaju 
+własności w
+ 
+kapitale ogółem
+ 
+338 
+Dziennik Ustaw	
+– 10 – 	
+Poz. 2750
+﻿
+ 
+ 
+Pozycja 08. Rodzaj urazu.
+ 
+Jeżeli poszkodowany doznał kilku urazów, umiejscowionych 
+w 
+różnych
+ 
+częściach ciała, należy wybrać najpoważniejszy uraz. Kod 
+120 
+„
+Liczne urazy
+”
+ 
+należy zastosować tylko w
+ przypadkach, w 
+których poszkodowany doznał co
+ 
+najmniej dwóch 
+rodzajów urazów i nie można stwierdzić, że jeden z
+ nich jest 
+poważniejszy od pozostałych
+. 
+ 
+Rodzaj urazu
+ 
+–
+ klasyfikacja i oznaczenia kodowe 
+Rodzaj urazu
+ 
+Kod 
+Rodzaj urazu nieznany lub nieokreślony
+ 
+000 
+Rany i powierzchowne urazy
+ 
+ 
+Rany i urazy 
+–
+ powierzchowne 
+(stłuczenia, otarcia naskórka)
+ 
+011 
+Otwarte rany 
+012 
+Inne rodzaje ran i powierzchownych 
+urazów
+ 
+019 
+Złamania kości
+ 
+ 
+Złamania zamknięte
+ 
+021 
+Złamania otwarte
+ 
+022 
+Inne rodzaje złamań kości (np. utrata zęba
+ lub 
+zębów)
+ 
+029 
+Przemieszczenia, zwichnięcia, skręcenia i naderwania
+ 
+ 
+Przemieszczenia, zwichnięcia i podwichnięcia
+ 
+031 
+Skręcenia i naderwania
+ 
+032 
+Inne rodzaje przemieszczeń, zwichnięć, skręceń i naderwań
+ 
+039 
+Amputacje urazowe 
+(utrata części ciała)
+ 
+ 
+Amputacje urazowe 
+(utrata części ciała)
+ 
+040 
+Wstrząśnienia i urazy wewnętrzne
+ 
+ 
+Wstrząśnienia i urazy śródczaszkowe
+ 
+051 
+Urazy wewnętrzne
+ 
+(uraz klatki piersiowej, narządy jamy
+ 
+brzusznej, narządy 
+miednicy) 
+052 
+Inne rodzaje wstrząśnień i urazów wewnętrznych
+ 
+059 
+Oparzenia 
+termiczne, środkami chemicznymi
+ 
+i odmrożenia
+ 
+ 
+Oparzenia termiczne 
+061 
+Oparzenia chemiczne 
+062 
+Odmrożenia
+ 
+063 
+Inne rodzaje oparzeń termicznych, chemicznych i odmrożeń
+ 
+069 
+Zatrucia i zakażenia
+ 
+ 
+Ostre zatrucia 
+071 
+Ostre zakażenia
+ 
+072 
+Inne rodzaje 
+zatruć i zakażeń
+ 
+079 
+Tonięcie, duszenie z powodu braku tlenu
+ 
+ 
+Tonięcie, duszenie z powodu braku tlenu
+ 
+080 
+Skutki działania dźwięków, wibracji i ciśnienia
+ 
+ 
+Ostra głuchota
+ 
+091 
+Skutki działania ciśnienia (barotrauma)
+ 
+092 
+Inne rodzaje działania dźwięku, wibracji i ciśnienia
+ 
+099 
+Skutki działania skrajnych temperatur, światła oraz promieniowania
+ 
+ 
+Udar cieplny i słoneczny
+ 
+101 
+Skutki promieniowania (nieoparzeniowe) 
+102 
+Skutki działania obniżonej temperatury
+ 
+103 
+Inne skutki działania skrajnych temperatur,
+ 
+światła i promieniowania
+ 
+109 
+Dziennik Ustaw	
+– 11 – 	
+Poz. 2750
+﻿
+ 
+ 
+Wstrząsy
+ (uraz psychiczny, ostra reakcja na stres spowodowana 
+traumatycznymi wydarzeniami, wstrząs anafilaktyczny)
+ 
+ 
+Wstrząsy (uraz psychiczny, ostra reakcja na stres spowodowana traumatycznymi 
+wydarzeniami, wstrząs 
+anafilaktyczny) 
+110 
+Liczne urazy 
+ 
+Liczne urazy 
+120 
+Inne urazy, niewymienione 
+powyżej
+ 
+999 
+ 
+Pozycja 09. Umiejscowienie urazu
+ 
+–
+ klasyfikacja i oznaczenia kodowe 
+Umiejscowienie urazu 
+Kod 
+Umiejscowienie urazu nieznane lub nieokreślone 
+00 
+Głowa 
+ 
+Czaszka, mózg
+ 
+z nerwami czaszkowymi i naczyniami krwionośnymi 
+11 
+Twarz 
+12 
+Oko, oczy 
+13 
+Ucho, uszy 
+14 
+Ząb, zęby 
+15 
+Głowa, liczne miejsca 
+18 
+Głowa, miejsca niewymienione w tej grupie 
+19 
+Szyja wraz z kręgosłupem szyjnym 
+ 
+Szyja wraz z kręgosłupem szyjnym 
+20 
+Grzbiet, łącznie z kręgosłupem 
+ 
+Grzbiet, łącznie z kręgosłupem 
+30 
+Tułów i organy wewnętrzne 
+ 
+Żebra, łopatki 
+41 
+Organy wewnętrzne klatki piersiowej 
+42 
+Obszar miednicy, brzucha, wraz z organami wewnętrznymi 
+43 
+Tułów i organy wewnętrzne, liczne miejsca urazu 
+48 
+Tułów i organy wewnętrzne, miejsca niewymienione
+ 
+w tej grupie 
+49 
+Kończyny górne 
+ 
+Bark wraz ze stawem barkowym 
+51 
+Ramię wraz z łokciem 
+52 
+Dłoń 
+53 
+Palec, palce 
+54 
+Nadgarstek 
+55 
+Kończyny górne, liczne miejsca urazu 
+58 
+Kończyny górne, miejsca niewymienione
+ 
+w tej grupie 
+59 
+Kończyny dolne 
+ 
+Biodro ze stawem biodrowym 
+61 
+Noga ze stawem kolanowym 
+62 
+Staw skokowy 
+63 
+Stopa 
+64 
+Palec, palce 
+65 
+Kończyny dolne, liczne miejsca urazu 
+68 
+Kończyny dolne, miejsca niewymienione
+ 
+w tej grupie 
+69 
+Dziennik Ustaw	
+– 12 – 	
+Poz. 2750
+﻿
+ 
+ 
+Całe ciało i jego różne części 
+ 
+Całe ciało (wpływ na układ) 
+71 
+Urazy różnych części ciała 
+78 
+Inna część ciała, niewymieniona powyżej 
+99 
+ 
+Pozycja 10. 
+Liczba osób poszkodowanych
+ 
+dotyczy osób uczestniczących 
+w jednym wypadku 
+przy pracy z danej jednostki lokalnej. 
+Z
+a zbiorowy wypadek przy pracy uważa się wypadek, któremu w wyniku tego samego 
+zdarzenia uległy co najmniej dwie osoby
+ 
+(dla każdego poszkodowanego sporządzana jest 
+odrębna 
+statystyczna karta wypadku przy pracy). 
+ 
+Pozycja 11.
+ 
+Skutki wypadku 
+(znane w momencie wypełniania I części 
+statystycznej karty 
+wypadku przy pracy (Z-KW)): 
+1)
+ 
+śmierć osoby poszkodowanej
+ 
+–
+ 
+za śmiertelny wypadek przy pracy uważa się wypadek, 
+w wyniku którego
+ 
+nastąpiła śmierć w okresie nieprzekraczającym 6 miesięcy od dnia 
+wypadku; 
+2)
+ 
+ciężkie uszkodzenie ciała
+ 
+–
+ 
+za ciężki wypadek przy pracy uważa się wypadek, w 
+wyniku 
+którego
+ 
+nastąpiło ciężkie uszkodzenie ciała, takie jak: utrata wzroku, słuchu, mowy, 
+zdolności rozrodczej lub inne uszkodzenie ciała albo rozstrój zdrowia, naruszające 
+podstawowe funkcje organizmu, a 
+także choroba nieuleczalna lub zagrażająca życiu, 
+trwała choroba psychiczna, całkowita lub częściowa niezdolność do pracy w zawodzie 
+albo trwałe, istotne zeszpecenie lub zniekształcenie ciała
+; 
+3)
+ 
+inne skutki
+. 
+ 
+Pozycja 12. 
+Liczba dni niezdolności do pracy
+ to liczba 
+dni zasiłku chorobowego 
+(
+związanego 
+z wypadkiem przy pracy) osoby poszkodowanej znana 
+w momencie wypełniania części I
+ 
+statystycznej karty wypadku przy pracy (Z-KW). 
+ 
+Pozycja 13. Straty czasu pracy innych
+ 
+osób
+ (w roboczogodzinach) spowodowane 
+są
+: 
+koniecznością udzieleni
+a pierwszej pomocy poszkodowanemu, zabezpieczeniem miejsca 
+wypadku, przestojami spowodowanymi 
+koniecznością wyłączenia maszyn
+ 
+lub urządzeń
+ itp. 
+Jest to suma roboczogodzin wszystkich pracowników, którzy nie mogli wykonywać swojej 
+pracy z powodu wypadku 
+(bez godzin zastępstwa podczas nieobecności poszkodowanego)
+. 
+ 
+Pozycja 14. Szacunkowe straty materialne
+ 
+spowodowane wypadkiem
+ (
+w tys. zł, z jednym 
+miejscem po przecinku, 
+bez strat związanych ze 
+stratami czasu pracy) to suma przewidywanych 
+(szacunkowych) 
+wartości uszkodzonych maszyn, urządzeń, narzędzi, surowców, wyrobów 
+gotowych, budynków oraz ich wyposażenia itp.
+ 
+ 
+Pozycja 15. 
+Położenie geograficzne miejsca wypadku
+ 
+to 
+miejscowość
+ (gmina), na terenie 
+której
+ 
+wydarzył się wypadek
+, 
+określona
+ siedmiocyfrowym kodem 
+wyrażonym
+ w przepisach 
+wydanych na podstawie art. 49 ustawy z dnia 29 czerwca 1995 r. o statystyce publicznej (Dz. U. 
+z 2022 r. poz. 459
+, z późn. zm.
+). 
+Dla miejscowości położonej poza granicami kraju należy 
+wpis
+ać
+ symbol 
+„
+ZZZZZZZ
+”
+. 
+ 
+Pozycja 16. Data wypadku 
+jest to data zaistnienia wypadku, 
+którą należy podać w formacie 
+rok-
+miesiąc
+-
+dzień
+. 
+ 
+Dziennik Ustaw	
+– 13 – 	
+Poz. 2750
+﻿
+Pozycja 17. Godzina wypadku (0
+–
+23) 
+to godzina
+, w której doszło do wypadku, wyrażona
+ jako 
+przedział czasowy w pełnych godzinach, np. godzinę 2 po południu zapisuje się
+ jako 14 
+i 
+oznaczenie to obejmuje przedział czasowy między godziną 14.00 a 14.59.
+Pozycja 18. Miejsce powstania wypadku
+ to miejsce pracy, pomieszczenie lub lokalizacja,
+w 
+który
+ch
+ przebywał poszkodowany w chwili wypadku (może to być zarówno pomieszczenie 
+pracy, jak i inne miejsce). P
+od uwagę należy brać główne przeznaczenie miejsca, a nie czynność 
+wykonywan
+ą
+ przez poszkodowanego, z 
+wyjątkiem wypadków, do których doszło podczas 
+czynności związanych z budową, które zawsze należy kodować
+ jako teren budowy (kody 021
+–
+029), 
+bez względu na główne
+ przeznaczenie miejsca pracy. 
+Wejścia, korytarze, schody oraz inne części do wspólnego użytku i dobudówki w miejscach
+opisanych poniżej uznaje się za integralne części tych miejsc i koduje w ten sam sposób.
+Miejsce powstania wypadku
+ –
+ klasyfikacja i oznaczenia kodowe 
+Miejsce powstania wypadku
+ 
+Kod 
+Miejsca produkcji przemysłowej
+Miejsce produkcji, fabryka, warsztat
+011
+Miejsce konserwacji i napraw
+012
+Miejsce 
+przeznaczone głównie do 
+magazynowania,
+ załadunku, rozładunku
+013
+Inne, niewymienione miejsca w tej grupie
+019
+Teren budowy, kamieniołom, kopalnia odkrywkowa
+Teren budowy
+ –
+ obiekt w budowie
+021
+Teren budowy
+ – rozbiórka lub remont 
+obiektu budowlanego
+022
+Kamieniołom, kopalnia odkrywkowa
+ lub
+ wykop, rów o innym przeznaczeniu niż 
+pod budowę
+023
+Teren budowy
+ – pod ziemią
+024
+Teren budowy
+ – na wodzie, ponad wodą
+025
+Teren budowy
+ –
+ w
+ środowisku wysokiego ciśnienia
+026
+Inne, niewymienione tereny w tej grupie
+029
+Miejsca uprawy, hodowli, połowu ryb, lasy i tereny zielone
+Miejsce hodowli
+031
+Miejsce upraw ziemiopłodów
+032
+Miejsce upraw drzew i krzewów
+033
+Teren leśny
+034
+Miejsce hodowli,
+ połowu ryb, upraw wodnych itp.
+ (nie na statku)
+035
+Ogród, park, ogród botaniczny, ogród zoologiczny
+036
+Inne, niewymienione miejsca w tej grupie
+039
+Zakłady usługowe, b
+iura,
+ szkoły i inne placówki 
+dydaktyczno-naukowe,
+tereny rekreacyjne i inne
+ obszary działalności usługowej
+Biuro, biblioteka, sala konferencyjna itp.
+041
+Szkoła, placówka 
+dydaktyczno-naukowa, uniwersytet, przedszkole
+042
+Miejsce handlu (w tym handel uliczny)
+043
+Zakład usługowy
+, miejsce tymczasowego zakwaterowania (np. hotel, hostel), 
+restauracja, teren rekreacyjny
+ (włączając muzea, stadiony itp.)
+044
+Inne, niewymienione miejsca w tej grupie
+049
+Placówk
+i ochrony zdrowia
+Placówk
+i
+ ochrony zdrowia, szpital, placówk
+i
+ opiekuńczo
+-
+pielęgnacyjn
+e (domy 
+pomocy społecznej, żłobki, sanatoria
+, uzdrowiska itp.)
+051
+Dziennik Ustaw	
+– 14 – 	
+Poz. 2750
+﻿
+Inne, niewymienione miejsca w tej grupie
+059
+Miejsca i środki komunikacji publicznej
+Tereny komunikacji publicznej (np. drogi, parkingi, poczekalnie itp.)
+061
+Środki transportu lądowego
+ (drogowego i kolejowego)
+ –
+ publiczne lub prywatne 
+(wszystkie
+ rodzaje: pociąg, autobus, samochód itp.)
+062
+Tereny związane z komunikacją publiczną, przeznaczone wyłącznie dla 
+upoważnionego personelu (np. tory kolejowe, płyta 
+lotniska, utwardzone 
+pobocze autostrady itp.)
+063
+Inne, niewymienione 
+miejsca i środki w tej grupie
+069
+Gospodarstwa domowe
+Mieszkanie, dom jednorodzinny
+071
+Części budynku do wspólnego użytku, dobudówki, ogród prywatny
+072
+Inne, niewymienione miejsca w tej grupie
+079
+Obiekty sportowe
+Obiekty sportowe kryte
+ – hala sportowa, sala gimnastyczna, pływalnia kryta
+081
+Obiekty sportowe odkryte
+ – boisko sportowe, pływalnia odkryta, trasa narciarska
+082
+Inne, niewymienione obiekty w tej grupie
+089
+W powietrzu, na wysokości, wyłączając 
+tereny budowy
+Na wysokości – na stałym poziomie (dach, taras itp.)
+091
+Na wysokości –
+ pylon, maszt, zawieszona platforma itp.
+092
+W powietrzu
+ – na pokładzie 
+statku powietrznego
+093
+Inne, niewymienione miejsca w tej grupie
+099
+Pod ziemią, wyłączając 
+tereny budowy
+Pod ziemią –
+ tunel
+101
+Pod ziemią –
+ kopalnia
+102
+Pod ziemią – studzienki, kanały ściekowe
+103
+Inne, niewymienione miejsca w tej grupie
+, wyłączając tereny
+ budowy
+109
+Na wodzie, ponad wodą, wyłączając 
+tereny budowy
+Morze lub ocean
+ – na pokładzie wszystkich rodzajów statków, platform itp.
+111
+Jezioro, rzeka, port
+ – na pokładzie wszystkich rodzajów statków, platform itp.
+112
+Inne, niewymienione miejsca w tej grupie
+119
+W środowisku wysokiego ciśnienia, wyłączając 
+tereny budowy
+W środowisku wysokiego ciśnienia – pod wodą (np. nurkowanie)
+121
+W środowisku wysokiego ciśnienia –
+ komora
+122
+Inne, niewymienione miejsca w tej grupie
+129
+Inne miejsca powstania wypadku, niewymienione w klasyfikacji
+999
+Pozycja 19. Proces pracy
+ to podstawowy rodzaj pracy, wykonywanej przez poszkodowanego 
+w czasie, kiedy wypadek miał miejsce.
+  
+Proces pracy
+ –
+ klasyfikacja i oznaczenia kodowe 
+Proces pracy
+ 
+Kod 
+Brak informacji
+00
+Produkcja, przetwarzanie, magazynowanie
+Produkcja, przetwarzanie
+11
+Magazynowanie
+12
+Inne, niewymienione procesy pracy w tej grupie
+19
+Dziennik Ustaw	
+– 15 – 	
+Poz. 2750
+﻿
+Wydobycie i prace ziemne, budowlane,
+ remontowe, rozbiórkowe
+Wydobycie i prace ziemne
+21
+Budowanie nowych budynków
+22
+Budowanie infrastruktury, np. dróg, mostów, tam, portów itp.
+23
+Przebudowywanie, naprawa, rozbudowywanie, konserwacja obiektów 
+budowlanych i infrastruktury
+24
+Prace rozbiórkowe i wyburzeniowe
+25
+Inne, niewymienione procesy pracy w tej grupie
+29
+Uprawy rolne, warzywnictwo, ogrodnictwo, sadownictwo, leśnictwo, 
+hodowla zwierząt, ryb
+Uprawa zbóż i inne uprawy rolne
+31
+Warzywnictwo, ogrodnictwo, sadownictwo
+32
+Chów i hodowla zwierząt
+33
+Prace związane z leśnictwem
+34
+Hodowla ryb, rybołówstwo
+35
+Inne, niewymienione procesy pracy w tej grupie
+39
+Usługi, praca umysłowa
+Usługi, opieka, pomoc dla społeczeństwa
+41
+Praca umysłowa –
+ nauczanie, szkolenie, przetwarzanie danych, praca biurowa, 
+organizowanie, zarządzanie
+42
+Działalność handlowa – kupowanie, sprzedawanie i usługi towarzyszące
+43
+Inne, niewymienione procesy pracy w tej grupie
+49
+Inne prace
+Ustawianie, przygotowywanie, instalowanie, montowanie, demontowanie, 
+rozbieranie itp.
+51
+Konserwacja, naprawa, regulacja
+52
+Czyszczenie miejsc pracy, maszyn
+ – maszynowo lub ręcznie
+53
+Gospodarka odpadami, wywóz śmieci
+, wszystkie rodzaje przetwarzania 
+odpadów
+ itp.
+54
+Monitorowanie, inspekcja 
+procesów produkcyjnych, 
+miejsc 
+pracy, środków 
+transportu,
+ wyposażenia –
+ z zastosowaniem lub bez ur
+ządzeń monitorujących
+55
+Inne, niewymienione prace w tej grupie
+59
+Przemieszczanie się, sport, działalność artystyczna
+Przemieszczanie się, w tym środkami transportu
+61
+Sport, działalność artystyczna
+62
+Inne, niewymienione procesy pracy w tej grupie
+69
+Inny proces pracy, niewymienion
+y powyżej
+99
+Pozycja 20. Rodzaj miejsca wypadku
+ określa miejsce zdarzenia ze względu na lokalizację 
+stanowiska pracy w zakładzie pracy lub poza nim.
+Rodzaj miejsca wypadku 
+–
+ klasyfikacja i oznaczenia kodowe 
+Rodzaj miejsca wypadku
+Kod
+Nieokreślone miejsce wypadku
+0
+Miejsce w jednostce lokalnej zakładu pracy
+1
+Miejsce poza jednostką lokalną zakładu pracy
+2
+Inne miejsce wypadku
+9
+Dziennik Ustaw	
+– 16 – 	
+Poz. 2750
+﻿
+Pozycja 21.
+ Czynność wykonywana przez poszkodowanego w chwili wypadku
+ to 
+czynność
+wykonywana 
+przez poszkodowanego w sposób zamierzony 
+i celowy, 
+bezpośrednio przed 
+wypadkiem. 
+Czynność wykonywana przez poszkodowanego w chwili wypadku
+ –
+ klasyfikacja i oznaczenia 
+kodowe 
+Czynność wykonywana przez poszkodowanego w chwili wypadku
+Kod
+Brak informacji
+00
+Obsługiwanie maszyn
+Uruchamianie lub zatrzymywanie maszyn
+11
+Podawanie lub 
+odbieranie materiałów, półwyrobów, wyrobów itp.
+12
+Sterowanie 
+pracą oraz przemieszczaniem się maszyn
+y
+13
+Inne, niewymienione 
+czynności
+ wykonywane przez poszkodowanego w chwili 
+wypadku w tej grupie
+19
+Prace narzędziami ręcznymi
+ (zgodnie z ich przeznaczeniem)
+Prace narzędziami niezmechanizowanymi
+21
+Prace narzędziami zmechanizowanymi
+22
+Inne, niewymienione 
+czynności
+ wykonywane przez poszkodowanego w chwili 
+wypadku w tej grupie
+29
+Kierowanie lub
+ jazda środkami transportu
+ lub
+ obsługa ruchomych maszyn 
+i
+ innych urządzeń
+Kierowanie środkami transportu lub obsługiwanie maszyn i innych urządzeń 
+ruchomych, z własnym napędem
+31
+Kierowanie środkami transportu lub obsługiwanie maszyn i innych urządzeń 
+ruchomych, bez napędu własnego
+32
+Jazda środkami transportu w roli pasażera
+33
+Inne, niewymienione 
+czynności 
+wykonywane przez poszkodowanego w chwili 
+wypadku w tej grupie
+39
+Operowanie przedmiotami
+Branie do rąk, chwytanie, trzymanie, umieszczanie –
+ w poziomie
+41
+Wiązanie, opasywanie
+ lub owijanie, odrywanie, rozpinanie lub 
+rozwiązywanie, 
+ściskanie, skręcanie
+ lub
+ rozkręcanie połączeń śrubowych, wyginanie itp.
+42
+Mocowanie, zawieszanie, unoszenie
+ –
+ w pionie
+43
+Rzucanie, odrzucanie
+44
+Otwieranie lub zamykanie pudełka, paczki itp.
+45
+Wlewanie do, wypełnianie płynem, podlewanie, rozpylanie, wylewanie, 
+wybieranie płynu itp.
+46
+Otwieranie (szuflady), zamykanie (drzwi magazynu, biura, szafy)
+47
+Inne, niewymienione 
+czynności 
+wykonywane przez poszkodowanego w chwili 
+wypadku w tej grupie
+49
+Transport ręczny
+Transport w pionie
+ –
+ podnoszenie, opuszczanie przedmiotu
+51
+Transport w poziomie
+ – ciągnięcie, pchanie, toczenie
+ przedmiotu
+52
+Dziennik Ustaw	
+– 17 – 	
+Poz. 2750
+﻿
+Transport ładunku –
+ przenoszenie
+ ręczne przez osobę
+53
+Inne, niewymienione 
+czynności
+ wykonywane przez poszkodowanego w chwili 
+wypadku w tej grupie
+59
+Poruszanie się
+Chodzenie, bieganie, wchodzenie na, schodzenie z itp.
+61
+Wchodzenie do lub wychodzenie z
+62
+Skakanie, podskakiwanie itp.
+63
+Czołganie, wspinanie się itp.
+64
+Wstawanie, siadanie
+65
+Pływanie, nurkowanie
+66
+Ruchy w miejscu, np. podczas mycia, ubierania lub 
+rozbierania się itp.
+67
+Inne, niewymienione 
+czynności 
+wykonywane przez poszkodowanego w chwili 
+wypadku w tej grupie
+69
+O
+becność (z wyjątkiem jazdy środkami transportu w roli pasażera)
+Obecność (z wyjątkiem jazdy środkami transportu w roli pasażera)
+70
+Inna czynność
+ wykonywana przez poszkodowanego w chwili wypadku,
+niewymieniona powyżej
+99
+Pozycja 22. Czynnik materialny związany z czynnością wykonywaną przez 
+poszkodowanego w chwili wypadku
+ to przedmiot, maszyna
+, narzędzie, element środowiska 
+naturalnego lub 
+inny obiekt używan
+e 
+przez poszkodowanego w czasie, gdy doszło do wypadku. 
+Jeżeli z czynnością wykonywaną przez poszkodowanego w chwili wypadku wiąże się kilka 
+czynników materialnych, należy wykazać ten czynnik materialny, który
+ jest kluczowy dla 
+wykonania czynności
+.
+ Stosuje się kodowani
+e zawarte w klasyfikacji do pozycji 26. 
+Pozycja 23.
+ Wydarzenie będące odchyleniem od stanu normalnego
+ to zdarzenie niezgodne 
+z 
+właściwym przebiegiem procesu pracy, które spowodowało 
+wypadek (wydarzenie 
+prowadzące do urazu zewnętrznego)
+.
+Jeżeli wypadek nastąpił w wyniku szeregu następujących po sobie wydarzeń, to należy 
+zarejestrować ostatnie z tych wydarzeń (najbardziej zbliżone w czasie do 
+wydarzenia 
+powodującego uraz
+).
+Wydarzenie będące odchyleniem od stanu normalnego
+ –
+ klasyfikacja i oznaczenia kodowe 
+Wydarzenie będące odchyleniem od stanu normalne
+go
+Kod
+Brak informacji
+00
+Związane z elektrycznością, wybuch, pożar
+Problem z elektrycznością wynikający z uszkodzenia wyposażenia – prowadzący 
+do kontaktu
+ pośredniego
+11
+Problem z elektrycznością – prowadzący do 
+kontaktu
+ bezpośredniego
+12
+Wybuch
+13
+Pożar, zapłon
+14
+Inne, niewymienione odchylenie w tej grupie
+19
+Wyrzut, wyciek, emisja substancji szkodliwych
+Wypadnięcie, wysypanie, wyrzut substancji w stanie stałym
+21
+Dziennik Ustaw	
+– 18 – 	
+Poz. 2750
+﻿
+ 
+ 
+Przelew, wyciek, sączenie się, przepływ, rozbryzgiwanie, rozpylanie płynów
+ 
+22 
+Emisja par, aerozoli 
+i gazów
+ 
+23 
+E
+misja pyłów, dymów, 
+kurzu 
+–
+ 
+materiał proszkowy
+ 
+24 
+Inne, niewymienione odchylenie w tej grupie 
+29 
+Uszkodzenie, rozerwanie, pęknięcie, ześlizgnięcie, upadek, załamanie się 
+czynnika materialnego 
+ 
+Uszkodzenie czynnika materialnego 
+–
+ 
+na łączeniu, szwie
+ 
+31 
+Uszkodzenie, rozerwanie czynnika materialnego 
+–
+ 
+tworzące odłamki (drewna, 
+szkła, metalu, kamienia, plastiku, inne)
+ 
+32 
+Ześlizgnięcie się, upadek, załamanie się czynnika materialnego
+ 
+–
+ upadek 
+czynnika z góry (uderzenie poszkodowanego przez spadający z góry czynnik 
+materialny) 
+33 
+Ześlizgnięcie się, upadek, załamanie się czynnika materialnego
+ 
+–
+ 
+do dołu 
+(wciągnięcie poszkodowanego w dół)
+ 
+34 
+Ześlizgnięcie się, upadek, załamanie się czynnika materialnego
+ 
+–
+ na tym samym 
+poziomie 
+35 
+Inne, niewymienione odchylenie w tej grupie 
+39 
+Utrata kontroli nad: maszyną, środkami transportu,
+ transportowanym 
+ładunkiem, narzędziem,
+ 
+zwierzęciem, obrabianym materiałem lub 
+przedmiotem 
+ 
+Utrata kontroli 
+(całkowita lub częściowa) 
+nad 
+działaniem
+ maszyny 
+(łącznie 
+z niezamierzonym uruchomieniem) lub 
+materiałem obrabianym
+ 
+41 
+Utrata kontroli 
+(całkowita lub częściowa) nad środkami transportu lub 
+obsługiwanym sprzętem ruchomym (zmechanizowanym lub nie)
+ 
+42 
+Utrata kontroli 
+(całkowita lub częściowa) 
+nad 
+narzędziem (zmechanizowanym 
+lub nie) lub materiałem obrabianym tym narzędziem
+ 
+43 
+Utrata kontroli 
+(całkowita lub częściowa) 
+nad przedmiotem transportowanym 
+ręcznie lub trzymanym w rękach
+ 
+44 
+Utrata kontroli 
+(całkowita lub częściowa) 
+n
+ad zwierzęciem
+ 
+45 
+Inne, niewymienione odchylenie w tej grupie 
+49 
+Poślizgnięcie
+ lub 
+potknięcie się
+ 
+–
+ upadek osoby
+ 
+ 
+Upadek osoby z wysokości
+ 
+–
+ 
+na niższy poziom
+ 
+51 
+Poślizgnięcie
+ lub 
+potknięcie się
+ 
+–
+ 
+prowadzące do upadku 
+na tym samym 
+poziomie 
+52 
+Inne, niewymienione odchylenie w tej grupie 
+59 
+Ruch 
+ciała bez wysiłku fizyczne
+go 
+(prowadzące na ogół do urazu 
+zewnętrzne
+go)
+ 
+ 
+Wejście na ostry przedmiot
+ 
+61 
+Klękanie, siadanie na, opieranie się
+ 
+62 
+Pochwycenie lub odrzucenie osoby 
+63 
+Nieskoordynowane, 
+nieumyślne, niewłaściwe lub wykonane w nieodpowiednim 
+momencie 
+ruchy ciała prowadzące do urazu zewnętrznego
+ 
+64 
+Inne, niewymienione odchylenie w tej grupie 
+69 
+Dziennik Ustaw	
+– 19 – 	
+Poz. 2750
+﻿
+ 
+ 
+Ruch ciała związany z wysiłkiem fizycznym (prowadzący na ogół do urazu 
+wewnętrznego)
+ 
+ 
+Podnoszenie, przenoszenie, wstawanie
+, prostowanie się
+ 
+71 
+Pchanie, ciągnięcie
+ 
+72 
+S
+chylanie się, odkładanie na dół
+ 
+73 
+Obracanie się, skręcanie
+ 
+74 
+Złe stąpnięcie
+, 
+skręcenie nogi lub kostki, poślizgnięcie
+ 
+nieprowadzące do 
+upadku 
+75 
+Inne, niewymienione odchylenie w tej grupie 
+79 
+Wstrząs, strach, przemoc, atak, zagrożenie, obecność
+ 
+ 
+Wstrząs, strach
+ 
+81 
+Przemoc, atak, zagrożenie
+ 
+–
+ 
+ze strony pracowników zakładu pracy (w tym 
+poszkodowanego) 
+82 
+Przemoc, atak, zagrożenie
+ 
+–
+ 
+ze strony osób spoza zakładu pracy
+ wobec 
+poszkodowanych wykonujących
+ 
+swoje obowiązki
+ 
+83 
+Agresja, potrącenie
+ 
+–
+ 
+przez zwierzę
+ 
+84 
+Obecność poszkodowanego lub osoby trzeciej w strefie zagrożenia
+ 
+85 
+Inne, niewymienione odchylenie w tej grupie 
+89 
+Inne odchylenie, 
+niewymienione powyżej
+ 
+99 
+ 
+Pozycja 24. 
+Czynnik materialny związany z odchyleniem
+ od stanu normalnego 
+to 
+przedmiot, maszyna
+, narzędzie, element środowiska naturalnego lub inny obiekt związ
+any 
+z 
+wydarzeniem będącym odchyleniem od stanu normalnego. Jeże
+li z odchyleniem jest 
+związanych kilka czynników materialnych, to należy wykazać ostatni z tych czynników
+, 
+tj. 
+czynnik materialny najbardziej zaangażowany i najbardziej zbliżony w czasie do wydarzenia 
+będącego odchyleniem
+. 
+Stosuje się kodowani
+e zawarte w klasyfikacji do pozycji 26. 
+ 
+Pozycja 25. 
+Wydarzenie powodujące uraz
+ opisuje
+, w jaki sposób poszkodowany doznał 
+urazu (fizycznego lub psychicznego) spowodowanego przez czynnik materialny. W przypadku, 
+w którym nastąpiło kilka
+ 
+wydarzeń powodujących uraz
+, 
+należy zarejestrować to wydarzenie, 
+które
+ 
+spowodowało najpoważniejszy uraz
+. 
+Wydarzenie powodujące uraz
+ 
+–
+ klasyfikacja i oznaczenia kodowe 
+Wydarzenie powodujące uraz
+ 
+Kod 
+Brak informacji 
+00 
+Kontakt z prądem elektrycznym, temperaturą, 
+substancjami 
+stwarzającymi 
+zagrożenie lub mieszaninami stwarzającymi zagrożenie oraz materiałami 
+zawierającymi szkodliwe czynniki biologiczne
+ 
+ 
+Pośredni kontakt z łukiem spawalniczym, iskrą, błyskawicą
+ (bierny) 
+11 
+Kontakt z elektrycznością przez dotyk bezpośredni
+ 
+12 
+Kontakt z płomieniem lub gorącym
+ lub 
+płonącym obiektem
+ lub 
+środowiskiem
+ 
+13 
+Kontakt z zimnym lub 
+zamrożonym obiektem
+ lub 
+środowiskiem
+ 
+14 
+Kontakt z substancjami 
+stwarzającymi zagrożenie lub mieszaninami 
+stwarzającymi zagrożenie oraz materiałami zawierającymi szkodliwe czynniki 
+biologiczne przez wdychanie nosem, ustami 
+15 
+Dziennik Ustaw	
+– 20 – 	
+Poz. 2750
+﻿
+ 
+ 
+Kontakt z substancjami
+ 
+stwarzającymi zagrożenie lub mieszaninami 
+stwarzającymi zagrożenie oraz materiałami zawierającymi szkodliwe czynniki 
+biologiczne 
+przez skórę
+ lub oczy 
+16 
+Kontakt z substancjami 
+stwarzającymi zagrożenie lub mieszaninami 
+stwarzającymi zagrożenie oraz materiałami zawierającymi szkodliwe czynniki 
+biologiczne 
+przez układ 
+pokarmowy 
+(połknięcie lub zjedzenie)
+ 
+17 
+Inny, niewymieniony kontakt w tej grupie 
+19 
+Tonięcie, zakopanie, zamknięcie
+ 
+ 
+Tonięcie w cieczy
+ 
+21 
+Zakopanie, zasypanie ciałem stałym
+ 
+22 
+Zamknięcie w czymś, otoczenie przez gaz, pył itp.
+ 
+23 
+Inny, niewymieniony kontakt w tej grupie 
+29 
+Uderzenie w nieruchomy obiekt
+ 
+ 
+Uderzenie w 
+nieruchomy obiekt przez poruszającego się w ruchu pionowym 
+poszkodowanego w wyniku upadku 
+31 
+Uderzenie w 
+nieruchomy obiekt przez poruszającego się w ruchu poziomym 
+poszkodowanego 
+32 
+Inny, niewymieniony kontakt w tej grupie 
+39 
+Uderzenie przez obiekt w ruchu
+ 
+ 
+Uderzenie 
+–
+ przez wyrzucony w powietrze obiekt 
+41 
+Uderzenie 
+–
+ 
+przez spadający 
+obiekt 
+42 
+Uderzenie 
+–
+ 
+przez kołyszący się lub powracający do poprzedniego położenia 
+obiekt 
+43 
+Uderzenie 
+–
+ 
+przez obracający się, poruszający się, transportowany 
+obiekt, w tym 
+pojazdy 
+44 
+Kolizja z 
+poruszającym się 
+obiektem, w tym z pojazdami 
+–
+ 
+kolizja z osobą 
+(poszkodowany 
+porusza się
+) 
+45 
+Inny, niewymieniony kontakt w tej grupie 
+49 
+Kontakt z przedmiotem 
+ostro zakończonym, szorstkim, chropowatym 
+lub 
+twardym
+ 
+ 
+Kontakt z przedmiotem 
+ostrym (nóż, ostrze itp.)
+ 
+51 
+Kontakt z przedmiotem ze 
+szpicą lub ostro zakończonym (gwóźdź
+, przebijak, 
+szpikulec itp.) 
+52 
+Kontakt z przedmiotem twardym, szorstkim lub chropowatym 
+53 
+Inny, niewymieniony kontakt w tej grupie 
+59 
+Uwięzienie, zmiażdżenie
+ 
+ 
+Uwięzienie
+ lub 
+zmiażdżenie
+ 
+–
+ w
+ewnątrz (ruch wciągający, zgniatający, do 
+wewnątrz)
+ 
+61 
+Uwięzienie
+ lub 
+zmiażdżenie
+ 
+–
+ pod lub nad ruchomym czynnikiem materialnym  
+(ruch pionowy, przyciśnięcie do poziomej powierzchni)
+ 
+62 
+Uwięzienie
+ lub 
+zmiażdżenie
+ 
+–
+ 
+między
+ ruchomym czynnikiem mechanicznym 
+a 
+pionową powierzchnią (ruch poziomy)
+ 
+63 
+Oderwanie lub 
+odcięcie części ciała
+ 
+(kończyny, dłoni, palca itp.)
+ 
+64 
+Inny, niewymieniony kontakt w tej grupie 
+69 
+Dziennik Ustaw	
+– 21 – 	
+Poz. 2750
+﻿
+ 
+ 
+Obciążenie fizyczne lub psychiczne
+ 
+ 
+Obciążenie 
+fizyczne 
+układu mięśniowo
+-szkieletowego 
+71 
+Obciążenie
+ 
+fizyczne spowodowane oddziaływaniem 
+promieniowania, 
+hałasu, 
+światła, ciśnienia
+ 
+72 
+Obciążenie psychiczne (nagły stres, szok
+ itp.) 
+73 
+Inny, 
+niewymieniony rodzaj obciążenia
+ w tej grupie 
+79 
+Agresja ze strony 
+człowieka lub zwierzę
+cia
+ 
+ 
+Ugryzienie 
+81 
+Użądlenie
+ 
+82 
+Uderzenie, 
+kopnięcie 
+lub duszenie 
+83 
+Inny, niewymieniony przejaw agresji w tej grupie 
+89 
+Inne wydarzenie 
+powodujące uraz
+, niewymienione w klasyfikacji 
+99 
+ 
+Pozycja 26. 
+Czynnik materialny będący źródłem urazu
+ to przedmiot, maszyna
+, narzędzie, 
+element 
+środowiska 
+naturalnego lub inny obiekt, z 
+którym
+ kontakt
+ 
+stał się przyczyną urazu.
+ 
+Czynnik materialny
+ 
+–
+ klasyfikacja i oznaczenia kodowe 
+Czynnik materialny 
+Kod 
+Czynnik materialny nie występuje
+ 
+00.01 
+Budynki, konstrukcje i ich elementy, powierzchnie 
+–
+ na poziomie gruntu 
+(wewnątrz lub na zewnątrz,
+ 
+stałe lub ruchome, tymczasowe)
+ 
+ 
+Budynki, konstrukcje i ich elementy 
+–
+ 
+drzwi, ściany, okna, przepierzenia itp.
+ oraz 
+celowo zamontowane przeszkody 
+01.01 
+Powierzchnie poziome na poziomie gruntu 
+–
+ 
+stałe podłoże i
+ 
+podłogi 
+(
+wewnątrz i
+ na 
+zewnątrz, teren 
+gospodarstwa rolnego, obszary sportowe itp.) 
+01.02 
+Powierzchnie poziome na poziomie gruntu 
+–
+ 
+ruchome lub tymczasowe (kładka, 
+ruchomy chodnik itp.) 
+01.03 
+Inne budynki, konstrukcje i powierzchnie na poziomie gruntu, niewymienione w tej 
+grupie 
+01.99 
+Budynki, konstrukcje i ich elementy, powierzchnie 
+–
+ nad poziomem gruntu 
+(wewnątrz lub na zewnątrz, stacjonarne lub ruchome, tymczasowe)
+ 
+ 
+Budynki i ich elementy nad poziomem gruntu 
+–
+ 
+stałe
+ (dachy, tarasy, drzwi i okna, 
+schody, platformy itp.) 
+02.01 
+Konstrukcje, powierzchnie nad poziomem gruntu 
+–
+ 
+stacjonarne (przejścia, pomosty, 
+drabiny 
+zamocowane na stałe
+, pylony, rusztowania itp.) 
+02.02 
+Konstrukcje, powierzchnie nad poziomem gruntu 
+–
+ ruchome (rusztowania 
+przestawne, drabiny przenośne, ruchome 
+pomosty, podnoszone platformy itp.) 
+02.03 
+Konstrukcje, powierzchnie nad poziomem gruntu 
+–
+ tymczasowe (rusztowania, 
+kosze robocze
+, uprzęże, platformy podwieszane
+ itp.) 
+02.04 
+Obiekty, konstrukcje nad poziomem gruntu 
+–
+ nawodne (platformy wiertnicze, 
+rusztowania na barkach itp.) 
+02.05 
+Inne budynki, konstrukcje i powierzchnie nad poziomem gruntu, niewymienione 
+w tej grupie 
+02.99 
+Dziennik Ustaw	
+– 22 – 	
+Poz. 2750
+﻿
+ 
+ 
+Budynki, konstrukcje i ich elementy, powierzchnie 
+–
+ 
+poniżej poziomu gruntu 
+(wewnątrz lub na zewnątrz)
+ 
+ 
+Wykopy, rowy, studnie, 
+doły, skarpy, kanały w warsztatach samochodowych
+ itp. 
+03.01 
+Obiekty podziemne, tunele, chodniki, sztolnie itp. 
+03.02 
+Obiekty, konstrukcje pod wodą
+ 
+03.03 
+Inne 
+budynki, konstrukcje, powierzchnie poniżej gruntu
+, niewymienione w tej 
+grupie 
+03.99 
+Instalacja do dostarczania, 
+dystrybucji i odprowadzania gazów, cieczy i ciał 
+stałych, sieci rur
+ 
+ 
+Instalacje do dostarczania i dystrybucji, sieci rur 
+–
+ stacjonarne 
+do przesyłania gazu, 
+powietrza, 
+płynów i materiałów stałych, w tym leje lub kosze samowyładowcze
+ 
+04.01 
+Instalacje do dostarczania i dystrybucji, sieci rur 
+–
+ ruchome 
+04.02 
+Instalacje odprowadzające, 
+systemy kanalizacji
+, odpływy itp.
+ 
+04.03 
+Inne systemy dostaw i dystrybucji, sieci rur, niewymienione w tej grupie 
+04.99 
+Urządzenia do wytwarzania, przetwarzania, magazynowania, przesyłania 
+i rozdzielania energii 
+ 
+Urządzenia do wytwarzania i przetwarzania energii
+ 
+–
+ silniki, generatory (cieplne, 
+elektryczne, promieniowania, 
+w tym magazynowanie energii z odnawialnych źródeł 
+energii) 
+05.01 
+Układy przenoszenia i przechowywania energii (mechaniczne, pneumatyczne, 
+hydrauliczne, elektryczne, włączając baterie i akumulatory itp.)
+ 
+05.02 
+Inn
+e urządzenia do wytwarzania, przechowywania, przesyłania energii
+, 
+niewymienione w tej grupie 
+05.99 
+Narzędzia ręczne bez napędu
+ 
+ 
+Narzędzia ręczne bez napędu
+ 
+–
+ 
+do piłowania
+ 
+06.01 
+Narzędzia ręczne bez napędu
+ 
+–
+ 
+do cięcia, przecinania (włączając nożyczki, 
+sekatory) 
+06.02 
+Narzędzia ręczne bez napędu
+ 
+–
+ 
+do rzeźbienia, dłutowania, grawerowania, nacinania, 
+przycinania, 
+strzyżenia, koszenia itp.
+ 
+06.03 
+Narzędzia ręczne bez napędu
+ 
+–
+ do skrobania, szlifowania, polerowania itp. 
+06.04 
+Narzędzia ręczne bez napędu
+ 
+–
+ do wiercenia, toczenia, 
+skręcania, przykręcania itp.
+ 
+06.05 
+Narzędzia ręczne bez napędu
+ 
+–
+ do 
+łączenia części (przybijania
+ lub wbijania 
+gwoździ, nitowania, łączenia za pomocą zszywek itp.)
+ 
+06.06 
+Narzędzia ręczne bez napędu
+ 
+–
+ do szycia, haftowania 
+lub robót dziewiarskich 
+itp. 
+06.07 
+Narzędzia ręczne bez napędu
+ 
+–
+ do spajania (spawania, lutowania, zgrzewania, 
+klejenia itp.) 
+06.08 
+Narzędzia ręczne bez napędu
+ 
+–
+ 
+do wydobywania materiałów i prac ziemnych 
+(włączając narzędzia rolnicze)
+ 
+06.09 
+Narzędzia ręczne bez napędu
+ 
+–
+ do mycia, czyszczenia 
+i sprzątania, woskowania, 
+smarowania 
+06.10 
+Narzędzia ręczne
+ 
+bez napędu
+ 
+–
+ do malowania 
+06.11 
+Narzędzia ręczne bez napędu
+ 
+–
+ do chwytania, przytrzymywania w miejscu 
+06.12 
+Narzędzia ręczne bez napędu
+ 
+–
+ 
+do prac kuchennych (wyłączając noże)
+ 
+06.13 
+Narzędzia ręczne bez napędu
+ 
+–
+ chirurgiczne i do 
+zabiegów 
+medycznych 
+–
+ 
+ostre, tnące
+ 
+06.14 
+Dziennik Ustaw	
+– 23 – 	
+Poz. 2750
+﻿
+ 
+ 
+Narzędzia ręczne bez napędu
+ 
+–
+ chirurgiczne i do 
+zabiegów
+ medycznych 
+–
+ 
+nietnące, 
+inne 
+06.15 
+Inn
+e narzędzia ręczne
+, niewymienione w tej grupie 
+06.99 
+Narzędzia zmechanizowane trzymane w ręku lub prowadzone ręcznie
+ 
+ 
+Zmechanizowane 
+narzędzia ręczne
+ 
+–
+ 
+do piłowania
+ 
+07.01 
+Zmechanizowane narzędzia ręczne
+ 
+–
+ 
+do cięcia, odcinania (włączając nożyce, 
+sekatory itp.) 
+07.02 
+Zmechanizowane narzędzia ręczne
+ 
+–
+ 
+do rzeźbienia, dłutowania, grawerowania, 
+nacinania, strzyżenia, koszenia itp.
+ 
+07.03 
+Zmechanizowane narzędzia ręczne
+ 
+–
+ do skrobania, szlifowania, polerowania itp. 
+(włączając przecinarki tarczowe)
+ 
+07.04 
+Zmechanizowane narzędzia ręczne
+ 
+–
+ 
+do wiercenia, wkręcania, przykręcania itp.
+ 
+07.05 
+Zmechanizowane narzędzia ręczne
+ 
+–
+ 
+do łączenia części 
+(przybijania, nitowania, 
+łączenia za pomocą zszywek itp.)
+ 
+07.06 
+Zmechanizowane narzędzia ręczne
+ 
+–
+ do szycia, haftowania 
+lub robót 
+dziewiarskich itp. 
+07.07 
+Zmechanizowane narzędzia ręczne
+ 
+–
+ do spajania (spawania, lutowania, zgrzewania, 
+klejenia itp.) 
+07.08 
+Zmechanizowane narzędzia ręczne
+ 
+–
+ 
+do wydobywania materiałów i prac ziemnych 
+(włączając narzędzia rolnicze, młoty pneumatyczne)
+ 
+07.09 
+Zmechanizowane narzędzia ręczne
+ 
+–
+ do mycia,
+ 
+czyszczenia 
+i sprzątania, 
+woskowania, smarowania itp. (włączając wysokociśnieniowe narzędzia do 
+czyszczenia, odkurzacze) 
+07.10 
+Zmechanizowane narzędzia ręczne
+ 
+–
+ do malowania 
+07.11 
+Zmechanizowane narzędzia ręczne
+ 
+–
+ do chwytania, przytrzymywania w miejscu 
+07.12 
+Zmechanizowane narzędzia ręczne
+ 
+–
+ 
+do prac kuchennych (wyłączając noże)
+ 
+07.13 
+Zmechanizowane narzędzia ręczne
+ 
+–
+ 
+wytwarzające ciepło (suszarki, palniki, 
+żelazka
+, pistolety do oczyszczania 
+płomieniowego
+ itp.) 
+07.14 
+Zmechanizowane narzędzia ręczne
+ 
+–
+ chirurgiczne i do 
+zabiegów
+ medycznych 
+–
+ 
+ostre, tnące
+ 
+07.15 
+Zmechanizowane narzędzia ręczne
+ 
+–
+ chirurgiczne i do 
+zabiegów 
+medycznych 
+–
+ bez 
+tnących
+ i inne 
+07.16 
+Narzędzia pneumatyczne (bez określonego przeznaczenia)
+ 
+07.17 
+Inne 
+narzędzia
+ zmechanizowane, niewymienione w tej grupie 
+07.99 
+Maszyny i wyposażenie
+ 
+–
+ 
+przenośne lub ruchome
+ 
+ 
+P
+rzenośne lub ruchome 
+maszyny 
+–
+ 
+do wydobywania materiałów lub prac ziemnych
+ 
+–
+ w kopalniach, 
+kamieniołomach, na budowach i w ramach prac inżynierii lądowej 
+i wodnej 
+09.01 
+Przenośne lub ruchome maszyny 
+do prac ziemnych w 
+rolnictwie i leśnictwie
+ 
+09.02 
+Przenośne lub ruchome maszyny do robót budowlanych (wyłączając maszyny do 
+robót ziemnych)
+ 
+09.03 
+Ruchome maszyny do 
+czyszczenia podłóg
+ 
+09.04 
+Inne maszyny 
+i urządzenia
+, niewymienione w tej grupie 
+09.99 
+Dziennik Ustaw	
+– 24 – 	
+Poz. 2750
+﻿
+ 
+ 
+Maszyny 
+i urządzenia 
+stacjonarne
+ 
+ 
+M
+aszyny i urządzenia górnicze lub do robót ziemnych
+ 
+10.01 
+Maszyny i urządzenia do 
+przygotowania 
+materiałów
+ 
+–
+ do mielenia, proszkowania, 
+filtrowania, oddzielania, mieszania, miksowania itp. 
+10.02 
+Maszyny i urządzenia do przetwarzania materiałów
+ 
+–
+ procesy chemiczne (procesy 
+fermentowania, reakcje itp.) 
+10.03 
+Maszyny i urządzenia do przetwarzania materiałów
+ 
+–
+ procesy w 
+podwyższonych 
+temperaturach (piece, suszarki, piekarniki itp.) 
+10.04 
+Maszyny i urządzenia do przetwarzania materiałów
+ 
+–
+ procesy w niskich 
+temperaturach (wytwarzanie zimna) 
+10.05 
+Maszyny i urządzenia do przetwarzania materiałów
+ 
+–
+ inne procesy 
+10.06 
+Maszyny 
+i urządzenia 
+do formowania 
+–
+ poprzez prasowanie, 
+miażdżenie
+, kruszenie 
+10.07 
+Maszyny i urządzenia do formowania
+ 
+–
+ przez kalandrowanie, walcowanie, prasy 
+walcowe 
+(włączając maszyny papiernicze)
+ 
+10.08 
+Maszyny 
+i urządzenia
+ do formowania 
+–
+ poprzez wtryskiwanie, 
+wytłaczanie
+ 
+(tworzyw w 
+wytłaczarkach), wydmuchiwanie, wyoblanie, 
+topienie, odlewanie 
+10.09 
+Obrabiarki 
+–
+ do skrawania 
+–
+ strugania, 
+wyrównywania, frezowania, obróbki 
+powierzchni, szlifowania, polerowania, toczenia, wiercenia 
+10.10 
+Obrabiarki 
+–
+ 
+do piłowania
+ (pilarki stacjonarne) 
+10.11 
+Obrabiarki 
+–
+ 
+do cięcia, rozłupywania, 
+przycinania, wycinania (w tym obcinaki, 
+podstrzygarki, odcinaki, urządzenia do
+ 
+cięcia tlenowego
+, krajalnice, gilotyny) 
+10.12 
+Maszyny i urządzenia do czyszczenia, mycia, suszenia, malowania, drukowania
+ 
+10.13 
+Maszyny i urządzenia do nanoszenia powłok
+ 
+–
+ do galwanizowania, elektrolitycznej 
+obróbki powierzchni, natryskiwania cieplnego itp.
+ 
+10.14 
+Maszyny i urządzenia do łączenia (spa
+wania, lutowania, zgrzewania, klejenia, 
+przybijania, przykręcania, nitowania, przędzenia, owijania drutem
+, szycia
+, łączenia 
+za pomocą zszywek itp.)
+ 
+10.15 
+Maszyny i urządzenia pakujące, owijające (napełniające,
+ 
+p
+lombujące, etykietujące, 
+zamykające itp.)
+ 
+10.16 
+Inne maszyny i urządzenia do specyficznych zastosowań (np. kontroli, pomiarów, 
+ważenia, badań, monitorowania)
+ 
+10.17 
+Specjalistyczne maszyny i urządzenia używane w rolnictwie
+ 
+–
+ 
+nieujęte 
+w 
+powyższych pozycjach
+ 
+10.18 
+Inne maszyny 
+i urządzenia
+, niewymienione w tej grupie 
+10.99 
+Systemy przesyłowe, transportowe i magazynowania
+ 
+ 
+Stacjonarne przenośniki
+, 
+urządzenia
+ i systemy 
+transportowe o ruchu ciągłym oraz 
+ich 
+elementy wyposażenia
+ 
+–
+ 
+taśmy
+ transportowe, schody ruchome, 
+przenośniki,
+ 
+liny, kable itp. 
+11.01 
+Windy, podnośniki
+ 
+–
+ 
+dźwigi, pionowe przenośniki kubełkowe, dźwigniki itp.
+ 
+11.02 
+Dźwignice stacjonarne bądź ruchome, dźwignice zamontowane na pojazdach, 
+suwnice pomostowe, 
+urządzenia podnośnikowe z zawieszonym ładunkiem
+ 
+11.03 
+Ruchome urządzenia do przemieszczania ładunków, wózki ręczne (z napędem lub 
+bez) 
+–
+ 
+taczki, wózki
+ paletowe itp. 
+11.04 
+Dziennik Ustaw	
+– 25 – 	
+Poz. 2750
+﻿
+ 
+ 
+Sprz
+ęt i wyposażenie pomocnicze do transportu –
+ ele
+menty chwytające, 
+zawiesia, 
+sprzęt zabezpieczający i inny sprzęt i urządzenia pomocnicze do przenoszenia (
+haki, 
+liny, pasy itp.) 
+11.05 
+Systemy magazynowania, pakowania, pojemniki (silosy, zbiorniki) 
+–
+ stacjonarne 
+zbiorniki, kadzie itp. 
+11.06 
+Systemy 
+i urządzenia do 
+magazynowania, pakowania, pojemniki 
+–
+ ruchome 
+11.07 
+Akcesoria magazynowe, regały, półki, 
+palety, stojaki do palet 
+11.08 
+Różnorodne opakowania, małej i średniej wielkości, niestacjonarne (kontenery, 
+różnorodne pojemniki, butelki, skrzynki, gaśnice
+ itp.) 
+11.09 
+Inne 
+systemy przesyłowe, transport
+owe i magazynowania, niewymienione w tej grupie 
+11.99 
+Pojazdy drogowe 
+(lądowe)
+ 
+ 
+Pojazdy 
+–
+ 
+ciężkie: samochody ciężarowe, autobusy, autokary (transport pasażerski)
+ 
+12.01 
+Pojazdy 
+–
+ 
+lekkie: towarowe lub pasażerskie
+ 
+12.02 
+Pojazdy 
+–
+ dwu- 
+lub trójkołowe, napędzane lub nie
+ 
+12.03 
+Inne pojazdy 
+lądowe
+, niewymienione w tej grupie 
+12.99 
+Inne pojazdy transportowe 
+ 
+Pojazdy 
+–
+ szynowe 
+(włączając jednoszynowe) do przewozu ładunków
+ 
+(towarów)
+ 
+13.01 
+Pojazdy 
+–
+ 
+szynowe (włączając jednoszynowe) do przewozu osób
+ 
+13.02 
+Pojazdy 
+–
+ 
+pływające do przewozu ładunków
+ 
+(towarów)
+ 
+13.03 
+Pojazdy 
+–
+ 
+pływające do przewozu osób
+ 
+13.04 
+Pojazdy 
+–
+ 
+pływające służące do połowu
+ (rybackie) 
+13.05 
+Pojazdy 
+–
+ statki powietrzne do przewozu 
+ładunków 
+(
+towarów
+) 
+13.06 
+Pojazdy 
+–
+ statki 
+powietrzne do przewozu osób
+ 
+13.07 
+Inne pojazdy, niewymienione w tej grupie 
+13.99 
+Materiały, przedmioty, wyroby, części maszyn
+ 
+lub pojazdów, 
+resztki
+, pył
+ 
+ 
+Materiały budowlane
+ 
+–
+ 
+duże i małe (p
+refabrykowane 
+powłoki budowlane
+, 
+oszalowania, dźwigary, belki, cegły, płytki
+ itp.) 
+14.01 
+Części maszyn, części pojazdów
+ (
+podwozie, skrzynia korbowa, dźwignie, koła itp.
+) 
+14.02 
+Materiał
+y lub elementy obrabiane (w tym ich 
+fragmenty i odłamki)
+ oraz fragmenty, 
+części i podzespoły obrabiarek, maszyn i urządzeń
+ 
+14.03 
+Elementy montażowe (np. nakrętki, nity, kołki, śruby, gwoździe itp.)
+ 
+14.04 
+Cząstki, pył, odłamki
+, drzazgi, gruz i inny 
+rozdrobniony materiał odpadowy
+ 
+14.05 
+Produkty gospodarstwa rolnego (
+w tym nasiona, słoma, inne produkty rolnicze)
+ 
+14.06 
+Produkty stosowane w uprawie i hodowli (włączając nawóz, paszę dla zwierząt)
+ 
+14.07 
+Przechowywane wyroby 
+–
+ 
+włączając przedmioty i 
+opakowania na obszarach 
+magazynowania 
+14.08 
+Przechowywane wyroby 
+–
+ w rolkach, zwojach 
+14.09 
+Ładunki
+ 
+–
+ 
+przemieszczane przez zmechanizowane urządzenia transportujące, 
+przenośniki
+ 
+14.10 
+Ładunki
+ 
+–
+ 
+zawieszone na urządzeniach podnoszących, dźwignicach
+ 
+14.11 
+Ładunki
+ 
+–
+ 
+przemieszczane ręcznie
+ 
+14.12 
+Inne 
+materiały, przedmioty, wyroby,
+ 
+części maszyn, 
+pojazd
+ów
+, niewymienione 
+w tej grupie 
+14.99 
+Dziennik Ustaw	
+– 26 – 	
+Poz. 2750
+﻿
+ 
+ 
+Substancje chemiczne, promieniotwórcze, wybuchowe, biologiczne
+ 
+ 
+Substancje 
+–
+ 
+żrące, powodujące korozję (stałe
+, 
+ciekłe lub gazowe)
+ 
+15.01 
+Substancje 
+–
+ szkodliwe, toksyczne (
+stałe
+, 
+ciekłe
+ lub gazowe) 
+15.02 
+Substancje 
+–
+ 
+łatwopalne (stałe
+, 
+ciekłe
+ lub gazowe) 
+15.03 
+Substancje 
+–
+ wybuchowe
+, łatwo wchodzące w reakcje (stałe
+, 
+ciekłe
+ lub gazowe) 
+15.04 
+Gazy, pary 
+biologicznie obojętne, duszące
+ 
+15.05 
+Substancje 
+–
+ 
+promieniotwórcze
+ 
+15.06 
+Substancje lub m
+ateriał
+y biologiczne 
+15.07 
+Substancje lub 
+materiały
+ 
+obojętne, stałe lub ciekłe
+ (woda, napoje) 
+15.08 
+Inne substancje, niewymienione w tej grupie 
+15.99 
+Urządzenia i
+ 
+wyposażenie związane z bezpieczeństwem
+ 
+ 
+Urządzenia ochronne i zabezpieczające do maszyn
+ 
+16.01 
+Środki ochrony indywidualnej
+ 
+16.02 
+Urządzenia i sprzęt stosowany w przypadku awarii
+ 
+16.03 
+Inne 
+urządzenia
+ 
+i wyposażenie
+, niewymienione w tej grupie 
+16.99 
+Elementy, w
+yposażenie biura
+ i gospodarstwa domowego, rzeczy osobiste, 
+odzież, sprzęt sportowy, broń
+ 
+ 
+Meble 
+17.01 
+Sprzęt
+ komputerowy, biurowy 
+–
+ 
+do komunikowania się
+ 
+17.02 
+Sprzęt
+ lub 
+urządzenia
+ do nauki, pisania, rysowania 
+(w tym powiększalniki
+ itp.) 
+17.03 
+Sprzęt 
+i przedmioty sportowe (w tym do gier) 
+17.04 
+Broń
+ 
+17.05 
+Rzeczy osobiste, 
+odzież
+ 
+17.06 
+Instrumenty muzyczne 
+17.07 
+Urządzenia i przedmioty gospodarstwa domowego 
+(
+używane zawodowo
+) 
+17.08 
+Inne 
+wyposażenie i sprzęt
+, niewymienione w tej grupie 
+17.99 
+Ludzie i inne organizmy żywe
+ 
+ 
+Rośliny
+ (drzewa, uprawy rolne itp.) 
+18.01 
+Zwierzęta
+ 
+–
+ domowe, hodowlane 
+18.02 
+Zwierzęta
+ 
+–
+ inne (
+zwierzęta dzikie, owady, węże
+) 
+18.03 
+Mikroorganizmy 
+18.04 
+Wirusy 
+(zakaźne czynniki wirusowe)
+ 
+18.05 
+Ludzie 
+18.06 
+Inne, niewymienione 
+organizmy żywe
+ w tej grupie 
+18.99 
+Odpady 
+ 
+Odpady 
+–
+ 
+z surowców, produktów, materiałów, przedmiotów
+ 
+19.01 
+Odpady 
+–
+ 
+z chemikaliów
+ 
+19.02 
+Odpady 
+–
+ 
+z substancji biologicznych, roślin, zwierząt
+ 
+19.03 
+Inne, niewymienione odpady w tej grupie 
+19.99 
+Dziennik Ustaw	
+– 27 – 	
+Poz. 2750
+﻿
+ 
+ 
+Zjawiska fizyczne i elementy środowiska naturalnego
+ 
+ 
+Zjawiska fizyczne 
+–
+ 
+hałas, promieniowanie
+ naturalne, 
+łuk świetlny,
+ 
+ciśnienie
+ 
+atmosferyczne (spadek lub wzrost) 
+20.01 
+Elementy środowiska naturalnego i zjawiska atmosferyczne (włączając zbiornik
+i 
+wodne, 
+błoto, deszcz, grad, śnieg, lód
+, wiatr itp.) 
+20.02 
+Klęski żywiołowe
+ 
+powstałe na skutek działania sił natury (fal
+e powodziowe, 
+trzęsienie
+ ziemi, 
+ogień, pożar
+) 
+20.03 
+Inne zjawiska fizyczne, niewymienione w tej grupie 
+20.99 
+Inny czynnik materialny, niewymieniony w klasyfikacji 
+99.00 
+ 
+Pozycja 27. Przyczyny wypadku
+ 
+są to wszelkie braki i nieprawidłowości, które bezpośrednio 
+lub pośrednio przyczyniły się do powstania wypadku, związane z czynnikami materialnymi 
+(technicznymi), z ogólną organizacją pracy w zakładzie lub organizacją stanowiska pracy 
+lub 
+związane z 
+pracownikiem. 
+Przyczyny wypadku
+ 
+–
+ klasyfikacja i oznaczenia kodowe 
+Przyczyny wypadku 
+Kod 
+Wady konstrukcyjne lub niewłaściwe rozwiązania techniczne i 
+ergonomiczne 
+czynnika materialnego 
+ 
+Wady konstrukcyjne czynnika materialnego będące źródłem zagrożenia
+ 
+1001 
+Niewłaściwa struktura przestrzenna czynnika materialnego
+ 
+1002 
+Nieodpowiednia wytrzymałość czynnika materialnego
+ 
+1003 
+Niewłaściwa stateczność czynnika materialnego
+ 
+1004 
+Brak lub niewłaściwe środki ochrony zbiorowej lub urządzenia zabezpieczające
+ 
+1005 
+N
+iewłaściwe elementy sterownicze
+ 
+1006 
+Brak lub niewłaściwa sygnalizacja zagrożeń
+ 
+1007 
+Niedostosowanie czynnika materialnego do transportu, konserwacji lub napraw 
+1008 
+Brak lub niewłaściwe rozwiązania techniczne urządzenia zatrzymania awaryjnego
+ 
+1009 
+Nieprawidłowości projektowo
+-
+konstrukcyjne środków ochrony
+ indywidualnej 
+1010 
+Inne, niewymienione 
+nieprawidłowości projektowo
+-konstrukcyjne 
+1099 
+Niewłaściwe wykonanie czynnika materialnego
+ 
+ 
+Zastosowanie materiałów zastępczych 
+w produkcji czynnika materialnego 
+1101 
+Niedotrzymanie wymaganych parametrów technicznych
+ 
+1102 
+Inne, niewymienione 
+nieprawidłowości wykonania czynnika materialnego
+ 
+1199 
+Wady materiałowe czynnika materialnego
+ 
+ 
+Ukryte wady materiałowe czynnika materialnego
+ 
+1201 
+Inne, niewymienione 
+wady materiałowe
+ 
+1299 
+Niewłaściwa eksploatacja czynnika materialnego
+ 
+ 
+Nadmierna eksploatacja czynnika materialnego 
+1301 
+Niedostateczna konserwacja czynnika materialnego 
+1302 
+Niewłaściwe naprawy i remonty czynnika materialnego
+ 
+1303 
+Inne, niewymienione 
+nieprawidłowości związane z eksploatacją czynnika 
+materialnego 
+1399 
+Niewłaściwa organizacja pracy
+ 
+ 
+Nieprawidłowy podział pracy lub rozplanowanie zadań
+ (
+powodujący nadmierne 
+obciążenie pracą
+, 
+zbyt krótkie terminy wykonywania zadania
+, 
+monotonię
+ itp.) 
+1401 
+Dziennik Ustaw	
+– 28 – 	
+Poz. 2750
+﻿
+ 
+ 
+Niewłaściwe polecenia przełożonych
+ 
+lub osób sprawujących nadzór (z powodu
+ 
+niewystarczając
+ych kompetencji lub braku wiedzy) 
+1402 
+Brak nadzoru 
+1403 
+Niewłaściwa koordynacja prac zbiorowych
+ (bra
+k ustalonych zasad współpracy 
+z innymi 
+pracownikami lub osobami spoza przedsiębiorstwa)
+ 
+1404 
+Wykonywanie, z polecenia 
+przełożonych lub osób sprawujących
+ 
+nadzór, pra
+c 
+nie
+wchodzących w
+ 
+zakres obowiązków pracownika
+ 
+1405 
+Brak instrukcji posługiwania się czynnikiem materialnym
+ 
+1406 
+Dopuszczenie pracownika do pracy z czynnikiem materialnym 
+o niewłaściwym 
+stanie technicznym spowodowanym brakiem konserwacji, przeglądów lub 
+niedostosowaniem do wymagań bezpieczeństwa
+ 
+1407 
+Tolerowanie 
+przez przełożonych 
+lub 
+osoby sprawujące nadzór
+ 
+łamani
+a 
+przepisów 
+i 
+zasad bezpieczeństwa i higieny pracy
+  
+1408 
+Niedostateczne przygotowanie zawodowe pracownika 
+1409 
+Brak lub niewłaściwe szkolenia bhp (instruktaż ogólny i stanowiskowy)
+ 
+1410 
+Brak lub niewłaściwy instruktaż w przypadku wprowadzenia zmian na stanowisku 
+pracy
+ 
+1411 
+Stosowanie 
+niewłaściwej technologii
+ w procesie pracy 
+1412 
+Dopuszczenie do pracy pracownika z przeciwwskazaniami lekarskimi lub bez 
+badań lekarskich
+ 
+1413 
+Wykonywanie pracy w zbyt małej obsadzie osobowej
+ 
+1414 
+Wykonywanie prac pomimo 
+niewłaściwego zaopatrzenia w narzędzia, surowce 
+(nieodpowiednie 
+wyposażeni
+e pracownika) 
+1415 
+Brak lub niewłaściwe procedury i instrukcje bezpiecznej realizacji zadań
+ 
+1416 
+Brak lub nieprawidłowo zrealizowane działania korygujące, sformułowane 
+w wyniku 
+badania wcześniejszych wypadków przy pracy (niepodjęcie działań 
+zapobiegających powtórnemu wystąpieniu zbliżonego zdarzenia)
+ 
+1417 
+Inne, niewymienione 
+nieprawidłowości związane z organizacją pracy
+ 
+1499 
+Niewłaściwa organizacja stanowiska pracy
+ 
+ 
+Niewłaściwe usytuowanie urządzeń na stanowisku pracy
+ 
+1501 
+Nieodpowiednie przejścia i dojścia
+ (
+zbyt wąskie, niedostosowane do ruchu, bez 
+sygnalizacji zagrożeń)
+, 
+brak odpowiednich ostrzeżeń o niebezpieczeństwie, 
+zagrożeniu
+  
+1502 
+Nieodpowiednie 
+rozmieszczenie, składowanie lub umocowanie przedmiotów pracy 
+(czynnika materialnego, surowców, półproduktów, produktów itp.)
+ 
+1503 
+Nieusunięcie zbędnych przedmiotów, substancji lub energii (odpadów, opakowań, 
+resztek substancji, niewyłączenie zasilania itp
+.) 
+1504 
+Brak lub n
+iewłaściwy dobór środków
+ ochrony indywidualnej 
+1505 
+Inne, niewymienione 
+nieprawidłowości organizacji stanowiska pracy
+ 
+1599 
+N
+iewłaściwe posługiwanie się czynnikiem materialnym przez pracownika
+ 
+ 
+Używanie nieodpowiedniego do danej pracy 
+czynnika materialnego 
+1601 
+Wykonywanie pracy ręcznie zamiast przy użyciu czynnika materialnego
+ 
+1602 
+Użycie czynnika materialnego podczas przebywania osób w strefie zagrożenia
+ 
+1603 
+Niewłaściwe zabezpieczenie czynnika materialnego (niezaciągnięcie hamulca
+ na 
+postoju itp.) 
+1604 
+Udostępnienie przez pracownika c
+zynnika materialnego osobie nie
+upoważnionej
+ 
+1605 
+Użycie czynnika materialnego niezgodnie z jego przeznaczeniem
+ 
+1606 
+Niewłaściwe uchwycenie, trzymanie czynnika materialnego
+ 
+1607 
+Dziennik Ustaw	
+– 29 – 	
+Poz. 2750
+﻿
+ 
+ 
+Wadliwe zainstalowanie, zamocowanie, zawieszenie czynnika materialnego przez 
+pracownika 
+1608 
+Inne, niewymienione 
+nieprawidłowości w posługiwaniu się czynnikiem 
+materialnym 
+1699 
+Nieużywanie lub używanie w nieprawidłowy sposób sprzętu ochronnego przez 
+pracownika 
+ 
+Nieużywanie lub używanie w nieprawidłowy sposób środków ochrony 
+indywidualnej przez pracownika 
+1701 
+Nieużywanie lub używanie w nieprawidłowy sposób środków ochrony zbiorowej 
+przez pracownika (np. przechodzenie, omijanie 
+lub wyłączanie osłon stałych 
+i 
+ruchomych lub innych ograniczających i zabezpieczających środków ochrony 
+zbiorowej) 
+1702 
+Nieużywanie
+ 
+lub używanie w nieprawidłowy sposób
+ innych niewymienionych 
+sprzętów ochronnych przez pracownika
+ 
+1799 
+Niestosowanie się do poleceń oraz przepisów i zasad bezpieczeństwa i higieny 
+pracy 
+ 
+Wykonywanie pracy nie
+wchodzącej w zakres obowiązków pracownika 
+(bez polecenia) 
+1801 
+Przechodzenie, przejeżdżanie lub przebywanie w miejscach niedozwolonych
+ 
+1802 
+Wejście, wjechanie na obszar zagrożony bez upewnienia się
+, czy nie ma 
+niebezpieczeństwa
+ 
+1803 
+Wykonywanie czynności bez usunięcia zagrożenia (niewyłączenie maszyny, 
+napięcia
+ itp.) 
+1804 
+Zbyt szybka jazda 
+1805 
+Niewłaściwe operowanie kończynami w strefie zagrożenia
+ 
+1806 
+Żarty, bójki
+ 
+1807 
+Inne niewłaściwe zachowanie się pracownika
+ 
+1899 
+Stan psychofizyczny pracownika, niezapewniający bezpiecznego 
+wykonywania pracy spowodowany 
+ 
+Nagłym zachorowaniem, niedyspozycją fizyczną
+ 
+1901 
+Przewlekłą lub ostrą chorobą psychiczną
+ 
+1902 
+Zmęczeniem
+ 
+1903 
+Zdenerwowaniem 
+1904 
+Spożyciem alkoholu, środków odurzających lub substancji psychotropowych
+ 
+1905 
+Innymi przyczynami 
+związanymi ze stanem
+ psychofizycznym pracownika 
+1999 
+Nieprawidłowe zachowanie się pracownika spowodowane
+ 
+ 
+Nieznajomością zagrożenia
+ 
+2001 
+Nieznajomością przepisów i zasad bezpieczeństwa i higieny pracy
+ 
+2002 
+Lekceważeniem zagrożenia (brawura, ryzykanctwo)
+ 
+2003 
+Lekceważeniem poleceń przełożonych
+ (p
+odejmowanie niebezpiecznych zachowań 
+lub 
+działań sprzecznych z poleceniami lub instrukcjami
+ 
+przełożonych
+) 
+2004 
+Niezachowaniem 
+wzmożonej ostrożności
+ wymaganej w chwili wykonywania prac 
+o zwiększonym zagrożeniu lub w utrudnionych warunkach
+ 
+2005 
+Niewłaściwym tempem pracy
+ 
+2006 
+Brakiem doświadczenia
+ 
+2007 
+Innymi przyczynami związanymi z zachowaniem się pracownika
+ 
+2099 
+Dziennik Ustaw	
+– 30 – 	
+Poz. 2750
+﻿
+ 
+ 
+Zdarzenie 
+niezależne od pracodawcy lub pracownika, działanie osób trzecich 
+lub zwierząt
+ 
+ 
+Zdarzenie niezależne od pracodawcy lub pracownika, działanie
+ 
+osób trzecich
+ lub 
+zwierząt
+ 
+3000 
+Inne przyczyny, niewymienione w klasyfikacji
+ 
+9099 
+ 
+W
+ypełnioną część II
+, 
+uzupełniającą
+, statystycznej karty wypadku przy pracy pracodawca 
+przekazuje nie później niż z upływem 6 miesięcy 
+o
+d dnia zatwierdzenia protokołu 
+powypadkowego lub od dnia sporządzenia karty wypadku, podając całkowitą ilość dni zasiłku 
+chorobowego 
+związanego z tym wypadkiem
+ 
+(bez świadczenia rehabilitacyjnego)
+. 
+ 
+Pozycja 28.
+ 
+Rzeczywiste skutki wypadku
+ (znane w momen
+cie wypełniania części II 
+statystycznej karty wypadku przy pracy Z-KW). 
+ 
+Pozycja 29. 
+Liczba dni niezdolności do pracy
+ (znana w momen
+cie wypełniania części II 
+statystycznej karty wypadku przy pracy Z-KW) jest to 
+całkowita 
+liczba dni 
+zasiłku 
+chorobowego związanego z wypadkiem 
+przy pracy osoby poszkodowanej 
+(bez świadczenia 
+rehabilitacyjnego). 

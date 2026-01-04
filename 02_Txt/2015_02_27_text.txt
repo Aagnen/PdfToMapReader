@@ -1,0 +1,11857 @@
+DZIENNIK USTAW
+RZECZYPOSPOLITEJ  POLSKIEJ
+Warszawa, dnia 18 marca 2015 r.
+Poz. 376
+ROZPORZĄDZENIE
+MINISTRA INFRASTRUKTURY I ROZWOJU
+1)
+z dnia 27 lutego 2015 r.
+w sprawie metodologii wyznaczania charakterystyki energetycznej budynku lub części budynku 
+oraz świadectw charakterystyki energetycznej
+2)
+Na podstawie art. 15 ustawy z dnia 29 sierpnia 2014 r. o charakterystyce energetycznej budynków (Dz. U. poz. 1200 
+oraz z 2015 r. poz. 151) zarządza się, co następuje:
+§ 1.
+ Rozporządzenie określa:
+1)	
+metodologię wyznaczania charakterystyki energetycznej,
+2)	
+sposób sporządzania świadectwa charakterystyki energetycznej,
+3)	
+wzory świadectw charakterystyki energetycznej
+– budynku lub części budynku.
+§ 2.
+ Ilekroć w rozporządzeniu jest mowa o:
+1)	
+systemie ogrzewania – należy przez to rozumieć system techniczny zapewniający dostawę energii użytkowej na po-
+trzeby ogrzewania i wentylacji pomieszczeń w budynku lub części budynku;
+2)	
+systemie przygotowania ciepłej wody użytkowej – należy przez to rozumieć system techniczny zapewniający dostawę 
+energii użytkowej na potrzeby przygotowania ciepłej wody użytkowej w budynku lub części budynku;
+3)	
+systemie chłodzenia – należy przez to rozumieć system techniczny zapewniający dostawę energii użytkowej na po-
+trzeby chłodzenia pomieszczeń w budynku lub części budynku;
+4)	
+systemie wbudowanej instalacji oświetlenia – należy przez to rozumieć system techniczny zapewniający dostawę 
+energii końcowej na potrzeby oświetlenia pomieszczeń w budynku lub części budynku;
+5)	
+prostym systemie technicznym – należy przez to rozumieć system techniczny wykorzystujący jeden rodzaj źródła 
+energii, zasilany jednym rodzajem nośnika energii lub energii;
+6)	
+złożonym systemie technicznym – należy przez to rozumieć system techniczny wykorzystujący więcej niż jeden ro-
+dzaj źródła energii;
+7)	
+nieodnawialnej energii pierwotnej – należy przez to rozumieć energię zawartą w kopalnych surowcach energetycz-
+nych, która nie została poddana procesowi konwersji lub transformacji; 
+8)	
+odnawialnej energii pierwotnej – należy przez to rozumieć energię uzyskaną z odnawialnego źródła energii;
+1)
+	
+Minister Infrastruktury i Rozwoju kieruje działem administracji rządowej – budownictwo, lokalne planowanie i zagospodarowanie 
+przestrzenne oraz mieszkalnictwo, na podstawie § 1 ust. 2 pkt 1 rozporządzenia Prezesa Rady Ministrów z dnia 22 września 2014 r. 
+w sprawie szczegółowego zakresu działania Ministra Infrastruktury i Rozwoju (Dz. U. poz. 1257).
+2)
+	
+Niniejsze rozporządzenie dokonuje w zakresie swojej regulacji wdrożenia dyrektywy Parlamentu Europejskiego i Rady 2010/31/UE 
+z dnia 19 maja 2010 r. w sprawie charakterystyki energetycznej budynków (Dz. Urz. UE L 153 z 18.06.2010, str. 13).
+Dziennik Ustaw	
+– 2 – 	
+Poz. 376
+﻿
+9)	
+odnawialnym źródle energii – należy przez to rozumieć odnawialne źródło energii, o którym mowa w art. 3 pkt 20 
+ustawy z dnia 10 kwietnia 1997 r. – Prawo energetyczne (Dz. U. z 2012 r. poz. 1059, z późn. zm.
+3)
+);
+10)	 energii końcowej – należy przez to rozumieć energię dostarczaną do budynku lub części budynku dla systemów tech-
+nicznych;
+11)	 energii pomocniczej końcowej – należy przez to rozumieć część energii końcowej dostarczanej do budynku lub części 
+budynku dla zapewnienia funkcjonowania urządzeń pomocniczych w systemach technicznych;
+12)	 energii użytkowej – należy przez to rozumieć:
+a)	
+w przypadku ogrzewania budynku lub części budynku – energię przenoszoną z budynku lub części budynku do 
+jego (jej) otoczenia przez przenikanie lub z powietrzem wentylacyjnym, pomniejszoną o zyski ciepła,
+b)	
+w przypadku chłodzenia budynku lub części budynku – zyski ciepła pomniejszone o energię przenoszoną z bu-
+dynku lub części budynku do jego (jej) otoczenia przez przenikanie lub z powietrzem wentylacyjnym,
+c)	
+w przypadku przygotowania ciepłej wody użytkowej – energię przenoszoną z budynku lub części budynku do 
+jego (jej) otoczenia ze ściekami;
+13)	 emisji – należy przez to rozumieć emisję, o której mowa w art. 2 pkt 5 ustawy z dnia 17 lipca 2009 r. o systemie zarzą-
+dzania emisjami gazów cieplarnianych i innych substancji (Dz. U. z 2013 r. poz. 1107 oraz z 2014 r. poz. 1101);
+14)	 budynku produkcyjnym – należy przez to rozumieć budynek, o którym mowa w klasie 1251 Polskiej Klasyfikacji 
+Obiektów Budowlanych, stanowiącej załącznik do przepisów wydanych na podstawie art. 40 ust. 2 ustawy z dnia 
+29 czerwca 1995 r. o statystyce publicznej (Dz. U. z 2012 r. poz. 591, z późn. zm.
+4)
+);
+15)	 budynku magazynowym – należy przez to rozumieć budynek, o którym mowa w klasie 1252 Polskiej Klasyfikacji 
+Obiektów Budowlanych, stanowiącej załącznik do przepisów wydanych na podstawie art. 40 ust. 2 ustawy z dnia 
+29 czerwca 1995 r. o statystyce publicznej;
+16)	 zyskach ciepła – należy przez to rozumieć ciepło:
+a)	
+wytworzone wewnątrz budynku lub części budynku przez użytkowników oraz przez urządzenia niebędące częś-
+cią systemów technicznych,
+b)	
+dostarczone przez promienie słoneczne do budynku lub części budynku;
+17)	 powierzchni o regulowanej temperaturze powietrza – należy przez to rozumieć ogrzewaną lub chłodzoną powierzch-
+nię kondygnacji netto, wyznaczaną według Polskiej Normy dotyczącej właściwości użytkowych w budownictwie – 
+określanie i obliczanie wskaźników powierzchniowych i kubaturowych.
+§ 3.
+ 1. Charakterystykę energetyczną budynku lub części budynku wyznacza się metodą opartą na standardowym spo-
+sobie użytkowania budynku lub części budynku (metoda obliczeniowa) albo metodą opartą na faktycznie zużytej ilości 
+energii (metoda zużyciowa).
+2. Charakterystykę energetyczną istniejącego budynku lub części budynku można wyznaczać metodą zużyciową, jeżeli:
+1)	
+na potrzeby ogrzewania lub przygotowania ciepłej wody użytkowej są one zasilane z sieci ciepłowniczej lub gazowej;
+2)	
+zużycie:
+a)	
+ciepła rozlicza się na podstawie wskazań ciepłomierza,
+b)	
+gazu ziemnego rozlicza się na podstawie wskazań gazomierza,
+c)	
+ciepłej wody użytkowej rozlicza się na podstawie wskazań wodomierza;
+3)	
+istnieją dokumenty potwierdzające rzeczywiste zużycie ciepła lub gazu ziemnego z ostatnich 3 lat poprzedzających 
+sporządzenie świadectwa charakterystyki energetycznej;
+4)	
+w okresie, o którym mowa w pkt 3, nie przeprowadzono robót budowlanych wpływających na ich charakterystykę 
+energetyczną;
+5)	
+nie są one wyposażone w system chłodzenia;
+3)
+	
+Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2013 r. poz. 984 i 1238, z 2014 r. poz. 457, 490, 900, 
+942, 1101 i 1662 oraz z 2015 r. poz. 151.
+4)
+	
+Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2013 r. poz. 2 oraz z 2014 r. poz. 1161 i 1662.
+Dziennik Ustaw	
+– 3 – 	
+Poz. 376
+﻿
+6)	
+gaz ziemny jest zużywany wyłącznie na potrzeby ogrzewania lub przygotowania ciepłej wody użytkowej, a jego 
+zużycie jest mierzone odrębnym gazomierzem;
+7)	
+jest możliwe określenie ich powierzchni o regulowanej temperaturze powietrza.
+3. Metodologię wyznaczania charakterystyki energetycznej opartą na standardowym sposobie użytkowania budynku 
+lub części budynku określa załącznik nr 1 do rozporządzenia.
+4. Metodologię wyznaczania charakterystyki energetycznej opartą na faktycznie zużytej ilości energii określa załącznik 
+nr 2 do rozporządzenia.
+§ 4.
+ 1. Świadectwo charakterystyki energetycznej sporządza się w języku polskim.
+2. Świadectwo charakterystyki energetycznej oprawia się w okładkę formatu A-4, w sposób uniemożliwiający jego 
+zdekompletowanie.
+§ 5.
+ Wzór świadectwa charakterystyki energetycznej:
+1)	
+budynku – określa załącznik nr 3 do rozporządzenia;
+2)	
+części budynku – określa załącznik nr 4 do rozporządzenia.
+§ 6.
+ Rozporządzenie wchodzi w życie po upływie 30 dni od dnia ogłoszenia.
+5)
+Minister Infrastruktury i Rozwoju: 
+M. Wasiak
+5)
+	
+Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Infrastruktury i Rozwoju z dnia 3 czerwca 2014 r. w sprawie 
+metodologii obliczania charakterystyki energetycznej budynku i lokalu mieszkalnego lub części budynku stanowiącej samodzielną 
+całość techniczno-użytkową oraz sposobu sporządzania i wzorów świadectw charakterystyki energetycznej (Dz. U. poz. 888), które 
+zgodnie z art. 51 ustawy z dnia 29 sierpnia 2014 r. o charakterystyce energetycznej budynków (Dz. U. poz. 1200 oraz z 2015 r. 
+poz. 151) traci moc z dniem wejścia w życie niniejszego rozporządzenia.
+Dziennik Ustaw	
+– 4 – 	
+Poz. 376
+﻿
+1.
+ 
+Sposób wyznaczania charakterystyki energetycznej budynku lub części budynku  
+1.1.
+ 
+Budynek lub część budynku dzieli się na przestrzenie ogrzewane, nieogrzewane  
+i chłodzone. Przestrzenie ogrzewane dzieli się na strefy ogrzewane, a przestrzenie 
+chłodzone na strefy chłodzone.  
+ 
+Przestrzeń ogrzewana jest to pomieszczenie lub zespół pomieszczeń w budynku  
+lub części budynku, w których działanie systemu ogrzewania umożliwia utrzymanie 
+temperatury wewnętrznej, której wartość została określona w przepisach wydanych  
+na podstawie art. 7 ust. 2 pkt 1 ustawy z dnia 7 lipca 1994 r. 
+−
+ Prawo budowlane (Dz. U.  
+z 2013 r. poz. 1409, z późn. zm.
+1)
+), zwanych dalej „przepisami techniczno-budowlanymi”. 
+ 
+Jeżeli w przyległych pomieszczeniach w przestrzeni ogrzewanej temperatura wewnętrzna 
+różni się o więcej niż 4 K lub te pomieszczenia mają różne przeznaczenie,  
+lub te pomieszczenia są obsługiwane przez różne systemy techniczne, dokonuje się 
+podziału tej przestrzeni na strefy ogrzewane.  
+ 
+Przestrzeń nieogrzewana jest to pomieszczenie lub zespół pomieszczeń w budynku  
+lub części budynku, dla których nie określono wartości temperatury wewnętrznej. 
+ 
+Przestrzeń okresowo ogrzewana jest to pomieszczenie lub zespół pomieszczeń  
+w budynku lub części budynku, w których utrzymanie temperatury wewnętrznej,  
+w zależności od temperatury powietrza zewnętrznego, jest zapewnione przez działanie 
+systemu ogrzewania lub zyski ciepła. 
+ 
+Przestrzeń chłodzona jest to pomieszczenie lub zespół pomieszczeń w budynku lub części 
+budynku, w których w okresie działania systemu chłodzenia jest utrzymywana temperatura 
+wewnętrzna określona w budowlanej dokumentacji technicznej. 
+ 
+Jeżeli w przyległych pomieszczeniach w przestrzeni chłodzonej temperatura wewnętrzna 
+różni się o więcej niż 4 K lub te pomieszczenia mają różne przeznaczenie,  
+lub te pomieszczenia są obsługiwane przez różne systemy techniczne, dokonuje się 
+podziału tej przestrzeni na strefy chłodzone.  
+1.2.
+ 
+Jeżeli 
+w 
+budynku 
+lub 
+części 
+budynku 
+występują 
+procesy 
+technologiczne,  
+to w obliczeniach charakterystyki energetycznej nie uwzględnia się zapotrzebowania  
+na energię w tych procesach, a także zapotrzebowania na energię przez instalacje 
+obsługujące te procesy. Zyski ciepła od tych procesów dolicza się do wewnętrznych 
+zysków ciepła pomieszczeń.
+ 
+ 
+2.
+ 
+Wyznaczanie wskaźników rocznego zapotrzebowania na energię EP, EK i EU 
+2.1.
+ 
+Charakterystykę energetyczną określają wartości wskaźników rocznego zapotrzebowania 
+na: 
+1)
+ 
+nieodnawialną energię pierwotną: 
+f
+p
+/A
+Q
+EP
+=
+ 
+ 
+kWh/(m
+2 
+· rok) 
+ 
+ 
+(1) 
+2)
+ 
+energię końcową: 
+f
+k
+/A
+Q
+EK
+=
+  
+ 
+ 
+ 
+kWh/(m
+2
+ ·
+ 
+rok) 
+ 
+ 
+(2) 
+3)
+ 
+energię użytkową: 
+f
+u
+/A
+Q
+EU
+=
+ 
+     
+ 
+ 
+ 
+kWh/(m
+2
+ ·
+ 
+rok) 
+ 
+ 
+(3) 
+                                                          
+1)
+ Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2014 r. poz. 40, 768, 822, 1133 
+i 1200 oraz z 2015 r. poz. 151 i 200. 
+Załączniki do rozporządzenia Ministra Infrastruktury 
+i Rozwoju z dnia 27 lutego 2015 r. (poz. 376)
+Załącznik nr 1
+METODOLOGIA WYZNACZANIA CHARAKTERYSTYKI ENERGETYCZNEJ OPARTA NA STANDARDOWYM 
+SPOSOBIE UŻYTKOWANIA BUDYNKU LUB CZĘŚCI BUDYNKU
+Dziennik Ustaw	
+– 5 – 	
+Poz. 376
+﻿
+gdzie: 
+Q
+p
+ 
+roczne zapotrzebowanie na nieodnawialną energię pierwotną  
+dla systemów technicznych  
+kWh/rok 
+Q
+k
+ 
+roczne zapotrzebowanie na energię końcową dostarczaną  
+do budynku lub części budynku dla systemów technicznych  
+kWh/rok 
+Q
+u
+roczne zapotrzebowanie na energię użytkową  
+kWh/rok 
+A
+f
+ 
+powierzchnia pomieszczeń o regulowanej temperaturze powietrza 
+(powierzchnia ogrzewana lub chłodzona)  
+m
+2
+ 
+3.
+ 
+Wyznaczanie rocznego zapotrzebowania na nieodnawialną energię pierwotną  
+dla systemów technicznych Q
+p
+  
+3.1.
+ 
+Wyznaczanie 
+rocznego 
+zapotrzebowania 
+na 
+nieodnawialną 
+energię 
+pierwotną  
+dla systemów technicznych Q
+p
+ w budynku lub części budynku wyposażonych w proste 
+systemy techniczne 
+3.1.1.
+ 
+Roczne zapotrzebowanie na nieodnawialną energię pierwotną dla systemów 
+technicznych Q
+p
+ wyznacza się według wzoru: 
+L
+p,
+C
+p,
+W
+p,
+H
+p,
+p
+Q
+Q
+Q
+Q
+Q
++
++
++
+=
+ 
+ 
+ 
+kWh/rok 
+ 
+ 
+ 
+(4) 
+gdzie: 
+Q
+p,H 
+roczne zapotrzebowanie na nieodnawialną energię pierwotną  
+dla systemu ogrzewania  
+kWh/rok 
+Q
+p,W
+ 
+roczne zapotrzebowanie na nieodnawialną energię pierwotną  
+dla systemu przygotowania ciepłej wody użytkowej 
+kWh/rok 
+Q
+p,C
+ 
+roczne zapotrzebowanie na nieodnawialną energię pierwotną  
+dla systemu chłodzenia  
+kWh/rok 
+Q
+p,L 
+roczne zapotrzebowanie na nieodnawialną energię pierwotną  
+dla systemu wbudowanej instalacji oświetlenia
+*)
+  
+kWh/rok 
+*)
+ Nie wyznacza się dla budynków mieszkalnych i lokali mieszkalnych. 
+ 
+3.1.2.
+ 
+Zależności podstawowe: 
+el
+H
+pom,
+el,
+H
+H
+k,
+H
+p,
+w
+E
+w
+Q
+Q
+⋅
++
+⋅
+=
+ 
+ 
+ 
+kWh/rok 
+ 
+ 
+ 
+(5) 
+el
+W
+pom,
+el,
+W
+W
+k,
+W
+p,
+w
+E
+w
+Q
+Q
+⋅
++
+⋅
+=
+ 
+ 
+ 
+kWh/rok 
+ 
+ 
+ 
+(6) 
+el
+C
+pom,
+el,
+C
+C
+k,
+C
+p,
+w
+E
+w
+Q
+Q
+⋅
++
+⋅
+=
+ 
+ 
+ 
+kWh/rok 
+ 
+ 
+ 
+(7) 
+el
+L
+k,
+L
+p,
+w
+Q
+Q
+⋅
+=
+ 
+ 
+ 
+ 
+ 
+kWh/rok 
+ 
+ 
+ 
+(8) 
+gdzie: 
+Q
+k,H 
+roczne zapotrzebowanie na energię końcową dostarczaną do budynku 
+lub części budynku dla systemu ogrzewania 
+kWh/rok 
+Q
+k,W
+ 
+roczne zapotrzebowanie na energię końcową dostarczaną do budynku 
+lub części budynku dla systemu przygotowania ciepłej wody 
+użytkowej 
+kWh/rok 
+Q
+k,C
+ 
+roczne zapotrzebowanie na energię końcową dostarczaną do budynku 
+lub części budynku dla systemu chłodzenia 
+kWh/rok 
+Q
+k,L
+ 
+roczne zapotrzebowanie na energię końcową dostarczaną do budynku 
+lub części budynku dla systemu wbudowanej instalacji oświetlenia
+*)
+ 
+kWh/rok 
+w
+i 
+współczynnik nakładu nieodnawialnej energii pierwotnej  
+na wytworzenie i dostarczenie:  
+a)
+ 
+nośnika energii lub energii dla systemu ogrzewania  
+(współczynnik w
+H
+), 
+– 
+Dziennik Ustaw	
+– 6 – 	
+Poz. 376
+﻿
+b)
+ 
+nośnika energii lub energii dla systemu przygotowania ciepłej 
+wody użytkowej (współczynnik w
+W
+), 
+c)
+ 
+nośnika energii lub energii dla systemu chłodzenia  
+(współczynnik w
+C
+), 
+d)
+ 
+energii elektrycznej (współczynnik w
+el
+) 
+E
+el,pom,H 
+roczne zapotrzebowanie na energię pomocniczą końcową dostarczaną 
+do budynku lub części budynku dla systemu ogrzewania  
+kWh/rok 
+E
+el,pom,W
+ roczne zapotrzebowanie na energię pomocniczą końcową dostarczaną 
+do budynku lub części budynku dla systemu przygotowania ciepłej 
+wody użytkowej   
+kWh/rok 
+E
+el,pom,C
+ 
+roczne zapotrzebowanie na energię pomocniczą końcową dostarczaną 
+do budynku lub części budynku dla systemu chłodzenia 
+kWh/rok 
+*)
+ Nie wyznacza się dla budynków mieszkalnych i lokali mieszkalnych. 
+ 
+3.1.3.
+ 
+Wyznaczanie współczynnika nakładu nieodnawialnej energii pierwotnej na wy-
+tworzenie i dostarczenie nośnika energii lub energii dla systemów technicznych w
+i
+ 
+Wartość współczynnika nakładu nieodnawialnej energii pierwotnej na wytworzenie  
+i dostarczenie nośnika energii lub energii dla systemów technicznych w
+i
+ przyjmuje się  
+na podstawie danych udostępnionych przez dostawcę tego nośnika energii lub energii.  
+Dostawca ciepła sieciowego wyznacza wartość w
+i
+ zgodnie z przepisami wydanymi  
+na podstawie art. 28 ust. 6 ustawy z dnia 15 kwietnia 2011 r. o efektywności energetycznej  
+(Dz. U. Nr 94, poz. 551, z późn. zm.
+2)
+). Jeżeli wartość w
+i
+ wyznaczona w ten sposób jest 
+mniejsza od 0, przyjmuje się wartość równą 0,00. 
+W przypadku braku takich danych przyjmuje się wartości współczynnika w
+i 
+określone  
+w tabeli 1. 
+ 
+Tabela 1. Wartości współczynnika nakładu nieodnawialnej energii pierwotnej na wytworzenie  
+i dostarczenie nośnika energii lub energii dla systemów technicznych w
+i
+ 
+Lp.
+Sposób zasilania budynku  
+lub części budynku w energię 
+Rodzaj nośnika energii  
+lub energii 
+w
+i 
+1 
+Miejscowe wytwarzanie 
+energii w budynku 
+Olej opałowy 
+1,10 
+ 
+ 
+ 
+ 
+2 
+Gaz ziemny 
+3 
+Gaz płynny 
+4 
+Węgiel kamienny 
+5 
+Węgiel brunatny 
+6 
+Energia słoneczna 
+0,00 
+7 
+Energia wiatrowa 
+8 
+Energia geotermalna 
+9 
+Biomasa 
+0,20 
+10 
+Biogaz 
+0,50 
+11 
+Ciepło sieciowe z kogeneracji
+Węgiel kamienny lub gaz 
+0,80 
+12 
+Biomasa, biogaz 
+0,15 
+13 
+Ciepło sieciowe z ciepłowni  
+Węgiel kamienny 
+1,30 
+14 
+Gaz lub olej opałowy 
+1,20 
+15 
+Sieć elektroenergetyczna 
+systemowa 
+Energia elektryczna 
+3,00 
+ 
+ 
+ 
+                                                          
+2)
+ Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2012 r. poz. 951, 1203 i 1397 oraz z 2015 r. poz. 151. 
+Dziennik Ustaw	
+– 7 – 	
+Poz. 376
+﻿
+3.2.
+ 
+Wyznaczanie 
+rocznego 
+zapotrzebowania 
+na 
+nieodnawialną 
+energię 
+pierwotną  
+dla systemów technicznych Q
+p
+ w budynku lub części budynku wyposażonych w złożone 
+systemy techniczne 
+3.2.1.
+ 
+Roczne zapotrzebowanie na nieodnawialną energię pierwotną dla systemów 
+technicznych Q
+p
+ wyznacza się według wzoru: 
+L
+p,
+C
+p,
+W
+p,
+H
+p,
+p
+Q
+Q
+Q
+Q
+Q
++
++
++
+=
+ 
+ 
+ 
+kWh/rok 
+ 
+ 
+ 
+(9) 
+gdzie: 
+Q
+p,H 
+roczne zapotrzebowanie na nieodnawialną energię pierwotną  
+dla systemu ogrzewania  
+kWh/rok 
+Q
+p,W
+ 
+roczne zapotrzebowanie na nieodnawialną energię pierwotną  
+dla systemu przygotowania ciepłej wody użytkowej 
+kWh/rok 
+Q
+p,C
+ 
+roczne zapotrzebowanie na nieodnawialną energię pierwotną  
+dla systemu chłodzenia  
+kWh/rok 
+Q
+p,L 
+roczne zapotrzebowanie na nieodnawialną energię pierwotną  
+dla systemu wbudowanej instalacji oświetlenia
+*)
+  
+kWh/rok 
+*)
+ Nie wyznacza się dla budynków mieszkalnych i lokali mieszkalnych. 
+ 
+3.2.2.
+ 
+Zależności podstawowe: 
+(
+)
+∑
+⋅
++
+⋅
+=
+i
+i
+el,
+i
+H,
+pom,
+el,
+i
+H,
+i
+H,
+k,
+H
+p,
+w
+E
+w
+Q
+Q
+ 
+ 
+kWh/rok 
+ 
+ 
+ 
+(10) 
+(
+)
+∑
+⋅
++
+⋅
+=
+j
+j
+el,
+j
+W,
+pom,
+el,
+j
+W,
+j
+W,
+k,
+W
+p,
+w
+E
+w
+Q
+Q
+ 
+ 
+kWh/rok 
+ 
+ 
+ 
+(11) 
+(
+)
+∑
+⋅
++
+⋅
+=
+k
+k
+el,
+k
+C,
+pom,
+el,
+k
+C,
+k
+C,
+k,
+C
+p,
+w
+E
+w
+Q
+Q
+ 
+ 
+kWh/rok 
+ 
+ 
+ 
+(12) 
+∑
+⋅
+=
+l
+l
+el,
+l
+L,
+k,
+L
+p,
+w
+Q
+Q
+  
+ 
+ 
+ 
+kWh/rok 
+ 
+ 
+ 
+(13) 
+ 
+gdzie: 
+i 
+liczba podsystemów w systemie ogrzewania zasilanych różnymi 
+rodzajami nośnika energii lub energii  
+– 
+j 
+liczba podsystemów w systemie przygotowania ciepłej wody 
+użytkowej zasilanych różnymi rodzajami nośnika energii lub energii 
+– 
+k 
+liczba podsystemów w systemie chłodzenia zasilanych różnymi 
+rodzajami nośnika energii lub energii 
+– 
+l 
+liczba podsystemów w systemie wbudowanej instalacji oświetlenia 
+zasilanych różnymi rodzajami nośnika energii lub energii 
+– 
+i
+H,
+k,
+Q
+ 
+roczne zapotrzebowanie na energię końcową dostarczaną  
+do budynku lub części budynku dla i-tego podsystemu w systemie 
+ogrzewania  
+kWh/rok
+ 
+j
+W,
+k,
+Q
+ 
+roczne zapotrzebowanie na energię końcową dostarczaną  
+do budynku lub części budynku dla j-tego podsystemu w systemie 
+przygotowania ciepłej wody użytkowej 
+kWh/rok
+ 
+k
+C,
+k,
+Q
+ 
+roczne zapotrzebowanie na energię końcową dostarczaną  
+do budynku lub części budynku dla k-tego podsystemu w systemie 
+chłodzenia 
+kWh/rok
+ 
+l
+L,
+k,
+Q
+ 
+roczne zapotrzebowanie na energię końcową dostarczaną  
+do budynku lub części budynku dla l-tego podsystemu w systemie 
+wbudowanej instalacji oświetlenia
+*)
+ 
+kWh/rok
+ 
+i
+H,
+w
+ 
+współczynnik nakładu nieodnawialnej energii pierwotnej  
+na wytworzenie i dostarczenie nośnika energii lub energii  
+dla i-tego podsystemu w systemie ogrzewania 
+– 
+Dziennik Ustaw	
+– 8 – 	
+Poz. 376
+﻿
+j
+W,
+w
+ 
+współczynnik nakładu nieodnawialnej energii pierwotnej  
+na wytworzenie i dostarczenie nośnika energii lub energii  
+dla j-tego podsystemu w systemie przygotowania ciepłej wody 
+użytkowej 
+– 
+k
+C,
+w
+ 
+współczynnik nakładu nieodnawialnej energii pierwotnej  
+na wytworzenie i dostarczenie nośnika energii lub energii  
+dla k-tego podsystemu w systemie chłodzenia  
+– 
+i
+el,
+w
+ 
+współczynnik nakładu nieodnawialnej energii pierwotnej  
+na wytworzenie i dostarczenie energii elektrycznej, właściwy  
+dla rocznego zapotrzebowania na energię pomocniczą końcową 
+dostarczaną do budynku lub części budynku dla i-tego podsystemu 
+w systemie ogrzewania  
+– 
+j
+el,
+w
+ 
+współczynnik nakładu nieodnawialnej energii pierwotnej  
+na wytworzenie i dostarczenie energii elektrycznej, właściwy  
+dla rocznego zapotrzebowania na energię pomocniczą końcową 
+dostarczaną do budynku lub części budynku dla j-tego podsystemu 
+w systemie przygotowania ciepłej wody użytkowej  
+– 
+k
+el,
+w
+ 
+współczynnik nakładu nieodnawialnej energii pierwotnej  
+na wytworzenie i dostarczenie energii elektrycznej, właściwy  
+dla rocznego zapotrzebowania na energię pomocniczą końcową 
+dostarczaną do budynku lub części budynku dla k-tego podsystemu 
+w systemie chłodzenia 
+– 
+l
+el,
+w
+ 
+współczynnik nakładu nieodnawialnej energii pierwotnej  
+na wytworzenie i dostarczenie energii elektrycznej, właściwy  
+dla rocznego zapotrzebowania na energię pomocniczą końcową 
+dostarczaną do budynku lub części budynku dla l-tego podsystemu 
+w systemie wbudowanej instalacji oświetlenia 
+– 
+i
+H,
+pom,
+el,
+E
+ 
+roczne zapotrzebowanie na energię pomocniczą końcową 
+dostarczaną do budynku lub części budynku dla i-tego podsystemu 
+w systemie ogrzewania 
+kWh/rok
+ 
+j
+W,
+pom,
+el,
+E
+ 
+roczne zapotrzebowanie na energię pomocniczą końcową 
+dostarczaną do budynku lub części budynku dla j-tego podsystemu 
+w systemie przygotowania ciepłej wody użytkowej 
+kWh/rok
+ 
+k
+C,
+pom,
+el,
+E
+ 
+roczne zapotrzebowanie na energię pomocniczą końcową 
+dostarczaną do budynku lub części budynku dla k-tego podsystemu 
+w systemie chłodzenia 
+kWh/rok
+ 
+*)
+ Nie wyznacza się dla budynków mieszkalnych i lokali mieszkalnych. 
+ 
+4.
+ 
+Wyznaczanie 
+rocznego 
+zapotrzebowania 
+na 
+energię 
+końcową 
+dostarczaną  
+do budynku lub części budynku
+ 
+dla systemów technicznych Q
+k
+  
+4.1.
+ 
+Wyznaczanie rocznego zapotrzebowania na energię końcową dostarczaną do budynku  
+lub części budynku dla systemów technicznych Q
+k
+ w budynku lub części budynku 
+wyposażonych w proste systemy techniczne 
+4.1.1.
+ 
+Roczne zapotrzebowanie na energię końcową dostarczaną do budynku lub części 
+budynku dla systemów technicznych Q
+k
+ wyznacza się według wzoru: 
+pom
+el,
+L
+k,
+C
+k,
+W
+k,
+H
+k,
+k
+E
+Q
+Q
+Q
+Q
+Q
++
++
++
++
+=
+ 
+ 
+kWh/rok 
+ 
+ 
+ 
+(14) 
+gdzie: 
+Q
+k,H 
+roczne zapotrzebowanie na energię końcową dostarczaną do budynku 
+lub części budynku dla systemu ogrzewania  
+kWh/rok 
+Q
+k,W
+ 
+roczne zapotrzebowanie na energię końcową dostarczaną do budynku 
+lub części budynku dla systemu przygotowania ciepłej wody 
+użytkowej 
+kWh/rok 
+Dziennik Ustaw	
+– 9 – 	
+Poz. 376
+﻿
+Q
+k,C 
+roczne zapotrzebowanie na energię końcową dostarczaną do budynku 
+lub części budynku dla systemu chłodzenia 
+kWh/rok 
+Q
+k,L 
+roczne zapotrzebowanie na energię końcową dostarczaną do budynku 
+lub części budynku dla systemu wbudowanej instalacji oświetlenia
+*)
+ 
+kWh/rok 
+E
+el,pom
+ 
+roczne zapotrzebowanie na energię pomocniczą końcową dostarczaną 
+do budynku lub części budynku dla systemów technicznych 
+kWh/rok 
+*)
+ Nie wyznacza się dla budynków mieszkalnych i lokali mieszkalnych. 
+ 
+4.1.2.
+ 
+System ogrzewania 
+4.1.2.1.
+ 
+Roczne zapotrzebowanie na energię końcową dostarczaną do budynku lub części 
+budynku dla systemu ogrzewania Q
+k,H
+ wyznacza się według wzoru: 
+tot
+H,
+nd
+H,
+H
+k,
+/η
+Q
+Q
+=
+ 
+ 
+ 
+ 
+ 
+kWh/rok 
+ 
+ 
+ 
+(15) 
+gdzie: 
+s
+H,
+d
+H,
+e
+H,
+g
+H,
+tot
+H,
+η
+η
+η
+η
+η
+⋅
+⋅
+⋅
+=
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+(16) 
+gdzie: 
+Q
+H,nd 
+roczne zapotrzebowanie na energię użytkową do ogrzewania  
+i wentylacji  
+kWh/rok 
+η
+H,tot
+średnia sezonowa sprawność całkowita systemu ogrzewania  
+– 
+η
+H,g 
+średnia sezonowa sprawność wytwarzania ciepła z nośnika energii  
+lub energii dostarczanych do źródła ciepła 
+– 
+η
+H,e
+ 
+średnia sezonowa sprawność regulacji i wykorzystania ciepła  
+w przestrzeni ogrzewanej 
+– 
+η
+H,d 
+średnia sezonowa sprawność przesyłu ciepła ze źródła ciepła  
+do przestrzeni ogrzewanej 
+– 
+η
+H,s 
+średnia sezonowa sprawność akumulacji ciepła w elementach 
+pojemnościowych systemu ogrzewania  
+– 
+ 
+4.1.2.2.
+ 
+Wyznaczanie średniej sezonowej sprawności wytwarzania ciepła z nośnika energii  
+lub energii dostarczanych do źródła ciepła 
+η
+H,g
+ 
+Wartość średniej sezonowej sprawności wytwarzania ciepła z nośnika energii lub energii 
+dostarczanych do źródła ciepła 
+η
+H,g
+ przyjmuje się na podstawie danych udostępnionych  
+przez producenta lub dostawcę źródła ciepła. 
+W budynkach, w których zostały przeprowadzone kontrole systemu ogrzewania, wartość 
+η
+H,g
+ 
+powinna zostać określona na podstawie wyników tych kontroli. 
+W przypadku braku takich danych przyjmuje się wartości 
+η
+H,g
+  określone w tabeli 2. 
+ 
+Tabela 2. Wartości średniej sezonowej sprawności wytwarzania ciepła z nośnika energii  
+lub energii dostarczanych do źródła ciepła 
+η
+H,g
+ 
+Lp. 
+Rodzaj źródła ciepła 
+η
+H,g
+ 
+1 
+Kotły węglowe wyprodukowane: 
+a)
+ 
+przed 1980 r., 
+b)
+ 
+w latach 1980–2000, 
+c)
+ 
+po 2000 r. 
+ 
+0,60 
+0,65 
+0,82 
+2 
+Kotły na biomasę (słoma), wrzutowe, z obsługą ręczną, o mocy: 
+a)
+ 
+do 100 kW, 
+b)
+ 
+powyżej 100 kW 
+ 
+0,63 
+0,70 
+3 
+Kotły na biomasę (drewno: polana, brykiety, pelety, zrębki), wrzutowe, 
+z obsługą ręczną, o mocy do 100 kW 
+0,65 
+4 
+Kotły na biomasę (słoma) automatyczne o mocy: 
+a)
+ 
+do 100 kW, 
+b)
+ 
+powyżej 100 kW do 600 kW 
+ 
+0,70 
+0,75 
+Dziennik Ustaw	
+– 10 – 	
+Poz. 376
+﻿
+Lp. 
+Rodzaj źródła ciepła 
+η
+H,g
+ 
+5 
+Kotły na biomasę (drewno: polana, brykiety, pelety, zrębki), 
+automatyczne, o mocy: 
+a)
+ 
+do 100 kW, 
+b)
+ 
+powyżej 100 kW do 600 kW 
+ 
+ 
+0,70 
+0,85 
+6 
+Kotły na biomasę (słoma, drewno: polana, brykiety, pelety, zrębki), 
+automatyczne, z mechanicznym podawaniem paliwa, o mocy powyżej 
+600 kW 
+0,85 
+7 
+Kominki z zamkniętą komorą spalania 
+0,70 
+8 
+Piece kaflowe 
+0,80 
+9 
+Podgrzewacze elektryczne przepływowe 
+0,94 
+10 
+Podgrzewacze elektrotermiczne 
+1,00 
+11 
+Elektryczne grzejniki bezpośrednie: konwektorowe, płaszczyznowe, 
+promiennikowe i podłogowe kablowe 
+0,99 
+12 
+Piece olejowe lub gazowe pomieszczeniowe 
+0,84 
+13 
+Kotły na paliwo gazowe lub ciekłe z otwartą komorą spalania 
+(palnikami atmosferycznymi) i dwustawną regulacją procesu spalania  
+0,86 
+14 
+Kotły niskotemperaturowe na paliwo gazowe lub ciekłe, z zamkniętą 
+komorą spalania i palnikiem modulowanym, o mocy nominalnej: 
+a)
+ 
+do 50 kW, 
+b)
+ 
+powyżej 50 do 120 kW, 
+c)
+ 
+powyżej 120 do 1200 kW 
+ 
+ 
+0,87 
+0,91 
+0,94 
+15 
+Kotły gazowe kondensacyjne (70/55°C) o mocy nominalnej: 
+a)
+ 
+do 50 kW, 
+b)
+ 
+powyżej 50 do 120 kW, 
+c)
+ 
+powyżej 120 do 1200 kW 
+ 
+0,91 
+0,92 
+0,95 
+16 
+Kotły gazowe kondensacyjne niskotemperaturowe (55/45°C) o mocy 
+nominalnej: 
+a)
+ 
+do 50 kW, 
+b)
+ 
+powyżej 50 do 120 kW, 
+c)
+ 
+powyżej 120 do 1200 kW 
+ 
+ 
+0,94 
+0,95 
+0,98 
+17 
+Pompy ciepła typu woda/woda, sprężarkowe, napędzane elektrycznie: 
+a)
+ 
+55/45˚C, 
+b)
+ 
+35/28˚C 
+ 
+3,60 
+4,00 
+18 
+Pompy ciepła typu glikol/woda, sprężarkowe, napędzane elektrycznie: 
+a)
+ 
+55/45˚C, 
+b)
+ 
+35/28˚C 
+ 
+3,50 
+4,00 
+19 
+Pompy ciepła typu bezpośrednie odparowanie w gruncie/woda, 
+sprężarkowe, napędzane elektrycznie: 
+a)
+ 
+55/45˚C, 
+b)
+ 
+35/28˚C 
+ 
+ 
+3,50 
+4,00 
+20 
+Pompy ciepła typu bezpośrednie odparowanie w gruncie/bezpośrednie 
+skraplanie w instalacji płaszczyznowego ogrzewania, sprężarkowe, 
+napędzane elektrycznie 
+4,00 
+21 
+Pompy ciepła typu powietrze/woda, sprężarkowe, napędzane 
+elektrycznie: 
+a)
+ 
+55/45˚C, 
+b)
+ 
+35/28˚C 
+ 
+ 
+2,60 
+3,00 
+22 
+Pompy ciepła typu powietrze/woda, sprężarkowe, napędzane gazem: 
+a)
+ 
+55/45˚C, 
+b)
+ 
+35/28˚C 
+ 
+1,30 
+1,40 
+ 
+Dziennik Ustaw	
+– 11 – 	
+Poz. 376
+﻿
+Lp. 
+Rodzaj źródła ciepła 
+η
+H,g
+ 
+23 
+Pompy ciepła typu powietrze/woda, absorpcyjne, napędzane gazem: 
+a)
+ 
+55/45˚C, 
+b)
+ 
+35/28˚C 
+ 
+1,30 
+1,40 
+24 
+Pompy ciepła typu glikol/woda, sprężarkowe, napędzane gazem: 
+a)
+ 
+55/45˚C, 
+b)
+ 
+35/28˚C 
+ 
+1,40 
+1,60 
+25 
+Pompy ciepła typu glikol/woda, absorpcyjne, napędzane gazem: 
+a)
+ 
+55/45˚C, 
+b)
+ 
+35/28˚C 
+ 
+1,40 
+1,60 
+26 
+Pompy ciepła typu powietrze/powietrze, sprężarkowe, napędzane 
+elektrycznie 
+3,00 
+ 
+27 
+Pompy ciepła typu powietrze/powietrze, sprężarkowe, napędzane 
+gazem 
+1,30 
+28 
+Pompy ciepła typu powietrze/powietrze, absorpcyjne, napędzane 
+gazem 
+1,30 
+29 
+Węzeł ciepłowniczy kompaktowy z obudową, o mocy nominalnej: 
+a)
+ 
+do 100 kW, 
+b)
+ 
+powyżej 100 kW 
+ 
+0,98 
+0,99 
+30 
+Węzeł ciepłowniczy kompaktowy bez obudowy, o mocy nominalnej: 
+a)
+ 
+do 100 kW, 
+b)
+ 
+powyżej 100 do 300 kW, 
+c)
+ 
+powyżej 300 kW 
+ 
+0,91 
+0,93 
+0,95 
+W przypadku pomp ciepła podano wartości współczynnika wydajności sezonowej.
+ 
+W przypadku innych źródeł ciepła, z wyjątkiem zasilanych energią elektryczną, podano 
+sprawność odniesioną do wartości opałowej paliwa. 
+ 
+4.1.2.3.
+ 
+Średnią sezonową sprawność regulacji i wykorzystania ciepła w przestrzeni 
+ogrzewanej 
+η
+H,e 
+wyznacza się według wzoru: 
+0,03
+X
+0,03
+'
+η
+η
+e
+H,
+e
+H,
+−
+⋅
++
+=
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+(17) 
+gdzie: 
+X 
+stosunek sumy mocy cieplnej grzejników usytuowanych przy ścianach 
+zewnętrznych do sumy mocy cieplnej wszystkich grzejników 
+w systemie ogrzewania, ustalany na podstawie budowlanej 
+dokumentacji technicznej (stosunek liczony dla grzejników płytowych 
+oraz członowych; w pozostałych przypadkach przyjmuje się, że X jest 
+równe 1,00) 
+– 
+'
+η
+e
+H,
+ 
+ 
+obliczeniowa średnia sezonowa sprawność regulacji i wykorzystania 
+ciepła w przestrzeni ogrzewanej określona w tabeli 3 
+– 
+ 
+ 
+Tabela 3. Wartości obliczeniowej średniej sezonowej sprawności regulacji i wykorzystania 
+ciepła w przestrzeni ogrzewanej 
+η
+H,e
+′ 
+Lp.
+ 
+Rodzaj instalacji, grzejników i regulacji 
+η
+H,e
+′ 
+1 
+Elektryczne grzejniki bezpośrednie: konwektorowe, płaszczyznowe  
+i promiennikowe z regulatorem: 
+a)
+ 
+proporcjonalnym P, 
+b)
+ 
+proporcjonalno-całkującym PI 
+ 
+ 
+0,91 
+0,94 
+2 
+Elektryczne grzejniki akumulacyjne z regulatorem: 
+a)
+ 
+proporcjonalnym P,   
+b)
+ 
+proporcjonalno-całkująco-różniczkującym PID z optymalizacją 
+ 
+0,88 
+0,91 
+Dziennik Ustaw	
+– 12 – 	
+Poz. 376
+﻿
+Lp.
+ 
+Rodzaj instalacji, grzejników i regulacji 
+η
+H,e
+′ 
+3 
+Elektryczne ogrzewanie podłogowe z regulatorem: 
+a)
+ 
+dwustawnym, 
+b)
+ 
+proporcjonalno-całkującym PI 
+ 
+0,88 
+0,90 
+4 
+Ogrzewanie piecowe lub z kominka 
+0,70 
+5 
+Ogrzewanie wodne z grzejnikami członowymi lub płytowymi  
+w przypadku regulacji: 
+a)
+ 
+centralnej bez automatycznej regulacji miejscowej, 
+b)
+ 
+automatycznej miejscowej, 
+c)
+ 
+centralnej i miejscowej z zaworem termostatycznym o działaniu 
+proporcjonalnym z zakresem proporcjonalności P - 2K, 
+d)
+ 
+centralnej i miejscowej z zaworem termostatycznym o działaniu 
+proporcjonalnym z zakresem proporcjonalności P - 1K, 
+e)
+ 
+centralnej i miejscowej z zaworem termostatycznym o działaniu 
+proporcjonalno-całkującym PI z funkcjami adaptacyjną  
+i optymalizującą 
+ 
+ 
+0,77 
+0,82 
+0,88 
+ 
+0,89 
+ 
+0,93 
+6 
+Ogrzewanie wodne podłogowe w przypadku regulacji: 
+a)
+ 
+centralnej bez regulacji miejscowej, 
+b)
+ 
+centralnej i miejscowej z regulatorem dwustawnym  
+lub proporcjonalnym P 
+ 
+0,76 
+0,89 
+7 
+Ogrzewanie wodne płaszczyznowe w przypadku regulacji centralnej  
+bez regulacji miejscowej, dla temperatury zasilania poniżej 30˚C 
+0,85 
+ 
+4.1.2.4.
+ 
+Średnią sezonową sprawność przesyłu ciepła ze źródła ciepła do przestrzeni 
+ogrzewanej 
+η
+H,d 
+wyznacza się według wzoru: 
+d
+H,
+e
+H,
+nd
+H,
+e
+H,
+nd
+H,
+d
+H,
+∆Q
+∆Q
+Q
+∆Q
+Q
+η
++
++
++
+=
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+(18) 
+gdzie: 
+(
+)
+1
+1/η
+Q
+∆Q
+e
+H,
+nd
+H,
+e
+H,
+−
+⋅
+=
+ 
+ 
+ 
+ 
+kWh/rok 
+ 
+ 
+ 
+(19) 
+ 
+(
+)
+3
+i
+sG
+li
+zi
+d
+H,
+10
+t
+q
+l
+∆Q
+−
+⋅
+⋅
+⋅
+=
+∑
+  
+ 
+ 
+kWh/rok 
+ 
+ 
+ 
+(20) 
+gdzie:  
+∆l
+l
+l
+i
+zi
++
+=
+ 
+ 
+ 
+ 
+ 
+ 
+m 
+ 
+ 
+ 
+ 
+(21) 
+gdzie: 
+ Q
+H,nd 
+roczne zapotrzebowanie na energię użytkową do ogrzewania  
+i wentylacji 
+kWh/rok 
+e
+H,
+∆Q
+ 
+sezonowe straty ciepła w systemie ogrzewania w wyniku 
+niedoskonałej regulacji i przekazywania ciepła  
+kWh/rok 
+d
+H,
+∆Q
+ 
+sezonowe straty ciepła w instalacji przesyłu ciepła  
+kWh/rok 
+η
+H,e 
+średnia sezonowa sprawność regulacji i wykorzystania ciepła  
+w przestrzeni ogrzewanej 
+– 
+l
+zi 
+zastępcza długość i-tego odcinka  instalacji przesyłu ciepła  
+m 
+q
+li
+ 
+jednostkowa strata ciepła i-tego odcinka  instalacji przesyłu ciepła  
+określona w tabeli 5 
+W/m 
+t
+sG
+czas trwania sezonu ogrzewania  
+h 
+l
+i 
+rzeczywista długość i-tego odcinka instalacji przesyłu ciepła 
+m 
+∆
+l 
+dodatek do długości l
+i
+ ze względu na straty ciepła zainstalowanej 
+armatury określony w tabeli 4 
+m 
+ 
+ 
+Dziennik Ustaw	
+– 13 – 	
+Poz. 376
+﻿
+Tabela 4. Wartości dodatku do długości l
+i
+ ze względu na straty ciepła zainstalowanej armatury 
+∆
+l [m] 
+Zawory z kołnierzami 
+∆
+l 
+[m] 
+Średnica zewnętrzna 
+przewodu D 
+≤
+ 100 mm 
+Średnica zewnętrzna przewodu 
+D > 100 mm 
+Niezaizolowane cieplnie 
+4,0 
+6,0 
+Zaizolowane cieplnie 
+1,5 
+2,5 
+ 
+Tabela 5. Wartości jednostkowej straty ciepła i-tego odcinka instalacji przesyłu ciepła q
+li
+ [W/m] 
+Parametry
+ 
+systemu 
+ogrzewania
+Grubość 
+izolacji 
+termicznej 
+przewodów 
+q
+li
+ 
+[W/m] 
+W przestrzeni nieogrzewanej
+ 
+W przestrzeni ogrzewanej 
+DN
+**)
+10-15
+DN
+**)
+ 
+20-32
+ 
+DN
+**)
+40-65
+DN
+**)
+ 
+80-100
+ 
+DN
+**)
+ 
+10-15
+ 
+DN
+**)
+ 
+20-32
+ 
+DN
+**)
+40-65
+DN
+**)
+ 
+80-100
+ 
+90/70
+°
+C 
+stałe 
+niezaizolowane 39,3 
+65,0 
+106,8 163,2 
+34,7 
+57,3 
+94,2 
+144,0 
+½ wymaganej 
+grubości 
+izolacji
+*)
+ 
+20,1 
+27,7 
+38,8 
+52,4 
+17,8 
+24,4 
+34,2 
+46,2 
+Wymagana 
+grubość 
+izolacji
+*)
+ 
+10,1 
+12,6 
+12,1 
+12,1 
+8,9 
+11,1 
+10,7 
+10,7 
+2-krotność 
+wymaganej  
+grubości 
+izolacji
+*)
+ 
+7,6 
+8,1 
+8,1 
+8,1 
+6,7 
+7,1 
+7,1 
+7,1 
+90/70
+°
+C 
+regulowane
+niezaizolowane 24,3 
+40,1 
+66,0 
+100,8 
+19,6 
+32,5 
+53,4 
+81,6 
+½ wymaganej 
+grubości 
+izolacji
+*)
+ 
+12,4 
+17,1 
+24,0 
+32,4 
+10,1 
+13,9 
+19,4 
+26,2 
+Wymagana 
+grubość 
+izolacji
+*)
+ 
+6,2 
+7,8 
+7,5 
+7,5 
+5,0 
+6,3 
+6,0 
+6,0 
+2-krotność 
+wymaganej  
+grubości 
+izolacji
+*)
+ 
+4,7 
+5,0 
+5,0 
+5,0 
+3,8 
+4,0 
+4,0 
+4,0 
+70/55
+°
+C 
+regulowane
+niezaizolowane 18,5 
+30,6 
+50,3 
+76,8 
+13,9 
+22,9 
+37,7 
+57,6 
+½ wymaganej 
+grubości 
+izolacji
+*)
+ 
+9,5 
+13,0 
+18,3 
+24,7 
+7,1 
+9,8 
+13,7 
+18,5 
+Wymagana 
+grubość 
+izolacji
+*)
+ 
+4,7 
+5,9 
+5,7 
+5,7 
+3,6 
+4,4 
+4,3 
+4,3 
+2-krotność 
+wymaganej  
+grubości 
+izolacji
+*)
+ 
+3,6 
+3,8 
+3,8 
+3,8 
+2,7 
+2,8 
+2,8 
+2,8 
+ 
+ 
+Dziennik Ustaw	
+– 14 – 	
+Poz. 376
+﻿
+Parametry
+ 
+systemu 
+ogrzewania
+Grubość 
+izolacji 
+termicznej 
+przewodów 
+q
+li
+ 
+[W/m] 
+W przestrzeni nieogrzewanej
+ 
+W przestrzeni ogrzewanej 
+DN
+**)
+10-15
+DN
+**)
+ 
+20-32
+ 
+DN
+**)
+40-65
+DN
+**)
+ 
+80-100
+ 
+DN
+**)
+ 
+10-15
+ 
+DN
+**)
+ 
+20-32
+ 
+DN
+**)
+40-65
+DN
+**)
+ 
+80-100
+ 
+55/45
+°
+C 
+regulowane
+niezaizolowane 14,4 
+23,9 
+39,3 
+60,0 
+9,8 
+16,2 
+26,7 
+40,8 
+½ wymaganej 
+grubości 
+izolacji
+*)
+ 
+7,4 
+10,2 
+14,3 
+19,3 
+5,0 
+6,9 
+9,7 
+13,1 
+Wymagana 
+grubość 
+izolacji
+*)
+ 
+3,7 
+4,6 
+4,4 
+4,4 
+2,5 
+3,1 
+3,0 
+3,0 
+2-krotność 
+wymaganej  
+grubości 
+izolacji
+*)
+ 
+2,8 
+3,0 
+3,0 
+3,0 
+1,9 
+2,0 
+2,0 
+2,0 
+35/28
+°
+C 
+regulowane
+niezaizolowane 8,1 
+13,4 
+22,0 
+33,6 
+3,5 
+5,7 
+9,4 
+14,4 
+½ wymaganej 
+grubości 
+izolacji
+*)
+ 
+4,1 
+5,7 
+8,0 
+10,8 
+1,8 
+2,4 
+3,4 
+4,6 
+Wymagana 
+grubość 
+izolacji
+*)
+ 
+2,1 
+2,6 
+2,5 
+2,5 
+0,9 
+1,1 
+1,1 
+1,1 
+2-krotność 
+wymaganej  
+grubości 
+izolacji
+*)
+ 
+1,6 
+1,7 
+1,7 
+1,7 
+0,7 
+0,7 
+0,7 
+0,7 
+*)
+ Grubość izolacji odniesiona do wymagań określonych w przepisach techniczno-
+ 
+-budowlanych. 
+**)
+ DN – średnica nominalna przewodu [mm]. 
+ 
+W przypadku braku danych do obliczeń według wzoru (18), przyjmuje się wartości średniej 
+sezonowej sprawności przesyłu ciepła ze źródła ciepła do przestrzeni ogrzewanej 
+η
+H,d
+ 
+określone w tabeli 6. 
+ 
+Tabela 6. Wartości średniej sezonowej sprawności przesyłu ciepła ze źródła ciepła  
+do przestrzeni ogrzewanej 
+η
+H,d 
+Lp.
+Rodzaj systemu ogrzewania 
+η
+H,d
+ 
+1 
+Źródło ciepła w pomieszczeniu (ogrzewanie elektryczne, piec kaflowy, 
+kominek) 
+1,00 
+2 
+Ogrzewanie mieszkaniowe (wytwarzanie ciepła w przestrzeni lokalu 
+mieszkalnego) 
+1,00 
+3 
+Ogrzewanie centralne wodne z lokalnego źródła ciepła usytuowanego  
+w ogrzewanym budynku: 
+a)
+ 
+z zaizolowanymi przewodami, armaturą i urządzeniami, które są 
+zainstalowane w przestrzeni ogrzewanej, 
+b)
+ 
+z zaizolowanymi przewodami, armaturą i urządzeniami, które są 
+zainstalowane w przestrzeni nieogrzewanej, 
+c)
+ 
+z niezaizolowanymi przewodami, armaturą i urządzeniami, które są 
+zainstalowane w przestrzeni nieogrzewanej 
+ 
+ 
+0,96 
+ 
+0,90 
+ 
+0,80 
+4 
+Ogrzewanie powietrzne 
+0,95 
+ 
+Dziennik Ustaw	
+– 15 – 	
+Poz. 376
+﻿
+4.1.2.5.
+ 
+Średnią sezonową sprawność akumulacji ciepła w elementach pojemnościowych 
+systemu ogrzewania 
+η
+H,s 
+wyznacza się według wzoru: 
+s
+H,
+d
+H,
+e
+H,
+nd
+H,
+d
+H,
+e
+H,
+nd
+H,
+s
+H,
+∆Q
+∆Q
+∆Q
+Q
+∆Q
+∆Q
+Q
+η
++
++
++
++
++
+=
+  
+ 
+ 
+ 
+ 
+ 
+ 
+(22) 
+gdzie: 
+(
+)
+3
+i
+sG
+S
+S
+H,s
+10
+t
+q
+V
+∆Q
+−
+⋅
+⋅
+⋅
+=
+∑
+  
+ 
+ 
+kWh/rok 
+ 
+          
+(23) 
+gdzie: 
+ Q
+H,nd 
+roczne zapotrzebowanie na energię użytkową do ogrzewania  
+i wentylacji 
+kWh/rok 
+e
+H,
+∆Q
+ 
+sezonowe straty ciepła w systemie ogrzewania w wyniku 
+niedoskonałej regulacji i przekazywania ciepła  
+kWh/rok 
+s
+H,
+∆Q
+ 
+sezonowe straty ciepła w elementach pojemnościowych systemu 
+ogrzewania 
+kWh/rok
+ 
+H,d
+∆Q
+ 
+sezonowe straty ciepła w instalacji przesyłu ciepła   
+kWh/rok 
+V
+S 
+pojemność zasobnika ciepła 
+dm
+3
+q
+S
+ 
+jednostkowa strata ciepła zasobnika ciepła określona w tabeli 7 
+W/dm
+3
+t
+sG
+czas trwania sezonu ogrzewania  
+h 
+ 
+Tabela 7. Wartości jednostkowej straty ciepła zasobnika ciepła q
+s 
+[W/dm
+3
+] 
+Lokalizacja 
+zasobnika 
+ciepła 
+Pojemność
+[dm
+3
+] 
+q
+s 
+[W/dm
+3
+] 
+Parametry systemu ogrzewania  
+70/55
+°
+C lub wyższe 
+Parametry systemu ogrzewania 
+55/45
+°
+C lub niższe 
+grubość izolacji termicznej 
+100 mm 
+50 mm 
+20 mm 
+100 mm 
+50 mm 
+20 mm 
+W przestrzeni 
+nieogrzewanej 
+ 
+100 
+0,89 
+1,4 
+2,7 
+0,5 
+0,8 
+1,6 
+200 
+0,7 
+1,1 
+2,1 
+0,4 
+0,7 
+1,3 
+500 
+0,5 
+0,8 
+1,6 
+0,3 
+0,5 
+1,0 
+1000 
+0,4 
+0,6 
+1,3 
+0,2 
+0,4 
+0,8 
+2000 
+0,3 
+0,5 
+1,0 
+0,2 
+0,3 
+0,6 
+W przestrzeni 
+ogrzewanej  
+100 
+0,7 
+1,1 
+2,2 
+0,4 
+0,6 
+1,1 
+200 
+0,6 
+0,9 
+1,7 
+0,3 
+0,4 
+0,9 
+500 
+0,4 
+0,7 
+1,3 
+0,2 
+0,3 
+0,6 
+1000 
+0,3 
+0,5 
+1,0 
+0,2 
+0,3 
+0,5 
+2000 
+0,2 
+0,4 
+0,8 
+0,1 
+0,2 
+0,4 
+ 
+W przypadku braku danych do obliczeń według wzoru (22), przyjmuje się wartości średniej 
+sezonowej sprawności akumulacji ciepła w elementach pojemnościowych systemu ogrzewania 
+η
+H,s
+ określone w tabeli 8. 
+ 
+Tabela  8.  Wartości  średniej  sezonowej  sprawności  akumulacji  ciepła  w  elementach 
+pojemnościowych  systemu  ogrzewania  
+η
+H,s
+ 
+Lp. 
+Parametry systemu ogrzewania 
+η
+H,s
+ 
+1 
+Zasobnik ciepła w systemie ogrzewania o parametrach 70/55
+°
+C  
+w przestrzeni: 
+a)
+ 
+ogrzewanej, 
+b)
+ 
+nieogrzewanej 
+ 
+ 
+0,93 
+0,90 
+ 
+ 
+Dziennik Ustaw	
+– 16 – 	
+Poz. 376
+﻿
+Lp. 
+Parametry systemu ogrzewania 
+η
+H,s
+ 
+2 
+Zasobnik ciepła w systemie ogrzewania o parametrach 55/45
+°
+C  
+w przestrzeni: 
+a)
+ 
+ogrzewanej, 
+b)
+ 
+nieogrzewanej  
+ 
+ 
+0,95 
+0,93 
+3 
+System ogrzewania bez zasobnika ciepła 
+1,00 
+ 
+4.1.3.
+ 
+System przygotowania ciepłej wody użytkowej 
+4.1.3.1.
+ 
+Roczne zapotrzebowanie na energię końcową dostarczaną do budynku lub części 
+budynku dla systemu przygotowania ciepłej wody użytkowej Q
+k,W 
+wyznacza się 
+według wzoru: 
+tot
+W,
+nd
+W,
+W
+k,
+/η
+Q
+Q
+=
+ 
+ 
+ 
+ 
+ 
+kWh/rok 
+ 
+ 
+ 
+(24) 
+gdzie: 
+e
+W,
+d
+W,
+s
+W,
+g
+W,
+tot
+W,
+η
+η
+η
+η
+η
+⋅
+⋅
+⋅
+=
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+(25) 
+gdzie: 
+Q
+W,nd 
+roczne zapotrzebowanie na energię użytkową do przygotowania ciepłej 
+wody użytkowej 
+kWh/rok 
+η
+W,tot 
+średnia roczna sprawność całkowita systemu przygotowania ciepłej 
+wody użytkowej  
+– 
+η
+W,g 
+średnia roczna sprawność wytwarzania ciepła z nośnika energii  
+lub energii dostarczanych do źródła ciepła  
+– 
+η
+W,s 
+średnia roczna sprawność akumulacji ciepła w elementach 
+pojemnościowych systemu przygotowania ciepłej wody użytkowej  
+– 
+η
+W,d 
+średnia roczna sprawność przesyłu ciepła ze źródła ciepła do zaworów 
+czerpalnych  
+– 
+η
+W,e
+średnia roczna sprawność wykorzystania ciepła (przyjmuje się 1,0) 
+– 
+ 
+4.1.3.2.
+ 
+Wyznaczanie średniej rocznej sprawności wytwarzania ciepła z nośnika energii  
+lub energii dostarczanych do źródła ciepła 
+η
+W,g
+ 
+Wartość średniej rocznej sprawności wytwarzania ciepła z nośnika energii lub energii 
+dostarczonej do źródła ciepła 
+η
+W,g
+ przyjmuje się w oparciu o dane udostępnione przez 
+producenta lub dostawcę źródła ciepła. 
+W budynkach, w których zostały przeprowadzone kontrole systemu ogrzewania, wartość 
+η
+W,g
+ 
+powinna zostać określona na podstawie wyników tych kontroli. 
+W przypadku braku takich danych przyjmuje się wartości 
+η
+W,g
+  określone w tabeli 9. 
+ 
+Tabela 9. Wartości średniej rocznej sprawności wytwarzania ciepła z nośnika energii lub 
+energii dostarczanych do źródła ciepła 
+η
+W,g
+ 
+Lp. 
+Rodzaj źródła ciepła 
+η
+W,g
+ 
+1 
+Przepływowy podgrzewacz gazowy z zapłonem: 
+a)
+ 
+elektrycznym, 
+b)
+ 
+płomieniem dyżurnym 
+ 
+0,85 
+0,50 
+2 
+Kotły stałotemperaturowe wyprodukowane przed 1980 r. (tylko 
+przygotowanie ciepłej wody użytkowej) 
+0,40 
+3 
+Kotły stałotemperaturowe dwufunkcyjne (ogrzewanie i przygotowanie 
+ciepłej wody użytkowej) 
+0,65 
+4 
+Kotły niskotemperaturowe o mocy: 
+a)
+ 
+do 50 kW, 
+b)
+ 
+powyżej 50 kW 
+ 
+0,83 
+0,88 
+ 
+Dziennik Ustaw	
+– 17 – 	
+Poz. 376
+﻿
+Lp. 
+Rodzaj źródła ciepła 
+η
+W,g
+ 
+5 
+Kotły kondensacyjne, opalane gazem ziemnym lub olejem opałowym 
+lekkim, o mocy: 
+a)
+ 
+do 50 kW, 
+b)
+ 
+powyżej 50 kW
+ 
+ 
+ 
+0,85 
+0,88 
+6 
+Elektryczny podgrzewacz akumulacyjny (z zasobnikiem ciepłej wody 
+użytkowej bez strat) 
+0,96 
+7 
+Elektryczny podgrzewacz przepływowy 
+0,99 
+8 
+Pompa ciepła typu woda/woda, sprężarkowa, napędzana elektrycznie 
+3,00
+ 
+9 
+Pompa ciepła typu glikol/woda, sprężarkowa, napędzana elektrycznie 
+3,00 
+10 
+Pompa ciepła typu bezpośrednie odparowanie w gruncie/woda, 
+sprężarkowa, napędzana elektrycznie 
+3,00 
+11 
+Pompa ciepła typu powietrze/woda, sprężarkowa, napędzana 
+elektrycznie 
+2,60 
+12 
+Pompa ciepła typu powietrze/woda, sprężarkowa, napędzana gazem 
+1,20 
+13 
+Pompa ciepła typu powietrze/woda, absorpcyjna, napędzana gazem 
+1,20 
+14 
+Pompa ciepła typu glikol/woda, sprężarkowa, napędzana gazem 
+1,30 
+15 
+Pompa ciepła typu glikol/woda, absorpcyjna, napędzana gazem 
+1,30 
+16 
+Węzeł cieplny kompaktowy z obudową, o mocy nominalnej: 
+a)
+ 
+do 100 kW,
+ 
+b)
+ 
+powyżej 100 kW
+ 
+ 
+0,98 
+0,99 
+17 
+Węzeł cieplny kompaktowy bez obudowy, o mocy nominalnej: 
+a)
+ 
+do 100 kW,
+ 
+b)
+ 
+powyżej 100 kW
+ 
+ 
+0,91 
+0,93 
+18 
+Węzeł cieplny kompaktowy z obudową (ogrzewanie i przygotowanie 
+ciepłej wody użytkowej), o mocy nominalnej: 
+a)
+ 
+do 100 kW,
+ 
+b)
+ 
+powyżej 100 kW
+ 
+ 
+ 
+0,97 
+0,98 
+19 
+Węzeł cieplny kompaktowy bez obudowy (ogrzewanie  
+i przygotowanie ciepłej wody użytkowej), o mocy nominalnej: 
+a)
+ 
+do 100 kW,
+ 
+b)
+ 
+powyżej 100 kW
+ 
+ 
+ 
+0,90 
+0,91 
+W przypadku pomp ciepła podano wartości współczynnika wydajności sezonowej.
+W przypadku innych źródeł ciepła, z wyjątkiem zasilanych energią elektryczną, podano 
+sprawność odniesioną do wartości opałowej paliwa. 
+ 
+4.1.3.3.
+ 
+Średnią roczną sprawność przesyłu ciepła ze źródła ciepła do zaworów czerpalnych 
+η
+W,d 
+wyznacza się według wzoru: 
+d
+W,
+nd
+W,
+nd
+W,
+d
+W,
+∆Q
+Q
+Q
+η
++
+=
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+(26) 
+gdzie: 
+(
+)
+3
+i
+sW
+li
+zi
+d
+W,
+10
+t
+q
+l
+∆Q
+−
+⋅
+⋅
+⋅
+=
+∑
+ 
+ 
+ 
+kWh/rok 
+ 
+ 
+ 
+(27) 
+gdzie: 
+∆l
+l
+l
+i
+zi
++
+=
+ 
+ 
+ 
+ 
+ 
+ 
+m 
+ 
+ 
+ 
+ 
+(28) 
+gdzie: 
+Q
+W,nd
+ 
+roczne zapotrzebowanie na energię użytkową do przygotowania 
+ciepłej wody użytkowej 
+kWh/rok 
+d
+W,
+∆Q
+ 
+roczne straty ciepła w instalacji przesyłu ciepłej wody użytkowej 
+kWh/rok 
+l
+zi 
+zastępcza długość i-tego odcinka instalacji przesyłu ciepłej wody 
+użytkowej 
+m 
+Dziennik Ustaw	
+– 18 – 	
+Poz. 376
+﻿
+q
+li
+ 
+jednostkowa strata ciepła i-tego odcinka instalacji przesyłu ciepłej 
+wody użytkowej określona w tabeli 10  
+W/m 
+t
+sW 
+liczba godzin w roku 
+h 
+l
+i 
+rzeczywista długość i-tego odcinka instalacji przesyłu ciepłej wody 
+użytkowej 
+m 
+∆
+l 
+dodatek do długości l
+i
+ ze względu na straty ciepła zainstalowanej 
+armatury określony w tabeli 11 
+m 
+ 
+Tabela 10. Wartości jednostkowej straty ciepła i-tego odcinka instalacji przesyłu ciepłej wody 
+użytkowej q
+li
+ [W/m] 
+Temperatura 
+ciepłej wody 
+użytkowej  
+i rodzaj 
+przepływu 
+Grubość 
+izolacji 
+termicznej 
+przewodów 
+q
+l
+ 
+[W/m] 
+W przestrzeni nieogrzewanej
+W przestrzeni ogrzewanej 
+DN
+**)
+ 
+10-15
+ 
+DN
+**)
+20-32
+DN
+**)
+40-65
+DN
+**)
+ 
+80-100
+DN
+**)
+ 
+10-15
+ 
+DN
+**)
+20-32
+DN
+**)
+40-65
+DN
+**)
+ 
+80-100
+ 
+Przewody 
+ciepłej wody 
+użytkowej – 
+przepływ 
+zmienny 55
+°
+C
+niezaizolowane
+ 
+24,9 
+33,2 
+47,7 
+68,4 
+14,9 
+19,9 
+28,6 
+41,0 
+½ wymaganej 
+grubości 
+izolacji
+*)
+ 
+5,7 
+8,8 
+13,5 
+20,7 
+3,4 
+5,3 
+8,1 
+12,4 
+wymagana 
+grubość 
+izolacji
+*)
+ 
+4,1 
+4,6 
+4,6 
+4,6 
+2,5 
+2,7 
+2,7 
+2,7 
+2-krotność 
+wymaganej  
+grubości 
+izolacji
+*)
+ 
+3,0 
+3,4 
+3,2 
+3,2 
+1,8 
+2,0 
+1,9 
+1,9 
+Przewody 
+cyrkulacyjne – 
+przepływ 
+stały 55
+°
+C 
+niezaizolowane
+ 
+53,5 
+71,3 
+102,5 147,1 
+37,3 
+49,8 
+71,5 
+102,6 
+½ wymaganej 
+grubości 
+izolacji
+*)
+ 
+12,3 
+18,9 
+29,0 
+44,6 
+8,6 
+13,2 
+20,2 
+31,1 
+wymagana 
+grubość 
+izolacji
+*)
+ 
+8,8 
+9,8 
+9,8 
+9,8 
+6,1 
+6,8 
+6,8 
+6,8 
+2-krotność 
+wymaganej  
+grubości 
+izolacji
+*)
+ 
+6,5 
+7,2 
+6,9 
+6,9 
+4,5 
+5,1 
+4,8 
+4,8 
+*)
+ Grubość izolacji odniesiona do wymagań określonych w przepisach techniczno-
+ 
+-budowlanych. 
+**)
+  DN – średnica nominalna przewodu [mm]. 
+ 
+Tabela 11. Wartości dodatku do długości l
+i
+ ze względu na straty ciepła zainstalowanej armatury 
+∆
+l [m] 
+Zawory z kołnierzami 
+∆
+l [m] 
+Średnica zewnętrzna 
+przewodu D 
+≤
+ 100 mm 
+Średnica zewnętrzna przewodu 
+D > 100 mm 
+Niezaizolowane cieplnie 
+4,0 
+6,0 
+Zaizolowane cieplnie 
+1,5 
+2,5 
+ 
+W przypadku braku danych do obliczeń według wzoru (26), przyjmuje się wartości średniej 
+rocznej sprawności przesyłu ciepła ze źródła ciepła do zaworów czerpalnych 
+η
+W,d
+ określone  
+w tabeli 12. 
+Dziennik Ustaw	
+– 19 – 	
+Poz. 376
+﻿
+Tabela 12. Wartości średniej rocznej sprawności przesyłu ciepła ze źródła ciepła do zaworów 
+czerpalnych 
+η
+W,d
+ 
+Lp.
+Rodzaj systemu przygotowania ciepłej wody użytkowej 
+η
+W,d
+1 
+Miejscowe podgrzewanie wody – systemy bez obiegów cyrkulacyjnych  
+1.1 Podgrzewanie wody bezpośrednio przy punktach poboru 
+1,00 
+1.2 Podgrzewanie wody dla grupy punktów poboru w jednym lokalu 
+mieszkalnym 
+0,80 
+2 
+Mieszkaniowe węzły cieplne 
+2.1 Kompaktowy węzeł cieplny dla pojedynczego lokalu mieszkalnego  
+bez obiegu cyrkulacyjnego 
+0,85 
+3 
+Centralne podgrzewanie wody – systemy bez obiegów cyrkulacyjnych 
+3.1 Systemy przygotowania ciepłej wody użytkowej w budynkach 
+jednorodzinnych 
+0,60 
+4 
+Centralne podgrzewanie wody – systemy z obiegami cyrkulacyjnymi,  
+z niezaizolowanymi pionami instalacyjnymi i zaizolowanymi przewodami 
+rozprowadzającymi   
+4.1 Liczba punktów poboru ciepłej wody: 
+a)
+ 
+do 30, 
+b)
+ 
+powyżej  30 do 100, 
+c)
+ 
+powyżej 100 
+ 
+0,60 
+0,50 
+0,40 
+5 
+Centralne podgrzewanie wody – systemy z obiegami cyrkulacyjnymi, z pionami 
+instalacyjnymi i zaizolowanymi przewodami rozprowadzającymi  
+5.1 Liczba punktów poboru ciepłej wody: 
+a)
+ 
+do 30, 
+b)
+ 
+powyżej  30 do 100, 
+c)
+ 
+powyżej 100 
+ 
+0,70 
+0,60 
+0,50 
+6 
+Centralne podgrzewanie wody – systemy z obiegami cyrkulacyjnymi z ograniczeniem 
+czasu pracy, z pionami instalacyjnymi i zaizolowanymi przewodami 
+rozprowadzającymi  
+6.1 Liczba punktów poboru ciepłej wody: 
+a)
+ 
+do 30, 
+b)
+ 
+powyżej  30 do 100, 
+c)
+ 
+powyżej 100 
+ 
+0,80 
+0,70 
+0,60 
+ 
+4.1.3.4.
+ 
+Średnią roczną sprawność akumulacji ciepła w elementach pojemnościowych systemu 
+przygotowania ciepłej wody użytkowej 
+η
+W,s 
+wyznacza się według wzoru: 
+s
+W,
+d
+W,
+nd
+W,
+d
+W,
+nd
+W,
+s
+W,
+∆Q
+∆Q
+Q
+∆Q
+Q
+η
++
++
++
+=
+  
+ 
+ 
+ 
+ 
+                                   (29) 
+gdzie: 
+(
+)
+3
+i
+sW
+S
+S
+s
+W,
+10
+t
+q
+V
+∆Q
+−
+⋅
+⋅
+⋅
+=
+∑
+ 
+ 
+ 
+kWh/rok 
+ 
+                     (30) 
+gdzie: 
+Q
+W,nd
+ 
+roczne zapotrzebowanie na energię użytkową do przygotowania 
+ciepłej wody użytkowej 
+kWh/rok 
+d
+W,
+∆Q
+ 
+roczne straty ciepła w instalacji przesyłu ciepłej wody użytkowej 
+kWh/rok 
+s
+W,
+∆Q
+ 
+roczne straty ciepła w zasobnikach ciepłej wody użytkowej 
+kWh/rok 
+V
+S 
+pojemność zasobnika ciepłej wody użytkowej 
+dm
+3
+q
+S
+ 
+jednostkowa strata ciepła zasobnika ciepłej wody użytkowej określona 
+w tabeli 13 
+W/dm
+3 
+t
+sW
+ 
+liczba godzin w roku 
+h 
+Dziennik Ustaw	
+– 20 – 	
+Poz. 376
+﻿
+Tabela 13. Wartości jednostkowej straty ciepła zasobnika ciepłej wody użytkowej q
+S 
+[W/dm
+3
+] 
+Lokalizacja 
+zasobnika 
+ciepłej wody 
+użytkowej 
+Pojemność 
+zasobnika 
+ciepłej 
+wody 
+użytkowej 
+[dm
+3
+] 
+q
+s 
+[W/dm
+3
+] 
+Rodzaj zasobnika ciepłej wody użytkowej 
+pośrednio podgrzewane, 
+biwalentne zasobniki solarne, 
+zasobniki elektryczne całodobowe 
+zasobniki 
+elektryczne 
+usytuowane 
+w miejscu 
+poboru 
+ciepłej 
+wody 
+użytkowej 
+zasobniki 
+gazowe 
+grubość izolacji termicznej 
+100 mm 
+50 mm 
+20 mm 
+W przestrzeni 
+nieogrzewanej 
+25 
+0,68 
+1,13 
+2,04 
+2,80 
+3,13 
+50 
+0,54 
+0,86 
+1,58 
+2,80 
+3,07 
+100 
+0,43 
+0,65 
+1,23 
+2,80 
+3,02 
+200 
+0,34 
+0,49 
+0,95 
+– 
+2,96 
+500 
+0,25 
+0,34 
+0,68 
+– 
+2,89 
+1000 
+0,20 
+0,26 
+0,53 
+– 
+2,84 
+1500 
+0,18 
+0,22 
+0,46 
+– 
+2,81 
+2000 
+0,16 
+0,20 
+0,41 
+– 
+2,78 
+W przestrzeni 
+ogrzewanej 
+25 
+0,55 
+0,92 
+1,66 
+2,28 
+2,55 
+50 
+0,44 
+0,70 
+1,29 
+2,28 
+2,50 
+100 
+0,35 
+0,53 
+1,00 
+2,28 
+2,46 
+200 
+0,28 
+0,40 
+0,78 
+– 
+2,41 
+500 
+0,21 
+0,28 
+0,56 
+– 
+2,35 
+1000 
+0,17 
+0,21 
+0,43 
+– 
+2,31 
+1500 
+0,14 
+0,18 
+0,37 
+– 
+2,28 
+2000 
+0,13 
+0,16 
+0,33 
+– 
+2,27 
+ 
+W przypadku braku danych do obliczeń według wzoru (29), przyjmuje się wartości średniej 
+rocznej sprawności akumulacji ciepła w elementach pojemnościowych systemu przygotowania 
+ciepłej wody użytkowej 
+η
+W,s
+  określone w tabeli 14. 
+ 
+Tabela 14. Wartości średniej rocznej sprawności akumulacji ciepła w elementach pojemnościowych 
+systemu przygotowania ciepłej wody użytkowej 
+η
+W,s 
+Lp. 
+Zasobnik ciepłej wody użytkowej w systemie przygotowania ciepłej 
+wody użytkowej 
+η
+W,s
+ 
+1 
+Zasobnik ciepłej wody użytkowej w systemie przygotowania ciepłej 
+wody użytkowej, wyprodukowany: 
+a)
+ 
+przed 1995 r., 
+b)
+ 
+w latach 1995–2000, 
+c)
+ 
+w latach 2001–2005, 
+d)
+ 
+po 2005 r. 
+ 
+ 
+0,60 
+0,65 
+0,80 
+0,85 
+2 
+System przygotowania ciepłej wody użytkowej bez zasobnika ciepłej 
+wody użytkowej 
+1,00 
+ 
+ 
+Dziennik Ustaw	
+– 21 – 	
+Poz. 376
+﻿
+4.1.4.
+ 
+System chłodzenia 
+4.1.4.1.
+ 
+Roczne zapotrzebowanie na energię końcową dostarczaną do budynku lub części 
+budynku dla systemu chłodzenia Q
+k,C 
+ wyznacza się według wzoru: 
+tot
+C,
+nd
+C,
+C
+k,
+/η
+Q
+Q
+=
+ 
+ 
+ 
+ 
+ 
+kWh/rok 
+ 
+ 
+ 
+(31) 
+gdzie: 
+e
+C,
+d
+C,
+s
+C,
+tot
+C,
+η
+η
+η
+SEER
+η
+⋅
+⋅
+⋅
+=
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+(32) 
+gdzie: 
+Q
+C,nd 
+roczne zapotrzebowanie na energię użytkową do chłodzenia 
+kWh/rok 
+η
+C,tot
+średnia sezonowa sprawność całkowita systemu chłodzenia  
+– 
+SEER
+ 
+średni sezonowy współczynnik efektywności energetycznej 
+wytwarzania chłodu z nośnika energii lub energii dostarczanych  
+do źródła chłodu 
+– 
+η
+C,s 
+średnia sezonowa sprawność akumulacji chłodu w elementach 
+pojemnościowych systemu chłodzenia  
+– 
+η
+C,d 
+średnia sezonowa sprawność przesyłu chłodu ze źródła chłodu  
+do przestrzeni chłodzonej 
+– 
+η
+C,e 
+średnia sezonowa sprawność regulacji i wykorzystania chłodu  
+w przestrzeni chłodzonej  
+– 
+ 
+4.1.4.2.
+ 
+Średni sezonowy współczynnik efektywności energetycznej wytwarzania chłodu  
+z nośnika energii lub energii dostarczanych do źródła chłodu SEER wyznacza się 
+według wzoru: 
+)
+c
+(1
+SEER
+SEER
+i
+i
+ref
+∑
++
+⋅
+=
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+(33) 
+gdzie: 
+SEER
+ref 
+referencyjny średni współczynnik efektywności energetycznej 
+wytwarzania chłodu z nośnika energii lub energii dostarczanych  
+do źródła chłodu 
+– 
+c
+i 
+współczynnik korekcyjny w zależności od systemu chłodzenia 
+określony w tabeli 16 
+– 
+ 
+Jako wartość SEER
+ref
+ dla agregatów do schładzania cieczy przyjmuje się wartość średniego 
+europejskiego współczynnika efektywności chłodzenia (ESEER) na podstawie specyfikacji 
+technicznej wyrobu, a w przypadku braku takich danych – zgodnie z tabelą 15 albo 
+wytycznymi Eurovent.  
+Wartość SEER
+ref
+ dla systemów chłodzenia z bezpośrednim schładzaniem powietrza wyznacza 
+się według wzoru: 
+ref
+ref
+EER
+1,25
+SEER
+⋅
+=
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+(34) 
+gdzie: 
+EER
+ref 
+wskaźnik efektywności EER w warunkach referencyjnych parametrów 
+powietrza:  
+a)
+ 
+powietrze wlotowe do chłodnicy: 27/19˚C WB (WB – temperatura 
+powietrza według wskazań termometru mokrego), 
+b)
+ 
+powietrze wlotowe do skraplacza: 35˚C 
+−
+ określany na podstawie specyfikacji technicznej wyrobu,  
+a w przypadku braku takich danych – zgodnie z wytycznymi Eurovent 
+– 
+ 
+W przypadku braku możliwości wyznaczenia wartości SEER
+ref 
+dla systemów chłodzenia  
+z bezpośrednim schładzaniem powietrza w sposób wskazany powyżej, przyjmuje się wartości 
+SEER
+ref 
+określone w tabeli 15. 
+Dziennik Ustaw	
+– 22 – 	
+Poz. 376
+﻿
+Tabela 15. Wartości referencyjnego średniego współczynnika efektywności energetycznej 
+wytwarzania chłodu z nośnika energii lub energii dostarczanych do źródła chłodu SEER
+ref
+ 
+Lp.
+Rodzaj systemu chłodzenia 
+SEER
+ref
+1 
+Agregaty do schładzania cieczy ze skraplaczem chłodzonym powietrzem
+*)
+ 
+1.1 Sprężarki spiralne typu scroll z czynnikiem: 
+a)
+ 
+R407C, 
+b)
+ 
+R410A, 
+c)
+ 
+innym niż wymienione w lit. a i b 
+ 
+3,8 
+4,0 
+3,6 
+1.2 Sprężarki śrubowe z czynnikiem: 
+a)
+ 
+R407C, 
+b)
+ 
+R134A, 
+c)
+ 
+innym niż wymienione w lit. a i b 
+ 
+3,1 
+3,5 
+3,0 
+1.3 Sprężarki inne niż wymienione w lp. 1.1 i 1.2 
+2,8 
+2 
+Agregaty do schładzania cieczy ze skraplaczem chłodzonym cieczą
+**)
+ 
+2.1 Sprężarki spiralne typu scroll z czynnikiem: 
+a)
+ 
+R407C, 
+b)
+ 
+R410A, 
+c)
+ 
+innym niż wymienione w lit. a i b 
+ 
+5,0 
+5,6 
+4,7 
+2.2 Sprężarki śrubowe z czynnikiem: 
+a)
+ 
+R407C, 
+b)
+ 
+R134A, 
+c)
+ 
+innym niż wymienione w lit. a i b 
+ 
+4,5 
+5,4 
+4,2 
+2.3 Sprężarki inne niż wymienione w lp. 2.1 i 2.2 
+3,9 
+3 
+Systemy chłodzenia z bezpośrednim schładzaniem powietrza 
+3.1 Klimatyzator (split lub monoblok o wydajności chłodniczej < 12 kW)  
+z czynnikiem: 
+a)
+ 
+R407C, 
+b)
+ 
+R410A, 
+c)
+ 
+innym niż wymienione w lit. a i b 
+ 
+ 
+3,3 
+3,9 
+3,0 
+3.2 System multisplit ze zmiennym przepływem czynnika (VRV, VRF) 
+4,1 
+3.3 Agregat skraplający z chłodnicą w centrali o wydajności chłodniczej  
+≥ 12 kW z czynnikiem: 
+a)
+ 
+R407C, 
+b)
+ 
+R410A, 
+c)
+ 
+innym niż wymienione w lit. a i b 
+ 
+ 
+3,0 
+3,4 
+2,8 
+3.4 Centrala klimatyzacyjna dachowa („roof top”) z czynnikiem: 
+a)
+ 
+R407C, 
+b)
+ 
+R410A 
+ 
+3,2 
+3,7 
+4 
+Rewersyjna pompa ciepła typu solanka/woda z wymiennikiem gruntowym 
+jako dolnym źródłem ciepła, wyposażona w funkcję chłodzenia pasywnego 
+(tylko dla trybu chłodzenia)
+***)
+  
+10,0 
+5 
+Agregaty absorpcyjne (tylko dla trybu chłodzenia)
+****) 
+ 
+0,8 
+     *)  
+Warunki referencyjne: 
+−
+ 
+po stronie parowacza: woda o temperaturze 12/7˚C (wlot/wylot), 
+−
+ 
+po stronie skraplacza: temperatura powietrza otaczającego 35˚C. 
+    **)   
+Warunki referencyjne: 
+−
+ 
+po stronie parowacza: woda o temperaturze 12/7˚C (wlot/wylot), 
+−
+ 
+po stronie skraplacza: woda o temperaturze 30/35˚C (wlot/wylot). 
+  ***)   
+Podaną wartość należy stosować tylko w przypadku, gdy urządzenie to jest jedynym 
+źródłem chłodu w przestrzeni chłodzonej. 
+ ****)   
+Wartość SEER
+ref
+ odniesiona do ciepła jako nośnika energii napędowej. 
+ 
+Dziennik Ustaw	
+– 23 – 	
+Poz. 376
+﻿
+W przypadkach innych niż określone w tabeli 15 wartość SEER
+ref
+ wyznacza się jako stosunek 
+efektu chłodniczego pracy urządzenia (kWh lub MJ) do części energii napędowej zużytej  
+na ten cel (kWh lub MJ), która nie służy w tym samym czasie do produkcji ciepła lub energii 
+elektrycznej. 
+ 
+Tabela 16. Wartości współczynnika korekcyjnego w zależności od systemu chłodzenia c
+i
+ 
+Lp.
+Rodzaj systemu chłodzenia 
+c
+i
+1 
+Agregaty do schładzania cieczy 
+1.1 Schładzanie cieczy do temperatury powyżej +10˚C (belki chłodzące, 
+klimakonwektory bez osuszania powietrza) 
++ 0,10 
+1.2 Schładzanie roztworu glikolu zamiast wody 
+- 0,03 
+1.3 Elektroniczny zawór rozprężny
+*)
+ 
++ 0,04 
+1.4 Chłodzenie naturalne (free-cooling) z czynnikiem pośredniczącym  
+z chłodnicą wentylatorową, współpracujące z agregatem chłodniczym  
+– tylko w przypadku schładzania cieczy do temperatury powyżej +10
+o
+C 
++ 0,15 
+1.5 Chłodzenie naturalne (free-cooling) z czynnikiem pośredniczącym  
+z chłodzeniem pasywnym (wymiennik gruntowy), współpracujące  
+z agregatem chłodniczym  
++ 0,30 
+1.6 Nadążna regulacja wartości zadanej temperatury cieczy schładzanej  
+w agregacie 
++ 0,07 
+1.7 Skraplacz chłodzony cieczą z chłodnicą wentylatorową „suchą” 
+- 0,20 
+1.8 Skraplacz chłodzony cieczą z chłodnicą wentylatorową wyparną 
+(wymiennik zraszany, obieg zamknięty) 
+- 0,05 
+1.9 Skraplacz chłodzony wodą schładzaną w chłodnicy wyparnej (obieg otwarty) 
+0,00 
+2 
+Agregaty do bezpośredniego schładzania powietrza z uwzględnieniem ich specyficznego 
+wyposażenia technicznego 
+2.1 Klimatyzatory ze skraplaczem chłodzonym wodą o temperaturze poniżej 35˚C 
++ 0,15 
+2.2 Elektroniczny zawór rozprężny
+*)
+ 
++ 0,04 
+2.3 Chłodzenie naturalne (free-cooling) bezpośrednie (powietrzem 
+zewnętrznym, przez centralę wentylacyjno-klimatyzacyjną) 
++ 0,50 
+2.4 Klimatyzacja precyzyjna (close control) 
++ 0,03 
+*) 
+Podaną wartość c
+i
+ należy przyjmować tylko w przypadku, gdy wartości SEER
+ref
+  są określane 
+na podstawie tabeli 15. 
+ 
+4.1.4.3.
+ 
+Wyznaczanie  średniej  sezonowej  sprawności  akumulacji  chłodu  w  elementach 
+pojemnościowych  systemu  chłodzenia  
+η
+C,s
+ 
+Ilości ciepła przenoszonego z przestrzeni chłodzonej do elementów pojemnościowych systemu 
+chłodzenia zlokalizowanych wewnątrz przestrzeni chłodzonej należy wliczać do wewnętrznych 
+strat ciepła. 
+Zyski ciepła elementów pojemnościowych w systemie chłodzenia należy obliczać w taki sam 
+sposób jak straty ciepła elementów pojemnościowych w systemie ogrzewania (pkt 4.1.2.5)  
+i w systemie przygotowania ciepłej wody użytkowej (pkt 4.1.3.4). 
+W przypadku braku takich danych, przyjmuje się wartości 
+η
+C,s
+ określone w tabeli 17. 
+ 
+Tabela  17.  Wartości  średniej  sezonowej  sprawności  akumulacji  chłodu  w  elementach 
+pojemnościowych  systemu  chłodzenia  
+η
+C,s
+  
+Lp.
+ 
+Parametry zasobnika chłodu i jego usytuowanie 
+η
+C,s
+ 
+1 
+Zasobnik chłodu w systemie chłodzenia o temperaturach zasilania cieczy 
+chłodzącej w przedziale od 6 do 8
+°
+C: 
+a)
+ 
+wewnątrz przestrzeni chłodzonej, 
+b)
+ 
+poza przestrzenią chłodzoną 
+ 
+ 
+0,94 
+0,92 
+Dziennik Ustaw	
+– 24 – 	
+Poz. 376
+﻿
+Lp.
+ 
+Parametry zasobnika chłodu i jego usytuowanie 
+η
+C,s
+ 
+2 
+Zasobnik chłodu w systemie chłodzenia o temperaturach zasilania cieczy 
+chłodzącej w przedziale od 12 do 16
+°
+C: 
+a)
+ 
+wewnątrz przestrzeni chłodzonej, 
+b)
+ 
+poza przestrzenią chłodzoną 
+ 
+ 
+0,96 
+0,94 
+3 
+System chłodzenia bez zasobnika chłodu 
+1,00 
+ 
+4.1.4.4.
+ 
+Wyznaczanie średniej sezonowej sprawności przesyłu chłodu ze źródła chłodu do 
+przestrzeni chłodzonej 
+η
+C,d
+ 
+Ilości ciepła przenoszonego z przestrzeni chłodzonej do instalacji przesyłania chłodu w systemie 
+chłodzenia zlokalizowanej wewnątrz przestrzeni chłodzonej należy wliczać do wewnętrznych strat 
+ciepła. 
+Zyski ciepła instalacji przesyłania chłodu w systemie chłodzenia należy obliczać w taki sam 
+sposób jak straty ciepła elementów pojemnościowych w systemie ogrzewania (pkt 4.1.2.4)  
+i w systemie przygotowania ciepłej wody użytkowej (pkt 4.1.3.3). 
+W przypadku braku takich danych, przyjmuje się wartości 
+η
+C,d
+ określone w tabeli 18. 
+ 
+Tabela 18. Wartości średniej sezonowej sprawności przesyłu chłodu ze źródła chłodu do 
+przestrzeni chłodzonej 
+η
+C,d
+ 
+Lp.
+ 
+Rodzaj systemu chłodzenia 
+η
+C,d
+ 
+1 
+Chłodzenie bezpośrednie zdecentralizowane 
+1.1 
+Klimatyzator monoblokowy ze skraplaczem chłodzonym: 
+a)
+ 
+powietrzem, 
+b)
+ 
+wodą 
+ 
+1,00 
+1,00 
+1.2 
+Klimatyzator rozdzielczy (split) ze skraplaczem chłodzonym: 
+a)
+ 
+powietrzem, 
+b)
+ 
+wodą 
+ 
+1,00 
+1,00 
+1.3 
+Klimatyzator rozdzielczy (duo-split) ze skraplaczem chłodzonym: 
+a)
+ 
+powietrzem, 
+b)
+ 
+wodą 
+ 
+0,98 
+0,98 
+1.4 
+System VRV i VRF 
+0,95 
+2 
+Chłodzenie bezpośrednie scentralizowane 
+−
+ jednoprzewodowa instalacja 
+powietrzna 
+0,90 
+3 
+System chłodzenia z cieczą pośredniczącą: 
+a)
+ 
+układ prosty (bez podziału na obiegi), temperatury zasilania cieczy 
+chłodzącej w przedziale od 6 do 8
+°
+C, 
+b)
+ 
+układ z podziałem na obiegi pierwotny i wtórny, temperatury zasilania 
+cieczy chłodzącej w przedziale od 6 do 8
+°
+C, 
+c)
+ 
+układ zasilający klimakonwektory bez osuszania powietrza,  
+w tym belki chłodzące, temperatury zasilania cieczy chłodzącej  
+w przedziale od 12 do 16
+°
+C 
+ 
+0,92 
+ 
+0,96 
+ 
+0,98 
+ 
+4.1.4.5.
+ 
+Średnią sezonową sprawność regulacji i wykorzystania chłodu w przestrzeni chło- 
+dzonej 
+η
+C,e
+ przyjmuje się na podstawie danych określonych w tabeli 19. 
+ 
+Tabela 19. Wartości średniej sezonowej sprawności regulacji i wykorzystania chłodu 
+w przestrzeni chłodzonej 
+η
+C,e
+  
+Lp.
+ 
+Rodzaj instalacji i jej wyposażenie 
+η
+C,e
+ 
+1 
+Instalacje hydrauliczne systemu chłodzenia wyposażone w zawory 
+regulacyjne dwudrogowe zainstalowane przy chłodnicach powietrza: 
+a)
+ 
+regulacja skokowa, 
+b)
+ 
+regulacja ciągła 
+ 
+ 
+0,92 
+0,94 
+Dziennik Ustaw	
+– 25 – 	
+Poz. 376
+﻿
+Lp.
+ 
+Rodzaj instalacji i jej wyposażenie 
+η
+C,e
+ 
+2 
+Instalacje hydrauliczne systemu chłodzenia wyposażone w zawory 
+regulacyjne trójdrogowe zainstalowane przy chłodnicach powietrza: 
+a)
+ 
+regulacja skokowa, 
+b)
+ 
+regulacja ciągła 
+ 
+ 
+0,94 
+0,96 
+3 
+Instalacje hydrauliczne systemu chłodzenia wyposażone w zawory 
+regulacyjne dwudrogowe z automatycznym równoważeniem ciśnień (typu 
+PIBCV) zainstalowane przy chłodnicach powietrza oraz w elektronicznie 
+sterowaną pompę: 
+a)
+ 
+regulacja skokowa, 
+b)
+ 
+regulacja ciągła 
+ 
+ 
+ 
+ 
+0,96 
+0,98 
+ 
+4.1.5.
+ 
+System wbudowanej instalacji oświetlenia 
+4.1.5.1.
+ 
+Zakres stosowania metody 
+Metody nie stosuje się do budynków mieszkalnych i lokali mieszkalnych. 
+4.1.5.2.
+ 
+Roczne zapotrzebowania na energię końcową dostarczaną do budynku dla wbudowanej 
+instalacji oświetlenia Q
+k,L 
+wyznacza się według wzoru: 
+L
+L
+k,
+A
+LENI
+Q
+⋅
+=
+ 
+ 
+ 
+ 
+ 
+kWh/rok 
+ 
+ 
+ 
+(35) 
+gdzie: 
+LENI 
+liczbowy wskaźnik energii oświetlenia wyznaczony według 
+Polskiej Normy dotyczącej charakterystyki energetycznej 
+budynków 
+−
+ wymagania energetyczne dotyczące oświetlenia  
+kWh/(m
+2
+ 
+· rok)
+L
+A
+powierzchnia pomieszczeń wyposażonych w system 
+wbudowanej instalacji oświetlenia równa powierzchni przyjętej 
+do obliczenia wskaźnika LENI 
+m
+2 
+ 
+4.1.6.
+ 
+Roczne zapotrzebowanie na energię pomocniczą końcową dostarczaną do budynku  
+lub części budynku dla systemów technicznych E
+el,pom
+ 
+4.1.6.1.
+ 
+Roczne zapotrzebowanie na energię pomocniczą końcową dostarczaną do budynku  
+lub części budynku dla systemów technicznych E
+el,pom 
+wyznacza się według wzoru: 
+C
+pom,
+el,
+W
+pom,
+el,
+H
+pom,
+el,
+pom
+el,
+E
+E
+E
+E
++
++
+=
+   
+ 
+kWh/rok   
+ 
+ 
+ 
+(36) 
+ 
+gdzie: 
+E
+el,pom,H 
+roczne zapotrzebowanie na energię pomocniczą końcową dostarczaną 
+do budynku lub części budynku dla systemu ogrzewania  
+kWh/rok
+E
+el,pom,W
+ 
+roczne zapotrzebowanie na energię pomocniczą końcową dostarczaną 
+do budynku lub części budynku dla systemu przygotowania ciepłej 
+wody użytkowej   
+kWh/rok 
+E
+el,pom,C
+ 
+roczne zapotrzebowanie na energię pomocniczą końcową dostarczaną 
+do budynku lub części budynku dla systemu chłodzenia  
+kWh/rok 
+ 
+4.1.6.2.
+ 
+System ogrzewania 
+Roczne zapotrzebowanie na energię pomocniczą końcową dostarczaną do budynku lub części 
+budynku dla systemu ogrzewania E
+el,pom,H
+ wyznacza się według wzoru: 
+3
+f
+i
+i
+el,
+i
+H,
+el,
+H
+pom,
+el,
+10
+A
+t
+q
+E
+−
+⋅
+⋅
+⋅
+=
+∑
+ 
+ 
+ 
+kWh/rok 
+ 
+ 
+ 
+(37) 
+gdzie: 
+i
+H,
+el,
+q
+ 
+zapotrzebowanie na moc elektryczną do napędu i-tego urządzenia 
+pomocniczego w systemie ogrzewania określone w tabeli 20 
+W/m
+2
+i
+el,
+t
+ 
+czas działania i-tego urządzenia pomocniczego w systemie ogrzewania 
+w ciągu roku określony w tabeli 20 
+h/rok 
+f
+A
+  
+powierzchnia pomieszczeń o regulowanej temperaturze powietrza 
+(powierzchnia ogrzewana)  
+m
+2
+Dziennik Ustaw	
+– 26 – 	
+Poz. 376
+﻿
+4.1.6.3.
+ 
+System przygotowania ciepłej wody użytkowej 
+Roczne zapotrzebowanie na energię pomocniczą końcową dostarczaną do budynku lub części 
+budynku dla systemu przygotowania ciepłej wody użytkowej E
+el,pom,W
+ wyznacza się według 
+wzoru: 
+3
+f
+j
+j
+el,
+j
+W,
+el,
+W
+pom,
+el,
+10
+A
+t
+q
+E
+−
+⋅
+⋅
+⋅
+=
+∑
+ 
+ 
+ 
+kWh/rok 
+ 
+ 
+ 
+(38) 
+gdzie: 
+j
+W,
+el,
+q
+ 
+zapotrzebowanie na moc elektryczną do napędu j-tego urządzenia 
+pomocniczego w systemie przygotowania ciepłej wody użytkowej 
+określone w tabeli 20 
+W/m
+2
+ 
+j
+el,
+t
+ 
+czas działania j-tego urządzenia pomocniczego w systemie 
+przygotowania ciepłej wody użytkowej w ciągu roku określony  
+w tabeli 20 
+h/rok 
+f
+A
+  
+powierzchnia pomieszczeń o regulowanej temperaturze powietrza 
+(powierzchnia ogrzewana)  
+m
+2
+ 
+4.1.6.4.
+ 
+System chłodzenia 
+Roczne zapotrzebowanie na energię pomocniczą końcową dostarczaną do budynku lub części 
+budynku dla systemu chłodzenia E
+el,pom,C
+ wyznacza się według wzoru: 
+3
+f
+k
+k
+el,
+k
+C,
+el,
+C
+pom,
+el,
+10
+A
+t
+q
+E
+−
+⋅
+⋅
+⋅
+=
+∑
+ 
+ 
+ 
+kWh/rok 
+ 
+ 
+ 
+(39) 
+gdzie: 
+k
+C,
+el,
+q
+ 
+zapotrzebowanie na moc elektryczną do napędu k-tego urządzenia 
+pomocniczego w systemie chłodzenia określone w tabeli 20 
+W/m
+2
+ 
+k
+el,
+t
+ 
+czas działania k-tego urządzenia pomocniczego w systemie 
+chłodzenia w ciągu roku określony w tabeli 20 
+h/rok 
+f
+A
+  
+powierzchnia pomieszczeń o regulowanej temperaturze powietrza 
+(powierzchnia chłodzona)  
+m
+2
+ 
+ 
+4.1.6.5.
+ 
+Wyznaczanie zapotrzebowania na moc elektryczną do napędu urządzeń pomocniczych 
+w systemach technicznych q
+el
+ oraz czasu działania urządzeń pomocniczych  
+w systemach technicznych w ciągu roku t
+el
+ 
+Czas działania urządzeń pomocniczych w systemie ogrzewania, w systemie przygotowania 
+ciepłej wody użytkowej lub w systemie chłodzenia o ciągłym działaniu należy przyjmować 
+jako:  
+−
+ 
+i(j)
+el,
+t
+ = 8760 h, np. w przypadku wentylatorów wyciągowych (wentylacja mechaniczna 
+wywiewna) lub pomp cyrkulacyjnych w systemie przygotowania ciepłej wody 
+użytkowej, albo 
+−
+ 
+czas trwania okresu ogrzewania lub chłodniczego wyznaczony według Polskiej Normy 
+dotyczącej energetycznych właściwości użytkowych budynków – obliczanie zużycia 
+energii na potrzeby ogrzewania i chłodzenia, np. w przypadku pomp obiegowych. 
+Czas działania urządzeń pomocniczych w systemie ogrzewania, w systemie przygotowania 
+ciepłej wody użytkowej lub w systemie chłodzenia o działaniu okresowym należy przyjmować 
+na podstawie  przyjętego sposobu działania tych urządzeń.  
+W przypadku braku takich danych przyjmuje się wartości czasu działania urządzeń 
+pomocniczych w systemach technicznych t
+el
+ określone w tabeli 20. 
+Wartości: 
+i
+H,
+el,
+q
+, 
+j
+W,
+el,
+q
+, 
+k
+C,
+el,
+q
+należy obliczać na podstawie mocy zainstalowanych urządzeń 
+pomocniczych, biorąc pod uwagę współczynniki korekcyjne uwzględniające strukturę sieci 
+przewodów, jej zrównoważenie hydrauliczne i sposób sterowania. 
+W przypadku braku takich danych przyjmuje się wartości zapotrzebowania na moc elektryczną 
+do napędu urządzeń pomocniczych w systemach technicznych q
+el 
+określone w tabeli 20. 
+Dziennik Ustaw	
+– 27 – 	
+Poz. 376
+﻿
+Tabela 20. Wartości zapotrzebowania na moc elektryczną do napędu urządzeń pomocniczych 
+w systemie ogrzewania, systemie przygotowania ciepłej wody użytkowej i w systemie chłodze- 
+nia q
+el 
+[W/m
+2
+]
+ 
+oraz wartości czasu działania urządzeń pomocniczych w systemie ogrzewania, 
+w systemie przygotowania ciepłej wody użytkowej i w systemie chłodzenia t
+el 
+[h/rok]
+ 
+Lp. 
+Rodzaj urządzenia pomocniczego 
+q
+el 
+[W/m
+2
+] 
+t
+el 
+[h/rok]
+ 
+1 
+Pompy obiegowe w systemie ogrzewania z grzejnikami 
+członowymi lub płytowymi przy granicznej temperaturze 
+ogrzewania: 
+a)
+ 
+12°C w budynku o powierzchni A
+f
+ do 250 m
+2
+, 
+b)
+ 
+10°C w budynku o powierzchni A
+f
+ powyżej 250 m
+2
+ 
+ 
+ 
+ 
+0,30 
+0,15
+ 
+ 
+ 
+5700 
+4700
+2 
+Pompy obiegowe w systemie ogrzewania z grzejnikami 
+podłogowymi przy granicznej temperaturze ogrzewania 15°C 
+w budynku o powierzchni A
+f
+ do 250 m
+2
+ 
+ 
+0,50 
+6700 
+3 
+Pompy cyrkulacyjne w systemie przygotowania ciepłej wody 
+użytkowej: 
+a)
+ 
+o działaniu ciągłym w budynku o powierzchni A
+f
+  
+do 250 m
+2
+,
+ 
+b)
+ 
+o pracy przerywanej do 4 godzin na dobę w budynku  
+o powierzchni A
+f
+ powyżej 250 m
+2
+,
+ 
+c)
+ 
+o pracy przerywanej do 8 godzin na dobę w budynku  
+o powierzchni A
+f
+ powyżej 250 m
+2
+ 
+ 
+ 
+0,15 
+ 
+0,04 
+ 
+0,04
+ 
+ 
+8760 
+ 
+7300 
+ 
+5840
+4 
+Pompa ładująca zasobnik ciepłej wody użytkowej w budynku 
+o powierzchni A
+f
+: 
+a)
+ 
+do 250 m
+2
+,
+ 
+b)
+ 
+powyżej 250 m
+2
+ 
+ 
+0,25 
+0,20
+ 
+ 
+270 
+580 
+5 
+Pompa ładująca zasobnik ciepła w systemie ogrzewania  
+w budynku o powierzchni A
+f
+: 
+a)
+ 
+do 250 m
+2
+,
+ 
+b)
+ 
+powyżej 250 m
+2
+ 
+ 
+0,20 
+0,04
+ 
+ 
+1500 
+1500
+6 
+Napęd pomocniczy i regulacja kotła do przygotowania ciepłej 
+wody użytkowej w budynku o powierzchni A
+f
+: 
+a)
+ 
+do 250 m
+2
+,
+ 
+b)
+ 
+powyżej 250 m
+2
+ 
+ 
+1,40 
+0,50
+ 
+ 
+310 
+410 
+7 
+Napęd pomocniczy i regulacja kotła do ogrzewania  
+w budynku o powierzchni A
+f
+: 
+a)
+ 
+do 250 m
+2
+,
+ 
+b)
+ 
+powyżej 250 m
+2
+ 
+ 
+0,50 
+0,15
+ 
+ 
+2520 
+3900
+8 
+Napęd pomocniczy pompy ciepła woda/woda w systemie: 
+a)
+ 
+ogrzewania, 
+b)
+ 
+przygotowania ciepłej wody użytkowej
+ 
+0,70 
+0,70
+ 
+1600 
+400 
+9 
+Napęd pomocniczy pompy ciepła glikol/woda w systemie: 
+a)
+ 
+ogrzewania, 
+b)
+ 
+przygotowania ciepłej wody użytkowej
+ 
+0,45 
+0,45
+ 
+1600 
+400 
+10 
+Regulacja węzła cieplnego obsługującego system ogrzewania 
+i system przygotowania ciepłej wody użytkowej 
+0,09 
+8760 
+11 
+Pompy i regulacja instalacji solarnej w budynku  
+o powierzchni A
+f
+: 
+a)
+ 
+do 500 m
+2
+, 
+b)
+ 
+powyżej 500 m
+2
+ 
+ 
+0,40 
+0,30
+ 
+ 
+1530 
+1530
+12 
+Wentylator w centrali nawiewno-wywiewnej, krotność 
+wymiany powietrza: 
+a)
+ 
+do 0,6 h
+-1
+, 
+b)
+ 
+powyżej 0,6 h
+-1
+ 
+ 
+0,50 
+1,30
+ 
+ 
+8760 · 
+β
+*) 
+8760 · 
+β
+*) 
+Dziennik Ustaw	
+– 28 – 	
+Poz. 376
+﻿
+Lp. 
+Rodzaj urządzenia pomocniczego 
+q
+el 
+[W/m
+2
+] 
+t
+el 
+[h/rok]
+ 
+13 
+Wentylator w centrali wywiewnej, krotność wymiany 
+powietrza: 
+a)
+ 
+do 0,6 h
+-1
+, 
+b)
+ 
+powyżej 0,6 h
+-1
+ 
+ 
+0,40 
+0,90
+ 
+ 
+8760 · 
+β
+*) 
+8760 · 
+β
+*)
+ 
+14 
+Wentylator miejscowy systemu wentylacyjnego 
+2,40
+8760 · 
+β
+*)
+ 
+*)
+ 
+β
+ – udział czasu działania wentylatorów wentylacji mechanicznej w miesiącu równy 
+wykorzystaniu budynku w miesiącu, wyznaczony zgodnie z pkt 5.5.2. 
+ 
+4.2.
+ 
+Wyznaczanie rocznego zapotrzebowania na energię końcową dostarczaną do 
+budynku lub części budynku
+ 
+dla systemów technicznych Q
+k
+ w budynku lub części 
+budynku
+ 
+wyposażonych w złożone systemy techniczne 
+4.2.1.
+ 
+Roczne zapotrzebowanie na energię końcową dostarczoną do budynku lub części 
+budynku dla systemów technicznych Q
+k
+ wyznacza się według wzoru: 
+pom
+el,
+C
+k,
+L
+k,
+W
+k,
+H
+k,
+k
+E
+Q
+Q
+Q
+Q
+Q
++
++
++
++
+=
+ 
+ 
+kWh/rok 
+ 
+ 
+ 
+(40) 
+gdzie: 
+Q
+k,H 
+roczne zapotrzebowanie na energię końcową dostarczaną do budynku 
+lub części budynku dla systemu ogrzewania  
+kWh/rok 
+Q
+k,W
+ 
+roczne zapotrzebowanie na energię końcową dostarczaną do budynku 
+lub części budynku dla systemu przygotowania ciepłej wody użytkowej
+ 
+kWh/rok 
+Q
+k,C 
+roczne zapotrzebowanie na energię końcową dostarczaną do budynku 
+lub części budynku dla systemu chłodzenia 
+kWh/rok 
+Q
+k,L 
+roczne zapotrzebowanie na energię końcową dostarczaną do budynku 
+lub części budynku dla systemu wbudowanej instalacji oświetlenia
+*)
+ 
+kWh/rok 
+E
+el,pom
+ 
+roczne zapotrzebowanie na energię pomocniczą końcową dostarczaną 
+do budynku lub części budynku dla systemów technicznych 
+kWh/rok 
+*)
+ Nie wyznacza się dla budynków mieszkalnych i lokali mieszkalnych. 
+ 
+4.2.2.
+ 
+System ogrzewania 
+4.2.2.1.
+ 
+Roczne zapotrzebowanie na energię końcową dostarczaną do budynku lub części 
+budynku dla systemu ogrzewania Q
+k,H
+ wyznacza się według wzoru: 
+∑
+=
+i
+i
+H,
+k,
+H
+k,
+Q
+Q
+ 
+ 
+ 
+ 
+ 
+kWh/rok 
+ 
+ 
+ 
+(41) 
+gdzie: 
+i
+tot,
+H,
+nd
+H,
+i
+i
+H,
+k,
+/η
+Q
+X
+Q
+⋅
+=
+  
+ 
+ 
+ 
+kWh/rok 
+ 
+ 
+ 
+(42) 
+gdzie: 
+i
+H,
+k,
+Q
+ 
+roczne zapotrzebowanie na energię końcową dostarczaną  
+do budynku lub części budynku dla i-tego podsystemu w systemie 
+ogrzewania 
+kWh/rok 
+X
+i 
+udział w rocznym zapotrzebowaniu na energię użytkową  
+do ogrzewania i wentylacji zapewniany przez i-ty podsystem  
+w systemie ogrzewania (suma udziałów jest równa 1) 
+– 
+nd
+H,
+Q
+ 
+roczne zapotrzebowanie na energię użytkową do ogrzewania  
+i wentylacji
+*)
+  
+kWh/rok 
+i
+tot,
+H,
+η
+ 
+średnia sezonowa sprawność całkowita i-tego podsystemu  
+w systemie ogrzewania
+**)
+ 
+– 
+*)
+ Wyznacza się zgodnie z pkt 5.2. 
+**)
+ Wyznacza się zgodnie z pkt 4.1.2. 
+ 
+Dziennik Ustaw	
+– 29 – 	
+Poz. 376
+﻿
+4.2.3.
+ 
+System przygotowania ciepłej wody użytkowej  
+4.2.3.1.
+ 
+Roczne zapotrzebowanie na energię końcową dostarczaną do budynku lub części budynku 
+dla systemu przygotowania ciepłej wody użytkowej Q
+k,W
+ wyznacza się według wzoru: 
+∑
+=
+j
+j
+W,
+k,
+W
+k,
+Q
+Q
+ 
+ 
+ 
+ 
+ 
+kWh/rok 
+ 
+ 
+ 
+(43) 
+gdzie: 
+j
+tot,
+W,
+nd
+W,
+j
+j
+W,
+k,
+/η
+Q
+X
+Q
+⋅
+=
+  
+ 
+ 
+ 
+kWh/rok 
+ 
+ 
+ 
+(44) 
+gdzie: 
+j
+W,
+k,
+Q
+ 
+roczne zapotrzebowanie na energię końcową dostarczaną  
+do budynku lub części budynku dla j-tego podsystemu w systemie 
+przygotowania ciepłej wody użytkowej 
+kWh/rok 
+X
+j 
+udział w rocznym zapotrzebowaniu na energię użytkową  
+do przygotowania ciepłej wody użytkowej zapewniany  
+przez j-ty podsystem w systemie przygotowania ciepłej wody 
+użytkowej (suma udziałów jest równa 1) 
+– 
+nd
+W,
+Q
+ 
+roczne zapotrzebowanie na energię użytkową do przygotowania 
+ciepłej wody użytkowej
+*)
+ 
+kWh/rok 
+j
+tot,
+W,
+η
+ 
+średnia sezonowa sprawność całkowita j-tego podsystemu w systemie 
+przygotowania ciepłej wody użytkowej
+**)
+ 
+– 
+ *)
+ Wyznacza się zgodnie z pkt 5.3. 
+**)
+ Wyznacza się zgodnie z pkt 4.1.3.1. 
+ 
+4.2.4.
+ 
+System chłodzenia  
+4.2.4.1.
+ 
+Roczne zapotrzebowanie na energię końcową dostarczaną do budynku lub części 
+budynku dla systemu chłodzenia Q
+k,C
+  wyznacza się według wzoru: 
+∑
+=
+k
+k
+C,
+k,
+C
+k,
+Q
+Q
+ 
+ 
+ 
+ 
+ 
+kWh/rok 
+ 
+ 
+ 
+(45) 
+gdzie: 
+k
+tot,
+C,
+nd
+C,
+k
+k
+C,
+k,
+/η
+Q
+X
+Q
+⋅
+=
+ 
+ 
+ 
+ 
+kWh/rok 
+ 
+ 
+ 
+(46) 
+gdzie: 
+k
+k,C,
+Q
+ 
+roczne 
+zapotrzebowanie 
+na 
+energię 
+końcową 
+dostarczaną 
+do budynku lub części budynku dla k-tego podsystemu w systemie 
+chłodzenia 
+kWh/rok 
+X
+k 
+udział 
+w 
+rocznym 
+zapotrzebowaniu 
+na 
+energię 
+użytkową 
+do chłodzenia zapewniany przez k-ty podsystem w systemie 
+chłodzenia (suma udziałów jest równa 1) 
+– 
+nd
+C,
+Q
+ 
+roczne zapotrzebowanie na energię użytkową do chłodzenia
+*)
+ 
+kWh/rok 
+k
+tot,
+C,
+η
+ 
+średnia 
+sezonowa 
+sprawność 
+całkowita 
+k-tego 
+podsystemu 
+ 
+w systemie chłodzenia
+**)
+ 
+– 
+*)
+ Wyznacza się zgodnie z pkt 5.4. 
+**)
+ Wyznacza się zgodnie z pkt 4.1.4.1. 
+ 
+4.2.5.
+ 
+System wbudowanej instalacji oświetlenia  
+4.2.5.1.
+ 
+Zakres stosowania metody 
+Metody nie stosuje się do budynków mieszkalnych i lokali mieszkalnych. 
+4.2.5.2.
+ 
+Roczne zapotrzebowanie na energię końcową dostarczaną do budynku lub części budynku 
+dla systemu wbudowanej instalacji oświetlenia Q
+k,L
+ wyznacza się według wzoru: 
+∑
+=
+l
+l
+L,
+k,
+L
+k,
+Q
+Q
+  
+ 
+ 
+ 
+ 
+kWh/rok 
+ 
+ 
+ 
+(47) 
+Dziennik Ustaw	
+– 30 – 	
+Poz. 376
+﻿
+gdzie: 
+L
+k,
+l
+l
+L,
+k,
+Q
+X
+Q
+⋅
+=
+ 
+ 
+ 
+ 
+ 
+kWh/rok 
+ 
+ 
+ 
+(48) 
+gdzie: 
+l
+L,
+k,
+Q
+ 
+roczne zapotrzebowanie na energię końcową dostarczaną  
+do budynku lub części budynku dla l-tego podsystemu w systemie 
+wbudowanej instalacji oświetlenia 
+kWh/rok 
+X
+l
+ 
+udział w rocznym zapotrzebowaniu na energię końcową dostarczaną 
+do budynku lub części budynku dla systemu wbudowanej instalacji 
+oświetlenia zapewniany przez l-ty podsystem w systemie 
+wbudowanej instalacji oświetlenia (suma udziałów jest równa 1) 
+– 
+L
+k,
+Q
+ 
+roczne zapotrzebowanie na energię końcową dostarczaną  
+do budynku lub części budynku dla systemu wbudowanej instalacji 
+oświetlenia
+*)
+ 
+kWh/rok 
+*)
+ Wyznacza się zgodnie z pkt 4.1.5. 
+ 
+4.2.6.
+ 
+Roczne zapotrzebowanie na energię pomocniczą końcową dostarczaną do budynku  
+lub części budynku dla systemów technicznych E
+el,pom 
+wyznacza się zgodnie  
+z pkt 4.1.6. 
+ 
+5.
+ 
+Wyznaczanie rocznego zapotrzebowania na energię użytkową Q
+u
+ w budynku lub 
+części budynku  
+5.1.
+ 
+Roczne zapotrzebowanie na energię użytkową Q
+u
+ wyznacza się według wzoru: 
+nd
+C,
+nd
+W,
+nd
+H,
+u
+Q
+Q
+Q
+Q
++
++
+=
+ 
+ 
+ 
+ 
+kWh/rok 
+ 
+ 
+ 
+(49) 
+gdzie: 
+Q
+H,nd 
+roczne zapotrzebowanie na energię użytkową do ogrzewania  
+i wentylacji  
+kWh/rok 
+Q
+W,nd
+ 
+roczne zapotrzebowanie na energię użytkową do przygotowania 
+ciepłej wody użytkowej 
+kWh/rok 
+Q
+C,nd 
+roczne zapotrzebowanie na energię użytkową do chłodzenia 
+kWh/rok 
+ 
+5.2.
+ 
+Wyznaczanie rocznego zapotrzebowania na energię użytkową do ogrzewania i wentylacji 
+Q
+H,nd
+ 
+5.2.1.
+ 
+Roczne zapotrzebowanie na energię użytkową do ogrzewania i wentylacji 
+nd
+H,
+Q
+wyznacza się według wzoru: 
+∑
+=
+s
+s
+nd,
+H,
+nd
+H,
+Q
+Q
+ 
+ 
+ 
+ 
+ 
+kWh/rok 
+ 
+ 
+ 
+(50) 
+gdzie: 
+s
+nd,
+H,
+Q
+ 
+roczne zapotrzebowanie na energię użytkową do ogrzewania  
+i wentylacji w strefie ogrzewanej  
+kWh/rok 
+s 
+liczba stref ogrzewanych  
+– 
+ 
+5.2.2.
+ 
+Roczne zapotrzebowanie na energię użytkową do ogrzewania i wentylacji w strefie 
+ogrzewanej 
+s
+nd,
+H,
+Q
+wyznacza się według wzoru: 
+∑
+=
+n
+n
+s,
+nd,
+H,
+s
+nd,
+H,
+Q
+Q
+ 
+ 
+ 
+ 
+ 
+kWh/rok 
+ 
+ 
+ 
+(51) 
+gdzie: 
+n
+s,
+gn,
+H,
+n
+s,
+gn,
+H,
+n
+s,
+ht,
+H,
+n
+s,
+nd,
+H,
+Q
+η
+Q
+Q
+⋅
+−
+=
+   
+ 
+kWh/mies. 
+ 
+ 
+ 
+(52) 
+ 
+ 
+Dziennik Ustaw	
+– 31 – 	
+Poz. 376
+﻿
+gdzie: 
+n
+s,
+nd,
+H,
+Q
+ 
+zapotrzebowanie na ciepło do ogrzewania i wentylacji w strefie 
+ogrzewanej w n-tym miesiącu roku (uwzględnia się wartości większe 
+od 0) 
+kWh/mies. 
+n
+s,
+ht,
+H,
+Q
+ 
+całkowita ilość ciepła przenoszonego ze strefy ogrzewanej  
+w n-tym miesiącu roku 
+kWh/mies. 
+n
+s,
+gn,
+H,
+η
+ 
+współczynnik wykorzystania zysków ciepła w strefie ogrzewanej  
+w n-tym miesiącu roku wyznaczony według Polskiej Normy 
+dotyczącej energetycznych właściwości użytkowych budynków – 
+obliczanie zużycia energii na potrzeby ogrzewania i chłodzenia 
+– 
+n
+s,
+H,gn,
+Q
+ 
+całkowite zyski ciepła w strefie ogrzewanej w n-tym miesiącu roku 
+kWh/mies. 
+ 
+5.2.3.
+ 
+Całkowitą ilość ciepła przenoszonego ze strefy ogrzewanej w n-tym miesiącu roku 
+n
+s,
+ht,
+H,
+Q
+wyznacza się według wzoru: 
+n
+s,
+ve,
+n
+s,
+tr,
+n
+s,
+ht,
+H,
+Q
+Q
+Q
++
+=
+ 
+ 
+ 
+ 
+kWh/mies. 
+ 
+ 
+ 
+(53) 
+gdzie: 
+n
+s,
+tr,
+Q
+ 
+całkowita ilość ciepła przenoszonego ze strefy ogrzewanej  
+przez przenikanie w n-tym miesiącu roku
+ 
+kWh/mies.
+n
+s,
+ve,
+Q
+ 
+całkowita ilość ciepła przenoszonego ze strefy ogrzewanej  
+przez wentylację w n-tym miesiącu roku 
+kWh/mies. 
+ 
+5.2.3.1.
+ 
+Wyznaczanie całkowitej ilości ciepła przenoszonego ze strefy ogrzewanej przez 
+przenikanie w n-tym miesiącu roku 
+n
+s,
+tr,
+Q
+ 
+5.2.3.1.1. Całkowitą ilość ciepła przenoszonego ze strefy ogrzewanej przez przenikanie w n-tym 
+miesiącu roku 
+n
+s,
+tr,
+Q
+wyznacza się według wzoru: 
+(
+)
+3
+M
+n
+e,
+H
+s,
+int,
+s
+tr,
+n
+s,
+tr,
+10
+t
+θ
+θ
+H
+Q
+−
+⋅
+⋅
+−
+⋅
+=
+ 
+ 
+ 
+kWh/mies. 
+ 
+ 
+ 
+(54) 
+gdzie: 
+ig
+tr,
+ij
+tr,
+iue
+tr,
+ie
+tr,
+s
+tr,
+H
+H
+H
+H
+H
++
++
++
+=
+  
+ 
+ 
+W/K  
+ 
+ 
+ 
+(55) 
+gdzie: 
+s
+tr,
+H
+ 
+całkowity współczynnik przenoszenia ciepła przez przenikanie  
+dla strefy ogrzewanej  
+W/K 
+H
+s,
+int,
+θ
+ 
+średnia temperatura wewnętrzna w strefie ogrzewanej wyznaczona 
+według Polskiej Normy dotyczącej energetycznych właściwości 
+użytkowych budynków – obliczanie zużycia energii na potrzeby 
+ogrzewania i chłodzenia
+*)
+ 
+°
+C 
+n
+e,
+θ
+ 
+średnia miesięczna temperatura powietrza zewnętrznego według 
+danych klimatycznych z najbliższej stacji meteorologicznej względem 
+lokalizacji budynku podawanych w Biuletynie Informacji Publicznej 
+urzędu obsługującego ministra właściwego do spraw budownictwa, 
+lokalnego planowania i zagospodarowania przestrzennego  
+oraz mieszkalnictwa 
+°
+C 
+M
+t
+ 
+liczba godzin w miesiącu 
+h 
+ie
+tr,
+H
+ 
+współczynnik przenoszenia ciepła ze strefy ogrzewanej (i) 
+bezpośrednio do środowiska zewnętrznego (e) wyznaczony zgodnie  
+z podstawową metodą według Polskiej Normy dotyczącej instalacji 
+ogrzewczych w budynkach – metoda obliczania projektowego 
+obciążenia cieplnego 
+W/K 
+ 
+ 
+Dziennik Ustaw	
+– 32 – 	
+Poz. 376
+﻿
+iue
+tr,
+H
+ 
+współczynnik przenoszenia ciepła ze strefy ogrzewanej (i)  
+przez przyległe przestrzenie nieogrzewane w budynku lub przyległym 
+budynku (u) do otoczenia (e) wyznaczony zgodnie z podstawową 
+metodą według Polskiej Normy dotyczącej instalacji ogrzewczych  
+w budynkach – metoda obliczania projektowego obciążenia cieplnego 
+W/K 
+ig
+tr,
+H
+ 
+współczynnik przenoszenia ciepła ze strefy ogrzewanej (i) do gruntu 
+(g) wyznaczony zgodnie z podstawową metodą według Polskiej 
+Normy dotyczącej instalacji ogrzewczych w budynkach – metoda 
+obliczania projektowego obciążenia cieplnego 
+W/K 
+ij
+tr,
+H
+ 
+współczynnik przenoszenia ciepła ze strefy ogrzewanej (i) do 
+przyległej strefy ogrzewanej w budynku lub w przyległym budynku (j) 
+wyznaczony zgodnie z podstawową metodą według Polskiej Normy 
+dotyczącej instalacji ogrzewczych w budynkach – metoda obliczania 
+projektowego obciążenia cieplnego 
+W/K 
+*)
+  Wartości temperatury wewnętrznej w pomieszczeniach strefy ogrzewanej przyjmuje się 
+zgodnie z przepisami techniczno-budowlanymi. 
+ 
+5.2.3.1.2. Wyznaczanie współczynnika przenoszenia ciepła ze strefy ogrzewanej (i) 
+bezpośrednio do środowiska zewnętrznego (e) H
+tr,ie
+ 
+W przypadku zastosowania w budynku lub części budynku elementów specjalnych, takich jak: 
+przestrzenie słoneczne nieklimatyzowane, elementy z izolacją transparentną, wentylowane 
+ściany słoneczne oraz wentylowane elementy obudowy, wpływ takich elementów na wartość 
+współczynnika 
+ie
+tr,
+H
+ należy wyznaczać według Polskiej Normy dotyczącej energetycznych 
+właściwości użytkowych budynków – obliczanie zużycia energii na potrzeby ogrzewania  
+i chłodzenia. 
+ 
+5.2.3.1.3. Wyznaczanie średniej miesięcznej temperatury wewnętrznej w przestrzeni nie-
+ogrzewanej z zyskami ciepła 
+Wartość średniej miesięcznej temperatury wewnętrznej w przestrzeni nieogrzewanej  
+z zyskami ciepła należy obliczać z bilansu strat i zysków ciepła, przy założeniu że 
+współczynnik wykorzystania zysków ciepła jest równy 1.   
+W celu określenia, czy przestrzeń okresowo ogrzewana, w tym klatka schodowa,  
+w n-tym miesiącu roku jest przestrzenią ogrzewaną albo przestrzenią nieogrzewaną, należy 
+obliczyć w podany wyżej sposób średnią miesięczną temperaturę wewnętrzną w tej przestrzeni,  
+przy czym: 
+1)
+ 
+jeżeli 
+obliczona 
+średnia 
+miesięczna 
+temperatura 
+wewnętrzna 
+jest 
+niższa  
+od temperatury określonej w przepisach techniczno-budowlanych, ta przestrzeń jest  
+w n-tym miesiącu roku przestrzenią ogrzewaną;  
+2)
+ 
+jeżeli obliczona średnia miesięczna temperatura wewnętrzna jest równa albo wyższa  
+od temperatury określonej w przepisach techniczno-budowlanych, ta przestrzeń jest  
+w n-tym miesiącu roku przestrzenią nieogrzewaną. 
+ 
+5.2.3.2.
+ 
+Wyznaczanie całkowitej ilości ciepła przenoszonego ze strefy ogrzewanej  
+przez wentylację w n-tym miesiącu roku 
+n
+s,
+ve,
+Q
+ 
+Całkowitą ilość ciepła przenoszonego ze strefy ogrzewanej przez wentylację w n-tym miesiącu 
+roku 
+n
+s,
+ve,
+Q
+ wyznacza się według wzoru: 
+(
+)
+3
+M
+n
+e,
+H
+s,
+int,
+s
+ve,
+n
+s,
+ve,
+10
+t
+θ
+θ
+H
+Q
+−
+⋅
+⋅
+−
+⋅
+=
+  
+ 
+kWh/mies. 
+ 
+ 
+ 
+(56) 
+gdzie: 
+∑
+⋅
+⋅
+⋅
+=
+k
+n
+k,
+ve,
+k
+ve,
+a
+a
+s
+ve,
+V
+b
+c
+ρ
+H
+  
+ 
+ 
+W/K  
+ 
+ 
+ 
+(57) 
+ 
+ 
+Dziennik Ustaw	
+– 33 – 	
+Poz. 376
+﻿
+gdzie: 
+s
+ve,
+H
+ 
+współczynnik przenoszenia ciepła przez wentylację ze strefy ogrzewanej 
+ 
+W/K 
+H
+s,
+int,
+θ
+ 
+średnia temperatura wewnętrzna w strefie ogrzewanej wyznaczona 
+według Polskiej Normy dotyczącej energetycznych właściwości 
+użytkowych budynków – obliczanie zużycia energii na potrzeby 
+ogrzewania i chłodzenia
+*)
+ 
+°
+C 
+n
+e,
+θ
+ 
+średnia miesięczna temperatura powietrza zewnętrznego według danych 
+klimatycznych z najbliższej stacji meteorologicznej względem 
+lokalizacji budynku podawanych w Biuletynie Informacji Publicznej 
+urzędu obsługującego ministra właściwego do spraw budownictwa, 
+lokalnego planowania i zagospodarowania przestrzennego oraz 
+mieszkalnictwa 
+°
+C 
+M
+t
+ 
+liczba godzin w miesiącu 
+h 
+a
+a
+ 
+c
+ρ
+ ⋅
+ 
+pojemność cieplna powietrza (jest równa 1200)  
+J/(m
+3
+ 
+· K)
+ 
+k
+ve,
+b
+ 
+Czynnik korekty temperatury dla strumienia powietrza
+ 
+zewnętrznego k
+**)
+ 
+– 
+n
+k,
+ve,
+V
+ 
+uśredniony w czasie strumień powietrza zewnętrznego k w strefie 
+ogrzewanej
+**)
+ 
+m
+3
+/s 
+k 
+identyfikator strumienia powietrza zewnętrznego: 
+k = 1 – w przypadku podstawowego strumienia powietrza 
+zewnętrznego w okresie użytkowania budynku lub części budynku, 
+k = 2 – w przypadku dodatkowego strumienia powietrza 
+zewnętrznego w okresie użytkowania budynku lub części budynku, 
+zależnego od rodzaju wentylacji i szczelności budynku, 
+k = 3 – w przypadku podstawowego strumienia powietrza 
+zewnętrznego w okresie, kiedy budynek lub część budynku nie są 
+użytkowane, 
+k = 4 – w przypadku dodatkowego strumienia powietrza 
+zewnętrznego w okresie, kiedy budynek lub część budynku nie są  
+użytkowane, zależnego od rodzaju wentylacji i szczelności budynku  
+– 
+*)
+ Wartości temperatury wewnętrznej w pomieszczeniach strefy ogrzewanej przyjmuje się 
+zgodnie z przepisami techniczno-budowlanymi. 
+**)  
+Wyznaczony zgodnie z pkt 5.5.1 albo według Polskiej Normy dotyczącej energetycznych 
+właściwości użytkowych budynków – obliczanie zużycia energii na potrzeby ogrzewania 
+i chłodzenia. 
+ 
+5.2.4.
+ 
+Całkowite zyski ciepła w strefie ogrzewanej w n-tym miesiącu roku 
+n
+s,
+H,gn,
+Q
+wyznacza 
+się według wzoru: 
+H
+int,
+H
+sol,
+n
+s,
+gn,
+H,
+Q
+Q
+Q
++
+=
+ 
+ 
+ 
+ 
+kWh/mies. 
+ 
+ 
+ 
+(58) 
+gdzie: 
+H
+sol,
+Q
+ 
+miesięczne zyski ciepła od promieniowania słonecznego przez okna, 
+drzwi balkonowe lub powierzchnie oszklone  
+kWh/mies.
+H
+int,
+Q
+ 
+miesięczne wewnętrzne zyski ciepła  
+kWh/mies.
+ 
+5.2.4.1.
+ 
+Miesięczne zyski ciepła od promieniowania słonecznego przez okna, drzwi balkonowe 
+lub powierzchnie oszklone 
+H
+sol,
+Q
+ wyznacza się według wzoru: 
+gl
+i
+sh
+gl
+sh,
+i
+i
+i
+H
+sol,
+g
+F
+F
+I
+A
+C
+Q
+⋅
+⋅
+⋅
+⋅
+⋅
+=
+∑
+  
+ 
+kWh/mies. 
+ 
+ 
+ 
+(59) 
+ 
+ 
+Dziennik Ustaw	
+– 34 – 	
+Poz. 376
+﻿
+gdzie: 
+C
+i
+ 
+udział pola powierzchni oszklenia do całkowitego pola 
+powierzchni okna (wartość średnia jest równa 0,7)  
+– 
+A
+i
+ 
+pole powierzchni okna, drzwi balkonowych lub powierzchni 
+oszklonej w świetle otworu w przegrodzie 
+m
+2 
+I
+i
+ 
+energia promieniowania słonecznego padająca w danym miesiącu na 
+płaszczyznę, w której jest usytuowane okno, drzwi balkonowe lub 
+powierzchnia oszklona, według danych klimatycznych z najbliższej 
+stacji meteorologicznej względem lokalizacji budynku podawanych 
+w Biuletynie Informacji Publicznej urzędu obsługującego ministra 
+właściwego do spraw budownictwa, lokalnego planowania 
+i zagospodarowania przestrzennego oraz mieszkalnictwa 
+kWh/(m
+2
+ · mies.)
+gl
+sh,
+F
+ 
+czynnik redukcyjny ze względu na zacienienie dla ruchomych 
+urządzeń zacieniających wyznaczony według Polskiej Normy 
+dotyczącej energetycznych właściwości użytkowych budynków – 
+obliczanie zużycia energii na potrzeby ogrzewania i chłodzenia 
+– 
+sh
+F
+  
+czynnik redukcyjny ze względu na zacienienie od przegród 
+zewnętrznych wyznaczony według Polskiej Normy dotyczącej 
+energetycznych właściwości użytkowych budynków – obliczanie 
+zużycia energii na potrzeby ogrzewania i chłodzenia 
+– 
+gl
+g
+  
+całkowita przepuszczalność energii promieniowania słonecznego 
+dla przezroczystej części okna, drzwi balkonowych  
+lub powierzchni oszklonej wyznaczona według Polskiej Normy 
+dotyczącej energetycznych właściwości użytkowych budynków – 
+obliczanie zużycia energii na potrzeby ogrzewania i chłodzenia 
+– 
+ 
+Miesięczne zyski ciepła od promieniowania słonecznego przez specjalne elementy obudowy 
+budynku, takie jak elementy z izolacją transparentną, wentylowane ściany słoneczne, 
+wentylowane elementy obudowy i przyległe przestrzenie słoneczne wyznacza się według 
+Polskiej Normy dotyczącej energetycznych właściwości użytkowych budynków – obliczanie 
+zużycia energii na potrzeby ogrzewania i chłodzenia. 
+ 
+5.2.4.2.
+ 
+Miesięczne wewnętrzne zyski ciepła 
+H
+int,
+Q
+wyznacza się według wzoru: 
+3
+M
+f
+int
+H
+int,
+10
+t
+A
+q
+Q
+−
+⋅
+⋅
+⋅
+=
+ 
+ 
+ 
+ 
+kWh/mies. 
+ 
+ 
+ 
+(60) 
+gdzie: 
+q
+int 
+obciążenie cieplne pomieszczeń wewnętrznymi zyskami ciepła 
+określone w tabeli 26 
+W/m
+2 
+A
+f 
+powierzchnia pomieszczeń o regulowanej temperaturze powietrza 
+(powierzchnia ogrzewana)  
+m
+2
+M
+t
+ 
+liczba godzin w miesiącu 
+h 
+ 
+5.3.
+ 
+Wyznaczanie rocznego zapotrzebowania na energię użytkową do przygotowania 
+ciepłej wody użytkowej Q
+W,nd
+  
+Roczne zapotrzebowanie na energię użytkową do przygotowania ciepłej wody użytkowej Q
+W,nd
+ 
+wyznacza się według wzoru: 
+(
+)
+/3600
+t
+k
+θ
+θ
+ρ
+c
+A
+V
+Q
+R
+R
+0
+W
+W
+W
+f
+Wi
+nd
+W,
+⋅
+⋅
+−
+⋅
+⋅
+⋅
+⋅
+=
+  
+ kWh/rok 
+ 
+ 
+ 
+(61) 
+ 
+gdzie: 
+Wi
+V
+ 
+jednostkowe dobowe zapotrzebowanie na ciepłą wodę użytkową
+*)
+ 
+dm
+3
+/(m
+2
+ · doba) 
+f
+A
+  
+powierzchnia pomieszczeń o regulowanej temperaturze powietrza 
+(powierzchnia ogrzewana)  
+m
+2
+Dziennik Ustaw	
+– 35 – 	
+Poz. 376
+﻿
+W
+c
+ 
+ciepło właściwe wody (jest równe 4,19) 
+kJ/(kg · K) 
+W
+ρ
+ 
+gęstość wody (jest równa 1) 
+kg/dm
+3
+ 
+W
+θ
+ 
+obliczeniowa temperatura ciepłej wody użytkowej w zaworze 
+czerpalnym (jest równa 55) 
+°C 
+0
+θ
+  
+obliczeniowa temperatura wody przed podgrzaniem  
+(jest równa 10) 
+°C 
+R
+k
+  
+współczynnik korekcyjny ze względu na przerwy w użytkowaniu 
+ciepłej wody użytkowej
+**)
+ 
+– 
+R
+t
+  
+liczba dni w roku (jest równa 365) 
+doba 
+ *)
+  Należy przyjąć wartości określone w tabeli 27, a w przypadku ich braku – dane określone 
+na podstawie budowlanej dokumentacji technicznej. 
+ **)
+  Należy przyjąć wartości określone w tabeli 27, a w przypadku braku takich danych – k
+R
+ 
+wyznacza się jako stosunek liczby dni użytkowania ciepłej wody użytkowej do liczby 
+dni w roku t
+R
+. 
+ 
+5.4.
+ 
+Wyznaczanie rocznego zapotrzebowania na energię użytkową do chłodzenia Q
+C,nd
+ 
+5.4.1.
+ 
+Roczne zapotrzebowanie na energię użytkową do chłodzenia 
+nd
+C,
+Q
+wyznacza się według 
+wzoru: 
+∑
+=
+z
+z
+nd,
+C,
+nd
+C,
+Q
+Q
+ 
+ 
+ 
+ 
+ 
+kWh/rok 
+ 
+ 
+ 
+(62) 
+gdzie: 
+z
+nd,
+C,
+Q
+ 
+zapotrzebowanie na energię użytkową do chłodzenia w strefie 
+chłodzonej
+*)
+ 
+kWh/rok 
+z 
+liczba stref chłodzonych  
+– 
+*)
+ W przypadku chłodzenia z przerwami lub z osłabieniem należy wyznaczać według Polskiej 
+Normy dotyczącej energetycznych właściwości użytkowych budynków – obliczanie zużycia 
+energii na potrzeby ogrzewania i chłodzenia, a w przypadku chłodzenia ciągłego zgodnie 
+z pkt 5.4.2. 
+ 
+5.4.2.
+ 
+Zapotrzebowanie na energię użytkową do chłodzenia w strefie chłodzonej 
+z
+nd,
+C,
+Q
+  
+w przypadku chłodzenia ciągłego wyznacza się według wzoru: 
+∑
+=
+n
+n
+z,
+nd,
+C,
+z
+nd,
+C,
+Q
+Q
+ 
+ 
+ 
+ 
+ 
+kWh/rok 
+ 
+ 
+ 
+(63) 
+gdzie: 
+n
+z,
+ht,
+C,
+n
+z,
+ln,
+C,
+n
+z,
+gn,
+C,
+n
+z,
+nd,
+C,
+Q
+η
+Q
+Q
+⋅
+−
+=
+  
+ 
+ 
+kWh/mies. 
+ 
+ 
+ 
+(64) 
+gdzie: 
+n
+z,
+nd,
+C,
+Q
+ 
+zapotrzebowanie na ciepło do chłodzenia w strefie chłodzonej  
+w n-tym miesiącu roku (uwzględnia się wartości większe od 0) 
+kWh/mies. 
+n
+z,
+gn,
+C,
+Q
+ 
+całkowite zyski ciepła w strefie chłodzonej w n-tym miesiącu roku 
+kWh/mies. 
+n
+z,
+ln,
+C,
+η
+ 
+bezwymiarowy czynnik wykorzystania strat ciepła w strefie 
+chłodzonej w n-tym miesiącu roku wyznaczony według Polskiej 
+Normy dotyczącej energetycznych właściwości użytkowych 
+budynków – obliczanie zużycia energii na potrzeby ogrzewania  
+i chłodzenia 
+– 
+n
+z,
+ht,
+C,
+Q
+ 
+całkowita ilość ciepła przenoszona przez przenikanie i wentylację  
+w strefie chłodzonej w n-tym miesiącu roku
+*)
+  
+kWh/mies. 
+*)
+ Wyznacza się zgodnie z pkt 5.2.3. 
+ 
+ 
+Dziennik Ustaw	
+– 36 – 	
+Poz. 376
+﻿
+5.4.3.
+ 
+Obliczenia całkowitych miesięcznych zysków ciepła 
+n
+z,
+gn,
+C,
+Q
+ 
+C
+int,
+C
+sol,
+n
+z,
+gn,
+C,
+Q
+Q
+Q
++
+=
+ 
+ 
+ 
+ 
+kWh/mies. 
+ 
+ 
+ 
+(65) 
+gdzie: 
+C
+sol,
+Q
+ 
+miesięczne zyski ciepła od promieniowania słonecznego przez okna, 
+drzwi balkonowe i powierzchnie oszklone
+*)
+ 
+kWh/mies.
+C
+int,
+Q
+ 
+miesięczne wewnętrzne zyski ciepła w strefie chłodzonej 
+kWh/mies.
+*)
+ Wyznacza się zgodnie z pkt 5.2.4.1. 
+ 
+5.4.3.1.
+ 
+Miesięczne wewnętrzne zyski ciepła w strefie chłodzonej 
+C
+int,
+Q
+ 
+ 
+3
+M
+f
+int
+C
+int,
+10
+t
+A
+q
+Q
+−
+⋅
+⋅
+⋅
+=
+ 
+ 
+ 
+ 
+kWh/mies. 
+ 
+ 
+ 
+(66) 
+gdzie: 
+q
+int 
+obciążenie cieplne pomieszczeń strefy chłodzonej wewnętrznymi 
+zyskami ciepła
+*)
+ 
+W/m
+2
+A
+f 
+powierzchnia pomieszczeń o regulowanej temperaturze powietrza 
+(powierzchnia chłodzona)  
+m
+2
+M
+t
+ 
+liczba godzin w miesiącu 
+h 
+*)
+  Określone w tabeli 26, a w przypadku braku tych danych wyznaczone według Polskiej 
+Normy dotyczącej energetycznych właściwości użytkowych budynków – obliczanie 
+zużycia energii na potrzeby ogrzewania i chłodzenia. 
+ 
+5.5.
+ 
+Dane specyficzne w zależności od rodzaju budynku 
+5.5.1.
+ 
+Wyznaczanie uśrednionego w czasie strumienia powietrza zewnętrznego k w strefie 
+ogrzewanej budynku 
+n
+k,
+ve,
+V
+oraz czynnika korekty temperatury dla strumienia powietrza 
+zewnętrznego k b
+ve,k
+ 
+ 
+Tabela 21. Wartości uśrednionego w czasie strumienia powietrza zewnętrznego k w strefie 
+ogrzewanej budynku 
+n
+k,
+ve,
+V
+[m
+3
+/s] oraz wartości czynnika korekty temperatury dla strumienia 
+powietrza zewnętrznego k b
+ve,k
+  dla wentylacji w budynkach mieszkalnych, zamieszkania 
+zbiorowego oraz w użytkowanych całodobowo budynkach użyteczności publicznej 
+przeznaczonych na potrzeby opieki zdrowotnej 
+Lp.
+Wentylacja 
+k 
+k
+ve,
+b
+ 
+n
+k,
+ve,
+V
+ 
+[m
+3
+/s] 
+1 
+ 
+Wentylacja grawitacyjna 
+1 
+1 
+V
+0
+2 
+1 
+V
+inf
+ 
+2 
+ 
+Wentylacja mechaniczna wywiewna 
+1 
+1 
+V
+ex
+2 
+1 
+V
+x,ex
+ 
+3 
+Wentylacja mechaniczna nawiewno-
+-wywiewna 
+1 
+oc
+η
+1
+−
+ 
+V
+su 
+2 
+1 
+V
+x,su
+ 
+ 
+Tabela 22. Wartości uśrednionego w czasie strumienia powietrza zewnętrznego k w strefie 
+ogrzewanej budynku 
+n
+k,
+ve,
+V
+ [m
+3
+/s] oraz czynnika korekty temperatury dla strumienia powietrza 
+zewnętrznego k b
+ve,k
+ dla wentylacji w budynkach użyteczności publicznej, z wyłączeniem 
+użytkowanych całodobowo budynków przeznaczonych na potrzeby opieki zdrowotnej, 
+w budynkach magazynowych, produkcyjnych użytkowanych z przerwami oraz gospodarczych 
+nieprzeznaczonych do hodowli zwierząt 
+ 
+ 
+Dziennik Ustaw	
+– 37 – 	
+Poz. 376
+﻿
+Lp.
+Wentylacja 
+k 
+k
+ve,
+b
+ 
+n
+k,
+ve,
+V
+ 
+[m
+3
+/s] 
+1 
+Wentylacja grawitacyjna 
+1 
+β
+V
+0 
+2 
+β
+V
+inf
+ 
+3 
+(
+)
+β
+1
+−
+ 
+0,2·V
+0
+ 
+4 
+(
+)
+β
+1
+−
+ 
+V
+inf
+ 
+2 
+Wentylacja mechaniczna wywiewna 
+działająca okresowo 
+1 
+β
+V
+ex 
+2 
+β
+V
+x,ex
+ 
+3 
+(
+)
+β
+1
+−
+ 
+0,1·V
+ex 
+4 
+(
+)
+β
+1
+−
+ 
+V
+inf
+ 
+3 
+ 
+Wentylacja mechaniczna nawiewno- 
+-wywiewna działająca okresowo 
+1 
+( )
+ (
+)
+n
+oc,
+η
+1
+β
+−
+⋅
+ 
+V
+su 
+2 
+β
+V
+x,su
+ 
+3 
+(
+)
+β
+1
+−
+ 
+0
+ 
+4 
+(
+)
+β
+1
+−
+ 
+V
+inf
+ 
+ 
+gdzie: 
+V
+0
+,V
+ex
+,V
+su
+ średni podstawowy strumień powietrza zewnętrznego w strefie 
+ogrzewanej  
+m
+3
+/s 
+V
+inf
+ 
+średni dodatkowy strumień powietrza zewnętrznego infiltrującego 
+przez nieszczelności, spowodowany działaniem wiatru i wyporu 
+termicznego w pomieszczeniach w przypadku wentylacji 
+grawitacyjnej i w przypadku wyłączonej wentylacji mechanicznej  
+m
+3
+/s 
+V
+x,ex
+*)
+ 
+średni dodatkowy strumień powietrza zewnętrznego infiltrującego 
+przez nieszczelności przy pracy wentylatorów w przypadku 
+wentylacji mechanicznej wywiewnej spowodowany działaniem 
+wiatru i wyporu termicznego w pomieszczeniach, wyznaczony 
+według Polskiej Normy dotyczącej cieplnych właściwości 
+użytkowych budynków – współczynniki przenoszenia ciepła  
+przez przenikanie i wentylację – metoda obliczania 
+m
+3
+/s 
+V
+x,su
+*)
+ 
+średni dodatkowy strumień powietrza infiltrującego  
+przez nieszczelności przy pracy wentylatorów w przypadku  
+wentylacji mechanicznej nawiewno-wywiewnej, wyznaczony 
+według Polskiej Normy dotyczącej cieplnych właściwości 
+użytkowych budynków – współczynniki przenoszenia ciepła  
+przez przenikanie i wentylację – metoda obliczania  
+m
+3
+/s 
+η
+oc,n 
+łączna miesięczna skuteczność zastosowania urządzenia  
+do odzysku ciepła z powietrza wywiewanego przy wstępnym 
+podgrzaniu powietrza nawiewanego w gruntowym wymienniku 
+ciepła określana według wzoru (67) 
+– 
+β
+ 
+udział czasu działania wentylatorów wentylacji mechanicznej  
+w miesiącu równy wykorzystaniu budynku w miesiącu, 
+wyznaczony zgodnie z pkt 5.5.2 
+– 
+*)
+ Jeżeli w budynku nie została przeprowadzona próba szczelności, to w obliczeniach należy 
+przyjmować  krotność wymiany powietrza w budynku równą 4 h
+-1
+.   
+ 
+(
+) (
+)
+[
+]
+n
+GWC,
+n
+oc1,
+n
+oc,
+η
+1
+η
+1
+1
+η
+−
+⋅
+−
+−
+=
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+(67) 
+ 
+ 
+Dziennik Ustaw	
+– 38 – 	
+Poz. 376
+﻿
+gdzie: 
+n
+oc1,
+η
+ 
+skuteczność odzysku ciepła z powietrza wywiewanego 
+wyznaczona według Polskiej Normy dotyczącej energetycznych 
+właściwości użytkowych budynków – obliczanie zużycia energii 
+na potrzeby ogrzewania i chłodzenia 
+– 
+n
+GWC,
+η
+ 
+skuteczność gruntowego wymiennika ciepła określona  
+na podstawie danych udostępnionych przez producenta  
+lub dostawcę albo na podstawie budowlanej dokumentacji 
+technicznej (w przypadku braku gruntowego wymiennika ciepła 
+jest równa 0) 
+– 
+ 
+Uśredniony w czasie strumień powietrza zewnętrznego k w strefie ogrzewanej 
+n
+ve,1,
+V
+  
+dla wentylacji grawitacyjnej lub mechanicznej wywiewnej wyznacza się według wzoru:  
+s
+f,
+s
+ve,1,
+n
+ve,1,
+A
+V
+V
+⋅
+=
+ 
+ 
+ 
+ 
+ 
+m
+3
+/s 
+ 
+ 
+ 
+ 
+(68) 
+gdzie: 
+s
+ve,1,
+V
+ 
+podstawowy strumień powietrza zewnętrznego w okresie 
+użytkowania budynku odniesiony do powierzchni strefy ogrzewanej 
+określony w tabelach 23–25 
+m
+3
+/(s · m
+2
+) 
+s
+f,
+A
+  
+powierzchnia strefy ogrzewanej 
+m
+2
+ 
+Średni dodatkowy strumień powietrza zewnętrznego infiltrującego przez nieszczelności, 
+spowodowany działaniem wiatru i wyporu termicznego w pomieszczeniach w przypadku 
+wentylacji grawitacyjnej i w przypadku wyłączonej wentylacji mechanicznej V
+inf
+  wyznacza się 
+w następujący sposób: 
+1)
+ 
+na podstawie wyników próby szczelności budynku: 
+ 
+V/3600
+n
+0,05
+V
+50
+inf
+⋅
+⋅
+=
+ 
+ 
+ 
+ 
+m
+3
+/s 
+ 
+ 
+ 
+ 
+(69) 
+2)
+ 
+przy braku próby szczelności budynku: 
+V/3600
+n
+V
+inf
+⋅
+=
+ 
+ 
+ 
+ 
+ 
+m
+3
+/s 
+ 
+ 
+ 
+ 
+(70) 
+gdzie: 
+n
+50 
+krotność wymiany powietrza w budynku zmierzona przy różnicy 
+ciśnienia 50 Pa  
+h
+-1
+V 
+kubatura strefy ogrzewanej 
+m
+3
+n 
+krotność wymiany powietrza w budynku spowodowana infiltracją 
+powietrza przez nieszczelności obudowy budynku w warunkach 
+eksploatacyjnych
+*)
+ 
+h
+-1
+ 
+*)
+ Należy przyjmować: 
+   1) n = 0,2 – w budynkach wzniesionych po 1995 r. oraz w budynkach wzniesionych 
+wcześniej, w których po 1995 r. zostały wymienione okna i drzwi balkonowe; 
+   2) n = 0,3 –  w budynkach innych niż wymienione w pkt 1. 
+ 
+Tabela 23. Wartości podstawowego strumienia powietrza zewnętrznego w okresie użytkowania 
+budynku odniesione do powierzchni strefy ogrzewanej 
+s
+ve,1,
+V
+ [m
+3
+/(s ·
+ 
+m
+2
+)] w budynku 
+mieszkalnym wielorodzinnym wyposażonym w wentylację grawitacyjną lub wentylację 
+mechaniczną wywiewną lub w lokalu mieszkalnym w takim budynku 
+Lp.
+Strefa ogrzewana lub okresowo ogrzewana 
+s
+ve,1,
+V
+ 
+[m
+3
+/(s ·
+ 
+m
+2
+)] 
+1 
+Lokale mieszkalne w przypadku wentylacji: 
+a)
+ 
+ciągłej, 
+b)
+ 
+mechanicznej z osłabieniem w nocy 
+ 
+0,32 · 10
+-3 
+0,28 · 10
+-3
+ 
+Dziennik Ustaw	
+– 39 – 	
+Poz. 376
+﻿
+Lp.
+Strefa ogrzewana lub okresowo ogrzewana 
+s
+ve,1,
+V
+ 
+[m
+3
+/(s ·
+ 
+m
+2
+)] 
+2 
+Klatki schodowe w budynkach wybudowanych przed 1990 r., w których 
+nie przeprowadzono termomodernizacji: 
+a)
+ 
+bez wiatrołapu, 
+b)
+ 
+z wiatrołapem 
+ 
+ 
+0,43 ·
+ 
+10
+-3 
+0,22 · 10
+-3
+ 
+3 
+Klatki schodowe w budynkach innych niż wymienione w lp. 2: 
+a)
+ 
+bez wiatrołapu, 
+b)
+ 
+z wiatrołapem 
+ 
+0,22 · 10
+-3 
+0,07 · 10
+-3 
+ 
+Tabela 24. Wartości podstawowego strumienia powietrza zewnętrznego w okresie użytkowania 
+budynku odniesione do powierzchni strefy ogrzewanej 
+s
+ve,1,
+V
+ [m
+3
+/(s ·
+ 
+m
+2
+)] w budynku 
+mieszkalnym jednorodzinnym wyposażonym w wentylację grawitacyjną lub wentylację 
+mechaniczną wywiewną 
+Lp.
+Strefa ogrzewana 
+s
+ve,1,
+V
+ 
+[m
+3
+/(s ·
+ 
+m
+2
+)] 
+1 
+Pomieszczenia mieszkalne i pomocnicze, w tym wewnętrzna klatka 
+schodowa, w przypadku wentylacji: 
+a)
+ 
+ciągłej,  
+b)
+ 
+mechanicznej z osłabieniem w nocy 
+ 
+ 
+0,31 · 10
+-3 
+0,27 · 10
+-3 
+ 
+Tabela 25. Wartości podstawowego strumienia powietrza zewnętrznego w okresie użytkowania 
+budynku odniesione do powierzchni strefy ogrzewanej 
+s
+n,
+ve,1,
+V
+ [m
+3
+/(s ·
+ 
+m
+2
+)] w budynkach 
+użyteczności publicznej, zamieszkania zbiorowego, magazynowych i produkcyjnych 
+wyposażonych w wentylację grawitacyjną lub wentylację mechaniczną wywiewną 
+Lp.
+Rodzaj budynku 
+s
+ve,1,
+V
+ 
+[m
+3
+/(s · m
+2
+)]
+ 
+1 
+Użyteczności 
+publicznej 
+a) biurowy, 
+b) przeznaczony na potrzeby: 
+oświaty, szkolnictwa 
+wyższego i nauki 
+0,56 · 10
+-3
+ 
+2 
+przeznaczony na potrzeby: 
+opieki zdrowotnej, 
+gastronomii 
+0,42 · 10
+-3
+ 
+3 
+przeznaczony na potrzeby: 
+handlu, usług
+ 
+0,33 · 10
+-3
+ 
+4 
+przeznaczony na potrzeby 
+sportu
+ 
+0,42 · 10
+-3
+ 
+5 
+Zamieszkania zbiorowego
+0,42 · 10
+-3
+ 
+6 
+Magazynowy 
+0,08 · 10
+-3
+ 
+7 
+Produkcyjny 
+indywidualnie w zależności  
+od rodzaju produkcji i sposobu 
+użytkowania 
+ 
+Podstawowy strumień powietrza zewnętrznego w okresie użytkowania budynku lub części 
+budynku odniesiony do powierzchni strefy ogrzewanej V
+ve,1,s
+ w budynkach wyposażonych  
+w wentylację nawiewno-wywiewną  wyznacza się według wzoru: 
+n
+s,
+ve,1,
+n
+s
+ve,1,
+V
+r
+V
+⋅
+=
+ 
+ 
+ 
+ 
+     m
+3
+/(s · m
+2
+)  
+ 
+ 
+ 
+(71) 
+ 
+ 
+Dziennik Ustaw	
+– 40 – 	
+Poz. 376
+﻿
+gdzie: 
+V
+ve,1,s,n 
+strumień powietrza zewnętrznego odpowiadający sposobowi 
+użytkowania strefy budynku obsługiwanej przez wentylację 
+nawiewno-wywiewną przyjętemu w budowlanej dokumentacji 
+technicznej 
+m
+3
+/(s · m
+2
+)
+r
+n
+ 
+stopień zmniejszenia strumienia powietrza zewnętrznego  
+w n-tym miesiącu roku
+*)
+ 
+– 
+*)
+ W przypadku wentylacji nawiewno-wywiewnej działającej ze stałym strumieniem 
+powietrza zewnętrznego wartość r
+n
+ jest równa 1. W przypadku wentylacji działającej 
+z regulowanym ręcznie lub automatycznie strumieniem powietrza zewnętrznego, wartość 
+r
+n
+ ustala się, uwzględniając sposób regulacji tego strumienia oraz sposób użytkowania 
+strefy budynku obsługiwanej przez wentylację nawiewno-wywiewną. W przypadku braku 
+takich  danych przyjmuje się  r
+n
+ = 0,75. 
+ 
+5.5.2.
+ 
+Wartości udziału czasu działania wentylatorów wentylacji mechanicznej w miesiącu 
+równego wykorzystaniu budynku lub części budynku w miesiącu 
+β
+, podczas którego 
+należy zapewnić podstawowy strumień powietrza zewnętrznego, wyznacza się na 
+podstawie sposobu użytkowania budynku lub części budynku, z uwzględnieniem 
+wymagań określonych w przepisach techniczno-budowlanych. W przypadku braku 
+danych w zakresie sposobu użytkowania budynku lub części budynku, wartości należy 
+wyznaczyć według Polskiej Normy dotyczącej energetycznych właściwości użytkowych 
+budynków – obliczanie zużycia energii na potrzeby ogrzewania i chłodzenia. 
+5.5.3.
+ 
+Wyznaczanie obciążenia cieplnego pomieszczeń wewnętrznymi zyskami ciepła q
+int
+ 
+ 
+Tabela 26. Wartości obciążenia cieplnego pomieszczeń wewnętrznymi zyskami ciepła q
+int 
+[W/m
+2
+] 
+Lp. 
+Rodzaj budynku 
+int
+q
+ 
+[W/m
+2
+]
+ 
+1 
+Mieszkalny 
+wielorodzinny 
+ 
+7,1
+*)
+ 
+1,0
+**)
+ 
+2 
+jednorodzinny 
+6,8 
+3 
+Użyteczności 
+publicznej 
+biurowy 
+(
+)
++
+⋅
+−
+⋅
++
+⋅
+β
+)
+P
+1
+8,0
+P
+(20,0
+1
+1
+(
+)
+(
+) (
+)
+β
+1
+P
+1
+1,0
+P
+2,0
+1
+1
+−
+⋅
+−
+⋅
++
+⋅
++
+***), ****) 
+4 
+przeznaczony na potrzeby: 
+oświaty, szkolnictwa wyższego, 
+nauki
+ 
+(
+)
+β
+1
+1,0
+β
+12,0
+−
+⋅
++
+⋅
+****)
+ 
+5 
+przeznaczony na potrzeby opieki 
+zdrowotnej
+8,0 
+6 
+przeznaczony na potrzeby 
+gastronomii
+ 
+(
+)
+β
+1
+1,0
+β
+10,0
+−
+⋅
++
+⋅
+****)
+ 
+7 
+przeznaczony na potrzeby sportu 
+(
+)
+β
+1
+1,0
+β
+9,0
+−
+⋅
++
+⋅
+****)
+ 
+8 
+przeznaczony na potrzeby: 
+handlu, usług
+ 
+(
+)
+β
+1
+1,0
+β
+10,0
+−
+⋅
++
+⋅
+****)
+ 
+9 
+Zamieszkania zbiorowego
+(
+)
+β
+1
+2,0
+β
+6,0
+−
+⋅
++
+⋅
+****)
+ 
+10 
+Magazynowy 
+(
+)
+β
+1
+1,0
+β
+2,0
+−
+⋅
++
+⋅
+****)
+ 
+11 
+Produkcyjny 
+indywidualnie w zależności  
+od rodzaju produkcji i sposobu 
+użytkowania 
+Dziennik Ustaw	
+– 41 – 	
+Poz. 376
+﻿
+     *)
+  Lokale mieszkalne. 
+    **)
+  Klatki schodowe. 
+  ***) 
+P
+1
+ –
+ 
+udział powierzchni pomieszczeń biurowych w powierzchni pomieszczeń 
+o  regulowanej temperaturze powietrza w budynku biurowym. 
+        
+(
+)
+1
+P
+1
+−
+ 
+– udział powierzchni pomieszczeń pomocniczych w powierzchni pomieszczeń 
+ 
+o regulowanej temperaturze powietrza w budynku biurowym. 
+         Przy standardowym sposobie użytkowania budynków biurowych (P
+1
+ = 0,6 i 
+β
+ = 0,3): 
+        
+int
+q
+ = 5,7 W/m
+2
+. 
+****)
+  β – udział czasu działania wentylatorów wentylacji mechanicznej w miesiącu, równy 
+wykorzystaniu budynku w miesiącu, wyznaczony zgodnie z pkt 5.5.2. 
+ 
+5.5.4.
+ 
+Wyznaczanie współczynnika korekcyjnego ze względu na przerwy w użytkowaniu 
+ciepłej wody użytkowej 
+R
+k
+  oraz jednostkowego dobowego zapotrzebowania na ciepłą 
+wodę użytkową 
+Wi
+V
+ 
+ 
+Tabela 27. Wartości współczynnika korekcyjnego ze względu na przerwy w użytkowaniu 
+ciepłej wody użytkowej 
+R
+k
+  oraz wartości jednostkowego dobowego zapotrzebowania na ciepłą 
+wodę użytkową 
+Wi
+V
+[dm
+3
+/(m
+2 
+· doba)] 
+Lp.
+Rodzaj budynku 
+R
+k
+  
+V
+wi 
+[dm
+3
+/(m
+2 
+· doba)] 
+1 
+Mieszkalny  
+wielorodzinny 
+0,90 
+2,00
+*)
+  
+1,60
+**)
+  
+2 
+jednorodzinny 
+0,90 
+1,40 
+3 
+Użyteczności 
+publicznej 
+biurowy 
+0,70 
+0,35 
+4 
+przeznaczony na 
+potrzeby: oświaty, 
+szkolnictwa 
+wyższego, nauki
+ 
+0,55 
+0,80 
+5 
+przeznaczony na 
+potrzeby opieki 
+zdrowotnej 
+1,00 
+6,50 
+6 
+przeznaczony na 
+potrzeby gastronomii
+ 
+0,80 
+2,50 
+7 
+przeznaczony na 
+potrzeby sportu
+ 
+0,33 ÷ 0,50 
+0,25 
+8 
+przeznaczony na 
+potrzeby: handlu, 
+usług
+ 
+0,78 
+0,60 
+9 
+Zamieszkania zbiorowego
+ 
+0,60 
+3,75 
+10 
+Magazynowy 
+0,70 
+0,10 
+11 
+Produkcyjny 
+indywidualnie w zależności od rodzaju 
+produkcji i sposobu użytkowania 
+ *)
+ Ryczałtowe rozliczenie za ciepłą wodę. 
+**)
+ Rozliczenie według indywidualnego zużycia. 
+ 
+ 
+Dziennik Ustaw	
+– 42 – 	
+Poz. 376
+﻿
+6.
+ 
+Wyznaczanie jednostkowej wielkości emisji CO
+2
+  
+6.1.
+ 
+Wyznaczanie jednostkowej wielkości emisji CO
+2
+ w budynku lub części budynku 
+wyposażonych w proste systemy techniczne 
+6.1.1.
+ 
+Jednostkową wielkość emisji CO
+2
+ wyznacza się według wzoru: 
+f
+pom
+,
+CO
+L
+,
+CO
+C
+,
+CO
+W
+,
+CO
+H
+,
+CO
+CO
+)/A
+E
+E
+E
+E
+(E
+E
+2
+2
+2
+2
+2
+2
++
++
++
++
+=
+      t CO
+2
+/(m
+2
+ ·
+ 
+rok) 
+   
+  (72) 
+gdzie: 
+H
+e,
+H
+k,
+7
+H
+,
+CO
+W
+Q
+10
+36
+E
+2
+⋅
+⋅
+⋅
+=
+−
+   
+ 
+ 
+t CO
+2
+/rok 
+  
+ 
+ 
+  (73) 
+W
+e,
+W
+k,
+7
+W
+,
+CO
+W
+Q
+10
+36
+E
+2
+⋅
+⋅
+⋅
+=
+−
+  
+ 
+ 
+t CO
+2
+/rok 
+ 
+ 
+ 
+  (74) 
+C
+e,
+C
+k,
+7
+C
+,
+CO
+W
+Q
+10
+36
+E
+2
+⋅
+⋅
+⋅
+=
+−
+ 
+ 
+ 
+ 
+t CO
+2
+/rok 
+ 
+ 
+ 
+  (75) 
+L
+e,
+L
+k,
+7
+L
+,
+CO
+W
+Q
+10
+36
+E
+2
+⋅
+⋅
+⋅
+=
+−
+  
+ 
+ 
+t CO
+2
+/rok 
+ 
+ 
+ 
+  (76) 
+)
+W
+E
+W
+E
+W
+(E
+10
+36
+E
+C
+pom,
+e,
+C
+pom,
+el,
+W
+pom,
+e,
+W
+pom,
+el,
+H
+pom,
+e,
+H
+pom,
+el,
+7
+pom
+,
+CO
+2
+⋅
++
+⋅
++
+⋅
+⋅
+⋅
+=
+−
+ t CO
+2
+/rok    
+  (77) 
+ 
+gdzie: 
+H
+,
+CO
+2
+E
+ 
+wielkość emisji CO
+2
+ pochodząca z procesu spalania paliw  
+przez system ogrzewania 
+t CO
+2
+/rok 
+W
+,
+CO
+2
+E
+ 
+wielkość emisji CO
+2
+ pochodząca z procesu spalania paliw  
+przez system przygotowania ciepłej wody użytkowej 
+t CO
+2
+/rok 
+C
+,
+CO
+2
+E
+ 
+wielkość emisji CO
+2
+ pochodząca z procesu spalania paliw  
+przez system chłodzenia  
+t CO
+2
+/rok 
+L
+,
+CO
+2
+E
+ 
+wielkość emisji CO
+2
+ pochodząca z procesu spalania paliw  
+przez system wbudowanej instalacji oświetlenia 
+t CO
+2
+/rok 
+pom
+,
+CO
+2
+E
+ 
+wielkość emisji CO
+2
+ pochodząca z procesu spalania paliw   
+przez urządzenia pomocnicze w systemach technicznych 
+t CO
+2
+/rok 
+Q
+k,H
+ 
+roczne zapotrzebowanie na energię końcową dostarczaną do budynku 
+lub części budynku dla systemu ogrzewania 
+kWh/rok 
+Q
+k,W
+ 
+roczne zapotrzebowanie na energię końcową dostarczaną do budynku 
+lub części budynku dla systemu przygotowania ciepłej wody 
+użytkowej 
+kWh/rok 
+Q
+k,C
+ 
+roczne zapotrzebowanie na energię końcową dostarczaną do budynku 
+lub części budynku dla systemu chłodzenia  
+kWh/rok 
+Q
+k,L
+roczne zapotrzebowanie na energię końcową dostarczaną do budynku 
+lub części budynku dla systemu wbudowanej instalacji oświetlenia 
+kWh/rok 
+E
+el,pom,H
+ 
+ 
+roczne zapotrzebowanie na energię pomocniczą końcową 
+dostarczaną do budynku lub części budynku dla systemu ogrzewania 
+kWh/rok 
+E
+el,pom,W
+ 
+roczne zapotrzebowanie na energię pomocniczą końcową 
+dostarczaną do budynku lub części budynku dla systemu 
+przygotowania ciepłej wody użytkowej  
+kWh/rok 
+E
+el,pom,C
+ 
+roczne zapotrzebowanie na energię pomocniczą końcową 
+dostarczaną do budynku lub części budynku dla systemu chłodzenia 
+kWh/rok 
+W
+e,H
+ 
+wskaźnik emisji CO
+2 
+w zależności od rodzaju spalanego paliwa  
+przez system ogrzewania wyznaczony zgodnie z pkt 6.1.2 
+t CO
+2
+/TJ 
+W
+e,W
+ 
+wskaźnik emisji CO
+2 
+w zależności od rodzaju spalanego paliwa  
+przez system przygotowania ciepłej wody użytkowej wyznaczony 
+zgodnie z  pkt 6.1.2 
+t CO
+2
+/TJ 
+W
+e,C
+ 
+wskaźnik emisji CO
+2 
+w zależności od rodzaju spalanego paliwa  
+przez system chłodzenia wyznaczony zgodnie z pkt 6.1.2 
+t CO
+2
+/TJ 
+W
+e,L
+ 
+wskaźnik emisji CO
+2 
+w zależności od rodzaju spalanego paliwa  
+przez system wbudowanej instalacji oświetlenia wyznaczony zgodnie 
+z pkt 6.1.2 
+t CO
+2
+/TJ 
+Dziennik Ustaw	
+– 43 – 	
+Poz. 376
+﻿
+W
+e,pom,H
+ 
+ 
+wskaźnik emisji CO
+2 
+w zależności od rodzaju spalanego paliwa  
+przez urządzenia pomocnicze w systemie ogrzewania wyznaczony 
+zgodnie z  pkt 6.1.2 
+t CO
+2
+/TJ 
+W
+e,pom,W
+ 
+ 
+wskaźnik emisji CO
+2 
+w zależności od rodzaju spalanego paliwa  
+przez urządzenia pomocnicze w systemie przygotowania ciepłej 
+wody użytkowej wyznaczony zgodnie z  pkt 6.1.2 
+t CO
+2
+/TJ 
+W
+e,pom,C
+ 
+wskaźnik emisji CO
+2 
+w zależności od rodzaju spalanego paliwa  
+przez urządzenia pomocnicze w systemie chłodzenia wyznaczony 
+zgodnie z  pkt 6.1.2 
+t CO
+2
+/TJ 
+A
+f
+ 
+powierzchnia pomieszczeń o regulowanej temperaturze powietrza 
+(powierzchnia ogrzewana lub chłodzona)  
+m
+2
+ 
+ 
+6.1.2.
+ 
+Wyznaczanie wskaźnika emisji CO
+2
+ w zależności od rodzaju spalanego paliwa W
+e
+ 
+Wartość wskaźnika emisji CO
+2
+, w zależności od rodzaju spalanego paliwa W
+e
+  
+dla odnawialnych źródeł energii (w przypadku miejscowego wytwarzania energii  
+w budynku): energii słonecznej, energii wiatrowej, energii geotermalnej, biomasy i biogazu, 
+jest równa 0. 
+Wartość wskaźnika emisji CO
+2
+, w zależności od rodzaju spalanego paliwa W
+e
+ dla energii 
+elektrycznej z sieci elektroenergetycznej systemowej oraz dla ciepła sieciowego, przyjmuje się 
+na podstawie danych udostępnionych przez wytwórcę lub dostawcę tego nośnika energii  
+lub energii.  
+W przypadku braku tych danych oraz w pozostałych przypadkach przyjmuje się wartości 
+wskaźnika emisji CO
+2
+ opracowywane na rok sporządzenia świadectwa przez Krajowy ośrodek 
+bilansowania i zarządzania emisjami, zgodnie z art. 3 ust. 2 pkt 8 ustawy z dnia  
+17 lipca 2009 r. o systemie zarządzania emisjami gazów cieplarnianych i innych substancji 
+(Dz. U. z 2013 r. poz. 1107 oraz z 2014 r. poz. 1101). 
+ 
+6.2.
+ 
+Wyznaczanie jednostkowej wielkości emisji CO
+2
+ w budynku lub części budynku 
+wyposażonych w złożone systemy techniczne 
+6.2.1.
+ 
+Jednostkową wielkość emisji CO
+2
+ wyznacza się według wzoru: 
+f
+pom
+,
+CO
+L
+,
+CO
+C
+,
+CO
+W
+,
+CO
+H
+,
+CO
+CO
+)/A
+E
+E
+E
+E
+(E
+E
+2
+2
+2
+2
+2
+2
++
++
++
++
+=
+      t CO
+2
+/(m
+2
+ ·
+ 
+rok) 
+ 
+  (78) 
+gdzie: 
+∑
+⋅
+⋅
+⋅
+=
+−
+i
+H,i
+e,
+H,i
+k,
+7
+H
+,
+CO
+W
+Q
+10
+36
+E
+2
+  
+ 
+ 
+t CO
+2
+/rok 
+  
+ 
+ 
+  (79) 
+∑
+⋅
+⋅
+⋅
+=
+−
+j
+j
+W,
+e,
+j
+W,
+k,
+7
+W
+,
+CO
+W
+Q
+10
+36
+E
+2
+ 
+ 
+ 
+t CO
+2
+/rok 
+ 
+ 
+ 
+  (80) 
+∑
+⋅
+⋅
+⋅
+=
+−
+k
+k
+C,
+e,
+k
+C,
+k,
+7
+C
+,
+CO
+W
+Q
+10
+36
+E
+2
+ 
+ 
+ 
+t CO
+2
+/rok 
+ 
+ 
+ 
+  (81) 
+∑
+⋅
+⋅
+⋅
+=
+−
+l
+l
+L,
+e,
+l
+L,
+k,
+7
+L
+,
+CO
+W
+Q
+10
+36
+E
+2
+ 
+ 
+ 
+t CO
+2
+/rok 
+ 
+ 
+ 
+  (82) 
+)
+W
+E
+W
+E
+W
+E
+(
+10
+36
+E
+i
+j
+k
+k
+C,
+pom,
+e,
+k
+C,
+pom,
+el,
+j
+W,
+pom,
+e,
+j
+W,
+pom,
+el,
+H,i
+pom,
+e,
+H,i
+pom,
+el,
+7
+pom
+,
+CO
+2
+∑
+∑
+∑
+⋅
++
+⋅
++
+⋅
+⋅
+⋅
+=
+−
+  
+ 
+ 
+ 
+ 
+ 
+                                    t CO
+2
+/rok 
+ 
+ 
+ 
+  (83) 
+ 
+ 
+Dziennik Ustaw	
+– 44 – 	
+Poz. 376
+﻿
+gdzie: 
+H
+,
+CO
+2
+E
+ 
+wielkość emisji CO
+2
+ pochodząca z procesu spalania paliw  
+przez system ogrzewania 
+t CO
+2
+/rok 
+W
+,
+CO
+2
+E
+ 
+wielkość emisji CO
+2
+ pochodząca z procesu spalania paliw  
+przez system przygotowania ciepłej wody użytkowej 
+t CO
+2
+/rok 
+C
+,
+CO
+2
+E
+ 
+wielkość emisji CO
+2
+ pochodząca z procesu spalania paliw  
+przez system chłodzenia  
+t CO
+2
+/rok 
+L
+,
+CO
+2
+E
+ 
+wielkość emisji CO
+2
+ pochodząca z procesu spalania paliw  
+przez system wbudowanej instalacji oświetlenia 
+t CO
+2
+/rok 
+pom
+,
+CO
+2
+E
+ 
+wielkość emisji CO
+2
+ pochodząca z procesu spalania paliw  
+przez urządzenia pomocnicze w systemach technicznych 
+t CO
+2
+/rok 
+Q
+k,H,i
+ 
+roczne zapotrzebowanie na energię końcową dostarczaną do budynku 
+lub części budynku dla i-tego podsystemu w systemie ogrzewania 
+kWh/rok 
+Q
+k,W,j
+ 
+roczne zapotrzebowanie na energię końcową dostarczaną do budynku 
+lub części budynku dla j-tego podsystemu w systemie przygotowania 
+ciepłej wody użytkowej 
+kWh/rok 
+Q
+k,C,k
+ 
+roczne zapotrzebowanie na energię końcową dostarczaną do budynku 
+lub części budynku dla k-tego podsystemu w systemie chłodzenia 
+kWh/rok 
+Q
+k,L,l
+roczne zapotrzebowanie na energię końcową dostarczaną do budynku 
+lub części budynku dla l-tego podsystemu w systemie wbudowanej 
+instalacji oświetlenia 
+kWh/rok 
+E
+el,pom,H,i
+ 
+roczne zapotrzebowanie na energię pomocniczą końcową 
+dostarczaną do budynku lub części budynku dla i-tego podsystemu  
+w systemie ogrzewania 
+kWh/rok 
+E
+el,pom,W,j
+ roczne zapotrzebowanie na energię pomocniczą końcową 
+dostarczaną do budynku lub części budynku dla j-tego podsystemu  
+w systemie przygotowania ciepłej wody użytkowej 
+kWh/rok 
+E
+el,pom,C,k
+ roczne zapotrzebowanie na energię pomocniczą końcową 
+dostarczaną do budynku lub części budynku dla k-tego podsystemu 
+w systemie chłodzenia 
+kWh/rok 
+W
+e,H,i
+ 
+wskaźnik emisji CO
+2 
+w zależności od rodzaju spalanego paliwa przez 
+i-ty podsystem w systemie ogrzewania wyznaczony zgodnie z pkt 6.1.2 
+t CO
+2
+/TJ 
+W
+e,W,j
+ 
+wskaźnik emisji CO
+2 
+w zależności od rodzaju spalanego paliwa  
+przez j-ty podsystem w systemie przygotowania ciepłej wody 
+użytkowej wyznaczony zgodnie z pkt 6.1.2 
+t CO
+2
+/TJ 
+W
+e,C,k
+wskaźnik emisji CO
+2 
+w zależności od rodzaju spalanego paliwa  
+przez k-ty podsystem w systemie chłodzenia wyznaczony zgodnie  
+z pkt 6.1.2 
+t CO
+2
+/TJ 
+W
+e,L,l
+wskaźnik emisji CO
+2 
+w zależności od rodzaju spalanego paliwa  
+przez l-ty podsystem w systemie wbudowanej instalacji oświetlenia 
+wyznaczony zgodnie z pkt 6.1.2 
+t CO
+2
+/TJ 
+W
+e,pom,H,i
+ wskaźnik emisji CO
+2 
+w zależności od rodzaju spalanego paliwa  
+przez urządzenia pomocnicze w i-tym podsystemie w systemie 
+ogrzewania wyznaczony zgodnie z pkt 6.1.2 
+t CO
+2
+/TJ 
+W
+e,pom,W,j
+ 
+wskaźnik emisji CO
+2 
+w zależności od rodzaju spalanego paliwa przez 
+urządzenia pomocnicze w l-tym podsystemie w systemie przygotowania 
+ciepłej wody użytkowej wyznaczony zgodnie z pkt 6.1.2 
+t CO
+2
+/TJ 
+W
+e,pom,C,k
+ wskaźnik emisji CO
+2 
+w zależności od rodzaju spalanego paliwa  
+przez urządzenia pomocnicze w k-tym podsystemie w systemie 
+chłodzenia wyznaczony zgodnie z  pkt 6.1.2 
+t CO
+2
+/TJ 
+A
+f
+ 
+powierzchnia pomieszczeń o regulowanej temperaturze powietrza 
+(powierzchnia ogrzewana lub chłodzona)  
+m
+2
+ 
+Dziennik Ustaw	
+– 45 – 	
+Poz. 376
+﻿
+7.
+ 
+Wyznaczanie obliczeniowej rocznej ilości zużywanego nośnika energii lub energii 
+7.1.
+ 
+Wyznaczanie obliczeniowej rocznej ilości zużywanego nośnika energii lub energii  
+w budynku lub części budynku wyposażonych w proste systemy techniczne 
+7.1.1.
+ 
+System ogrzewania 
+7.1.1.1.
+ 
+Obliczeniową roczną ilość zużywanego nośnika energii lub energii (energia 
+elektryczna, ciepło sieciowe, energia słoneczna, energia geotermalna i energia 
+wiatrowa, gaz) wyznacza się według wzoru: 
+f
+H
+k,
+H
+/A
+Q
+C
+ =
+       
+ 
+ 
+ 
+ 
+kWh/(m
+2
+ ·
+ 
+rok) 
+ 
+              (84) 
+gdzie: 
+Q
+k,H
+ 
+roczne zapotrzebowanie na energię końcową dostarczaną do budynku 
+lub części budynku dla systemu ogrzewania 
+kWh/rok 
+A
+f
+ 
+powierzchnia pomieszczeń o regulowanej temperaturze powietrza 
+(powierzchnia ogrzewana lub chłodzona)  
+m
+2
+ 
+ 
+7.1.1.2.
+ 
+Obliczeniową roczną ilość zużywanego nośnika energii lub energii innych niż 
+wymienione w pkt 7.1.1.1 wyznacza się według wzoru: 
+o
+f
+H
+k,
+H
+W
+A
+3,6
+Q
+C
+⋅
+⋅
+=
+        
+ 
+ 
+ 
+kg/(m
+2
+ ·
+ 
+rok) lub m
+3
+/(m
+2
+ ·
+ 
+rok) 
+   (85) 
+gdzie: 
+Q
+k,H
+ 
+roczne zapotrzebowanie na energię końcową dostarczaną do budynku 
+lub części budynku dla systemu ogrzewania 
+kWh/rok 
+W
+o
+ 
+wartość opałowa paliwa określona zgodnie z pkt 7.3 
+MJ/m
+3
+  
+lub MJ/kg 
+A
+f
+ 
+powierzchnia pomieszczeń o regulowanej temperaturze powietrza 
+(powierzchnia ogrzewana lub chłodzona)  
+m
+2
+ 
+ 
+7.1.2.
+ 
+System przygotowania ciepłej wody użytkowej 
+7.1.2.1.
+ 
+Obliczeniową roczną ilość zużywanego nośnika energii lub energii (energia 
+elektryczna, ciepło sieciowe, energia słoneczna, energia geotermalna i energia 
+wiatrowa, gaz) wyznacza się według wzoru: 
+f
+W
+k,
+W
+/A
+Q
+C
+=
+       
+ 
+ 
+ 
+ 
+kWh/(m
+2
+ ·
+ 
+rok)  
+ 
+ 
+   (86) 
+gdzie: 
+Q
+k,W
+ 
+roczne zapotrzebowanie na energię końcową dostarczaną do budynku 
+lub części budynku dla systemu przygotowania ciepłej wody 
+użytkowej 
+kWh/rok 
+A
+f
+ 
+powierzchnia pomieszczeń o regulowanej temperaturze powietrza 
+(powierzchnia ogrzewana lub chłodzona)  
+m
+2
+ 
+ 
+7.1.2.2.
+ 
+Obliczeniową roczną ilość zużywanego nośnika energii lub energii innych niż 
+wymienione w pkt 7.1.2.1 wyznacza się według wzoru: 
+o
+f
+W
+k,
+W
+W
+A
+3,6
+Q
+C
+⋅
+⋅
+=
+        
+ 
+ 
+ 
+kg/(m
+2
+ ·
+ 
+rok) lub m
+3
+/(m
+2
+ ·
+ 
+rok) 
+   (87) 
+gdzie: 
+Q
+k,W
+ 
+roczne zapotrzebowanie na energię końcową dostarczaną do budynku 
+lub części budynku dla systemu przygotowania ciepłej wody 
+użytkowej 
+kWh/rok 
+W
+o
+ 
+wartość opałowa paliwa określona zgodnie z pkt 7.3 
+MJ/m
+3
+  
+lub MJ/kg 
+A
+f
+ 
+powierzchnia pomieszczeń o regulowanej temperaturze powietrza 
+(powierzchnia ogrzewana lub chłodzona)  
+m
+2
+ 
+Dziennik Ustaw	
+– 46 – 	
+Poz. 376
+﻿
+7.1.3.
+ 
+System chłodzenia 
+7.1.3.1.
+ 
+Obliczeniową roczną ilość zużywanego nośnika energii lub energii (energia 
+elektryczna, ciepło sieciowe, energia słoneczna, energia geotermalna i energia 
+wiatrowa, gaz) wyznacza się według wzoru: 
+f
+C
+k,
+C
+/A
+Q
+C
+ =
+       
+ 
+ 
+ 
+ 
+kWh/(m
+2
+ ·
+ 
+rok)  
+ 
+ 
+(88) 
+gdzie: 
+Q
+k,C
+ 
+roczne zapotrzebowanie na energię końcową dostarczaną do budynku 
+lub części budynku dla systemu chłodzenia 
+kWh/rok 
+A
+f
+ 
+powierzchnia pomieszczeń o regulowanej temperaturze powietrza 
+(powierzchnia ogrzewana lub chłodzona)  
+m
+2
+ 
+ 
+7.1.3.2.
+ 
+Obliczeniową roczną ilość zużywanego nośnika energii lub energii innych niż 
+wymienione w pkt 7.1.3.1 wyznacza się według wzoru: 
+o
+f
+C
+k,
+C
+W
+A
+3,6
+Q
+C
+⋅
+⋅
+=
+       
+ 
+ 
+ 
+ 
+kg/(m
+2
+ ·
+ 
+rok)  lub m
+3
+/(m
+2
+ ·
+ 
+rok) 
+ (89) 
+gdzie: 
+Q
+k,C
+ 
+roczne zapotrzebowanie na energię końcową dostarczaną do budynku 
+lub części budynku dla systemu chłodzenia 
+kWh/rok 
+W
+o
+ 
+wartość opałowa paliwa określona zgodnie z pkt 7.3 
+MJ/m
+3
+  
+lub MJ/kg 
+A
+f
+ 
+powierzchnia pomieszczeń o regulowanej temperaturze powietrza 
+(powierzchnia ogrzewana lub chłodzona)  
+m
+2
+ 
+ 
+7.1.4.
+ 
+System wbudowanej instalacji oświetlenia  
+Obliczeniową roczną ilość zużywanego nośnika energii lub energii (energia elektryczna, 
+energia słoneczna, energia geotermalna i energia wiatrowa, gaz) wyznacza się według wzoru: 
+f
+L
+k,
+L
+/A
+Q
+C
+ =
+       
+ 
+ 
+ 
+ 
+kWh/(m
+2
+ ·
+ 
+rok) 
+ 
+ 
+ (90) 
+gdzie: 
+Q
+k,L
+ 
+roczne zapotrzebowanie na energię końcową dostarczaną do budynku 
+lub części budynku dla systemu wbudowanej instalacji oświetlenia
+*)
+ 
+kWh/rok 
+A
+f
+ 
+powierzchnia pomieszczeń o regulowanej temperaturze powietrza 
+(powierzchnia ogrzewana lub chłodzona)  
+m
+2
+ 
+*)
+ Nie wyznacza się dla budynków mieszkalnych i lokali mieszkalnych. 
+ 
+7.1.5.
+ 
+ Urządzenia pomocnicze w systemach technicznych 
+Obliczeniową roczną ilość zużywanego nośnika energii lub energii (energia elektryczna, 
+energia słoneczna, energia geotermalna i energia wiatrowa, gaz) wyznacza się według wzoru: 
+f
+pom
+el,
+pom
+el,
+/A
+E
+C
+=
+       
+ 
+ 
+ 
+kWh/(m
+2
+ ·
+ 
+rok)  
+ 
+ 
+(91) 
+gdzie: 
+E
+el,pom
+ 
+roczne zapotrzebowanie na energię pomocniczą końcową dostarczaną 
+do budynku lub części budynku dla systemów technicznych 
+kWh/rok 
+A
+f
+ 
+powierzchnia pomieszczeń o regulowanej temperaturze powietrza 
+(powierzchnia ogrzewana lub chłodzona)  
+m
+2
+ 
+ 
+7.2.
+ 
+Wyznaczanie obliczeniowej rocznej ilości zużywanego nośnika energii lub energii  
+w budynku lub części budynku wyposażonych w złożone systemy techniczne 
+7.2.1.
+ 
+Systemy ogrzewania 
+Dziennik Ustaw	
+– 47 – 	
+Poz. 376
+﻿
+7.2.1.1.
+ 
+Obliczeniową roczną ilość zużywanego nośnika energii lub energii (energia elektryczna, 
+ciepło sieciowe, energia słoneczna, energia geotermalna i energia wiatrowa, gaz) 
+wyznacza się według wzoru: 
+∑
+=
+i
+f
+i
+H,
+k,
+H
+/A
+Q
+C
+       
+ 
+ 
+ 
+kWh/(m
+2
+ ·
+ 
+rok) 
+    
+ 
+  (92) 
+gdzie: 
+Q
+k,H,i
+ 
+roczne zapotrzebowanie na energię końcową dostarczaną do budynku 
+lub części budynku dla i-tego podsystemu w systemie ogrzewania 
+kWh/rok 
+A
+f
+ 
+powierzchnia pomieszczeń o regulowanej temperaturze powietrza  
+(powierzchnia ogrzewana lub chłodzona)  
+m
+2
+ 
+ 
+7.2.1.2.
+ 
+Obliczeniową roczną ilość zużywanego nośnika energii lub energii innych niż 
+wymienione w pkt 7.2.1.1 wyznacza się według wzoru: 
+∑
+⋅
+⋅
+=
+i
+i
+o,
+f
+i
+H,
+k,
+H
+W
+A
+3,6
+Q
+C
+       
+ 
+ 
+ 
+kg/(m
+2
+ ·
+ 
+rok) lub m
+3
+/(m
+2
+ ·
+ 
+rok) 
+  (93) 
+gdzie: 
+Q
+k,H,i
+ 
+roczne zapotrzebowanie na energię końcową dostarczaną do budynku 
+lub części budynku dla i-tego podsystemu w systemie ogrzewania 
+kWh/rok 
+W
+o,i
+ 
+wartość opałowa paliwa dla i-tego podsystemu w systemie 
+ogrzewania, określona zgodnie z pkt 7.3 
+MJ/m
+3
+  
+lub MJ/kg 
+A
+f
+ 
+powierzchnia pomieszczeń o regulowanej temperaturze powietrza 
+(powierzchnia ogrzewana lub chłodzona)  
+m
+2
+ 
+ 
+7.2.2.
+ 
+Systemy przygotowania ciepłej wody użytkowej 
+7.2.2.1.
+ 
+Obliczeniową roczną ilość zużywanego nośnika energii lub energii (energia 
+elektryczna, ciepło sieciowe, energia słoneczna, energia geotermalna i energia 
+wiatrowa, gaz) wyznacza się według wzoru: 
+∑
+=
+j
+f
+j
+W,
+k,
+W
+/A
+Q
+C
+       
+ 
+ 
+ 
+kWh/(m
+2
+ ·
+ 
+rok)  
+ 
+ 
+ (94) 
+gdzie: 
+Q
+k,W,j
+ 
+roczne zapotrzebowanie na energię końcową dostarczaną do budynku 
+lub części budynku dla j-tego podsystemu w systemie przygotowania 
+ciepłej wody użytkowej 
+kWh/rok 
+A
+f
+ 
+powierzchnia pomieszczeń o regulowanej temperaturze powietrza 
+(powierzchnia ogrzewana lub chłodzona)  
+m
+2
+ 
+ 
+7.2.2.2.
+ 
+Obliczeniową roczną ilość zużywanego nośnika energii lub energii innych niż 
+wymienione w pkt 7.2.2.1 wyznacza się według wzoru: 
+∑
+⋅
+⋅
+=
+j
+j
+o,
+f
+j
+W,
+k,
+W
+W
+A
+3,6
+Q
+C
+       
+ 
+ 
+ 
+kg/(m
+2
+ ·
+ 
+rok) lub m
+3
+/(m
+2
+ ·
+ 
+rok) 
+  (95) 
+gdzie: 
+Q
+k,W,j
+ 
+roczne zapotrzebowanie na energię końcową dostarczaną do budynku 
+lub części budynku dla j-tego podsystemu w systemie przygotowania 
+ciepłej wody użytkowej 
+kWh/rok 
+W
+o,j
+ 
+wartość opałowa paliwa dla j-tego podsystemu w systemie 
+przygotowania ciepłej wody użytkowej, określona zgodnie z pkt 7.3 
+MJ/m
+3
+  
+lub MJ/kg 
+A
+f
+ 
+powierzchnia pomieszczeń o regulowanej temperaturze powietrza 
+(powierzchnia ogrzewana lub chłodzona)  
+m
+2
+ 
+ 
+Dziennik Ustaw	
+– 48 – 	
+Poz. 376
+﻿
+7.2.3.
+ 
+Systemy chłodzenia 
+7.2.3.1.
+ 
+Obliczeniową roczną ilość zużywanego nośnika energii lub energii (energia 
+elektryczna, ciepło sieciowe, energia słoneczna, energia geotermalna i energia 
+wiatrowa, gaz) wyznacza się według wzoru: 
+∑
+=
+k
+f
+k
+C,
+k,
+C
+/A
+Q
+C
+       
+ 
+ 
+ 
+kWh/(m
+2
+ ·
+ 
+rok)  
+ 
+ 
+(96) 
+gdzie: 
+Q
+k,C,k
+ 
+roczne zapotrzebowanie na energię końcową dostarczaną do budynku 
+lub części budynku dla k-tego  podsystemu w systemie chłodzenia 
+kWh/rok 
+A
+f
+ 
+powierzchnia pomieszczeń o regulowanej temperaturze powietrza 
+(powierzchnia ogrzewana lub chłodzona) 
+m
+2
+ 
+ 
+7.2.3.2.
+ 
+Obliczeniową roczną ilość zużywanego nośnika energii lub energii innych  
+niż wymienione w pkt 7.2.3.1 wyznacza się według wzoru: 
+∑
+⋅
+⋅
+=
+k
+k
+o,
+f
+k
+C,
+k,
+C
+W
+A
+3,6
+Q
+C
+       
+ 
+ 
+ 
+kg/(m
+2
+ ·
+ 
+rok)  lub m
+3
+/(m
+2
+ ·
+ 
+rok) 
+ (97) 
+gdzie: 
+Q
+k,C,k
+ 
+roczne zapotrzebowanie na energię końcową dostarczaną do budynku 
+lub części budynku dla k-tego podsystemu w systemie chłodzenia 
+kWh/rok 
+W
+o,k
+ 
+wartość opałowa paliwa dla k-tego podsystemu w systemie 
+chłodzenia, określona zgodnie z pkt 7.3 
+MJ/m
+3
+  
+lub MJ/kg 
+A
+f
+ 
+powierzchnia pomieszczeń o regulowanej temperaturze powietrza 
+(powierzchnia ogrzewana lub chłodzona)  
+m
+2
+ 
+ 
+7.2.4.
+ 
+Systemy wbudowanej instalacji oświetlenia 
+Obliczeniową roczną ilość zużywanego nośnika energii lub energii (energia elektryczna, 
+energia słoneczna, energia geotermalna i energia wiatrowa, gaz) wyznacza się według wzoru: 
+∑
+=
+l
+f
+l
+L,
+k,
+L
+/A
+Q
+C
+        
+ 
+ 
+ 
+kWh/(m
+2
+ ·
+ 
+rok) 
+ 
+ 
+ (98) 
+gdzie: 
+Q
+k,L,l
+ 
+roczne zapotrzebowanie na energię końcową dostarczaną do budynku 
+lub części budynku dla l-tego podsystemu w systemie wbudowanej 
+instalacji oświetlenia 
+kWh/rok 
+A
+f
+ 
+powierzchnia pomieszczeń o regulowanej temperaturze powietrza 
+(powierzchnia ogrzewana lub chłodzona)  
+m
+2
+ 
+ 
+7.2.5.
+ 
+Urządzenia pomocnicze w systemach technicznych 
+Obliczeniową roczną ilość zużywanego nośnika energii lub energii (energia elektryczna, 
+energia słoneczna, energia geotermalna i energia wiatrowa, gaz) wyznacza się według wzoru: 
+∑
+∑
+∑
++
++
+=
+i
+f
+k
+k
+C,
+pom,
+el,
+j
+j
+W,
+pom,
+el,
+i
+H,
+pom,
+el,
+pom
+el,
+/A
+)
+E
+E
+E
+(
+C
+    kWh/(m
+2
+ ·
+ 
+rok) 
+ 
+ 
+(99) 
+gdzie: 
+E
+el,pom,H,i
+ 
+roczne zapotrzebowanie na energię pomocniczą końcową 
+dostarczaną do budynku lub części budynku dla i-tego podsystemu  
+w systemie ogrzewania 
+kWh/rok 
+E
+el,pom,W,j
+ roczne zapotrzebowanie na energię pomocniczą końcową 
+dostarczaną do budynku lub części budynku dla j-tego podsystemu  
+w systemie przygotowania ciepłej wody użytkowej 
+kWh/rok 
+Dziennik Ustaw	
+– 49 – 	
+Poz. 376
+﻿
+E
+el,pom,C,k
+ roczne zapotrzebowanie na energię pomocniczą końcową 
+dostarczaną do budynku lub części budynku dla k-tego podsystemu 
+w systemie chłodzenia 
+kWh/rok 
+A
+f
+ 
+powierzchnia pomieszczeń o regulowanej temperaturze powietrza 
+(powierzchnia ogrzewana lub chłodzona)  
+m
+2
+ 
+ 
+7.3. Wyznaczanie wartości opałowej paliwa W
+o
+ 
+Wartość opałową paliwa W
+o
+ określa się na podstawie danych udostępnionych przez dostawcę 
+tego paliwa. 
+W przypadku braku tych danych przyjmuje się wartości opracowywane na rok sporządzenia 
+świadectwa przez Krajowy ośrodek bilansowania i zarządzania emisjami zgodnie z art. 3 ust. 2 
+pkt 8 ustawy z dnia 17 lipca 2009 r. o systemie zarządzania emisjami gazów cieplarnianych 
+i innych substancji. 
+ 
+8.
+ 
+Wyznaczanie udziału odnawialnych źródeł energii w rocznym zapotrzebowaniu  
+na energię końcową w budynku lub części budynku  
+Udział odnawialnych źródeł energii w rocznym zapotrzebowaniu na energię końcową 
+wyznacza się według wzoru: 
+100
+Q
+E
+Q
+Q
+Q
+Q
+U
+k
+oze
+pom,
+el,
+oze
+L,
+k,
+oze
+C,
+k,
+oze
+W,
+k,
+oze
+H,
+k,
+oze
+⋅
++
++
++
++
+=
+% 
+ 
+ 
+ 
+ 
+(100)
+ 
+gdzie: 
+Q
+k,H,oze
+ 
+roczne zapotrzebowanie na energię końcową dostarczaną  
+do budynku lub części budynku dla systemu ogrzewania 
+zapewniane przez odnawialne źródła energii
+*)
+ 
+kWh/rok 
+Q
+k,W,oze
+ 
+roczne zapotrzebowanie na energię końcową dostarczaną  
+do budynku lub części budynku dla systemu przygotowania ciepłej 
+wody użytkowej zapewniane przez odnawialne źródła energii
+**)
+ 
+kWh/rok 
+Q
+k,C,oze
+ 
+roczne zapotrzebowanie na energię końcową dostarczaną  
+do budynku lub części budynku dla systemu chłodzenia zapewniane 
+przez odnawialne źródła energii
+***)
+ 
+kWh/rok 
+Q
+k,L,oze
+ 
+roczne zapotrzebowanie na energię końcową dostarczaną  
+do budynku lub części budynku dla systemu wbudowanej instalacji 
+oświetlenia zapewniane przez odnawialne źródła energii 
+kWh/rok 
+E
+el,pom,oze
+ roczne zapotrzebowanie na energię pomocniczą końcową 
+dostarczaną do budynku lub części budynku dla systemów 
+technicznych zapewniane przez odnawialne źródła energii 
+kWh/rok 
+Q
+k
+ 
+roczne zapotrzebowanie na energię końcową dostarczaną  
+do budynku lub części budynku dla systemów technicznych 
+kWh/rok 
+  *)
+ W przypadku pomp ciepła o wartości η
+H,g 
+większej od 1 wyznacza się według wzoru: 
+)
+η
+1
+(1
+Q
+Q
+g
+H,
+H
+k,
+oze
+H,
+k,
+−
+⋅
+=
+. 
+ **)
+ W przypadku pomp ciepła o wartości η
+W,g 
+większej od 1 wyznacza się według wzoru: 
+)
+η
+1
+(1
+Q
+Q
+g
+W,
+W
+,
+k
+oze
+W,
+k,
+−
+⋅
+=
+. 
+***)
+ W przypadku pomp ciepła o wartości SEER
+ 
+większej od 1 wyznacza się  według wzoru: 
+)
+SEER
+1
+(1
+Q
+Q
+C
+k,
+oze
+C,
+k,
+−
+⋅
+=
+. 
+ 
+ 
+Dziennik Ustaw	
+– 50 – 	
+Poz. 376
+﻿
+1.
+ 
+Sposób wyznaczania charakterystyki energetycznej budynku lub części budynku  
+1.1.
+ 
+Jeżeli budynek lub część budynku ma system ogrzewania oraz system przygotowania 
+ciepłej wody użytkowej, które są zasilane jednym rodzajem nośnika energii (gazem 
+ziemnym lub ciepłem sieciowym), i w dokumentach potwierdzających rzeczywiste zużycie 
+ciepła sieciowego lub gazu ziemnego w budynku lub części budynku nie jest wskazany cel 
+jego zużycia:
+ 
+1)
+ 
+roczne zapotrzebowanie na energię końcową dostarczaną do budynku lub części 
+budynku dla systemu ogrzewania oraz systemu przygotowania ciepłej wody użytkowej 
+jest wyznaczane wspólnie; 
+2)
+ 
+roczne zapotrzebowanie na nieodnawialną energię pierwotną dla systemu ogrzewania 
+oraz systemu przygotowania ciepłej wody użytkowej jest wyznaczane wspólnie; 
+3)
+ 
+roczne zapotrzebowanie na energię użytkową do ogrzewania i wentylacji oraz 
+przygotowania ciepłej wody użytkowej nie jest wyznaczane.
+ 
+1.2.
+ 
+Jeżeli w budynku lub części budynku odbywają się procesy technologiczne, to w obliczeniach 
+charakterystyki energetycznej nie uwzględnia się zapotrzebowania na energię w tych 
+procesach, a także zapotrzebowania na energię w instalacjach obsługujących te procesy. Zyski 
+ciepła z tych procesów dolicza się do wewnętrznych zysków ciepła pomieszczeń.
+ 
+ 
+2.
+ 
+Wyznaczanie wskaźników rocznego zapotrzebowania na energię EP, EK oraz EU 
+2.1.
+ 
+Wartość wskaźnika rocznego zapotrzebowania na nieodnawialną energię pierwotną EP
+, 
+wartość wskaźnika rocznego zapotrzebowania na energię końcową EK oraz wartość 
+wskaźnika rocznego zapotrzebowania na energię użytkową EU wyznacza się zgodnie  
+z pkt 2 załącznika nr 1 do rozporządzenia. 
+2.2.
+ 
+Wartość wskaźnika rocznego zapotrzebowania na energię użytkową EU nie jest 
+wyznaczana w przypadku, o którym mowa w pkt 1.1. 
+ 
+3.
+ 
+Roczne zapotrzebowanie na nieodnawialną energię pierwotną dla systemów 
+technicznych Q
+p
+ wyznacza się zgodnie z pkt 3 załącznika nr 1 do rozporządzenia. 
+ 
+4. Wyznaczanie rocznego zapotrzebowania na energię końcową dostarczaną do budynku 
+lub części budynku dla systemów technicznych Q
+k
+ 
+4.1.
+ 
+Roczne zapotrzebowanie na energię końcową dostarczaną do budynku lub części budynku
+ 
+dla systemów technicznych Q
+k
+ wyznacza się według wzoru:
+ 
+pom
+el,
+L
+k,
+W
+k,
+H
+k,
+k
+E
+Q
+Q
+Q
+Q
++
++
++
+=
+ 
+ 
+ 
+kWh/rok 
+ 
+ 
+ 
+(1) 
+gdzie: 
+Q
+k,H 
+roczne zapotrzebowanie na energię końcową dostarczaną do budynku 
+lub części budynku
+ 
+dla systemu ogrzewania 
+kWh/rok 
+Q
+k,W
+ 
+roczne zapotrzebowanie na energię końcową dostarczaną do budynku 
+lub części budynku
+ 
+dla systemu przygotowania ciepłej wody 
+użytkowej 
+kWh/rok 
+Q
+k,L 
+roczne zapotrzebowanie na energię końcową dostarczaną do budynku 
+lub części budynku
+ 
+dla systemu wbudowanej instalacji oświetlenia
+*)
+  
+kWh/rok 
+E
+el,pom
+ 
+roczne zapotrzebowanie na energię pomocniczą końcową dostarczaną 
+do budynku lub części budynku
+ 
+dla systemów technicznych  
+kWh/rok 
+*)
+ Nie wyznacza się dla budynków mieszkalnych i lokali mieszkalnych. 
+ 
+ 
+Załącznik nr 2
+METODOLOGIA WYZNACZANIA CHARAKTERYSTYKI ENERGETYCZNEJ OPARTA  
+NA FAKTYCZNIE ZUŻYTEJ ILOŚCI ENERGII
+Dziennik Ustaw	
+– 51 – 	
+Poz. 376
+﻿
+4.2.
+ 
+System ogrzewania 
+4.2.1.  Roczne zapotrzebowanie na energię końcową dostarczaną do budynku lub części budynku
+ 
+dla systemu ogrzewania wyznacza się na podstawie dokumentów potwierdzających 
+rzeczywiste zużycie ciepła sieciowego lub gazu ziemnego na potrzeby ogrzewania. 
+Wartość 
+H
+k,
+Q
+wyrażona w jednostkach kWh/rok jest średnią zużycia ciepła sieciowego 
+lub gazu ziemnego z ostatnich 3 lat poprzedzających wydanie świadectwa charakterystyki 
+energetycznej. 
+4.2.2. Roczne zapotrzebowanie na energię końcową dostarczaną do budynku lub części 
+budynku
+ 
+dla systemu ogrzewania Q
+k,H 
+wyznacza się według wzoru: 
+1)
+ 
+dla ciepła sieciowego:  
+3
+C
+Q
+H,3
+H
+k,
+=
+       
+ 
+ 
+ 
+ 
+kWh/rok      
+ 
+ 
+ 
+ (2) 
+gdzie: 
+C
+H,3
+ 
+suma zużycia ciepła sieciowego na potrzeby ogrzewania z ostatnich  
+3 lat poprzedzających wydanie świadectwa charakterystyki 
+energetycznej, wyznaczona na podstawie dokumentów, o których 
+mowa w pkt 4.2.1 
+kWh 
+ 
+2)
+ 
+dla gazu ziemnego:  
+3
+C
+3,6
+W
+C
+Q
+m
+H,
+o
+l
+H,
+H
+k,
++
+⋅
+=
+  
+ 
+ 
+ 
+kWh/rok      
+ 
+ 
+ 
+ (3) 
+gdzie: 
+C
+H,l
+ 
+suma zużycia gazu ziemnego na potrzeby ogrzewania z ostatnich l lat 
+poprzedzających wydanie świadectwa charakterystyki energetycznej, 
+wyznaczona na podstawie dokumentów, o których mowa w pkt 4.2.1, 
+w przypadku rozliczania zużycia gazu w jednostce m
+3
+ 
+m
+3
+ 
+W
+o
+ 
+wartość opałowa gazu ziemnego określona zgodnie z pkt 4.7 
+MJ/m
+3
+  
+l 
+liczba kolejnych lat, dla których istnieją dokumenty, o których mowa 
+w pkt 4.2.1, w przypadku rozliczania zużycia gazu w jednostce m
+3
+ 
+– 
+C
+H,m
+ 
+suma zużycia gazu ziemnego na potrzeby ogrzewania z ostatnich  
+m lat poprzedzających wydanie świadectwa charakterystyki 
+energetycznej, wyznaczona na podstawie dokumentów, o których 
+mowa w pkt 4.2.1, w przypadku rozliczania zużycia gazu  
+w jednostce energii zawartej w dostarczonym paliwie gazowym 
+kWh 
+m 
+liczba kolejnych lat, dla których istnieją dokumenty, o których mowa  
+w pkt 4.2.1, w przypadku rozliczania zużycia gazu w jednostce energii 
+zawartej w dostarczonym paliwie gazowym, z tym że: m = 3 − l 
+– 
+ 
+4.3.
+ 
+System przygotowania ciepłej wody użytkowej 
+4.3.1. Roczne zapotrzebowanie na energię końcową dostarczaną do budynku lub części 
+budynku
+ 
+dla systemu przygotowania ciepłej wody użytkowej wyznacza się  
+na podstawie dokumentów potwierdzających rzeczywiste zużycie ciepła sieciowego  
+lub gazu ziemnego na potrzeby przygotowania ciepłej wody użytkowej. Wartość 
+W
+k,
+Q
+wyrażona w jednostkach kWh/rok jest średnią zużycia ciepła sieciowego lub gazu 
+ziemnego z ostatnich 3 lat poprzedzających wydanie świadectwa charakterystyki 
+energetycznej. 
+4.3.2. Roczne zapotrzebowanie na energię końcową dostarczaną do budynku lub części 
+budynku
+ 
+dla systemu przygotowania ciepłej wody użytkowej Q
+k,W 
+wyznacza się według 
+wzoru: 
+Dziennik Ustaw	
+– 52 – 	
+Poz. 376
+﻿
+1)
+ 
+dla ciepła sieciowego:  
+3
+C
+Q
+W,3
+W
+k,
+=
+       
+ 
+ 
+ 
+ 
+kWh/rok      
+ 
+ 
+ 
+ (4) 
+gdzie: 
+C
+W,3
+ 
+suma zużycia ciepła sieciowego na potrzeby przygotowania ciepłej 
+wody użytkowej z ostatnich 3 lat poprzedzających wydanie 
+świadectwa charakterystyki energetycznej, wyznaczona na podstawie 
+dokumentów, o których mowa w pkt 4.3.1 
+kWh 
+ 
+2)
+ 
+dla gazu ziemnego:  
+3
+C
+3,6
+W
+C
+Q
+m
+W,
+o
+l
+W,
+W
+k,
++
+⋅
+=
+  
+ 
+ 
+ 
+kWh/rok      
+ 
+ 
+ 
+ (5) 
+gdzie: 
+C
+W,l
+ 
+suma zużycia gazu ziemnego na potrzeby przygotowania ciepłej 
+wody użytkowej z ostatnich l lat poprzedzających wydanie 
+świadectwa charakterystyki energetycznej, wyznaczona na podstawie 
+dokumentów, o których mowa w pkt 4.3.1, w przypadku rozliczania 
+zużycia gazu w jednostce m
+3
+ 
+m
+3
+ 
+W
+o
+ 
+wartość opałowa gazu ziemnego określona zgodnie z pkt 4.7 
+MJ/m
+3
+  
+l 
+liczba kolejnych lat, dla których istnieją dokumenty, o których mowa 
+w pkt 4.3.1, w przypadku rozliczania zużycia gazu w jednostce m
+3
+ 
+– 
+C
+W,m
+ 
+suma zużycia gazu ziemnego na potrzeby przygotowania ciepłej 
+wody użytkowej z ostatnich m lat poprzedzających wydanie 
+świadectwa charakterystyki energetycznej, wyznaczona na podstawie 
+dokumentów, o których mowa w pkt 4.3.1, w przypadku rozliczania 
+zużycia gazu w jednostce energii zawartej w dostarczonym paliwie 
+gazowym 
+kWh 
+m 
+liczba kolejnych lat, dla których istnieją dokumenty, o których mowa  
+w pkt 4.3.1, w przypadku rozliczania zużycia gazu w jednostce energii 
+zawartej w dostarczonym paliwie gazowym, z tym że: m = 3 − l 
+– 
+ 
+4.4.
+ 
+System ogrzewania i system przygotowania ciepłej wody użytkowej  
+4.4.1. Roczne zapotrzebowanie na energię końcową dostarczaną do budynku lub części 
+budynku
+ 
+dla systemu ogrzewania oraz systemu przygotowania ciepłej wody użytkowej 
+wyznacza się na podstawie dokumentów potwierdzających rzeczywiste zużycie ciepła 
+sieciowego lub gazu ziemnego na potrzeby ogrzewania oraz przygotowania ciepłej 
+wody użytkowej, w których nie wskazano zużycia ciepła sieciowego lub gazu ziemnego 
+na poszczególne cele. Wartość 
+W
+H
+k,
+Q
++
+ 
+wyrażona w jednostkach kWh/rok jest średnią 
+zużycia ciepła sieciowego lub gazu ziemnego z ostatnich 3 lat poprzedzających wydanie 
+świadectwa charakterystyki energetycznej. 
+4.4.2. Roczne zapotrzebowanie na energię końcową dostarczaną do budynku lub części 
+budynku
+ 
+dla systemu ogrzewania i systemu przygotowania ciepłej wody użytkowej 
+Q
+k,H+W 
+wyznacza się według wzoru: 
+ 
+1)
+ 
+dla ciepła sieciowego:  
+3
+C
+Q
+W,3
+H
+W
+H
+k,
++
++
+=
+        
+ 
+ 
+ 
+kWh/rok      
+ 
+ 
+ 
+ (6) 
+ 
+ 
+Dziennik Ustaw	
+– 53 – 	
+Poz. 376
+﻿
+gdzie: 
+C
+H+W,3
+ 
+suma zużycia ciepła sieciowego na potrzeby ogrzewania  
+i przygotowania ciepłej wody użytkowej z ostatnich 3 lat 
+poprzedzających wydanie świadectwa charakterystyki energetycznej, 
+wyznaczona na podstawie dokumentów, o których mowa w pkt 4.4.1 
+kWh 
+ 
+2)
+ 
+dla gazu ziemnego:  
+3
+C
+3,6
+W
+C
+Q
+m
+W,
+H
+o
+l
+W,
+H
+W
+H
+k,
++
++
++
++
+⋅
+=
+  
+ 
+ 
+kWh/rok      
+ 
+ 
+ 
+ (7) 
+gdzie: 
+C
+H+W,l
+ 
+suma zużycia gazu ziemnego na potrzeby ogrzewania  
+i przygotowania ciepłej wody użytkowej z ostatnich l lat 
+poprzedzających wydanie świadectwa charakterystyki energetycznej, 
+wyznaczona na podstawie dokumentów, o których mowa w pkt 4.4.1, 
+w przypadku rozliczania zużycia gazu w jednostce m
+3
+ 
+m
+3
+ 
+W
+o
+ 
+wartość opałowa gazu ziemnego określona zgodnie z pkt 4.7 
+MJ/m
+3
+  
+l 
+liczba kolejnych lat, dla których istnieją dokumenty, o których mowa 
+w pkt 4.4.1, w przypadku rozliczania zużycia gazu w jednostce m
+3
+ 
+– 
+C
+H+W,m
+ 
+suma zużycia gazu ziemnego na potrzeby ogrzewania  
+i przygotowania ciepłej wody użytkowej z ostatnich m lat 
+poprzedzających wydanie świadectwa charakterystyki energetycznej, 
+wyznaczona na podstawie dokumentów, o których mowa w pkt 4.4.1, 
+w przypadku rozliczania zużycia gazu w jednostce energii zawartej  
+w dostarczonym paliwie gazowym 
+kWh 
+m 
+liczba kolejnych lat, dla których istnieją dokumenty, o których mowa  
+w pkt 4.4.1, w przypadku rozliczania zużycia gazu w jednostce energii 
+zawartej w dostarczonym paliwie gazowym, z tym że: m = 3 − l 
+– 
+ 
+4.5.
+ 
+Roczne zapotrzebowanie na energię końcową dostarczaną do budynku lub części 
+budynku
+ 
+dla systemu wbudowanej instalacji oświetlenia Q
+k,L 
+wyznacza się zgodnie  
+z pkt 4.1.5 załącznika nr 1 do rozporządzenia. 
+4.6.
+ 
+Roczne zapotrzebowanie na energię pomocniczą końcową dostarczaną do budynku  
+lub części budynku
+ 
+dla systemów technicznych E
+el,pom
+ wyznacza się zgodnie z pkt 4.1.6 
+załącznika nr 1 do rozporządzenia. 
+4.7.
+ 
+Wyznaczanie wartości opałowej paliwa W
+o
+ 
+Wartość opałową paliwa W
+o
+ określa się na podstawie danych udostępnionych przez dostawcę 
+tego paliwa. 
+W przypadku braku tych danych przyjmuje się wartości opracowywane na rok sporządzenia 
+świadectwa przez Krajowy ośrodek bilansowania i zarządzania emisjami zgodnie z art. 3 ust. 2 
+pkt 8 ustawy z dnia 17 lipca 2009 r. o systemie zarządzania emisjami gazów cieplarnianych 
+i innych substancji (Dz. U. z 2013 r. poz. 1107 oraz z 2014 r. poz. 1101). 
+ 
+5.
+ 
+Wyznaczanie rocznego zapotrzebowania na energię użytkową Q
+u
+ 
+5.1.
+ 
+ Roczne zapotrzebowanie na energię użytkową
+ 
+Q
+u
+ wyznacza się według wzoru: 
+nd
+W,
+nd
+H,
+u
+Q
+Q
+Q
++
+=
+ 
+ 
+ 
+ 
+ 
+kWh/rok 
+ 
+ 
+ 
+(8) 
+ 
+ 
+Dziennik Ustaw	
+– 54 – 	
+Poz. 376
+﻿
+gdzie: 
+Q
+H,nd 
+roczne zapotrzebowanie na energię użytkową do ogrzewania  
+i wentylacji  
+kWh/rok 
+Q
+W,nd
+ 
+roczne zapotrzebowanie na energię użytkową do przygotowania 
+ciepłej wody użytkowej 
+kWh/rok 
+ 
+5.2.
+ 
+Roczne zapotrzebowanie na energię użytkową do ogrzewania i wentylacji Q
+H,nd 
+wyznacza 
+się według wzoru: 
+tot
+H,
+H
+k,
+nd
+H,
+η
+Q
+Q
+⋅
+=
+     
+ 
+ 
+ 
+kWh/rok      
+ 
+ 
+ 
+ (9) 
+gdzie: 
+Q
+k,H
+ 
+roczne zapotrzebowanie na energię końcową dostarczaną do budynku 
+lub części budynku
+ 
+dla systemu ogrzewania 
+kWh/rok 
+η
+H,tot 
+średnia sezonowa sprawność całkowita systemu ogrzewania 
+wyznaczona zgodnie z pkt 4.1.2.1 załącznika nr 1 do rozporządzenia 
+– 
+ 
+5.3.
+ 
+Roczne zapotrzebowanie na energię użytkową do przygotowania ciepłej wody użytkowej 
+Q
+W,nd 
+wyznacza się według wzoru: 
+tot
+W,
+W
+k,
+nd
+W,
+η
+Q
+Q
+⋅
+=
+     
+ 
+ 
+ 
+kWh/rok      
+ 
+ 
+ 
+ (10) 
+gdzie: 
+Q
+k,W
+ 
+roczne zapotrzebowanie na energię końcową dostarczaną do budynku 
+lub części budynku
+ 
+dla systemu przygotowania ciepłej wody użytkowej 
+kWh/rok 
+η
+W,tot 
+średnia roczna sprawność całkowita systemu przygotowania ciepłej 
+wody użytkowej wyznaczona zgodnie z pkt 4.1.3.1 załącznika nr 1 do 
+rozporządzenia 
+– 
+ 
+5.4.
+ 
+Roczne zapotrzebowanie na energię użytkową
+ 
+Q
+u
+ nie jest wyznaczane w przypadku,  
+o którym mowa w pkt 1.1. 
+ 
+6.
+ 
+Jednostkową wielkość emisji CO
+2
+ wyznacza się zgodnie z pkt 6 załącznika nr 1 do 
+rozporządzenia. 
+ 
+7.
+ 
+Wyznaczanie obliczeniowej rocznej ilości zużywanego nośnika energii lub energii 
+7.1.
+ 
+System ogrzewania  
+Obliczeniowa roczna ilość zużywanego ciepła sieciowego lub gazu ziemnego jest równa 
+wartości rocznego zapotrzebowania na energię końcową dostarczaną do budynku lub części 
+budynku
+ 
+dla systemu ogrzewania Q
+k,H
+. 
+7.2.
+ 
+System przygotowania ciepłej wody użytkowej  
+Obliczeniowa roczna ilość zużywanego ciepła sieciowego lub gazu ziemnego jest równa 
+wartości rocznego zapotrzebowania na energię końcową dostarczaną do budynku lub części 
+budynku
+ 
+dla systemu przygotowania ciepłej wody użytkowej Q
+k,W
+. 
+7.3.
+ 
+System ogrzewania i system przygotowania ciepłej wody użytkowej  
+Obliczeniowa roczna ilość zużywanego ciepła sieciowego lub gazu ziemnego jest równa 
+wartości rocznego zapotrzebowania na energię końcową dostarczaną do budynku lub części 
+budynku
+ 
+dla systemu ogrzewania i systemu przygotowania ciepłej wody użytkowej Q
+k,H+W
+. 
+7.4.
+ 
+Obliczeniową roczną ilość zużywanego nośnika energii lub energii dla systemu 
+wbudowanej instalacji oświetlenia wyznacza się zgodnie z pkt 7.1.4 załącznika nr 1 do 
+rozporządzenia. 
+7.5.
+ 
+ Obliczeniową roczną ilość zużywanego nośnika energii lub energii dla urządzeń 
+pomocniczych w systemach technicznych wyznacza się zgodnie z pkt 7.1.5 załącznika  
+nr 1 do rozporządzenia. 
+Dziennik Ustaw	
+– 55 – 	
+Poz. 376
+﻿
+ 
+ŚWIADECTWO CHARAKTERYSTYKI ENERGETYCZNEJ BUDYNKU 
+Numer świadectwa
+1)
+ 
+ 
+Oceniany budynek 
+Rodzaj budynku
+2)
+ 
+ 
+Zdjęcie budynku 
+Przeznaczenie budynku
+3)
+ 
+ 
+Adres budynku 
+ 
+Budynek, o którym mowa w art. 3  
+ust. 2 ustawy
+4)
+ 
+ 
+Rok oddania do użytkowania budynku
+5)
+ 
+ 
+Metoda wyznaczania charakterystyki 
+energetycznej
+6)
+ 
+ 
+Powierzchnia pomieszczeń  
+o regulowanej temperaturze powietrza 
+(powierzchnia ogrzewana  
+lub chłodzona) A
+f
+ [m
+2
+]
+7)
+ 
+ 
+Powierzchnia użytkowa [m
+2
+] 
+ 
+ 
+Ważne do (rrrr-mm-dd)
+8)
+ 
+ 
+Stacja meteorologiczna, według której 
+danych jest wyznaczana  
+charakterystyka energetyczna
+9)
+ 
+ 
+ 
+Ocena charakterystyki energetycznej budynku
+10)
+Wskaźniki charakterystyki 
+energetycznej 
+Oceniany budynek 
+Wymagania dla nowego budynku 
+według przepisów techniczno- 
+-budowlanych 
+Wskaźnik rocznego zapotrzebowania 
+na energię użytkową 
+EU = … kWh/(m
+2
+ 
+· rok) 
+ 
+Wskaźnik rocznego zapotrzebowania 
+na energię końcową
+11)
+   
+EK = … kWh/(m
+2
+ 
+· rok) 
+ 
+Wskaźnik rocznego zapotrzebowania 
+na nieodnawialną energię pierwotną
+11)
+   
+EP = … kWh/(m
+2
+ 
+· rok) 
+EP = … kWh/(m
+2 
+· rok) 
+Jednostkowa wielkość emisji CO
+2     
+ 
+2
+CO
+E
+ = … t CO
+2
+/(m
+2 
+· rok)    
+ 
+Udział odnawialnych źródeł energii  
+w rocznym zapotrzebowaniu na energię 
+końcową 
+U
+oze
+ = … % 
+ 
+Wskaźnik rocznego zapotrzebowania na nieodnawialną energię pierwotną EP [kWh/(m
+2
+ 
+· rok)]
+                      
+                                                 
+Oceniany budynek 
+ 
+                                        
+↑
+   Wymagania dla nowego budynku 
+ 
+Obliczeniowa roczna ilość zużywanego nośnika energii lub energii przez budynek
+12)
+  
+System techniczny 
+Rodzaj nośnika energii 
+lub energii 
+Ilość nośnika energii  
+lub energii 
+Jednostka/(m
+2 
+· rok) 
+Ogrzewania  
+1) 
+ 
+ 
+n) 
+ 
+ 
+Przygotowania ciepłej wody użytkowej 
+1) 
+ 
+ 
+n) 
+ 
+ 
+Chłodzenia 
+1) 
+ 
+ 
+n) 
+ 
+ 
+Wbudowanej instalacji oświetlenia
+11)
+  
+1) 
+ 
+ 
+n) 
+ 
+ 
+ 
+Sporządzający świadectwo: 
+ 
+ 
+Imię i nazwisko: 
+Nr wpisu do wykazu
+13)
+: 
+Data wystawienia świadectwa: 
+ 
+ 
+ 
+ 
+ 
+Podpis i pieczątka
+ 
+Załącznik nr 3
+WZÓR ŚWIADECTWA CHARAKTERYSTYKI ENERGETYCZNEJ BUDYNKU
+Dziennik Ustaw	
+– 56 – 	
+Poz. 376
+﻿
+ŚWIADECTWO CHARAKTERYSTYKI ENERGETYCZNEJ BUDYNKU                                                            
+Numer świadectwa
+1)
+ 
+ 
+Podstawowe parametry techniczno-użytkowe budynku 
+Liczba kondygnacji budynku 
+ 
+Kubatura budynku [m
+3
+] 
+ 
+Kubatura budynku o regulowanej 
+temperaturze  powietrza [m
+3
+] 
+ 
+Podział powierzchni użytkowej 
+budynku
+14)
+ 
+ 
+Temperatury wewnętrzne  
+w budynku w zależności od stref 
+ogrzewanych 
+ 
+Rodzaj konstrukcji budynku 
+ 
+Przegrody budynku  
+Nazwa przegrody 
+Opis przegrody 
+Współczynnik przenikania 
+ciepła przegrody U  
+[W/(m
+2 
+· K)] 
+uzyskany 
+wymagany
+15)
+ 
+1) 
+ 
+ 
+ 
+2) 
+ 
+ 
+ 
+3) 
+ 
+ 
+ 
+4) 
+ 
+ 
+ 
+n) 
+ 
+ 
+ 
+System ogrzewania
+16)
+ 
+Elementy składowe 
+systemu 
+Opis 
+Średnia 
+sezonowa 
+sprawność 
+Wytwarzanie ciepła  
+ 
+ 
+Przesył ciepła 
+ 
+ 
+Akumulacja ciepła 
+ 
+ 
+Regulacja  
+i wykorzystanie ciepła 
+ 
+ 
+System  przygotowania ciepłej 
+wody użytkowej
+16) 
+ 
+Elementy składowe 
+systemu 
+Opis 
+Średnia roczna 
+sprawność 
+Wytwarzanie ciepła  
+ 
+ 
+Przesył ciepła 
+ 
+ 
+Akumulacja ciepła 
+ 
+ 
+System chłodzenia
+16)
+ 
+Elementy składowe 
+systemu 
+Opis 
+Średnia 
+sezonowa 
+sprawność 
+Wytwarzanie chłodu  
+ 
+ 
+Przesył chłodu 
+ 
+ 
+Akumulacja chłodu 
+ 
+ 
+Regulacja  
+i wykorzystanie 
+chłodu 
+ 
+ 
+Wentylacja 
+ 
+System wbudowanej instalacji 
+oświetlenia
+11), 16)
+ 
+ 
+Inne istotne dane dotyczące 
+budynku 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Dziennik Ustaw	
+– 57 – 	
+Poz. 376
+﻿
+ŚWIADECTWO CHARAKTERYSTYKI ENERGETYCZNEJ BUDYNKU                                                              
+Numer świadectwa
+1)
+ 
+ 
+Wskaźnik rocznego zapotrzebowania na energię użytkową EU [kWh/(m
+2
+ 
+· 
+rok)]
+17)
+ 
+ 
+Ogrzewanie  
+i wentylacja  
+Ciepła woda 
+użytkowa 
+Chłodzenie 
+Oświetlenie 
+wbudowane 
+Suma 
+[kWh/(m
+2 
+· rok)] 
+ 
+ 
+ 
+ 
+ 
+Udział [%] 
+ 
+ 
+ 
+ 
+ 
+Wskaźnik rocznego zapotrzebowania na energię użytkową EU: … kWh/(m
+2 
+· 
+rok)   
+ 
+ 
+Wskaźnik rocznego zapotrzebowania na energię końcową EK [kWh/(m
+2
+ 
+· 
+rok)]
+17)
+Rodzaj nośnika energii  
+lub energii 
+Ogrzewanie  
+i wentylacja 
+Ciepła woda 
+użytkowa 
+Chłodzenie 
+Oświetlenie 
+wbudowane
+11)
+ 
+Suma 
+1) 
+ 
+ 
+ 
+ 
+ 
+2) 
+ 
+ 
+ 
+ 
+ 
+n) 
+ 
+ 
+ 
+ 
+ 
+Suma [kWh/(m
+2
+ 
+· rok)] 
+ 
+ 
+ 
+ 
+ 
+Udział [%] 
+ 
+ 
+ 
+ 
+ 
+Wskaźnik rocznego zapotrzebowania na energię końcową EK: … kWh/(m
+2
+ 
+· 
+rok)   
+ 
+ 
+Wskaźnik rocznego zapotrzebowania na nieodnawialną energię pierwotną EP [kWh/(m
+2
+ 
+· 
+rok)]
+17)
+Rodzaj nośnika energii  
+lub energii 
+Ogrzewanie  
+i wentylacja 
+Ciepła woda 
+użytkowa 
+Chłodzenie 
+Oświetlenie 
+wbudowane
+11)
+ 
+Suma 
+1) 
+ 
+ 
+ 
+ 
+ 
+2) 
+ 
+ 
+ 
+ 
+ 
+n) 
+ 
+ 
+ 
+ 
+ 
+Suma [kWh/(m
+2
+ 
+· rok)] 
+ 
+ 
+ 
+ 
+ 
+Udział [%] 
+ 
+ 
+ 
+ 
+ 
+Wskaźnik rocznego zapotrzebowania na nieodnawialną energię pierwotną EP: … kWh/(m
+2
+ 
+· 
+rok)   
+ 
+ 
+Zalecenia dotyczące opłacalnej ekonomicznie i wykonalnej technicznie poprawy charakterystyki energetycznej 
+budynku w zakresie
+18)
+: 
+1)
+ 
+przegród budynku w przypadku planowania robót budowlanych polegających na ociepleniu budynku, obejmujących 
+ponad 25% powierzchni przegród zewnętrznych tego budynku 
+ 
+ 
+ 
+ 
+2)
+ 
+systemów technicznych w budynku w przypadku planowania robót budowlanych polegających na ociepleniu budynku, 
+obejmujących ponad 25% powierzchni przegród zewnętrznych tego budynku 
+ 
+ 
+ 
+ 
+3)
+ 
+przegród budynku niezależnie od planowanych robót budowlanych, o których mowa w pkt 1 
+ 
+ 
+ 
+ 
+ 
+ 
+4)
+ 
+systemów technicznych w budynku lub części budynku niezależnie od planowanych robót budowlanych, o których 
+mowa w pkt 2 
+ 
+ 
+ 
+ 
+5)
+ 
+innych uwag dotyczących poprawy charakterystyki energetycznej budynku (w tym wskazanie, gdzie można uzyskać 
+szczegółowe informacje dotyczące opłacalności ekonomicznej zaleceń zawartych w świadectwie oraz informację 
+dotyczącą działań, jakie należy podjąć w celu wypełnienia zaleceń) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Dziennik Ustaw	
+– 58 – 	
+Poz. 376
+﻿
+ŚWIADECTWO CHARAKTERYSTYKI ENERGETYCZNEJ BUDYNKU                                                                  
+Numer świadectwa
+1)
+ 
+ 
+Objaśnienia 
+1)
+Nr świadectwa w wykazie świadectw charakterystyki energetycznej, nadany w systemie teleinformatycznym, w którym jest prowadzony 
+centralny rejestr charakterystyki energetycznej budynków, o którym mowa w art. 31 ust. 1 pkt 3 ustawy z dnia 29 sierpnia 2014 r. 
+o charakterystyce energetycznej budynków (Dz. U. poz. 1200 oraz z 2015 r. poz. 151). 
+2)
+ 
+Rodzaj budynku: mieszkalny, zamieszkania zbiorowego, użyteczności publicznej, rekreacji indywidualnej, gospodarczy, produkcyjny, 
+magazynowy. 
+3)
+ 
+Należy określić zgodnie z przepisami wydanymi na podstawie art. 7 ust. 2 pkt 1 ustawy z dnia 7 lipca 1994 r. 
+−
+ Prawo budowlane (Dz. U. 
+z 2013 r. poz. 1409, z 2014 r. poz. 40, 768, 822, 1133 i 1200 oraz z 2015 r. poz. 151 i 200), zwanymi dalej „przepisami techniczno-
+-budowlanymi”, np. budynek przeznaczony na potrzeby opieki zdrowotnej. 
+4)
+ 
+Budynek, o którym mowa w art. 3 ust. 2 ustawy z dnia 29 sierpnia 2014 r. o charakterystyce energetycznej budynków: tak / nie. 
+5)
+ 
+Dotyczy budynku oddanego do użytkowania. 
+6)
+ 
+Należy wpisać: metoda obliczeniowa albo metoda zużyciowa. 
+7)
+ 
+Jest to ogrzewana lub chłodzona powierzchnia kondygnacji netto wyznaczana według Polskiej Normy dotyczącej właściwości użytkowych 
+w budownictwie – określanie i obliczanie wskaźników powierzchniowych i kubaturowych. 
+8)
+ 
+Świadectwo charakterystyki energetycznej traci ważność po upływie terminu wskazanego w tym świadectwie albo w przypadku, o którym 
+mowa w art. 14 ust. 2 ustawy z dnia 29 sierpnia 2014 r. o charakterystyce energetycznej budynków.
+ 
+9)
+ 
+Należy wypełnić w przypadku metody obliczeniowej. 
+10)
+ 
+Charakterystyka energetyczna budynku jest określana na podstawie porównania wskaźnika rocznego zapotrzebowania na nieodnawialną energię 
+pierwotną EP niezbędnego do zaspokojenia potrzeb energetycznych budynku w zakresie ogrzewania, wentylacji, chłodzenia, przygotowania 
+ciepłej wody użytkowej i wbudowanej instalacji oświetlenia z maksymalną wartością wskaźnika EP wynikającą z przepisów techniczno-
+-budowlanych oraz porównania wartości współczynnika przenikania ciepła przegród U w budynku z maksymalną wartością współczynnika 
+wynikającą z przepisów techniczno-budowlanych. 
+ 
+        W przypadku budynku nowo wznoszonego uzyskane wartości wskaźnika EP oraz współczynników przenikania ciepła przegród U nie powinny 
+przekraczać wartości wynikających z przepisów techniczno-budowlanych.
+ 
+        W przypadku budynku podlegającego przebudowie jedynie wartości współczynników przenikania ciepła przegród U podlegających 
+przebudowie nie powinny przekraczać wartości wynikających z przepisów techniczno-budowlanych.
+ 
+11)
+ 
+Rocznego zapotrzebowania na energię końcową oraz nieodnawialną energię pierwotną przez system wbudowanej instalacji oświetlenia 
+nie wyznacza się w przypadku budynku mieszkalnego. 
+12)
+ 
+Metoda obliczeniowa odnosi się do standardowego sposobu użytkowania i standardowych warunków klimatycznych, natomiast metoda 
+zużyciowa odnosi się do faktycznego sposobu użytkowania budynku, w związku z czym mogą wystąpić różnice w wynikach końcowych 
+między obliczeniami sporządzonymi tymi metodami. W przypadku korzystania z metody obliczeniowej, z uwagi na standardowy sposób 
+użytkowania, uzyskane wartości obliczeniowej rocznej ilości zużywanego nośnika energii lub energii nie pozwalają wnioskować 
+o rzeczywistym zużyciu energii w budynku; wartości te są przybliżone.   
+13)
+ 
+Wykaz, o którym mowa w art. 31 ust. 1 pkt 1 ustawy z dnia 29 sierpnia 2014 r. o charakterystyce energetycznej budynków. 
+14)
+ 
+Podział powierzchni użytkowej (np. część mieszkalna:……m
+2
+, część garażowa:……m
+2
+, część usługowa:……m
+2
+, część techniczna:…..m
+2
+).
+ 
+15)
+ 
+Wymagania dotyczące wartości współczynnika przenikania ciepła przegród U powinny być spełnione jedynie w przypadku budynku nowo 
+wznoszonego albo budynku podlegającego przebudowie.
+ 
+16)
+ 
+W przypadku kilku systemów technicznych lub podsystemów w systemach technicznych tabelę należy dostosować.
+ 
+17)
+ 
+Wartości rocznego zapotrzebowania na energię użytkową, energię końcową i nieodnawialną energię pierwotną odpowiednio dla systemu 
+ogrzewania, systemu przygotowania ciepłej wody użytkowej, systemu chłodzenia, systemu wbudowanej instalacji oświetlenia i dla urządzeń 
+pomocniczych odniesione do powierzchni A
+f
+. Wartości rocznego zapotrzebowania na energię pomocniczą końcową i nieodnawialną energię 
+pierwotną dla urządzeń pomocniczych systemów technicznych odniesione do powierzchni A
+f
+ należy wykazać w odpowiednich polach 
+dotyczących celu ich zużycia.
+ 
+18)
+ 
+Wypełnienie jest obowiązkowe, chyba że nie ma sensownej możliwości takiej poprawy w porównaniu z obowiązującymi wymaganiami 
+zawartymi w przepisach techniczno-budowlanych.
+ 
+ 
+Uwagi 
+1.
+Niniejsze świadectwo charakterystyki energetycznej zostało wydane na podstawie oceny charakterystyki energetycznej budynku zgodnie 
+z przepisami ustawy z dnia 29 sierpnia 2014 r. o charakterystyce energetycznej budynków oraz rozporządzenia Ministra Infrastruktury 
+i Rozwoju z dnia 27 lutego 2015 r. w sprawie metodologii wyznaczania charakterystyki energetycznej budynku lub części budynku oraz 
+świadectw charakterystyki energetycznej (Dz. U. poz. 376). 
+2.
+ 
+    Roczne zapotrzebowanie na energię w świadectwie charakterystyki energetycznej jest wyrażane przez roczne zapotrzebowanie 
+na nieodnawialną energię pierwotną, energię końcową oraz energię użytkową. Dane do obliczeń określa się na podstawie budowlanej 
+dokumentacji technicznej lub obmiaru budynku istniejącego i przyjmuje się standardowy albo faktyczny sposób użytkowania, w zależności 
+od wybranej metody obliczania. 
+3.
+ 
+    Roczne zapotrzebowanie na nieodnawialną energię pierwotną uwzględnia obok energii końcowej dodatkowe nakłady nieodnawialnej energii 
+pierwotnej na dostarczenie do budynku każdego wykorzystanego nośnika energii lub energii. Uzyskane niskie wartości wskazują na nieznaczne 
+zapotrzebowanie na energię i tym samym wysoką efektywność energetyczną budynku i zużycie energii chroniące zasoby naturalne 
+i środowisko. 
+4.
+ 
+    Roczne zapotrzebowanie na energię końcową określa roczną ilość energii dostarczaną do budynku dla systemów: ogrzewania, chłodzenia, 
+przygotowania ciepłej wody użytkowej oraz wbudowanej instalacji oświetlenia. Zapotrzebowanie na energię końcową jest to ilość energii, która 
+powinna być dostarczona do budynku przy standardowym lub faktycznym sposobie użytkowania z uwzględnieniem wszystkich strat, 
+aby zapewnić utrzymanie temperatury wewnętrznej, której wartość została określona w przepisach techniczno-budowlanych, niezbędną 
+wentylację oraz oświetlenie i przygotowanie ciepłej wody użytkowej. Niskie wartości sygnalizują wysokosprawne systemy techniczne 
+w budynku i jego wysoką efektywność energetyczną.  
+5.
+ 
+Roczne zapotrzebowanie na energię użytkową określa: 
+a)
+ 
+w przypadku ogrzewania budynku – energię przenoszoną z budynku do jego otoczenia przez przenikanie lub z powietrzem wentylacyjnym, 
+pomniejszoną o zyski ciepła, 
+b)
+ 
+w przypadku chłodzenia budynku – zyski ciepła pomniejszone o energię przenoszoną z budynku do jego otoczenia przez przenikanie 
+lub z powietrzem wentylacyjnym, 
+c)
+ 
+w przypadku przygotowania ciepłej wody użytkowej – energię przenoszoną z budynku do jego otoczenia ze ściekami. 
+        Niskie wartości sygnalizują bardzo dobrą charakterystykę energetyczną przegród, niewielkie straty ciepła przez wentylację oraz optymalne 
+zarządzanie zyskami słonecznymi.
+ 
+ 
+ 
+ 
+ 
+  
+Dziennik Ustaw	
+– 59 – 	
+Poz. 376
+﻿
+ 
+ŚWIADECTWO CHARAKTERYSTYKI ENERGETYCZNEJ CZĘŚCI BUDYNKU  
+Numer świadectwa
+1)
+ 
+ 
+Oceniana część budynku
+ 
+ 
+Rodzaj budynku
+2)
+ 
+ 
+Zdjęcie budynku 
+Przeznaczenie budynku
+3)
+ 
+ 
+Adres budynku 
+ 
+Budynek, o którym mowa w art. 3 ust. 2 
+ustawy
+4)
+ 
+ 
+Rok oddania do użytkowania budynku
+5)
+ 
+ 
+Metoda wyznaczania charakterystyki 
+energetycznej
+6)
+ 
+ 
+Powierzchnia pomieszczeń o regulowanej 
+temperaturze powietrza (powierzchnia 
+ogrzewana lub chłodzona) A
+f
+ [m
+2
+]
+7)
+ 
+ 
+Powierzchnia użytkowa części budynku 
+[m
+2
+] 
+ 
+ 
+Ważne do (rrrr-mm-dd)
+8)
+ 
+ 
+ 
+Stacja meteorologiczna, według której 
+danych jest wyznaczana charakterystyka 
+energetyczna
+9)
+ 
+ 
+ 
+Ocena charakterystyki energetycznej części budynku
+10
+) 
+Wskaźniki charakterystyki 
+energetycznej 
+Oceniana część budynku 
+Wskaźnik rocznego zapotrzebowania  
+na energię użytkową 
+EU = … kWh/(m
+2
+ 
+· rok) 
+Wskaźnik rocznego zapotrzebowania  
+na energię końcową
+11)
+   
+EK = … kWh/(m
+2
+ 
+· rok) 
+Wskaźnik rocznego zapotrzebowania  
+na nieodnawialną energię pierwotną
+11)
+   
+EP = … kWh/(m
+2 
+· rok) 
+Jednostkowa wielkość emisji CO
+2     
+ 
+2
+CO
+E
+ = … t CO
+2
+/(m
+2 
+· rok)    
+Udział odnawialnych źródeł energii  
+w rocznym zapotrzebowaniu na energię 
+końcową 
+U
+oze
+ = … % 
+Wskaźnik rocznego zapotrzebowania na nieodnawialną energię pierwotną EP [kWh/(m
+2 
+· rok)]
+                     
+                        
+Oceniana część budynku
+  
+ 
+ 
+ 
+ 
+Obliczeniowa roczna ilość zużywanego nośnika energii lub energii przez część budynku
+12)
+ 
+ 
+System techniczny 
+Rodzaj nośnika 
+energii lub energii 
+Ilość nośnika energii  
+lub energii 
+Jednostka/(m
+2 
+· rok) 
+Ogrzewania  
+1) 
+ 
+ 
+n) 
+ 
+ 
+Przygotowania ciepłej wody użytkowej 
+1) 
+ 
+ 
+n) 
+ 
+ 
+Chłodzenia 
+1) 
+ 
+ 
+n) 
+ 
+ 
+Wbudowanej instalacji oświetlenia
+11)
+  
+1) 
+ 
+ 
+n) 
+ 
+ 
+ 
+Sporządzający świadectwo: 
+ 
+ 
+Imię i nazwisko: 
+Nr wpisu do wykazu
+13)
+: 
+Data wystawienia świadectwa: 
+ 
+ 
+ 
+ 
+ 
+Podpis i pieczątka
+ 
+Załącznik nr 4
+WZÓR ŚWIADECTWA CHARAKTERYSTYKI ENERGETYCZNEJ CZĘŚCI BUDYNKU
+Dziennik Ustaw	
+– 60 – 	
+Poz. 376
+﻿
+ŚWIADECTWO CHARAKTERYSTYKI ENERGETYCZNEJ CZĘŚCI BUDYNKU  
+Numer świadectwa
+1)
+ 
+ 
+Podstawowe parametry techniczno-użytkowe części budynku  
+Liczba kondygnacji części 
+budynku 
+ 
+Kubatura części budynku [m
+3
+] 
+ 
+Kubatura części budynku  
+o regulowanej temperaturze 
+powietrza [m
+3
+] 
+ 
+Podział powierzchni użytkowej 
+części budynku
+14)
+ 
+ 
+Temperatury wewnętrzne  
+w części budynku w zależności 
+od stref ogrzewanych części 
+budynku 
+ 
+Rodzaj konstrukcji budynku 
+ 
+Przegrody części budynku 
+Nazwa przegrody 
+Opis przegrody 
+Współczynnik przenikania 
+ciepła przegrody U  
+[W/(m
+2 
+· K)] 
+uzyskany 
+wymagany
+15)
+ 
+1) 
+ 
+ 
+ 
+2) 
+ 
+ 
+ 
+3) 
+ 
+ 
+ 
+4) 
+ 
+ 
+ 
+n) 
+ 
+ 
+ 
+System ogrzewania
+16)
+ 
+Elementy składowe 
+systemu 
+Opis 
+Średnia 
+sezonowa 
+sprawność 
+Wytwarzanie ciepła  
+ 
+ 
+Przesył ciepła 
+ 
+ 
+Akumulacja ciepła 
+ 
+ 
+Regulacja  
+i wykorzystanie ciepła 
+ 
+ 
+System  przygotowania ciepłej 
+wody użytkowej
+16)
+ 
+Elementy składowe 
+systemu 
+Opis 
+Średnia roczna 
+sprawność 
+Wytwarzanie ciepła  
+ 
+ 
+Przesył ciepła 
+ 
+ 
+Akumulacja ciepła 
+ 
+ 
+System chłodzenia
+16)
+ 
+Elementy składowe 
+systemu 
+Opis 
+Średnia 
+sezonowa 
+sprawność 
+Wytwarzanie chłodu  
+ 
+ 
+Przesył chłodu 
+ 
+ 
+Akumulacja chłodu 
+ 
+ 
+Regulacja  
+i wykorzystanie 
+chłodu 
+ 
+ 
+Wentylacja 
+ 
+System wbudowanej instalacji 
+oświetlenia
+11), 16)
+ 
+ 
+Inne istotne dane dotyczące 
+części budynku 
+ 
+ 
+ 
+ 
+ 
+ 
+Dziennik Ustaw	
+– 61 – 	
+Poz. 376
+﻿
+ŚWIADECTWO CHARAKTERYSTYKI ENERGETYCZNEJ CZĘŚCI BUDYNKU 
+Numer świadectwa
+1)
+ 
+ 
+Wskaźnik rocznego zapotrzebowania na energię użytkową EU [kWh/(m
+2
+ 
+· 
+rok)]
+17)
+ 
+ 
+Ogrzewanie  
+i wentylacja  
+Ciepła woda 
+użytkowa 
+Chłodzenie 
+Oświetlenie 
+wbudowane 
+Suma 
+[kWh/(m
+2
+ 
+· rok)] 
+ 
+ 
+ 
+ 
+ 
+Udział [%] 
+ 
+ 
+ 
+ 
+ 
+Wskaźnik rocznego zapotrzebowania na energię użytkową EU: … kWh/(m
+2
+ 
+· 
+rok)   
+ 
+ 
+Wskaźnik rocznego zapotrzebowania na energię końcową EK [kWh/(m
+2 
+· 
+rok)]
+17)
+Rodzaj nośnika energii  
+lub energii 
+Ogrzewanie  
+i wentylacja 
+Ciepła woda 
+użytkowa 
+Chłodzenie 
+Oświetlenie 
+wbudowane
+11)
+ 
+Suma 
+1) 
+ 
+ 
+ 
+ 
+ 
+2) 
+ 
+ 
+ 
+ 
+ 
+n) 
+ 
+ 
+ 
+ 
+ 
+Suma [kWh/(m
+2
+ 
+· rok)] 
+ 
+ 
+ 
+ 
+ 
+Udział [%] 
+ 
+ 
+ 
+ 
+ 
+Wskaźnik rocznego zapotrzebowania na energię końcową EK: … kWh/(m
+2
+ 
+· 
+rok)   
+ 
+ 
+Wskaźnik rocznego zapotrzebowania na nieodnawialną energię pierwotną EP [kWh/(m
+2 
+· 
+rok)]
+17)
+Rodzaj nośnika energii  
+lub energii 
+Ogrzewanie  
+i wentylacja 
+Ciepła woda 
+użytkowa 
+Chłodzenie 
+Oświetlenie 
+wbudowane
+11)
+ 
+Suma 
+1) 
+ 
+ 
+ 
+ 
+ 
+2) 
+ 
+ 
+ 
+ 
+ 
+n) 
+ 
+ 
+ 
+ 
+ 
+Suma [kWh/(m
+2
+ 
+· rok)] 
+ 
+ 
+ 
+ 
+ 
+Udział [%] 
+ 
+ 
+ 
+ 
+ 
+Wskaźnik rocznego zapotrzebowania na nieodnawialną energię pierwotną EP: … kWh/(m
+2
+ 
+· 
+rok)   
+ 
+ 
+Zalecenia dotyczące opłacalnej ekonomicznie i wykonalnej technicznie poprawy charakterystyki energetycznej części 
+budynku w zakresie
+18)
+: 
+1)
+ 
+przegród budynku w przypadku planowania robót budowlanych polegających na ociepleniu budynku, obejmujących 
+ponad 25% powierzchni przegród zewnętrznych tego budynku 
+ 
+ 
+ 
+ 
+2)
+ 
+systemów technicznych w budynku lub części budynku w przypadku planowania robót budowlanych polegających 
+ 
+na ociepleniu budynku, obejmujących ponad 25% powierzchni przegród zewnętrznych tego budynku 
+ 
+ 
+ 
+ 
+3)
+ 
+przegród budynku niezależnie od planowanych robót budowlanych, o których mowa w pkt 1 
+ 
+ 
+ 
+ 
+ 
+4)
+ 
+systemów technicznych w budynku lub części budynku niezależnie od planowanych robót budowlanych, o których 
+mowa w pkt 2 
+ 
+ 
+ 
+ 
+5)
+ 
+innych uwag dotyczących poprawy charakterystyki energetycznej części budynku (w tym wskazanie, gdzie można 
+uzyskać szczegółowe informacje dotyczące opłacalności ekonomicznej zaleceń zawartych w świadectwie  
+oraz informację dotyczącą działań, jakie należy podjąć w celu wypełnienia zaleceń) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Dziennik Ustaw	
+– 62 – 	
+Poz. 376
+﻿
+ŚWIADECTWO CHARAKTERYSTYKI ENERGETYCZNEJ CZĘŚCI BUDYNKU  
+Numer świadectwa
+1)
+ 
+ 
+ 
+Objaśnienia 
+1)
+Nr świadectwa w wykazie świadectw charakterystyki energetycznej, nadany w systemie teleinformatycznym, w którym jest prowadzony 
+centralny rejestr charakterystyki energetycznej budynków, o którym mowa w art. 31 ust. 1 pkt 3 ustawy z dnia 29 sierpnia 2014 r.  
+o charakterystyce energetycznej budynków (Dz. U. poz. 1200 oraz z 2015 r. poz. 151). 
+2)
+ 
+Rodzaj budynku: mieszkalny, zamieszkania zbiorowego, użyteczności publicznej, rekreacji indywidualnej, gospodarczy, produkcyjny, 
+magazynowy. 
+3)
+ 
+Należy określić zgodnie z przepisami wydanymi na podstawie art. 7 ust. 2 pkt 1 ustawy z dnia 7 lipca 1994 r. 
+−
+ Prawo budowlane (Dz. U.  
+z 2013 r. poz. 1409, z 2014 r. poz. 40, 768, 822, 1133 i 1200 oraz z 2015 r. poz. 151 i 200), zwanymi dalej „przepisami techniczno- 
+-budowlanymi”, np. budynek przeznaczony na potrzeby opieki zdrowotnej. 
+4)
+ 
+Budynek, o którym mowa w art. 3 ust. 2 ustawy z dnia 29 sierpnia 2014 r. o charakterystyce energetycznej budynków: tak / nie. 
+5)
+ 
+Dotyczy budynku oddanego do użytkowania. 
+6)
+ 
+Należy wpisać: metoda obliczeniowa albo metoda zużyciowa. 
+7)
+ 
+Jest to ogrzewana lub chłodzona powierzchnia kondygnacji netto wyznaczana według Polskiej Normy dotyczącej właściwości użytkowych 
+w budownictwie – określanie i obliczanie wskaźników powierzchniowych i kubaturowych. 
+8)
+ 
+Świadectwo charakterystyki energetycznej traci ważność po upływie terminu wskazanego w tym świadectwie albo w przypadku, o którym 
+mowa w art. 14 ust. 2 ustawy z dnia 29 sierpnia 2014 r. o charakterystyce energetycznej budynków.
+ 
+9)
+ 
+Należy wypełnić w przypadku metody obliczeniowej. 
+10)
+ 
+Charakterystyka energetyczna części budynku jest określana na podstawie wyznaczenia wartości wskaźnika rocznego zapotrzebowania  
+na nieodnawialną energię pierwotną EP niezbędnego do zaspokojenia potrzeb energetycznych części budynku w zakresie ogrzewania, 
+wentylacji, chłodzenia, oświetlenia i przygotowania ciepłej wody użytkowej oraz porównania wartości współczynnika przenikania ciepła 
+przegród U w części budynku z wartością współczynnika wynikającą z przepisów techniczno-budowlanych. 
+ 
+        W przypadku części budynku w budynku nowo wznoszonym uzyskane wartości współczynników przenikania ciepła przegród U nie powinny 
+przekraczać wartości wynikających z przepisów techniczno-budowlanych.
+ 
+11)
+ 
+Rocznego zapotrzebowania na energię końcową oraz nieodnawialną energię pierwotną przez system wbudowanej instalacji oświetlenia nie 
+wyznacza się w przypadku budynku mieszkalnego i lokalu mieszkalnego. 
+12)
+ 
+Metoda obliczeniowa odnosi się do standardowego sposobu użytkowania i standardowych warunków klimatycznych, natomiast metoda 
+zużyciowa odnosi się do faktycznego sposobu użytkowania części budynku, w związku z czym mogą wystąpić różnice w wynikach końcowych 
+między obliczeniami sporządzonymi tymi metodami. W przypadku korzystania z metody obliczeniowej,  z uwagi na standardowy sposób 
+użytkowania, uzyskane wartości obliczeniowej rocznej ilości zużywanego nośnika energii lub energii nie pozwalają wnioskować  
+o rzeczywistym zużyciu energii w części budynku; wartości te są przybliżone.  
+ 
+13)
+ 
+Wykaz, o którym mowa w art. 31 ust. 1 pkt 1 ustawy z dnia 29 sierpnia 2014 r. o charakterystyce energetycznej budynków. 
+14)
+ 
+Podział powierzchni użytkowej (np. część mieszkalna:……m
+2
+, część garażowa:……m
+2
+, część usługowa:……m
+2
+, część techniczna:…..m
+2
+).
+ 
+15)
+ 
+Wymagania dotyczące wartości współczynnika przenikania ciepła przegród U powinny być spełnione jedynie w przypadku części budynku  
+w budynku nowo wznoszonym.
+ 
+16)
+ 
+W przypadku kilku systemów technicznych lub podsystemów w systemach technicznych tabelę należy dostosować. 
+17)
+ 
+Wartości rocznego zapotrzebowania na energię użytkową, energię końcową i nieodnawialną energię pierwotną odpowiednio dla systemu 
+ogrzewania, systemu przygotowania ciepłej wody użytkowej, systemu chłodzenia, systemu wbudowanej instalacji oświetlenia i dla urządzeń 
+pomocniczych odniesione do powierzchni A
+f
+. Wartości rocznego zapotrzebowania na energię pomocniczą końcową i nieodnawialną energię 
+pierwotną dla urządzeń pomocniczych systemów technicznych odniesione do powierzchni A
+f
+ należy wykazać w odpowiednich polach 
+dotyczących celu ich zużycia.
+ 
+18)
+ 
+Wypełnienie jest obowiązkowe, chyba że nie ma sensownej możliwości takiej poprawy w porównaniu z obowiązującymi wymaganiami 
+zawartymi w przepisach techniczno-budowlanych.
+ 
+ 
+Uwagi 
+1.
+ 
+Niniejsze świadectwo charakterystyki energetycznej zostało wydane na podstawie oceny charakterystyki energetycznej części budynku zgodnie 
+z przepisami ustawy z dnia 29 sierpnia 2014 r. o charakterystyce energetycznej budynków oraz rozporządzenia Ministra Infrastruktury 
+i Rozwoju z dnia 27 lutego 2015 r. w sprawie metodologii wyznaczania charakterystyki energetycznej budynku lub części budynku oraz 
+świadectw charakterystyki energetycznej (Dz. U. poz. 376). 
+2.
+ 
+Roczne zapotrzebowanie na energię w świadectwie charakterystyki energetycznej jest wyrażane przez roczne zapotrzebowanie  
+na nieodnawialną energię pierwotną, energię końcową oraz energię użytkową. Dane do obliczeń określa się na podstawie budowlanej 
+dokumentacji technicznej lub obmiaru budynku istniejącego i przyjmuje się standardowy albo faktyczny sposób użytkowania, w zależności  
+od wybranej metody obliczania. 
+3.
+ 
+Roczne zapotrzebowanie na nieodnawialną energię pierwotną uwzględnia obok energii końcowej dodatkowe nakłady nieodnawialnej energii 
+pierwotnej na dostarczenie do budynku każdego wykorzystanego nośnika energii lub energii. Uzyskane niskie wartości wskazują na nieznaczne 
+zapotrzebowanie na energię i tym samym wysoką efektywność energetyczną części budynku i zużycie energii chroniące zasoby naturalne  
+i środowisko. 
+4.
+ 
+Roczne zapotrzebowanie na energię końcową określa roczną ilość energii dostarczaną do części budynku dla systemów: ogrzewania, chłodzenia, 
+przygotowania ciepłej wody użytkowej oraz wbudowanej instalacji oświetlenia. Zapotrzebowanie na energię końcową jest to ilość energii, która 
+powinna być dostarczona do części budynku przy standardowym lub faktycznym sposobie użytkowania z uwzględnieniem wszystkich strat,  
+aby zapewnić utrzymanie temperatury wewnętrznej, której wartość została określona w przepisach techniczno-budowlanych, niezbędną 
+wentylację, oświetlenie oraz przygotowanie ciepłej wody użytkowej. Niskie wartości sygnalizują wysokosprawne systemy techniczne i wysoką 
+efektywność energetyczną części budynku.  
+5.
+ 
+Roczne zapotrzebowanie na energię użytkową określa: 
+a)
+ 
+w przypadku ogrzewania – energię przenoszoną z części budynku do jej otoczenia przez przenikanie lub z powietrzem wentylacyjnym, 
+pomniejszoną o zyski ciepła, 
+b)
+ 
+w przypadku chłodzenia – zyski ciepła pomniejszone o energię przenoszoną z części budynku do jej otoczenia przez przenikanie  
+lub z powietrzem wentylacyjnym, 
+c)
+ 
+w przypadku przygotowania ciepłej wody użytkowej – energię przenoszoną z części budynku do jej otoczenia ze ściekami. 
+        Niskie wartości sygnalizują bardzo dobrą charakterystykę energetyczną przegród, niewielkie straty ciepła przez wentylację oraz optymalne 
+zarządzanie zyskami słonecznymi.
+ 
+ 
+ 
+ 

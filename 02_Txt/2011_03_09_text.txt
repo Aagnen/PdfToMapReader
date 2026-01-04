@@ -1,0 +1,4599 @@
+ROZPORZĄDZENIE PARLAMENTU EUROPEJSKIEGO I RADY (UE) NR 305/2011 
+z dnia 9 marca 2011 r. 
+ustanawiające zharmonizowane warunki wprowadzania do obrotu wyrobów budowlanych 
+i uchylające dyrektywę Rady 89/106/EWG
+ 
+(Tekst mający znaczenie dla EOG)
+ 
+PARLAMENT EUROPEJSKI I RADA UNII EUROPEJSKIEJ,
+ 
+uwzględniając Traktat o funkcjonowaniu Unii Europejskiej, 
+w szczególności jego art. 114, 
+uwzględniając wniosek Komisji Europejskiej, 
+uwzględniając opinię Europejskiego Komitetu Ekonomiczno- 
+Społecznego (
+ 
+1
+ 
+), 
+stanowiąc zgodnie ze zwykłą procedurą ustawodawczą (
+ 
+2
+ 
+), 
+a także mając na uwadze, co następuje:
+ 
+(1)
+ 
+Przepisy państw członkowskich wymagają, by obiekty 
+budowlane były projektowane i wykonywane w sposób 
+niezagrażający bezpieczeństwu ludzi, zwierząt domo­
+wych ani mienia oraz niewywierający szkodliwego 
+wpływu na środowisko.
+ 
+(2)
+ 
+Przepisy te mają bezpośredni wpływ na wymagania 
+w 
+odniesieniu 
+do 
+wyrobów 
+budowlanych. 
+W konsekwencji wymagania te znajdują odzwierciedlenie 
+w krajowych normach dotyczących takich wyrobów, 
+krajowych aprobatach technicznych i innych krajowych 
+specyfikacjach technicznych i przepisach związanych 
+z wyrobami budowlanymi. Ze względu na rozbieżności 
+takich wymagań stanowią one przeszkodę w handlu na 
+terytorium Unii.
+ 
+(3)
+ 
+Niniejsze rozporządzenie nie powinno mieć wpływu na 
+prawo państw członkowskich do określenia wymagań, 
+które uznają za konieczne, by zapewnić ochronę 
+zdrowia, środowiska i pracowników podczas stosowania 
+wyrobów budowlanych.
+ 
+(4)
+ 
+Państwa członkowskie ustanowiły przepisy, w tym 
+wymagania, odnoszące się nie tylko do bezpieczeństwa 
+budynków i innych obiektów budowlanych, lecz także 
+do zdrowia, trwałości, oszczędności energii, ochrony 
+środowiska, aspektów ekonomicznych i innych aspektów 
+istotnych z punktu widzenia interesu publicznego. Usta­
+nowione na szczeblu Unii lub na szczeblu państw człon­
+kowskich przepisy ustawowe i wykonawcze, środki 
+administracyjne lub orzecznictwo, dotyczące obiektów 
+budowlanych, mogą mieć wpływ na wymagania doty­
+czące wyrobów budowlanych. Ze względu na to, że ich 
+wpływ na funkcjonowanie rynku wewnętrznego prawdo­
+podobnie będzie bardzo zbliżony, właściwe jest uznanie 
+tych przepisów ustawowych i wykonawczych, środków 
+administracyjnych lub orzecznictwa za „przepisy” do 
+celów niniejszego rozporządzenia.
+ 
+(5)
+ 
+W stosownych przypadkach przepisy odnoszące się do 
+zamierzonego zastosowania lub zastosowań wyrobu 
+budowlanego w jednym z państw członkowskich, mające 
+na celu spełnienie podstawowych wymagań dotyczących 
+obiektów budowlanych, określają zasadnicze charaktery­
+styki wyrobu, w odniesieniu do których powinny zostać 
+zadeklarowane właściwości użytkowe. Aby uniknąć skła­
+dania pustych deklaracji właściwości użytkowych, należy 
+zadeklarować co najmniej jedną z zasadniczych charak­
+terystyk wyrobu budowlanego, które są istotne dla dekla­
+rowanego zastosowania lub deklarowanych zastosowań.
+ 
+(6)
+ 
+Dyrektywa Rady 89/106/EWG z dnia 21 grudnia 1988 r. 
+w sprawie zbliżenia przepisów ustawowych, wykonaw­
+czych i administracyjnych państw członkowskich odno­
+szących się do wyrobów budowlanych (
+ 
+3
+ 
+) miała na celu 
+usuwanie barier technicznych w handlu w dziedzinie 
+wyrobów budowlanych, w celu ułatwienia swobodnego 
+przepływu takich wyrobów na rynku wewnętrznym.
+ 
+(7)
+ 
+Dążąc do realizacji tego celu, dyrektywa 89/106/EWG 
+przewidywała ustanowienie norm zharmonizowanych 
+dla wyrobów budowlanych oraz udzielanie europejskich 
+aprobat technicznych.
+ 
+(8)
+ 
+Dyrektywę 89/106/EWG należy zastąpić, zmierzając do 
+uproszczenia obecnych ram prawnych i uczynienia ich 
+jaśniejszymi, jak również do poprawy przejrzystości 
+i skuteczności obecnie obowiązujących środków.
+PL
+ 
+4.4.2011 
+Dziennik Urzędowy Unii Europejskiej 
+L 88/5
+ 
+(
+ 
+1
+ 
+) Dz.U. C 218 z 11.9.2009, s. 15. 
+(
+ 
+2
+ 
+) Stanowisko Parlamentu Europejskiego z dnia 24 kwietnia 2009 r. 
+(Dz.U. C 184 E z 8.7.2010, s. 441), stanowisko Rady w pierwszym 
+czytaniu z dnia 13 września 2010 r. (Dz.U. C 282 E z 19.10.2010, 
+s. 1), stanowisko Parlamentu Europejskiego z dnia 18 stycznia 
+2011 r. (dotychczas nieopublikowane w Dzienniku Urzędowym) 
+i decyzja Rady z dnia 28 lutego 2011 r. 
+(
+ 
+3
+ 
+) Dz.U. L 40 z 11.2.1989, s. 12.
+(9)
+ 
+Niniejsze rozporządzenie powinno uwzględniać mające 
+charakter horyzontalny ramy prawne dotyczące wprowa­
+dzania produktów na rynek wewnętrzny, ustanowione 
+w rozporządzeniu Parlamentu Europejskiego i Rady 
+(WE) nr 765/2008 z dnia 9 lipca 2008 r. ustanawia­
+jącym wymagania w zakresie akredytacji i nadzoru 
+rynku odnoszące się do warunków wprowadzania 
+produktów do obrotu (
+ 
+1
+ 
+) oraz w decyzji Parlamentu 
+Europejskiego i Rady nr 768/2008/WE z dnia 9 lipca 
+2008 r. w sprawie wspólnych ram dotyczących wprowa­
+dzania produktów do obrotu (
+ 
+2
+ 
+).
+ 
+(10)
+ 
+Usunięcie przeszkód technicznych w dziedzinie budow­
+nictwa możliwe jest wyłącznie poprzez ustanowienie 
+zharmonizowanych specyfikacji technicznych służących 
+do oceny właściwości użytkowych wyrobów budowla­
+nych.
+ 
+(11)
+ 
+Te zharmonizowane specyfikacje techniczne powinny 
+obejmować badania, obliczenia i inne środki zdefinio­
+wane 
+w 
+normach 
+zharmonizowanych 
+oraz 
+w europejskich dokumentach oceny do celów oceny 
+właściwości użytkowych w odniesieniu do zasadniczych 
+charakterystyk wyrobów budowlanych.
+ 
+(12)
+ 
+Metody 
+zastosowane 
+przez 
+państwa 
+członkowskie 
+w przyjętych przez nie wymaganiach dotyczących 
+obiektów budowlanych, jak również inne przepisy 
+krajowe odnoszące się do zasadniczych charakterystyk 
+wyrobów budowlanych, powinny być zgodne ze zhar­
+monizowanymi specyfikacjami technicznymi.
+ 
+(13)
+ 
+W stosownych przypadkach należy zachęcać do stoso­
+wania klas właściwości użytkowych w normach zharmo­
+nizowanych w odniesieniu do zasadniczych charaktery­
+styk wyrobów budowlanych w celu uwzględnienia 
+różnych poziomów podstawowych wymagań dotyczą­
+cych określonych obiektów budowlanych, jak również 
+różnic klimatycznych, geologicznych i geograficznych 
+oraz innych warunków panujących w poszczególnych 
+państwach członkowskich. Europejskie organy normali­
+zacyjne powinny mieć prawo do ustanowienia takich 
+klas w oparciu o zmieniony mandat, jeżeli nie zostały 
+one jeszcze ustanowione przez Komisję.
+ 
+(14)
+ 
+Jeżeli zamierzone zastosowanie wyrobów budowlanych 
+w państwach członkowskich wymaga ustalenia wartości 
+progowych odnoszących się do zasadniczych charaktery­
+styk, 
+wartości 
+te 
+powinny 
+zostać 
+określone 
+w zharmonizowanych specyfikacjach technicznych.
+ 
+(15)
+ 
+Przy ocenie właściwości użytkowych wyrobu budowla­
+nego należy również uwzględnić aspekty dotyczące 
+zdrowia i bezpieczeństwa związane z wykorzystaniem 
+wyrobu podczas całego cyklu jego życia.
+ 
+(16)
+ 
+Wartości progowe określone przez Komisję zgodnie 
+z niniejszym rozporządzeniem powinny być ogólnie 
+przyjętymi wartościami dla zasadniczych charakterystyk 
+danego wyrobu budowlanego w odniesieniu do prze­
+pisów obowiązujących w państwach członkowskich 
+i 
+powinny 
+zapewniać 
+wysoki 
+poziom 
+ochrony 
+w rozumieniu art. 114 Traktatu o funkcjonowaniu Unii 
+Europejskiej (TFUE).
+ 
+(17)
+ 
+Wartości progowe mogą być natury technicznej lub regu­
+lacyjnej i mogą mieć zastosowanie do jednej charaktery­
+styki lub do zestawu charakterystyk.
+ 
+(18)
+ 
+Europejski Komitet Normalizacji (CEN) oraz Europejski 
+Komitet Normalizacji Elektrotechnicznej (CENELEC) są 
+właściwymi organizacjami upoważnionymi do przyj­
+mowania 
+norm 
+zharmonizowanych 
+zgodnie 
+z ogólnymi wytycznymi dotyczącymi współpracy Komisji 
+z 
+tymi 
+dwiema 
+organizacjami, podpisanymi 
+dnia 
+28 marca 2003 r. Producenci powinni korzystać ze 
+wspomnianych norm zharmonizowanych, o ile odnie­
+sienie do nich zostało opublikowane w
+ Dzienniku Urzę­
+dowym Unii Europejskiej
+ i zgodnie z kryteriami określo­
+nymi na podstawie dyrektywy 98/34/WE Parlamentu 
+Europejskiego i Rady z dnia 22 czerwca 1998 r. ustana­
+wiającej procedurę udzielania informacji w zakresie norm 
+i przepisów technicznych oraz zasad dotyczących usług 
+społeczeństwa informacyjnego (
+ 
+3
+ 
+). Po osiągnięciu odpo­
+wiedniego poziomu specjalistycznej wiedzy naukowo- 
+technicznej w odniesieniu do wszystkich odpowiednich 
+aspektów należy zwiększyć stosowanie norm zharmoni­
+zowanych w odniesieniu do wyrobów budowlanych, 
+w tym – w odpowiednich przypadkach i po przeprowa­
+dzeniu konsultacji ze Stałym Komitetem ds. Budow­
+nictwa 
+– 
+poprzez 
+wymóg, 
+nałożony 
+w 
+drodze 
+mandatów, by normy te opracowywane były w oparciu 
+o istniejące europejskie dokumenty oceny.
+ 
+(19)
+ 
+Przewidziane dyrektywą 89/106/EWG procedury oceny 
+właściwości użytkowych w odniesieniu do zasadniczych 
+charakterystyk wyrobów budowlanych, których nie obej­
+mują normy zharmonizowane, należy uprościć, tak aby 
+stały się bardziej przejrzyste, przy jednoczesnym zmniej­
+szeniu 
+kosztów 
+ponoszonych 
+przez 
+producentów 
+wyrobów budowlanych.
+ 
+(20)
+ 
+Należy wprowadzić europejską ocenę techniczną w celu 
+umożliwienia 
+producentowi 
+wyrobu 
+budowlanego 
+sporządzania 
+deklaracji 
+właściwości 
+użytkowych 
+w odniesieniu do wyrobu budowlanego, który nie jest 
+objęty lub nie jest w pełni objęty normą zharmonizo­
+waną.
+ 
+(21)
+ 
+Producenci wyrobów budowlanych powinni mieć prawo 
+do uzyskania dla swoich wyrobów europejskiej oceny 
+technicznej na podstawie wytycznych dla europejskiej 
+aprobaty technicznej ustanowionych na podstawie dyrek­
+tywy 89/106/EWG. Należy zatem zapewnić prawo do 
+korzystania z tych wytycznych jako europejskich doku­
+mentów oceny.
+PL
+ 
+L 88/6 
+Dziennik Urzędowy Unii Europejskiej 
+4.4.2011
+ 
+(
+ 
+1
+ 
+) Dz.U. L 218 z 13.8.2008, s. 30. 
+(
+ 
+2
+ 
+) Dz.U. L 218 z 13.8.2008, s. 82. 
+(
+ 
+3
+ 
+) Dz.U. L 204 z 21.7.1998, s. 37.
+(22)
+ 
+Opracowanie 
+projektów 
+europejskich 
+dokumentów 
+oceny oraz wydawanie europejskich ocen technicznych 
+powinno zostać powierzone jednostkom ds. oceny tech­
+nicznej (zwanym dalej „JOT”) wyznaczanym przez 
+państwa członkowskie. Celem zagwarantowania, że JOT 
+posiadają kompetencje konieczne do wypełniania tych 
+zadań, należy określić wymagania unijne obowiązujące 
+przy ich wyznaczaniu.
+ 
+(23)
+ 
+JOT powinny powołać organizację (zwaną dalej „organi­
+zacją 
+JOT”) 
+koordynującą 
+procedury 
+ustanawiania 
+projektów europejskich dokumentów oceny oraz wyda­
+wanie europejskich ocen technicznych, wspieraną – 
+w stosownych przypadkach – dzięki środkom finan­
+sowym Unii, zapewniając przejrzystość i niezbędną pouf­
+ność tych procedur.
+ 
+(24)
+ 
+Z wyjątkiem przypadków określonych w niniejszym 
+rozporządzeniu, wprowadzeniu do 
+obrotu 
+wyrobu 
+budowlanego objętego normą zharmonizowaną lub 
+wyrobu budowlanego, dla którego wydana została euro­
+pejska ocena techniczna, powinna towarzyszyć deklaracja 
+właściwości użytkowych w odniesieniu do zasadniczych 
+charakterystyk 
+wyrobu 
+budowlanego 
+zgodnie 
+z odpowiednimi zharmonizowanymi specyfikacjami tech­
+nicznymi.
+ 
+(25)
+ 
+W stosownych przypadkach w celu zwiększenia możli­
+wości rozwoju zrównoważonego budownictwa oraz 
+ułatwienia rozwoju wyrobów przyjaznych dla środowiska 
+deklaracji właściwości użytkowych powinny towarzyszyć 
+informacje o zawartości substancji niebezpiecznych 
+w wyrobie budowlanym. Takich informacji należy 
+udzielać bez uszczerbku dla obowiązków, zwłaszcza 
+tych dotyczących etykietowania, określonych w innych 
+instrumentach prawa Unii mających zastosowanie do 
+substancji niebezpiecznych. Informacje te powinny być 
+udostępniane w tym samym czasie i w takiej samej 
+formie co deklaracja właściwości użytkowych, tak aby 
+dotarły one do wszystkich potencjalnych użytkowników 
+wyrobów 
+budowlanych. 
+Informacje 
+o 
+zawartości 
+substancji niebezpiecznych należy początkowo ograni­
+czyć do substancji, o których mowa w art. 31 i 33 
+rozporządzenia (WE) nr 1907/2006 Parlamentu Europej­
+skiego i Rady z dnia 18 grudnia 2006 r. w sprawie 
+rejestracji, oceny, udzielania zezwoleń i stosowanych 
+ograniczeń 
+w 
+zakresie 
+chemikaliów 
+(REACH) 
+i 
+utworzenia 
+Europejskiej Agencji 
+Chemikaliów (
+ 
+1
+ 
+). 
+Należy jednak dokładniej zbadać kwestię szczególnej 
+potrzeby posiadania informacji o zawartości substancji 
+niebezpiecznych w wyrobach budowlanych w celu 
+uzupełnienia wykazu tych substancji, a przez to zagwa­
+rantowania 
+wysokiego 
+poziomu 
+ochrony 
+zdrowia 
+i bezpieczeństwa pracowników używających wyrobów 
+budowlanych oraz użytkowników obiektów budowla­
+nych, w tym w odniesieniu do recyklingu lub wymogów 
+dotyczących 
+ponownego 
+wykorzystywania 
+części 
+obiektów budowlanych lub materiałów. Niniejsze rozpo­
+rządzenie nie narusza praw i obowiązków państw człon­
+kowskich wynikających z innych instrumentów prawa 
+Unii, które mogą mieć zastosowanie do substancji 
+niebezpiecznych, w szczególności dyrektywy 98/8/WE 
+Parlamentu Europejskiego i Rady z dnia 16 lutego 
+1998 r. dotyczącej wprowadzania do obrotu produktów 
+biobójczych (
+ 
+2
+ 
+), 
+dyrektywy 
+2000/60/WE 
+Parlamentu 
+Europejskiego i Rady z dnia 23 października 2000 r. 
+ustanawiającej 
+ramy 
+wspólnotowego 
+działania 
+w dziedzinie polityki wodnej (
+ 
+3
+ 
+), rozporządzenia (WE) 
+nr 1907/2006, dyrektywy Parlamentu Europejskiego 
+i Rady 2008/98/WE z dnia 19 listopada 2008 r. 
+w sprawie odpadów (
+ 
+4
+ 
+) oraz rozporządzenia Parlamentu 
+Europejskiego i Rady (WE) nr 1272/2008 z dnia 
+16 grudnia 2008 r. w sprawie klasyfikacji, oznakowania 
+i pakowania substancji i mieszanin (
+ 
+5
+ 
+).
+ 
+(26)
+ 
+Należy umożliwić oznaczanie deklaracji właściwości 
+użytkowych zgodnie z numerem referencyjnym typu 
+wyrobu.
+ 
+(27)
+ 
+Konieczne jest wprowadzenie uproszczonych procedur 
+sporządzania deklaracji właściwości użytkowych, w celu 
+zmniejszenia obciążenia finansowego przedsiębiorstw, 
+a zwłaszcza małych i średnich przedsiębiorstw (MŚP).
+ 
+(28)
+ 
+Mając 
+na 
+uwadze 
+zapewnienie 
+dokładności 
+i wiarygodności deklaracji właściwości użytkowych, 
+należy ocenić właściwości użytkowe wyrobu budowla­
+nego oraz skontrolować produkcję w zakładzie zgodnie 
+z odpowiednim systemem oceny i weryfikacji stałości 
+właściwości użytkowych danego wyrobu budowlanego. 
+Można wybrać kilka systemów mających zastosowanie 
+do danego wyrobu budowlanego, by uwzględnić specy­
+ficzny związek niektórych spośród jego zasadniczych 
+charakterystyk z podstawowymi wymaganiami dotyczą­
+cymi obiektów budowlanych.
+ 
+(29)
+ 
+Zważywszy na szczególny charakter wyrobów budowla­
+nych i na szczególną wagę systemu ich oceny, procedury 
+oceny zgodności, określone w decyzji nr 768/2008/WE, 
+i jej moduły ustanowione tą samą decyzją, nie są odpo­
+wiednie. Dlatego należy określić specjalne metody oceny 
+i 
+weryfikacji 
+stałości 
+właściwości 
+użytkowych 
+w odniesieniu do zasadniczych charakterystyk wyrobów 
+budowlanych.
+ 
+(30)
+ 
+Zważywszy na różnicę w znaczeniu oznakowania CE na 
+wyrobach budowlanych w porównaniu z ogólnymi 
+zasadami 
+ustanowionymi 
+w 
+rozporządzeniu 
+(WE) 
+nr 765/2008, należy wprowadzić przepisy szczegółowe 
+mające na celu zapewnienie jasności obowiązku umiesz­
+czania oznakowania CE na wyrobach budowlanych oraz 
+konsekwencji, jakie wypływają z jego umieszczenia.
+PL
+ 
+4.4.2011 
+Dziennik Urzędowy Unii Europejskiej 
+L 88/7
+ 
+(
+ 
+1
+ 
+) Dz.U. L 396 z 30.12.2006, s. 1. 
+(
+ 
+2
+ 
+) Dz.U. L 123 z 24.4.1998, s. 1. 
+(
+ 
+3
+ 
+) Dz.U. L 327 z 22.12.2000, s. 1. 
+(
+ 
+4
+ 
+) Dz.U. L 312 z 22.11.2008, s. 3. 
+(
+ 
+5
+ 
+) Dz.U. L 353 z 31.12.2008, s. 1.
+(31)
+ 
+Poprzez umieszczenie lub zlecenie umieszczenia oznako­
+wania CE na wyrobie budowlanym producent powinien 
+wskazać, że bierze na siebie odpowiedzialność za zgod­
+ność tego wyrobu z deklarowanymi właściwościami użyt­
+kowymi.
+ 
+(32)
+ 
+Oznakowanie CE powinno się umieszczać na wszystkich 
+wyrobach budowlanych, dla których producent sporzą­
+dził 
+deklarację 
+właściwości 
+użytkowych 
+zgodnie 
+z niniejszym rozporządzeniem. W przypadku niesporzą­
+dzenia deklaracji właściwości użytkowych oznakowania 
+CE umieszczać nie należy.
+ 
+(33)
+ 
+Oznakowanie CE powinno być jedynym oznakowaniem 
+potwierdzającym 
+zgodność 
+wyrobu 
+budowlanego 
+z deklarowanymi właściwościami użytkowymi i z mają­
+cymi 
+zastosowanie 
+wymaganiami 
+związanymi 
+z prawodawstwem harmonizacyjnym Unii. Można jednak 
+stosować inne oznaczenia, o ile pomagają one zwiększyć 
+ochronę użytkowników wyrobów budowlanych i nie są 
+objęte istniejącym prawodawstwem harmonizacyjnym 
+Unii.
+ 
+(34)
+ 
+Aby uniknąć zbędnych badań wyrobów budowlanych, 
+których właściwości użytkowe zostały wystarczająco 
+potwierdzone stałymi wynikami badań lub innymi 
+dostępnymi danymi, producentowi należy umożliwić – 
+na warunkach określonych przez zharmonizowane 
+specyfikacje techniczne lub w decyzji Komisji – deklaro­
+wanie określonego poziomu lub klasy właściwości użyt­
+kowych bez badań lub bez dalszych badań.
+ 
+(35)
+ 
+Aby uniknąć powielania już przeprowadzonych badań, 
+producent wyrobu budowlanego powinien mieć możli­
+wość korzystania z wyników badań uzyskanych przez 
+stronę trzecią.
+ 
+(36)
+ 
+Należy określić warunki stosowania procedur uproszczo­
+nych do oceny właściwości użytkowych wyrobów 
+budowlanych, tak aby jak najbardziej zmniejszyć koszt 
+wprowadzania ich do obrotu, nie obniżając poziomu 
+bezpieczeństwa. Producenci stosujący takie procedury 
+uproszczone powinni odpowiednio wykazać, że spełniają 
+te warunki.
+ 
+(37)
+ 
+Aby 
+zwiększyć 
+wpływ 
+środków 
+nadzoru 
+rynku, 
+wszystkie 
+procedury 
+uproszczone 
+przewidziane 
+w niniejszym rozporządzeniu do oceny właściwości użyt­
+kowych wyrobów budowlanych powinny mieć zastoso­
+wanie tylko do osób fizycznych lub prawnych, które 
+produkują wyroby, które wprowadzają do obrotu.
+ 
+(38)
+ 
+W celu dalszego zmniejszenia kosztów wprowadzania 
+wyrobów budowlanych do obrotu, ponoszonych przez 
+mikroprzedsiębiorstwa, które te wyroby wyprodukowały, 
+należy zapewnić uproszczone procedury oceny właści­
+wości użytkowych, o ile wyroby wprowadzane przez te 
+przedsiębiorstwa do obrotu nie budzą znaczących obaw 
+z uwagi na bezpieczeństwo i spełniają mające do nich 
+zastosowanie wymagania, niezależnie od pochodzenia 
+tych wymagań. Przedsiębiorstwa stosujące takie uprosz­
+czone procedury powinny dodatkowo wykazać, że mogą 
+zostać 
+uznane 
+za 
+mikroprzedsiębiorstwa. 
+Ponadto 
+powinny wypełniać mające zastosowanie procedury 
+weryfikacji stałości właściwości użytkowych przewidziane 
+w zharmonizowanych specyfikacjach technicznych doty­
+czących ich wyrobów.
+ 
+(39)
+ 
+W przypadku wyrobu budowlanego zaprojektowanego 
+i wyprodukowanego jednostkowo producentowi należy 
+zezwolić na skorzystanie z uproszczonych procedur 
+oceny właściwości użytkowych, o ile można dowieść 
+zgodności wyrobu wprowadzanego przezeń do obrotu 
+z mającymi zastosowanie wymaganiami.
+ 
+(40)
+ 
+Komisja w porozumieniu ze Stałym Komitetem ds. 
+Budownictwa powinna ustalić ramy interpretacyjne defi­
+nicji „nieseryjnego procesu produkcyjnego”, które będą 
+stosowane do różnych wyrobów budowlanych objętych 
+niniejszym rozporządzeniem.
+ 
+(41)
+ 
+Wszystkie podmioty gospodarcze w łańcuchu dostaw 
+i dystrybucji powinny podjąć odpowiednie środki 
+gwarantujące, że wprowadzają do obrotu lub udostęp­
+niają na rynku wyłącznie wyroby budowlane zgodne 
+z wymaganiami określonymi w niniejszym rozporzą­
+dzeniu, które mają na celu zapewnienie właściwości użyt­
+kowych wyrobów budowlanych i spełnienie podstawo­
+wych wymagań dotyczących obiektów budowlanych. 
+W szczególności importerzy i dystrybutorzy wyrobów 
+budowlanych powinni być świadomi, w odniesieniu do 
+których zasadniczych charakterystyk wyrobów istnieją 
+przepisy na rynku unijnym oraz jakie szczególne wyma­
+gania obowiązują w państwach członkowskich odnośnie 
+do podstawowych wymagań dotyczących obiektów 
+budowlanych, 
+i 
+powinni 
+stosować 
+tę 
+wiedzę 
+w zawieranych przez nich transakcjach handlowych.
+ 
+(42)
+ 
+Istotne znaczenie ma zapewnienie dostępności krajowych 
+przepisów 
+technicznych, 
+tak 
+by 
+przedsiębiorstwa, 
+w szczególności MŚP, mogły gromadzić wiarygodne 
+i dokładne informacje na temat prawa obowiązującego 
+w państwie członkowskim, w którym zamierzają wpro­
+wadzić do obrotu lub udostępnić na rynku swoje 
+wyroby. Państwa członkowskie powinny zatem w tym 
+celu wyznaczyć punkty kontaktowe ds. wyrobów budow­
+lanych. Oprócz zadań określonych w art. 10 ust. 1 
+rozporządzenia Parlamentu Europejskiego i Rady (WE) 
+nr 764/2008 z dnia 9 lipca 2008 r. ustanawiającego 
+procedury dotyczące stosowania niektórych krajowych 
+przepisów technicznych do produktów wprowadzonych 
+legalnie do obrotu w innym państwie członkowskim (
+ 
+1
+ 
+) 
+punkty kontaktowe ds. wyrobów budowlanych powinny 
+także dostarczać informacje na temat przepisów mają­
+cych 
+zastosowanie 
+w 
+przypadku 
+wbudowywania, 
+montażu lub instalacji określonego typu wyrobu budow­
+lanego.
+PL
+ 
+L 88/8 
+Dziennik Urzędowy Unii Europejskiej 
+4.4.2011
+ 
+(
+ 
+1
+ 
+) Dz.U. L 218 z 13.8.2008, s. 21.
+(43)
+ 
+Aby ułatwić swobodny przepływ towarów, punkty 
+kontaktowe 
+ds. 
+wyrobów 
+budowlanych 
+powinny 
+bezpłatnie dostarczać informacje o przepisach mających 
+na celu spełnienie podstawowych wymagań dotyczących 
+obiektów 
+budowlanych 
+mających 
+zastosowanie 
+do 
+zamierzonego zastosowania każdego wyrobu budowla­
+nego na terytorium każdego państwa członkowskiego. 
+Punkty kontaktowe ds. wyrobów budowlanych mogą 
+również dostarczać podmiotom gospodarczym dodat­
+kowe informacje lub spostrzeżenia. W przypadku dodat­
+kowych informacji należy zezwolić punktom kontak­
+towym ds. wyrobów budowlanych na pobieranie opłat 
+proporcjonalnych do kosztów dostarczenia takich infor­
+macji lub spostrzeżeń. Ponadto państwa członkowskie 
+powinny zapewnić punktom kontaktowym ds. wyrobów 
+budowlanych wystarczające środki.
+ 
+(44)
+ 
+Ze względu na to, że utworzenie punktów kontaktowych 
+ds. wyrobów budowlanych nie powinno ingerować 
+w podział funkcji pomiędzy właściwe organy w ramach 
+systemów regulacyjnych w państwach członkowskich, 
+należy umożliwić państwom członkowskim ustanawianie 
+punktów kontaktowych ds. wyrobów budowlanych 
+zgodnie z kompetencjami regionalnymi lub lokalnymi. 
+Należy umożliwić państwom członkowskim powierzanie 
+roli punktów kontaktowych ds. wyrobów budowlanych 
+istniejącym 
+punktom 
+kontaktowym 
+ustanowionym 
+zgodnie z innymi instrumentami Unii, by zapobiec zbęd­
+nemu mnożeniu punktów kontaktowych i uprościć 
+procedury administracyjne. Aby nie zwiększać kosztów 
+administracyjnych ponoszonych przez przedsiębiorstwa 
+i właściwe organy, państwa członkowskie powinny 
+mieć również możliwość powierzania roli punktów 
+kontaktowych ds. wyrobów budowlanych nie tylko 
+istniejącym służbom w ramach administracji publicznej, 
+lecz także krajowym centrom SOLVIT, izbom hand­
+lowym, 
+organizacjom 
+zawodowym 
+i 
+podmiotom 
+prywatnym.
+ 
+(45)
+ 
+Punkty kontaktowe ds. wyrobów budowlanych powinny 
+mieć możliwość wykonywania swoich zadań w sposób 
+pozwalający na unikanie konfliktów interesów, zwłaszcza 
+w kwestii procedur uzyskiwania oznakowania CE.
+ 
+(46)
+ 
+Dla zapewnienia równoważności i spójności we wdra­ 
+żaniu prawodawstwa harmonizacyjnego Unii państwa 
+członkowskie powinny sprawować skuteczny nadzór 
+rynku. Rozporządzenie (WE) nr 765/2008 określa 
+podstawowe warunki funkcjonowania takiego nadzoru 
+rynku, w szczególności w odniesieniu do programów, 
+finansowania i kar.
+ 
+(47)
+ 
+Odpowiedzialność państw członkowskich na ich teryto­
+rium za bezpieczeństwo, zdrowie i inne kwestie objęte 
+podstawowymi wymaganiami dotyczącymi obiektów 
+budowlanych powinna być uwzględniona w klauzuli 
+ochronnej zapewniającej właściwe środki ochronne.
+ 
+(48)
+ 
+Ze względu na to, że na terytorium całej Unii należy 
+zapewnić jednolity poziom skuteczności działania jedno­
+stek dokonujących oceny i weryfikacji stałości właści­
+wości użytkowych wyrobów budowlanych i że wszystkie 
+takie jednostki powinny wykonywać swoje zadania na 
+tym samym poziomie i w warunkach uczciwej konku­
+rencji, należy ustanowić wymagania mające zastosowanie 
+do takich jednostek, które chcą być notyfikowane do 
+celów niniejszego rozporządzenia. Należy również usta­
+nowić przepisy dotyczące udostępnienia odpowiednich 
+informacji o takich jednostkach i monitorowania ich 
+działalności.
+ 
+(49)
+ 
+Aby zapewnić spójny poziom jakości przy wykonywaniu 
+oceny i weryfikacji stałości właściwości użytkowych 
+wyrobów 
+budowlanych, należy 
+również 
+ustanowić 
+wymagania, które mają być spełnione przez organy 
+odpowiedzialne za notyfikowanie Komisji i innym 
+państwom członkowskim jednostek wykonujących te 
+zadania.
+ 
+(50)
+ 
+Zgodnie z art. 291 TFUE przepisy i zasady ogólne doty­
+czące kontroli przez państwa członkowskie wykony­
+wania uprawnień wykonawczych przez Komisję mają 
+zostać ustanowione z wyprzedzeniem w drodze rozpo­
+rządzenia przyjętego zgodnie ze zwykłą procedurą usta­
+wodawczą. Zanim to nowe rozporządzenie zostanie 
+przyjęte, 
+ma 
+wciąż 
+zastosowanie 
+decyzja 
+Rady 
+1999/468/WE z dnia 28 czerwca 1999 r. ustanawiająca 
+warunki wykonywania uprawnień wykonawczych przy­
+znanych Komisji (
+ 
+1
+ 
+), z wyjątkiem procedury regulacyjnej 
+połączonej z kontrolą, która nie ma już zastosowania.
+ 
+(51)
+ 
+Aby osiągnąć cele niniejszego rozporządzenia, Komisji 
+należy przyznać uprawnienia do przyjmowania określo­
+nych aktów delegowanych zgodnie z art. 290 TFUE. 
+Szczególne 
+znaczenie 
+ma 
+przeprowadzenie 
+przez 
+Komisję stosownych konsultacji podczas prac przygoto­
+wawczych, w tym na szczeblu ekspertów.
+ 
+(52)
+ 
+W szczególności Komisja powinna być uprawniona do 
+przyjmowania 
+aktów 
+delegowanych 
+określających 
+warunki wykorzystywania stron internetowych w celu 
+udostępniania deklaracji właściwości użytkowych.
+ 
+(53)
+ 
+Wprowadzenie ram prawnych koniecznych dla prawid­ 
+łowego 
+funkcjonowania 
+niniejszego 
+rozporządzenia 
+wymaga czasu, dlatego też data rozpoczęcia jego stoso­
+wania powinna być odroczona, z wyjątkiem stosowania 
+przepisów dotyczących wyznaczania JOT, organów noty­
+fikujących oraz jednostek notyfikowanych, utworzenia 
+organizacji JOT oraz powołania Stałego Komitetu ds. 
+Budownictwa.
+PL
+ 
+4.4.2011 
+Dziennik Urzędowy Unii Europejskiej 
+L 88/9
+ 
+(
+ 
+1
+ 
+) Dz.U. L 184 z 17.7.1999, s. 23.
+(54)
+ 
+Komisja 
+i 
+państwa 
+członkowskie, 
+we 
+współpracy 
+z zainteresowanymi stronami, powinny organizować 
+kampanie 
+informacyjne 
+dla 
+sektora 
+budowlanego, 
+w 
+szczególności 
+podmiotów 
+gospodarczych 
+i użytkowników wyrobów budowlanych, dotyczące usta­
+nowienia wspólnej terminologii technicznej, podziału 
+odpowiedzialności 
+między 
+poszczególne 
+podmioty 
+gospodarcze i użytkowników, umieszczania oznakowania 
+CE na wyrobach budowlanych, zmiany podstawowych 
+wymagań dotyczących obiektów budowlanych oraz 
+systemów oceny i weryfikacji stałości właściwości użyt­
+kowych.
+ 
+(55)
+ 
+Podstawowe wymaganie dotyczące obiektów budowla­
+nych, odnoszące się do zrównoważonego wykorzystania 
+zasobów 
+naturalnych, 
+powinno 
+uwzględniać 
+w szczególności możliwość recyklingu obiektów budow­
+lanych oraz wchodzących w ich skład materiałów i części 
+po 
+rozbiórce, 
+trwałość 
+obiektów 
+budowlanych 
+i 
+wykorzystanie 
+w 
+nich 
+przyjaznych 
+środowisku 
+surowców i materiałów wtórnych.
+ 
+(56)
+ 
+W celu przeprowadzenia oceny zrównoważonego wyko­
+rzystania zasobów i wpływu obiektów budowlanych na 
+środowisko należy, w miarę możliwości, stosować dekla­
+racje środowiskowe wyrobów.
+ 
+(57)
+ 
+Tam, gdzie jest to możliwe, należy opracować jednolite 
+metody europejskie w celu wykazania, że podstawowe 
+wymagania określone w załączniku I zostały spełnione.
+ 
+(58)
+ 
+Ponieważ cel niniejszego rozporządzenia, to jest zapew­
+nienie prawidłowego działania rynku wewnętrznego 
+wyrobów budowlanych poprzez ustanowienie zharmoni­
+zowanych specyfikacji technicznych do celów wyrażania 
+właściwości użytkowych wyrobów budowlanych, nie 
+może zostać osiągnięty w sposób wystarczający przez 
+państwa 
+członkowskie, 
+natomiast 
+ze 
+względu 
+na 
+rozmiary i skutki takich działań możliwe jest jego lepsze 
+osiągnięcie na poziomie Unii, Unia może przyjąć środki 
+zgodnie z zasadą pomocniczości określoną w art. 5 Trak­
+tatu o Unii Europejskiej. Zgodnie z zasadą proporcjonal­
+ności, określoną w tym artykule, niniejsze rozporzą­
+dzenie nie wykracza poza to, co jest konieczne do osiąg­
+nięcia powyższego celu,
+ 
+PRZYJMUJĄ NINIEJSZE ROZPORZĄDZENIE: 
+ROZDZIAŁ I
+ 
+PRZEPISY OGÓLNE
+ 
+Artykuł 1
+ 
+Przedmiot
+ 
+Niniejsze rozporządzenie określa warunki wprowadzania do 
+obrotu lub udostępniania na rynku wyrobów budowlanych, 
+poprzez ustanowienie zharmonizowanych zasad wyrażania 
+właściwości użytkowych wyrobów budowlanych w odniesieniu 
+do ich zasadniczych charakterystyk oraz zharmonizowanych 
+zasad stosowania oznakowania CE na tych wyrobach.
+ 
+Artykuł 2
+ 
+Definicje
+ 
+Na użytek niniejszego rozporządzenia stosuje się następujące 
+definicje: 
+1) „wyrób budowlany” oznacza każdy wyrób lub zestaw 
+wyprodukowany i wprowadzony do obrotu w celu trwa­ 
+łego wbudowania w obiektach budowlanych lub ich 
+częściach, którego właściwości wpływają na właściwości 
+użytkowe obiektów budowlanych w stosunku do podsta­
+wowych wymagań dotyczących obiektów budowlanych; 
+2) „zestaw” oznacza wyrób budowlany wprowadzony do 
+obrotu przez jednego producenta jako zestaw co najmniej 
+dwóch odrębnych składników, które muszą zostać połą­
+czone, aby mogły zostać włączone w obiektach budowla­
+nych; 
+3) „obiekty budowlane” oznaczają budynki i budowle; 
+4) „zasadnicze charakterystyki” oznaczają te cechy wyrobu 
+budowlanego, które odnoszą się 
+do 
+podstawowych 
+wymagań dotyczących obiektów budowlanych; 
+5) „właściwości użytkowe wyrobu budowlanego” oznaczają 
+właściwości użytkowe odnoszące się do odpowiednich 
+zasadniczych charakterystyk wyrażone jako poziom lub 
+klasa, lub w sposób opisowy; 
+6) „poziom” oznacza wynik oceny właściwości użytkowych 
+wyrobu budowlanego w odniesieniu do jego zasadniczych 
+charakterystyk, wyrażony jako wartość liczbowa; 
+7) „klasa” oznacza zakres poziomów właściwości użytkowych 
+wyrobu budowlanego ograniczony wartością minimalną 
+i maksymalną; 
+8) „wartość progowa” oznacza minimalny lub maksymalny 
+poziom właściwości użytkowych zasadniczych charaktery­
+styk wyrobu budowlanego; 
+9) „typ 
+wyrobu” 
+oznacza 
+zestaw 
+reprezentatywnych 
+poziomów 
+lub 
+klas 
+właściwości 
+użytkowych 
+w odniesieniu do zasadniczych charakterystyk wyrobu 
+budowlanego wyprodukowanego przy zastosowaniu danej 
+kombinacji 
+surowców 
+lub 
+innych 
+składników 
+w określonym procesie produkcyjnym; 
+10) „zharmonizowane 
+specyfikacje 
+techniczne” 
+oznaczają 
+normy zharmonizowane i europejskie dokumenty oceny;
+PL
+ 
+L 88/10 
+Dziennik Urzędowy Unii Europejskiej 
+4.4.2011
+11) „norma zharmonizowana” oznacza normę przyjętą przez 
+jeden z europejskich organów normalizacyjnych wymienio­
+nych w załączniku I do dyrektywy 98/34/WE, na 
+podstawie wniosku wydanego przez Komisję, zgodnie 
+z art. 6 tej dyrektywy; 
+12) „europejski dokument oceny” oznacza dokument przyjęty 
+przez organizację JOT do celów wydawania europejskich 
+ocen technicznych; 
+13) „europejska ocena techniczna” oznacza udokumentowaną 
+ocenę właściwości użytkowych wyrobu budowlanego 
+w odniesieniu do jego zasadniczych charakterystyk zgodnie 
+z odnośnym europejskim dokumentem oceny; 
+14) „zamierzone zastosowanie” oznacza zamierzone zastoso­
+wanie wyrobu budowlanego określone w mającej zastoso­
+wanie zharmonizowanej specyfikacji technicznej; 
+15) „specjalna dokumentacja techniczna” oznacza dokumen­
+tację wykazującą, że metody stosowane w ramach mają­
+cego zastosowanie systemu oceny i weryfikacji stałości 
+właściwości użytkowych zostały zastąpione innymi meto­
+dami, o ile rezultaty osiągane z użyciem tych innych metod 
+są równoważne z rezultatami osiąganymi z użyciem metod 
+badawczych określonych w stosownej normie zharmonizo­
+wanej; 
+16) „udostępnianie na rynku” oznacza każde dostarczanie 
+wyrobu budowlanego w celu dystrybucji lub zastosowania 
+na rynku unijnym w ramach działalności handlowej, 
+odpłatnie lub nieodpłatnie; 
+17) „wprowadzenie do obrotu” oznacza udostępnienie po raz 
+pierwszy wyrobu budowlanego na rynku unijnym; 
+18) „podmiot gospodarczy” oznacza producenta, importera, 
+dystrybutora lub upoważnionego przedstawiciela; 
+19) „producent” oznacza osobę fizyczną lub prawną, która 
+produkuje wyrób budowlany lub która zleca zaprojekto­
+wanie 
+lub 
+wyprodukowanie 
+wyrobu 
+budowlanego 
+i wprowadza ten wyrób do obrotu pod własną nazwą 
+lub znakiem firmowym; 
+20) „dystrybutor” 
+oznacza 
+osobę 
+fizyczną 
+lub 
+prawną 
+w łańcuchu dostaw, inną niż producent lub importer, 
+która udostępnia wyrób budowlany na rynku; 
+21) „importer” oznacza osobę fizyczną lub prawną mającą 
+siedzibę w Unii, która wprowadza wyrób budowlany 
+z państwa trzeciego do obrotu w Unii; 
+22) „upoważniony przedstawiciel” oznacza osobę fizyczną lub 
+prawną mającą siedzibę w Unii, która otrzymała pisemne 
+pełnomocnictwo producenta do wykonywania w jego 
+imieniu określonych zadań; 
+23) „wycofanie z obrotu” oznacza każdy środek, którego celem 
+jest zapobieżenie udostępnieniu na rynku wyrobu budow­
+lanego w danym łańcuchu dostaw; 
+24) „wycofanie od użytkowników” oznacza każdy środek, 
+którego celem jest doprowadzenie do zwrotu wyrobu 
+budowlanego, który został już udostępniony użytkowni­
+kowi końcowemu; 
+25) „akredytacja” ma znaczenie określone w rozporządzeniu 
+(WE) nr 765/2008; 
+26) „zakładowa kontrola produkcji” oznacza udokumentowaną 
+stałą i wewnętrzną kontrolę produkcji w zakładzie produk­
+cyjnym zgodnie ze stosownymi zharmonizowanymi specy­
+fikacjami technicznymi; 
+27) „mikroprzedsiębiorstwo” oznacza mikroprzedsiębiorstwo 
+spełniające wymogi definicji zawartej w zaleceniu Komisji 
+z dnia 6 maja 2003 r. dotyczącym definicji przedsiębiorstw 
+mikro, małych i średnich (
+ 
+1
+ 
+); 
+28) „cykl życia” oznacza kolejne powiązane ze sobą etapy cyklu 
+życia wyrobu budowlanego, od nabycia surowca lub jego 
+pozyskania z zasobów naturalnych do ostatecznego 
+usunięcia wyrobu.
+ 
+Artykuł 3
+ 
+Podstawowe wymagania dotyczące obiektów 
+budowlanych i zasadnicze charakterystyki wyrobów 
+budowlanych
+ 
+1. 
+Podstawowe wymagania dotyczące obiektów budowla­
+nych przedstawione w załączniku I są podstawą opracowania 
+mandatów na opracowanie norm i zharmonizowanych specyfi­
+kacji technicznych. 
+2. 
+Zasadnicze charakterystyki wyrobów budowlanych określa 
+się 
+w 
+zharmonizowanych 
+specyfikacjach 
+technicznych 
+w odniesieniu do podstawowych wymagań dotyczących 
+obiektów budowlanych. 
+3. 
+Dla konkretnych rodzin wyrobów budowlanych objętych 
+normą zharmonizowaną – w stosownych przypadkach i w 
+związku z ich zamierzonym zastosowaniem zdefiniowanym 
+w normach zharmonizowanych – Komisja określa za pomocą 
+aktów delegowanych zgodnie z art. 60 zasadnicze charaktery­
+styki, w odniesieniu do których producent deklaruje właściwości 
+użytkowe wyrobu w chwili jego wprowadzenia do obrotu.
+PL
+ 
+4.4.2011 
+Dziennik Urzędowy Unii Europejskiej 
+L 88/11
+ 
+(
+ 
+1
+ 
+) Dz.U. L 124 z 20.5.2003, s. 36.
+W stosownych przypadkach Komisja określa również za 
+pomocą aktów delegowanych zgodnie z art. 60 wartości 
+progowe dla tych właściwości użytkowych w odniesieniu do 
+zasadniczych charakterystyk podlegających zadeklarowaniu.
+ 
+ROZDZIAŁ II
+ 
+DEKLARACJA 
+WŁAŚCIWOŚCI 
+UŻYTKOWYCH 
+ORAZ 
+OZNAKOWANIE CE
+ 
+Artykuł 4
+ 
+Deklaracja właściwości użytkowych
+ 
+1. 
+Jeżeli wyrób budowlany objęty jest normą zharmonizo­
+waną lub jest zgodny z wydaną dla niego europejską oceną 
+techniczną, producent sporządza deklarację właściwości użytko­
+wych przy wprowadzeniu takiego wyrobu do obrotu. 
+2. 
+Jeżeli wyrób budowlany objęty jest normą zharmonizo­
+waną lub jest zgodny z wydaną dla niego europejską oceną 
+techniczną, informacje w każdej formie o jego właściwościach 
+użytkowych w odniesieniu do zasadniczych charakterystyk, jak 
+określono w mającej zastosowanie zharmonizowanej specyfi­
+kacji technicznej, można podać wyłącznie, o ile zostały 
+włączone do deklaracji właściwości użytkowych i w niej 
+wyszczególnione, z wyjątkiem przypadków, gdy zgodnie z art. 
+5 nie sporządzono deklaracji właściwości użytkowych. 
+3. 
+Przez sporządzenie deklaracji właściwości użytkowych 
+producent przyjmuje na siebie odpowiedzialność za zgodność 
+wyrobu budowlanego z zadeklarowanymi w ten sposób właści­
+wościami użytkowymi. O ile brak obiektywnych wskazań, że 
+jest inaczej, państwa członkowskie przyjmują, że deklaracja 
+właściwości użytkowych sporządzona przez producenta jest 
+dokładna i wiarygodna.
+ 
+Artykuł 5
+ 
+Odstępstwa od obowiązku sporządzania deklaracji 
+właściwości użytkowych
+ 
+W drodze odstępstwa od art. 4 ust. 1 i jeżeli brak jest unijnych 
+lub krajowych przepisów wymagających deklaracji zasadniczych 
+charakterystyk w miejscu, gdzie wyroby budowlane są przezna­
+czone do stosowania, producent może odstąpić od sporzą­
+dzenia deklaracji właściwości użytkowych przy wprowadzeniu 
+do obrotu wyrobu budowlanego objętego normą zharmonizo­
+waną, gdy: 
+a) wyrób budowlany jest produkowany jednostkowo lub na 
+zamówienie 
+w 
+nieseryjnym 
+procesie 
+produkcyjnym 
+w odpowiedzi na specjalne zlecenie oraz wbudowywany 
+w jednym określonym obiekcie budowlanym, przez produ­
+centa, który ponosi odpowiedzialność za bezpieczne wbudo­
+wanie wyrobu w obiekty budowlane, zgodnie z mającymi 
+zastosowanie przepisami krajowymi i na odpowiedzialność 
+osób, które zgodnie z mającymi zastosowanie przepisami 
+krajowymi są odpowiedzialne za bezpieczne wykonanie 
+obiektów budowlanych; 
+b) wyrób budowlany jest produkowany na terenie budowy 
+w celu wbudowania go w dane obiekty budowlane zgodnie 
+z mającymi zastosowanie przepisami krajowymi i na odpo­
+wiedzialność osób, które zgodnie z mającymi zastosowanie 
+przepisami krajowymi są odpowiedzialne za bezpieczne 
+wykonanie obiektów budowlanych; lub 
+c) wyrób budowlany jest produkowany w sposób tradycyjny 
+lub zgodny z wymogami ochrony zabytków i w nieprzemy­
+słowym procesie produkcyjnym w celu właściwej renowacji 
+obiektów budowlanych urzędowo chronionych jako część 
+wyznaczonego środowiska lub z powodu ich szczególnej 
+wartości 
+architektonicznej 
+lub 
+historycznej 
+zgodnie 
+z mającymi zastosowanie przepisami krajowymi.
+ 
+Artykuł 6
+ 
+Zawartość deklaracji właściwości użytkowych
+ 
+1. 
+Deklaracja właściwości użytkowych wyraża właściwości 
+użytkowe wyrobów budowlanych w odniesieniu do zasadni­
+czych charakterystyk tych wyrobów zgodnie z odpowiednimi 
+zharmonizowanymi specyfikacjami technicznymi. 
+2. 
+Deklaracja 
+właściwości 
+użytkowych 
+zawiera 
+w szczególności następujące informacje: 
+a) określenie typu wyrobu, dla którego została sporządzona 
+deklaracja właściwości użytkowych; 
+b) system lub systemy oceny i weryfikacji stałości właściwości 
+użytkowych 
+wyrobu 
+budowlanego, 
+przedstawione 
+w załączniku V; 
+c) numer referencyjny i datę wydania normy zharmonizowanej 
+lub europejskiej oceny technicznej, która została zastoso­
+wana do oceny każdej zasadniczej charakterystyki; 
+d) w stosownych przypadkach, numer referencyjny zastoso­
+wanej specjalnej dokumentacji technicznej oraz wymagania, 
+które wyrób spełnia zgodnie z zapewnieniem producenta. 
+3. 
+Deklaracja właściwości użytkowych zawiera ponadto: 
+a) zamierzone zastosowanie lub zastosowania wyrobu budow­
+lanego zgodnie z mającą zastosowanie zharmonizowaną 
+specyfikacją techniczną; 
+b) wykaz zasadniczych charakterystyk określonych w tej zhar­
+monizowanej specyfikacji technicznej dla deklarowanego 
+zamierzonego zastosowania lub zastosowań wyrobu;
+PL
+ 
+L 88/12 
+Dziennik Urzędowy Unii Europejskiej 
+4.4.2011
+c) właściwości użytkowe co najmniej jednej z zasadniczych 
+charakterystyk wyrobu budowlanego odpowiednich dla 
+deklarowanego zamierzonego zastosowania lub zastosowań; 
+d) w stosownych przypadkach, właściwości użytkowe wyrobu 
+budowlanego, wyrażone w poziomach lub klasach, lub 
+w sposób opisowy, jeśli jest to konieczne, na podstawie 
+obliczeń, w odniesieniu do jego zasadniczych charakterystyk 
+określonych zgodnie z art. 3 ust. 3; 
+e) właściwości użytkowe tych zasadniczych charakterystyk 
+wyrobu budowlanego, które wiążą się z zamierzonym zasto­
+sowaniem lub zastosowaniami, z uwzględnieniem przepisów 
+odnoszących się do zamierzonego zastosowania lub zasto­
+sowań w miejscu, gdzie producent zamierza udostępnić 
+wyrób na rynku; 
+f) dla wymienionych w wykazie zasadniczych charakterystyk, 
+co do których nie są deklarowane żadne właściwości użyt­
+kowe, litery „NPD” (właściwości użytkowe nieustalone; ang.
+ 
+No Performance Determined
+); 
+g) jeżeli dla danego wyrobu budowlanego wydano europejską 
+ocenę techniczną, właściwości użytkowe tego wyrobu 
+budowlanego, wyrażone w poziomach lub klasach, lub 
+w sposób opisowy, w odniesieniu do wszystkich zasadni­
+czych charakterystyk zawartych w odnośnej europejskiej 
+ocenie technicznej. 
+4. 
+Deklarację właściwości użytkowych sporządza się, stosując 
+wzór przedstawiony w załączniku III. 
+5. 
+Informacje, 
+o 
+których 
+mowa 
+w 
+art. 
+31 
+lub, 
+w odpowiednim przypadku, w art. 33 rozporządzenia (WE) 
+nr 1907/2006, są udzielane wraz z deklaracją właściwości użyt­
+kowych.
+ 
+Artykuł 7
+ 
+Dostarczanie deklaracji właściwości użytkowych
+ 
+1. 
+Dla każdego wyrobu udostępnianego na rynku dostarcza 
+się kopię deklaracji właściwości użytkowych w formie papie­
+rowej albo przesyła się ją drogą elektroniczną. 
+Jednak w przypadku gdy partia tego samego wyrobu jest dostar­
+czana jednemu użytkownikowi, może jej towarzyszyć jedna 
+kopia deklaracji właściwości użytkowych w formie papierowej 
+albo przesłana drogą elektroniczną. 
+2. 
+Kopię deklaracji właściwości użytkowych w formie papie­
+rowej dostarcza się na żądanie odbiorcy. 
+3. 
+W drodze odstępstwa od ust. 1 i 2 kopia deklaracji właści­
+wości użytkowych może zostać udostępniona na stronie inter­
+netowej zgodnie z warunkami ustalonymi przez Komisję za 
+pomocą aktów delegowanych zgodnie z art. 60. Takie warunki 
+gwarantują między innymi, że deklaracja własności użytkowych 
+pozostaje dostępna co najmniej przez okres, o którym mowa 
+w art. 11 ust. 2. 
+4. 
+Deklaracja właściwości użytkowych jest dostarczana 
+w języku lub językach wymaganych przez państwo członkow­
+skie, w którym wyrób jest udostępniony.
+ 
+Artykuł 8
+ 
+Zasady ogólne i stosowanie oznakowania CE
+ 
+1. 
+Ogólne zasady określone w art. 30 rozporządzenia (WE) 
+nr 765/2008 mają zastosowanie do oznakowania CE. 
+2. 
+Oznakowanie CE umieszcza się na wyrobach budowla­
+nych, dla których producent sporządził deklarację właściwości 
+użytkowych zgodnie z art. 4 i 6. 
+Jeżeli deklaracja właściwości użytkowych nie została sporzą­
+dzona przez producenta zgodnie z art. 4 i 6, oznakowania 
+CE nie umieszcza się. 
+Poprzez umieszczenie lub zlecenie umieszczenia oznakowania 
+CE producent wskazuje, że bierze na siebie odpowiedzialność za 
+zgodność wyrobu budowlanego z deklarowanymi właściwo­ 
+ściami użytkowymi oraz za jego zgodność ze wszystkimi mają­
+cymi zastosowanie wymaganiami określonymi w niniejszym 
+rozporządzeniu i innym stosownym ustawodawstwie harmoni­
+zacyjnym Unii odnoszącym się do umieszczania tego oznako­
+wania. 
+Zasady umieszczania oznakowania CE określone w innych 
+stosownych aktach prawodawstwa harmonizacyjnego Unii 
+mają zastosowanie bez uszczerbku dla przepisów niniejszego 
+ustępu. 
+3. 
+Dla każdego wyrobu budowlanego objętego normą zhar­
+monizowaną lub dla którego wydana została europejska ocena 
+techniczna oznakowanie CE jest jedynym oznakowaniem 
+potwierdzającym 
+zgodność 
+wyrobu 
+budowlanego 
+z deklarowanymi właściwościami użytkowymi w odniesieniu 
+do jego zasadniczych charakterystyk, objętych tą normą zhar­
+monizowaną lub europejską oceną techniczną. 
+Państwa członkowskie nie wprowadzają zatem do środków 
+krajowych żadnych odniesień lub wycofują z nich wszelkie 
+odniesienia do innego niż oznakowanie CE oznakowania 
+potwierdzającego zgodność z deklarowanymi właściwościami 
+użytkowymi w odniesieniu do zasadniczych charakterystyk 
+objętych normą zharmonizowaną. 
+4. 
+Państwo członkowskie nie zakazuje ani nie utrudnia, na 
+swoim terytorium lub w zakresie swojej odpowiedzialności, 
+udostępniania na rynku ani stosowania wyrobów budowlanych 
+noszących oznakowanie CE, jeśli deklarowane właściwości użyt­
+kowe odpowiadają wymaganiom dla takiego zastosowania 
+w danym państwie członkowskim.
+PL
+ 
+4.4.2011 
+Dziennik Urzędowy Unii Europejskiej 
+L 88/13
+5. 
+Państwo członkowskie zapewnia, by stosowanie wyrobów 
+budowlanych noszących oznakowanie CE nie było utrudnione 
+przez przepisy lub warunki wprowadzane przez organy 
+publiczne lub przez organizacje prywatne działające jako przed­
+siębiorstwo publiczne lub jako organ publiczny ze względu na 
+swoją pozycję monopolistyczną lub na mocy mandatu publicz­
+nego, jeśli deklarowane właściwości użytkowe odpowiadają 
+wymaganiom dla takiego zastosowania w danym państwie 
+członkowskim. 
+6. 
+Metody stosowane przez państwa członkowskie w ich 
+wymaganiach dotyczących obiektów budowlanych oraz inne 
+krajowe przepisy związane z zasadniczymi charakterystykami 
+wyrobów budowlanych są zgodne z normami zharmonizowa­
+nymi.
+ 
+Artykuł 9
+ 
+Zasady i warunki umieszczania oznakowania CE
+ 
+1. 
+Oznakowanie CE umieszcza się na wyrobie budowlanym 
+lub na jego etykiecie w sposób widoczny, czytelny i trwały. 
+W przypadku gdy nie jest to możliwe lub nie można tego 
+zapewnić z uwagi na charakter wyrobu, umieszcza się je na 
+opakowaniu lub na dokumentach towarzyszących. 
+2. 
+Oznakowaniu CE towarzyszą dwie ostatnie cyfry roku, 
+w którym zostało ono po raz pierwszy umieszczone, nazwa 
+i adres siedziby producenta lub znak identyfikujący pozwalający 
+w łatwy i jednoznaczny sposób określić nazwę i adres produ­
+centa, niepowtarzalny kod identyfikacyjny typu wyrobu, numer 
+referencyjny deklaracji właściwości użytkowych, poziom lub 
+klasa zadeklarowanych właściwości użytkowych, odniesienie 
+do zastosowanej zharmonizowanej specyfikacji technicznej, 
+w stosownych przypadkach numer identyfikacyjny jednostki 
+notyfikowanej oraz zamierzone zastosowanie wyrobu określone 
+w zastosowanej zharmonizowanej specyfikacji technicznej. 
+3. 
+Oznakowanie CE umieszcza się przed wprowadzeniem 
+wyrobu budowlanego do obrotu. Może mu towarzyszyć pikto­
+gram lub inny znak wyraźnie wskazujący na szczególne zagro­ 
+żenie lub zastosowanie.
+ 
+Artykuł 10
+ 
+Punkty kontaktowe ds. wyrobów budowlanych
+ 
+1. 
+Państwa członkowskie wyznaczają punkty kontaktowe ds. 
+wyrobów budowlanych zgodnie z art. 9 rozporządzenia (WE) 
+nr 764/2008. 
+2. 
+Artykuły 10 i 11 rozporządzenia (WE) nr 764/2008 mają 
+zastosowanie do punktów kontaktowych ds. wyrobów budow­
+lanych. 
+3. 
+W stosunku do zadań określonych w art. 10 ust. 1 rozpo­
+rządzenia (WE) nr 764/2008 każde państwo członkowskie 
+zapewnia, by punkty kontaktowe ds. wyrobów budowlanych 
+dostarczały przejrzystych i łatwych do zrozumienia informacji 
+o przepisach obowiązujących na terytorium tego państwa 
+członkowskiego, mających na celu spełnienie podstawowych 
+wymagań dotyczących obiektów budowlanych mających zasto­
+sowanie do zamierzonego zastosowania każdego wyrobu 
+budowlanego, jak określono w art. 6 ust. 3 lit. e) niniejszego 
+rozporządzenia. 
+4. 
+Punkty kontaktowe ds. wyrobów budowlanych mają 
+możliwość wykonywania swoich zadań w sposób pozwalający 
+na unikanie konfliktów interesów, zwłaszcza w kwestii procedur 
+uzyskiwania oznakowania CE.
+ 
+ROZDZIAŁ III
+ 
+OBOWIĄZKI PODMIOTÓW GOSPODARCZYCH
+ 
+Artykuł 11
+ 
+Obowiązki producentów
+ 
+1. 
+Producenci sporządzają deklarację właściwości użytko­
+wych zgodnie z art. 4 i 6 oraz umieszczają oznakowanie CE 
+zgodnie z art. 8 i 9. 
+Producenci sporządzają, jako podstawę do deklaracji właści­
+wości 
+użytkowych, 
+dokumentację 
+techniczną 
+opisującą 
+wszystkie istotne elementy związane z wymaganym systemem 
+oceny i weryfikacji stałości właściwości użytkowych. 
+2. 
+Producenci przechowują dokumentację techniczną oraz 
+deklarację właściwości użytkowych przez okres 10 lat od 
+momentu wprowadzenia wyrobu budowlanego do obrotu. 
+W stosownych przypadkach Komisja może za pomocą aktów 
+delegowanych zgodnie z art. 60 zmienić ten okres dla określo­
+nych rodzin wyrobów budowlanych na podstawie oczekiwanej 
+długości życia lub roli wyrobu budowlanego w obiektach 
+budowlanych. 
+3. 
+Producenci zapewniają istnienie procedur zapewniających 
+utrzymanie w produkcji seryjnej deklarowanych właściwości 
+użytkowych wyrobu. Odpowiednio uwzględniane są zmiany 
+w typie wyrobu oraz w mających zastosowanie zharmonizowa­
+nych specyfikacjach technicznych. 
+Producenci – w stosownych przypadkach w odniesieniu do 
+zapewnienia dokładności, wiarygodności i stałości deklarowa­
+nych 
+właściwości 
+użytkowych 
+wyrobu 
+budowlanego 
+– 
+prowadzą badania próbek wyrobów budowlanych wprowadzo­
+nych do obrotu lub udostępnionych na rynku, rozpatrują rekla­
+macje oraz – jeśli wystąpi taka konieczność – prowadzą 
+ewidencję skarg, wyrobów niezgodnych i wyrobów wycofanych 
+od użytkowników, a także informują dystrybutorów o tego 
+rodzaju działaniach w zakresie monitorowania. 
+4. 
+Producenci zapewniają, aby ich wyroby budowlane były 
+opatrzone numerem typu, partii lub serii lub inną informacją 
+umożliwiającą ich identyfikację, lub w przypadku gdy wielkość 
+lub charakter wyrobu to uniemożliwiają, aby wymagane infor­
+macje były umieszczone na opakowaniu lub w dokumencie 
+towarzyszącym wyrobowi budowlanemu.
+PL
+ 
+L 88/14 
+Dziennik Urzędowy Unii Europejskiej 
+4.4.2011
+5. 
+Producenci wskazują swoją nazwę, zastrzeżoną nazwę 
+handlową lub zastrzeżony znak towarowy i swój adres kontak­
+towy na wyrobie budowlanym lub – jeśli nie jest to możliwe – 
+na jego opakowaniu lub w dokumencie mu towarzyszącym. 
+Adres wskazuje konkretny punkt, w którym można skontak­
+tować się z producentem. 
+6. 
+Producenci podczas udostępniania wyrobu budowlanego 
+na rynku zapewniają, aby wyrobowi towarzyszyły instrukcje 
+obsługi i informacje na temat bezpieczeństwa w języku okre­ 
+ślonym przez dane państwo członkowskie, łatwo zrozumiałym 
+dla użytkowników. 
+7. 
+Producenci, którzy uznają lub mają powody, by uważać, 
+że wprowadzony przez nich do obrotu wyrób budowlany nie 
+jest zgodny z deklaracją właściwości użytkowych lub z innymi 
+mającymi 
+zastosowanie 
+wymaganiami 
+określonymi 
+w 
+niniejszym 
+rozporządzeniu, 
+natychmiast 
+podejmują 
+konieczne środki naprawcze w celu zapewnienia zgodności 
+wyrobu lub, stosownie do okoliczności, jego wycofania 
+z obrotu lub od użytkowników. Ponadto jeżeli wyrób budow­
+lany stwarza zagrożenie, producenci niezwłocznie informują 
+o tym właściwe organy krajowe państw członkowskich, 
+w których udostępnili wyrób budowlany, podając szczegółowe 
+informacje, w szczególności o niezgodności oraz o podjętych 
+środkach naprawczych. 
+8. 
+Na uzasadnione żądanie właściwego organu krajowego 
+producenci 
+dostarczają 
+mu 
+wszelkie 
+informacje 
+i dokumentację, niezbędne do wykazania zgodności danego 
+wyrobu budowlanego z deklaracją właściwości użytkowych i z 
+innymi mającymi zastosowanie wymaganiami określonymi 
+w niniejszym rozporządzeniu, w języku łatwo zrozumiałym 
+dla tego organu. Na żądanie tego organu współpracują z nim 
+we wszelkich działaniach podjętych w celu usunięcia zagrożeń, 
+jakie stwarzają wyroby budowlane wprowadzone przez nich do 
+obrotu.
+ 
+Artykuł 12
+ 
+Upoważnieni przedstawiciele
+ 
+1. 
+Na podstawie pisemnego pełnomocnictwa producent 
+może wyznaczyć upoważnionego przedstawiciela. 
+Sporządzanie dokumentacji technicznej nie wchodzi w zakres 
+pełnomocnictwa udzielonego upoważnionemu przedstawicie­
+lowi. 
+2. 
+Upoważniony przedstawiciel wykonuje zadania określone 
+w pełnomocnictwie. Pełnomocnictwo pozwala upoważnionemu 
+przedstawicielowi na wykonywanie co najmniej następujących 
+zadań: 
+a) przechowywanie 
+deklaracji 
+właściwości 
+użytkowych 
+i 
+dokumentacji 
+technicznej 
+do 
+dyspozycji krajowych 
+organów nadzoru przez okres, o którym mowa w art. 11 
+ust. 2; 
+b) na uzasadnione żądanie właściwego organu krajowego 
+dostarczanie 
+temu 
+organowi 
+wszelkich 
+informacji 
+i dokumentacji, niezbędnych do wykazania zgodności 
+danego wyrobu budowlanego z deklaracją właściwości użyt­
+kowych i z innymi mającymi zastosowanie wymaganiami 
+określonymi w niniejszym rozporządzeniu; 
+c) na żądanie właściwych organów krajowych współpracę 
+z nimi we wszelkich działaniach podjętych w celu usunięcia 
+zagrożeń, jakie stwarzają wyroby budowlane objęte pełno­
+mocnictwem udzielonym upoważnionemu przedstawicie­
+lowi.
+ 
+Artykuł 13
+ 
+Obowiązki importerów
+ 
+1. 
+Importerzy wprowadzają do obrotu w Unii wyłącznie 
+wyroby budowlane, które są zgodne z mającymi zastosowanie 
+wymaganiami określonymi w niniejszym rozporządzeniu. 
+2. 
+Przed wprowadzeniem wyrobu budowlanego do obrotu 
+importerzy zapewniają przeprowadzenie przez producenta 
+oceny i weryfikacji stałości właściwości użytkowych. Zapewniają 
+także sporządzenie przez producenta dokumentacji technicznej, 
+o której mowa w art. 11 ust. 1 akapit drugi, oraz deklaracji 
+właściwości użytkowych zgodnie z art. 4 i 6. Importerzy 
+zapewniają także, by wyrób nosił, gdy jest to wymagane, ozna­
+kowanie CE, by wyrobowi towarzyszyły wymagane dokumenty 
+oraz by producent spełnił wymagania określone w art. 11 ust. 4 
+i 5. 
+W przypadku gdy importer uznaje lub ma powody, by uważać, 
+że wyrób budowlany nie jest zgodny z deklaracją właściwości 
+użytkowych lub z innymi mającymi zastosowanie wymaganiami 
+określonymi w niniejszym rozporządzeniu, importer nie wpro­
+wadza wyrobu budowlanego do obrotu, dopóki wyrób ten nie 
+będzie odpowiadał towarzyszącej mu deklaracji właściwości 
+użytkowych i innym mającym zastosowanie wymaganiom okre­ 
+ślonym w niniejszym rozporządzeniu lub dopóki deklaracja 
+właściwości użytkowych nie zostanie poprawiona. Ponadto 
+jeżeli wyrób budowlany stwarza zagrożenie, importer informuje 
+o tym producenta oraz organy nadzoru rynku. 
+3. 
+Importerzy wskazują swoją nazwę, nazwę zastrzeżoną lub 
+zastrzeżony znak towarowy i swój adres kontaktowy na 
+wyrobie budowlanym lub – jeśli nie jest to możliwe – na 
+jego opakowaniu lub w dokumencie towarzyszącym wyrobowi. 
+4. 
+Importerzy podczas udostępniania wyrobu budowlanego 
+na rynku zapewniają, by wyrobowi towarzyszyły instrukcje 
+obsługi i informacje na temat bezpieczeństwa w języku okre­ 
+ślonym przez dane państwo członkowskie, łatwo zrozumiałym 
+dla użytkowników.
+PL
+ 
+4.4.2011 
+Dziennik Urzędowy Unii Europejskiej 
+L 88/15
+5. 
+Importerzy zapewniają, aby – w czasie, gdy ponoszą oni 
+odpowiedzialność za wyrób budowlany – warunki jego prze­
+chowywania lub transportu nie wpływały niekorzystnie na jego 
+zgodność z deklaracją właściwości użytkowych i z innymi mają­
+cymi zastosowanie wymaganiami określonymi w niniejszym 
+rozporządzeniu. 
+6. 
+Importerzy – w stosownych przypadkach w odniesieniu 
+do zapewnienia dokładności, wiarygodności i stałości deklaro­
+wanych właściwości użytkowych wyrobu budowlanego – 
+prowadzą badania próbek wyrobów budowlanych wprowadzo­
+nych do obrotu lub udostępnionych na rynku, rozpatrują rekla­
+macje oraz – jeśli wystąpi taka konieczność – prowadzą 
+ewidencję skarg, wyrobów niezgodnych i wyrobów wycofanych 
+od użytkowników, a także informują dystrybutorów o tego 
+rodzaju działaniach w zakresie monitorowania. 
+7. 
+Importerzy, którzy uznają lub mają powody, by uważać, 
+że wprowadzony przez nich do obrotu wyrób budowlany nie 
+jest zgodny z deklaracją właściwości użytkowych lub z innymi 
+mającymi 
+zastosowanie 
+wymaganiami 
+określonymi 
+w 
+niniejszym 
+rozporządzeniu, 
+natychmiast 
+podejmują 
+konieczne środki naprawcze w celu zapewnienia zgodności 
+wyrobu lub, stosownie do okoliczności, jego wycofania 
+z obrotu lub od użytkowników. Ponadto jeżeli wyrób stwarza 
+zagrożenie, importerzy niezwłocznie informują o tym właściwe 
+organy krajowe państw członkowskich, w których udostępnili 
+wyrób 
+budowlany, 
+podając 
+szczegółowe 
+informacje, 
+w szczególności o niezgodności oraz o podjętych środkach 
+naprawczych. 
+8. 
+Importerzy przechowują kopię deklaracji właściwości 
+użytkowych do dyspozycji organów nadzoru rynku przez okres, 
+o którym mowa w art. 11 ust. 2, i zapewniają, by dokumentacja 
+techniczna była udostępniana tym organom na ich żądanie. 
+9. 
+Na uzasadnione żądanie właściwego organu krajowego 
+importerzy 
+dostarczają 
+mu 
+wszelkie 
+informacje 
+i dokumentację, niezbędne do wykazania zgodności danego 
+wyrobu budowlanego z deklaracją właściwości użytkowych i z 
+innymi mającymi zastosowanie wymaganiami określonymi 
+w niniejszym rozporządzeniu, w języku łatwo zrozumiałym 
+dla tego organu. Na żądanie tego organu współpracują z nim 
+we wszelkich działaniach podjętych w celu usunięcia zagrożeń, 
+jakie stwarzają wyroby budowlane wprowadzone przez nich do 
+obrotu.
+ 
+Artykuł 14
+ 
+Obowiązki dystrybutorów
+ 
+1. 
+Udostępniając wyrób budowlany na rynku, dystrybutorzy 
+działają z należytą starannością w odniesieniu do wymagań 
+niniejszego rozporządzenia. 
+2. 
+Przed udostępnieniem wyrobu budowlanego na rynku 
+dystrybutorzy zapewniają, by wyrób nosił, gdy jest to wyma­
+gane, oznakowanie CE i by towarzyszyły mu dokumenty wyma­
+gane zgodnie z niniejszym rozporządzeniem oraz instrukcje 
+obsługi i informacje dotyczące bezpieczeństwa w języku okre­ 
+ślonym przez dane państwo członkowskie, łatwo zrozumiałym 
+dla użytkowników. Dystrybutorzy zapewniają także spełnienie 
+przez producenta i importera wymagań określonych odpo­
+wiednio w art. 11 ust. 4 i 5 i art. 13 ust. 3. 
+W przypadku gdy dystrybutor uznaje lub ma powody, by 
+uważać, że wyrób budowlany nie jest zgodny z deklaracją 
+właściwości użytkowych lub z innymi mającymi zastosowanie 
+wymaganiami określonymi w niniejszym rozporządzeniu, 
+dystrybutor nie udostępnia wyrobu budowlanego na rynku, 
+dopóki wyrób ten nie będzie zgodny z towarzyszącą mu dekla­
+racją właściwości użytkowych i z innymi mającymi zastoso­
+wanie wymaganiami określonymi w niniejszym rozporządzeniu 
+lub dopóki deklaracja właściwości użytkowych nie zostanie 
+poprawiona. Ponadto jeżeli wyrób stwarza zagrożenie, dystry­
+butor informuje o tym producenta lub importera oraz organy 
+nadzoru rynku. 
+3. 
+Dystrybutor zapewnia, aby – w czasie, gdy ponosi on 
+odpowiedzialność za wyrób budowlany – warunki jego prze­
+chowywania lub transportu nie wpływały niekorzystnie na jego 
+zgodność z deklaracją właściwości użytkowych i z innymi mają­
+cymi zastosowanie wymaganiami określonymi w niniejszym 
+rozporządzeniu. 
+4. 
+Dystrybutorzy, którzy uznają lub mają powody, by 
+uważać, że udostępniony przez nich na rynku wyrób budow­
+lany nie jest zgodny z deklaracją właściwości użytkowych lub 
+z innymi mającymi zastosowanie wymaganiami określonymi 
+w niniejszym rozporządzeniu, upewniają się, że podejmowane 
+są środki naprawcze niezbędne do zapewnienia zgodności 
+wyrobu, jego wycofania z obrotu lub od użytkowników, 
+stosownie do okoliczności. Ponadto jeżeli wyrób stwarza zagro­ 
+żenie, dystrybutorzy niezwłocznie informują o tym właściwe 
+organy krajowe państw członkowskich, w których udostępnili 
+wyrób, podając szczegółowe informacje, w szczególności 
+o niezgodności oraz o podjętych środkach naprawczych. 
+5. 
+Na uzasadnione żądanie właściwego organu krajowego 
+dystrybutorzy 
+dostarczają 
+mu 
+wszelkie 
+informacje 
+i dokumentację, niezbędne do wykazania zgodności danego 
+wyrobu budowlanego z deklaracją właściwości użytkowych i z 
+innymi mającymi zastosowanie wymaganiami określonymi 
+w niniejszym rozporządzeniu, w języku łatwo zrozumiałym 
+dla tego organu. Na żądanie tego organu współpracują z nim 
+we wszelkich działaniach podjętych w celu usunięcia zagrożeń, 
+jakie stwarzają wyroby budowlane udostępnione przez nich na 
+rynku.
+ 
+Artykuł 15
+ 
+Przypadki, w których obowiązki producentów stosuje się 
+do importerów i dystrybutorów
+ 
+Importera lub dystrybutora uważa się na użytek niniejszego 
+rozporządzenia za producenta, wskutek czego podlegają oni 
+obowiązkom producenta określonym w art. 11, w przypadku 
+gdy wprowadzają oni wyrób do obrotu pod własną nazwą lub 
+znakiem towarowym lub gdy zmieniają oni w taki sposób 
+wyrób budowlany wcześniej wprowadzony do obrotu, że 
+może to wpływać na zgodność z deklaracją właściwości użyt­
+kowych.
+PL
+ 
+L 88/16 
+Dziennik Urzędowy Unii Europejskiej 
+4.4.2011
+Artykuł 16
+ 
+Identyfikacja podmiotów gospodarczych
+ 
+Przez okres, o którym mowa w art. 11 ust. 2, podmioty gospo­
+darcze są w stanie zidentyfikować na żądanie organów nadzoru 
+rynku następujące podmioty: 
+a) każdy podmiot gospodarczy, który dostarczył im wyrób; 
+b) każdy podmiot gospodarczy, któremu dostarczyły wyrób.
+ 
+ROZDZIAŁ IV
+ 
+ZHARMONIZOWANE SPECYFIKACJE TECHNICZNE
+ 
+Artykuł 17
+ 
+Normy zharmonizowane
+ 
+1. 
+Normy zharmonizowane ustanawiane są przez europejskie 
+organy normalizacyjne wymienione w załączniku I do dyrek­
+tywy 98/34/WE na podstawie wniosków (zwanych dalej 
+„mandatami”) wydanych przez Komisję zgodnie z art. 6 tej 
+dyrektywy po przeprowadzeniu konsultacji ze Stałym Komi­
+tetem ds. Budownictwa, o którym mowa w art. 64 niniejszego 
+rozporządzenia (zwanym dalej „Stałym Komitetem ds. Budow­
+nictwa”). 
+2. 
+W przypadku gdy zainteresowane strony są włączone 
+w proces opracowywania norm zharmonizowanych zgodnie 
+z niniejszym artykułem, zadaniem europejskich organów 
+normalizacyjnych jest zapewnienie we wszystkich przypadkach 
+sprawiedliwej i zrównoważonej reprezentacji różnych kategorii 
+zainteresowanych stron. 
+3. 
+Normy zharmonizowane określają metody i kryteria 
+oceny 
+właściwości 
+użytkowych 
+wyrobów 
+budowlanych 
+w odniesieniu do ich zasadniczych charakterystyk. 
+O ile tak przewidziano w odpowiednim mandacie, norma zhar­
+monizowana 
+odnosi 
+się 
+do 
+zamierzonego 
+zastosowania 
+wyrobów, które ma objąć. 
+Normy zharmonizowane określają – w stosownych przypad­
+kach i nie zagrażając dokładności, wiarygodności i stałości 
+wyników – mniej uciążliwe od badań metody oceny właści­
+wości użytkowych wyrobów budowlanych w odniesieniu do 
+ich zasadniczych charakterystyk. 
+4. 
+Europejskie organy normalizacyjne określają w normach 
+zharmonizowanych mającą zastosowanie zakładową kontrolę 
+produkcji, która uwzględnia szczególne warunki procesu 
+produkcyjnego danego wyrobu budowlanego. 
+Norma 
+zharmonizowana 
+zawiera 
+szczegóły 
+techniczne 
+niezbędne do wdrożenia systemu oceny i weryfikacji stałości 
+właściwości użytkowych. 
+5. 
+Komisja ocenia zgodność norm zharmonizowanych usta­
+nowionych 
+przez 
+europejskie 
+organy 
+normalizacyjne 
+z odpowiednimi mandatami. 
+Komisja publikuje w
+ Dzienniku Urzędowym Unii Europejskiej
+ 
+wykaz odniesień do norm zharmonizowanych, które są zgodne 
+z odpowiednimi mandatami. 
+Dla każdej normy zharmonizowanej w wykazie wskazuje się: 
+a) odniesienia do zastępowanych zharmonizowanych specyfi­
+kacji technicznych, o ile istnieją; 
+b) datę początkową okresu koegzystencji; 
+c) datę końcową okresu koegzystencji. 
+Komisja publikuje aktualizacje tego wykazu. 
+Od daty początkowej okresu koegzystencji możliwe jest stoso­
+wanie normy zharmonizowanej do sporządzenia deklaracji 
+właściwości użytkowych dla wyrobu budowlanego objętego tą 
+normą. Krajowe organy normalizacyjne są zobowiązane do 
+transpozycji norm zharmonizowanych zgodnie z dyrektywą 
+98/34/WE. 
+Bez uszczerbku dla art. 36–38 od daty końcowej okresu koeg­
+zystencji norma zharmonizowana jest wyłącznym środkiem 
+służącym sporządzaniu deklaracji właściwości użytkowych dla 
+wyrobu budowlanego objętego tą normą. 
+Wraz z końcem okresu koegzystencji wycofuje się normy 
+krajowe sprzeczne z normą zharmonizowaną, a państwa człon­
+kowskie pozbawiają ważności wszystkie przepisy krajowe 
+sprzeczne z daną normą zharmonizowaną.
+ 
+Artykuł 18
+ 
+Formalny sprzeciw wobec norm zharmonizowanych
+ 
+1. 
+Jeżeli państwo członkowskie lub Komisja uważa, że 
+norma zharmonizowana nie spełnia całkowicie wymagań okre­ 
+ślonych w odpowiednim mandacie, dane państwo członkowskie 
+lub Komisja, po przeprowadzeniu konsultacji ze Stałym Komi­
+tetem ds. Budownictwa, kieruje sprawę do komitetu ustanowio­
+nego 
+na 
+mocy 
+art. 
+5 
+dyrektywy 
+98/34/WE, 
+wraz 
+z uzasadnieniem. Komitet ten, po przeprowadzeniu konsultacji 
+z odpowiednimi europejskimi organami normalizacyjnymi, 
+niezwłocznie wydaje swoją opinię.
+PL
+ 
+4.4.2011 
+Dziennik Urzędowy Unii Europejskiej 
+L 88/17
+2. 
+W świetle opinii komitetu ustanowionego na mocy art. 5 
+dyrektywy 
+98/34/WE 
+Komisja 
+podejmuje 
+decyzję 
+o opublikowaniu odniesień do danej normy zharmonizowanej 
+w
+ Dzienniku Urzędowym Unii Europejskiej
+, ich niepublikowaniu, 
+opublikowaniu ich z zastrzeżeniami, utrzymaniu, utrzymaniu 
+z zastrzeżeniami lub wycofaniu. 
+3. 
+Komisja informuje zainteresowany europejski organ 
+normalizacyjny o swojej decyzji oraz, w razie konieczności, 
+zwraca się z wnioskiem o zmianę stosownej normy zharmoni­
+zowanej.
+ 
+Artykuł 19
+ 
+Europejski dokument oceny
+ 
+1. 
+W następstwie wniosku o wydanie europejskiej oceny 
+technicznej, złożonego przez producenta, organizacja JOT opra­
+cowuje i przyjmuje europejski dokument oceny dla każdego 
+wyrobu budowlanego nieobjętego lub nie w pełni objętego 
+normą 
+zharmonizowaną, 
+którego 
+właściwości 
+użytkowe 
+w odniesieniu do jego zasadniczych charakterystyk nie mogą 
+być w pełni ocenione zgodnie z istniejącą normą zharmonizo­
+waną, ponieważ między innymi: 
+a) dany wyrób nie jest objęty zakresem żadnej istniejącej 
+normy zharmonizowanej; 
+b) w odniesieniu do co najmniej jednej zasadniczej charaktery­
+styki tego wyrobu metoda oceny przewidziana w normie 
+zharmonizowanej nie jest właściwa; lub 
+c) norma zharmonizowana nie przewiduje żadnej metody 
+oceny w odniesieniu do co najmniej jednej zasadniczej 
+charakterystyki tego wyrobu. 
+2. 
+Procedura przyjmowania europejskiego dokumentu oceny 
+przeprowadzana jest z poszanowaniem zasad określonych 
+w art. 20 i jest zgodna z art. 21 i załącznikiem II. 
+3. 
+Komisja może zgodnie z art. 60 przyjąć akty delegowane 
+w celu zmiany załącznika II i ustalenia dodatkowych przepisów 
+proceduralnych dotyczących opracowywania i przyjmowania 
+europejskiego dokumentu oceny. 
+4. 
+W stosownych przypadkach Komisja, po przeprowa­
+dzeniu konsultacji ze Stałym Komitetem ds. Budownictwa, 
+przyjmuje istniejące europejskie dokumenty oceny za podstawę 
+do wydania mandatów na mocy art. 17 ust. 1 celem opraco­
+wania 
+norm 
+zharmonizowanych 
+w 
+zakresie 
+wyrobów, 
+o których mowa w ust. 1 niniejszego artykułu.
+ 
+Artykuł 20
+ 
+Zasady opracowywania i przyjmowania europejskich 
+dokumentów oceny
+ 
+1. 
+Procedura opracowywania i przyjmowania europejskich 
+dokumentów oceny: 
+a) jest jasna dla zainteresowanego producenta; 
+b) określa właściwe obowiązkowe terminy, by uniknąć nieuza­
+sadnionych opóźnień; 
+c) uwzględnia w sposób właściwy ochronę tajemnicy hand­
+lowej i poufności; 
+d) umożliwia odpowiedni udział Komisji; 
+e) jest opłacalna dla producenta; oraz 
+f) zapewnia wystarczającą kolegialność i koordynację między 
+JOT wyznaczonymi dla danego wyrobu. 
+2. 
+JOT wraz z organizacją JOT ponoszą pełne koszty opra­
+cowania i przyjęcia europejskich dokumentów oceny.
+ 
+Artykuł 21
+ 
+Obowiązki JOT otrzymującej wniosek dotyczący 
+europejskiej oceny technicznej
+ 
+1. 
+JOT otrzymująca wniosek dotyczący europejskiej oceny 
+technicznej informuje producenta, jeżeli dany wyrób budowlany 
+jest w całości lub w części objęty zharmonizowaną specyfikacją 
+techniczną w następujący sposób: 
+a) jeżeli wyrób jest w pełni objęty normą zharmonizowaną, 
+JOT informuje producenta, że zgodnie z art. 19 ust. 1 euro­
+pejska ocena techniczna nie może być wydana dla tego 
+wyrobu; 
+b) jeżeli wyrób jest w pełni objęty europejskim dokumentem 
+oceny, JOT informuje producenta, że ten dokument będzie 
+służył jako podstawa europejskiej oceny technicznej, która 
+ma zostać wydana; 
+c) jeżeli wyrób nie jest objęty lub nie jest w pełni objęty żadną 
+zharmonizowaną specyfikacją techniczną, JOT stosuje proce­
+dury określone w załączniku II lub ustanowione zgodnie 
+z art. 19 ust. 3. 
+2. 
+W przypadkach, o których mowa w ust. 1 lit. b) i c), JOT 
+informuje organizację JOT oraz Komisję o zawartości wniosku 
+oraz odniesieniu do stosownej decyzji Komisji dotyczącej oceny 
+i weryfikacji stałości właściwości użytkowych, którą JOT 
+zamierza zastosować do tego wyrobu, lub też o braku takiej 
+decyzji Komisji.
+PL
+ 
+L 88/18 
+Dziennik Urzędowy Unii Europejskiej 
+4.4.2011
+3. 
+Jeżeli Komisja uzna, że nie istnieje właściwa dla tego 
+wyrobu budowlanego decyzja dotycząca oceny i weryfikacji 
+stałości właściwości użytkowych, zastosowanie ma art. 28.
+ 
+Artykuł 22
+ 
+Publikacja
+ 
+Europejskie dokumenty oceny przyjęte przez organizację JOT 
+przesyłane są Komisji, która publikuje wykaz odniesień do osta­
+tecznej wersji europejskich dokumentów oceny w
+ Dzienniku 
+Urzędowym Unii Europejskiej
+. 
+Komisja publikuje aktualizacje tego wykazu.
+ 
+Artykuł 23
+ 
+Rozstrzyganie sporów między JOT
+ 
+Jeżeli JOT nie uzgodniły europejskiego dokumentu oceny 
+w przewidzianym terminie, organizacja JOT przekazuje sprawę 
+Komisji w celu jej właściwego rozstrzygnięcia.
+ 
+Artykuł 24
+ 
+Zawartość europejskiego dokumentu oceny
+ 
+1. 
+Europejski dokument oceny zawiera co najmniej ogólny 
+opis wyrobu budowlanego, wykaz zasadniczych charakterystyk 
+istotnych z uwagi na zamierzone zastosowanie wyrobu przewi­
+dziane przez producenta i uzgodnione między producentem 
+i organizacją JOT, a także metody i kryteria oceny właściwości 
+użytkowych wyrobu w odniesieniu do tych zasadniczych 
+charakterystyk. 
+2. 
+Europejski dokument oceny zawiera zasady zakładowej 
+kontroli 
+produkcji, 
+która 
+ma 
+być 
+stosowana, 
+z uwzględnieniem warunków procesu produkcyjnego danego 
+wyrobu budowlanego. 
+3. 
+W przypadku gdy właściwości użytkowe odnoszące się do 
+niektórych zasadniczych charakterystyk wyrobu mogą zostać 
+właściwie ocenione z wykorzystaniem metod i kryteriów usta­
+nowionych w innych zharmonizowanych specyfikacjach tech­
+nicznych lub wytycznych, o których mowa w art. 66 ust. 3, lub 
+wykorzystywanych zgodnie z art. 9 dyrektywy 89/106/EWG 
+przed dniem 1 lipca 2013 r. w kontekście wydawania europej­
+skich aprobat technicznych, te istniejące metody i kryteria 
+włącza się do europejskiego dokumentu oceny jako jego części.
+ 
+Artykuł 25
+ 
+Formalny sprzeciw wobec europejskich dokumentów 
+oceny
+ 
+1. 
+Jeżeli państwo członkowskie lub Komisja uważa, że euro­
+pejski dokument oceny nie spełnia całkowicie wymagań 
+w odniesieniu do podstawowych wymagań dotyczących 
+obiektów budowlanych, określonych w załączniku I, dane 
+państwo członkowskie lub Komisja przedstawia sprawę Stałemu 
+Komitetowi ds. Budownictwa wraz z uzasadnieniem. Stały 
+Komitet ds. Budownictwa, po przeprowadzeniu konsultacji 
+z organizacją JOT, niezwłocznie wydaje swoją opinię. 
+2. 
+W świetle opinii Stałego Komitetu ds. Budownictwa 
+Komisja podejmuje decyzję o opublikowaniu odniesień do 
+danych europejskich dokumentów oceny w
+ Dzienniku Urzę­
+dowym Unii Europejskiej
+, ich niepublikowaniu, opublikowaniu 
+ich 
+z 
+zastrzeżeniami, 
+utrzymaniu, 
+utrzymaniu 
+z zastrzeżeniami lub wycofaniu. 
+3. 
+Komisja informuje odpowiednio organizację JOT o decyzji 
+oraz, w razie konieczności, zwraca się z wnioskiem o zmianę 
+danego europejskiego dokumentu oceny.
+ 
+Artykuł 26
+ 
+Europejska ocena techniczna
+ 
+1. 
+JOT wydaje europejską ocenę techniczną na wniosek 
+producenta, na podstawie europejskiego dokumentu oceny usta­
+nowionego zgodnie z procedurą opisaną w art. 21 i załączniku 
+II. 
+O ile istnieje europejski dokument oceny, europejska ocena 
+techniczna może zostać wydana nawet w przypadku, gdy 
+wydany został mandat do przyjęcia normy zharmonizowanej. 
+Wydanie oceny jest możliwe do rozpoczęcia okresu koegzys­
+tencji określonego przez Komisję zgodnie z art. 17 ust. 5. 
+2. 
+Europejska ocena techniczna zawiera właściwości użyt­
+kowe podlegające zadeklarowaniu, wyrażone w poziomach lub 
+klasach, lub w sposób opisowy, odnoszące się do zasadniczych 
+charakterystyk, które zostały uzgodnione przez producenta 
+i JOT, do której skierowano wniosek o europejską ocenę tech­
+niczną dla deklarowanego zamierzonego zastosowania wyrobu, 
+oraz szczegóły techniczne niezbędne do wdrożenia systemu 
+oceny i weryfikacji stałości właściwości użytkowych. 
+3. 
+Aby zagwarantować jednolite wykonywanie niniejszego 
+artykułu, Komisja przyjmuje akty wykonawcze w celu ustalenia 
+formy europejskiej oceny technicznej zgodnie z procedurą, 
+o której mowa w art. 64 ust. 2.
+ 
+Artykuł 27
+ 
+Poziomy lub klasy właściwości użytkowych
+ 
+1. 
+Komisja może przyjąć akty delegowane zgodnie z art. 60, 
+by ustanowić klasy właściwości użytkowych w odniesieniu do 
+zasadniczych charakterystyk wyrobów budowlanych.
+PL
+ 
+4.4.2011 
+Dziennik Urzędowy Unii Europejskiej 
+L 88/19
+2. 
+W przypadku gdy Komisja ustanowiła klasy właściwości 
+użytkowych w odniesieniu do zasadniczych charakterystyk 
+wyrobów budowlanych, europejskie organy normalizacyjne 
+stosują 
+te 
+klasy 
+w 
+normach 
+zharmonizowanych. 
+W stosownych przypadkach organizacja JOT stosuje te klasy 
+w europejskich dokumentach oceny. 
+W przypadku gdy klasy właściwości użytkowych w odniesieniu 
+do zasadniczych charakterystyk wyrobów budowlanych nie 
+zostały ustanowione przez Komisję, mogą one zostać ustano­
+wione przez europejskie organy normalizacyjne w normach 
+zharmonizowanych na podstawie zmienionego mandatu. 
+3. 
+Jeżeli jest to przewidziane w odpowiednich mandatach, 
+europejskie organy normalizacyjne ustanawiają w normach 
+zharmonizowanych wartości progowe w odniesieniu do zasad­
+niczych charakterystyk, a w stosownych przypadkach również 
+dla zamierzonych zastosowań, jakie wyroby budowlane mają 
+spełniać w państwach członkowskich. 
+4. 
+W przypadku gdy europejskie organy normalizacyjne 
+ustanowiły klasy właściwości użytkowych w normie zharmoni­
+zowanej, organizacja JOT stosuje te klasy w europejskich doku­
+mentach oceny, o ile mają one znaczenie dla danego wyrobu 
+budowlanego. 
+We wszystkich stosownych przypadkach organizacja JOT może 
+– za zgodą Komisji i po przeprowadzeniu konsultacji ze Stałym 
+Komitetem ds. Budownictwa – ustanowić w europejskim doku­
+mencie oceny klasy właściwości użytkowych i wartości progowe 
+w odniesieniu do zasadniczych charakterystyk wyrobu budow­
+lanego w ramach jego zamierzonego zastosowania przewidzia­
+nego przez producenta. 
+5. 
+Komisja może przyjąć akty delegowane zgodnie z art. 60, 
+by ustanowić warunki, na jakich wyroby budowlane zostają 
+uznane za spełniające określony poziom lub klasę właściwości 
+użytkowych bez badań lub bez dalszych badań. 
+W przypadku gdy takie warunki nie zostały ustanowione przez 
+Komisję, mogą zostać ustanowione przez europejskie organy 
+normalizacyjne w normach zharmonizowanych na podstawie 
+zmienionego mandatu. 
+6. 
+W przypadku gdy Komisja ustanowiła systemy klasyfikacji 
+zgodnie z ust. 1, państwa członkowskie mogą określać poziomy 
+lub klasy właściwości użytkowych wyrobów budowlanych 
+w odniesieniu do zasadniczych charakterystyk tych wyrobów 
+wyłącznie zgodnie z tymi systemami klasyfikacji. 
+7. 
+Europejskie organy normalizacyjne i organizacja JOT 
+uwzględniają potrzeby państw członkowskich w dziedzinie 
+regulacji prawnych podczas określania wartości progowych 
+lub klas właściwości użytkowych.
+ 
+Artykuł 28
+ 
+Ocena i weryfikacja stałości właściwości użytkowych
+ 
+1. 
+Ocena i weryfikacja stałości właściwości użytkowych 
+wyrobów budowlanych w odniesieniu do ich zasadniczych 
+charakterystyk 
+przeprowadzana 
+jest 
+zgodnie 
+z 
+jednym 
+z systemów określonych w załączniku V. 
+2. 
+W drodze aktów delegowanych zgodnie z art. 60 Komisja 
+ustala i może zmienić ustalenia, który system lub które systemy 
+mają zastosowanie do danego wyrobu budowlanego lub 
+rodziny wyrobów budowlanych lub danej zasadniczej charakte­
+rystyki, uwzględniając w szczególności ich wpływ na zdrowie 
+i bezpieczeństwo ludzi oraz wpływ na środowisko. Komisja 
+uwzględnia także udokumentowane doświadczenia płynące 
+z nadzoru rynku, przekazane jej przez organy krajowe. 
+Komisja wybiera najmniej uciążliwy system lub systemy zgodne 
+z wypełnieniem wszystkich podstawowych wymagań dotyczą­
+cych obiektów budowlanych. 
+3. 
+Ustalony w powyższy sposób system lub systemy wska­
+zuje się w mandatach do przyjęcia norm zharmonizowanych 
+i w zharmonizowanych specyfikacjach technicznych.
+ 
+ROZDZIAŁ V
+ 
+JEDNOSTKI DS. OCENY TECHNICZNEJ
+ 
+Artykuł 29
+ 
+Wyznaczenie, monitorowanie i ocena JOT
+ 
+1. 
+Państwa członkowskie mogą wyznaczyć działające na ich 
+terytorium JOT, w szczególności dla jednej lub kilku grup 
+wyrobów wymienionych w załączniku IV tabela 1. 
+Państwa członkowskie, które wyznaczyły JOT, przekazują 
+pozostałym państwom członkowskim i Komisji nazwę i adres 
+tej jednostki oraz grupy wyrobów, dla których została wyzna­
+czona. 
+2. 
+Komisja podaje do wiadomości publicznej w formie elek­
+tronicznej wykaz JOT ze wskazaniem grup wyrobów, dla 
+których zostały one wyznaczone, dążąc do osiągnięcia jak 
+najwyższego poziomu przejrzystości. 
+Komisja podaje do wiadomości publicznej aktualizacje tego 
+wykazu. 
+3. 
+Państwa członkowskie monitorują działania i kompetencje 
+wyznaczonych przez nie JOT i oceniają je w odniesieniu do 
+odpowiednich wymagań określonych w załączniku IV tabela 2.
+PL
+ 
+L 88/20 
+Dziennik Urzędowy Unii Europejskiej 
+4.4.2011
+Państwa członkowskie informują Komisję o ich krajowych 
+procedurach wyznaczania JOT, o monitorowaniu ich działal­
+ności i kompetencji oraz o wszelkich zmianach w tym zakresie. 
+4. 
+Komisja przyjmuje wytyczne dotyczące oceny JOT po 
+przeprowadzeniu konsultacji ze Stałym Komitetem ds. Budow­
+nictwa.
+ 
+Artykuł 30
+ 
+Wymagania dotyczące JOT
+ 
+1. 
+JOT przeprowadza ocenę i wydaje europejską ocenę tech­
+niczną dla grupy wyrobów, dla której została wyznaczona. 
+JOT spełnia wymagania określone w załączniku IV tabela 2, 
+w zakresie, dla którego została wyznaczona. 
+2. 
+JOT podaje do wiadomości publicznej swój schemat orga­
+nizacyjny oraz nazwiska członków swoich wewnętrznych 
+organów decyzyjnych. 
+3. 
+W przypadku gdy JOT przestaje spełniać wymagania, 
+o których mowa w ust. 1, państwo członkowskie odwołuje 
+wyznaczenie tej JOT dla odpowiedniej grupy wyrobów oraz 
+informuje o tym Komisję i pozostałe państwa członkowskie.
+ 
+Artykuł 31
+ 
+Koordynacja między JOT
+ 
+1. 
+JOT ustanawiają organizację do spraw oceny technicznej. 
+2. 
+Organizację JOT uznaje się za jednostkę dążącą do osiąg­
+nięcia celu będącego przedmiotem interesu ogólnoeuropejskiego 
+w rozumieniu art. 162 rozporządzenia Komisji (WE, Euratom) 
+nr 2342/2002 z dnia 23 grudnia 2002 r. ustanawiającego 
+szczegółowe zasady wykonania rozporządzenia Rady (WE, 
+Euratom) nr 1605/2002 w sprawie rozporządzenia finanso­
+wego mającego zastosowanie do budżetu ogólnego Wspólnot 
+Europejskich (
+ 
+1
+ 
+). 
+3. 
+Wspólne cele w zakresie współpracy oraz warunki admi­
+nistracyjne i finansowe odnoszące się do dotacji udzielanych 
+organizacji 
+JOT 
+można 
+określić 
+w 
+ramowej 
+umowie 
+o partnerstwie podpisanej przez Komisję i tę organizację 
+zgodnie z rozporządzeniem Rady (WE, Euratom) nr 1605/2002 
+z dnia 25 czerwca 2002 r. w sprawie rozporządzenia finanso­
+wego mającego zastosowanie do budżetu ogólnego Wspólnot 
+Europejskich (
+ 
+2
+ 
+) (rozporządzenie finansowe) i rozporządzeniem 
+(WE, Euratom) nr 2342/2002. Parlament Europejski i Rada 
+zostają poinformowani o zawarciu takiej umowy. 
+4. 
+Organizacja JOT wykonuje co najmniej następujące 
+zadania: 
+a) organizuje koordynację między JOT i, jeśli jest to konieczne, 
+zapewnia współpracę oraz konsultacje z innymi zaintereso­
+wanymi stronami; 
+b) zapewnia 
+wymianę 
+przykładów 
+najlepszych 
+praktyk 
+pomiędzy JOT celem promowania większej wydajności 
+i świadczenia lepszych usług na rzecz sektora; 
+c) koordynuje stosowanie procedur określonych w art. 21 i w 
+załączniku II oraz zapewnia potrzebne w tym celu wsparcie; 
+d) opracowuje i przyjmuje europejskie dokumenty oceny; 
+e) informuje Komisję o wszelkich sprawach związanych 
+z przygotowywaniem europejskich dokumentów oceny 
+oraz o wszelkich kwestiach dotyczących interpretacji 
+procedur określonych w art. 21 i w załączniku II oraz 
+proponuje Komisji usprawnienia oparte na zdobytym 
+doświadczeniu; 
+f) przekazuje Komisji i państwu członkowskiemu, które 
+wyznaczyło JOT niewykonującą swych zadań zgodnie 
+z procedurami określonymi w art. 21 i w załączniku II, 
+wszelkie uwagi dotyczące tej JOT; 
+g) zapewnia, 
+by 
+przyjęte 
+europejskie 
+dokumenty 
+oceny 
+i odniesienia do europejskich ocen technicznych były 
+publicznie dostępne. 
+Organizacja JOT posiada w celu wykonywania tych zadań sekre­
+tariat. 
+5. 
+Państwa członkowskie zapewniają udostępnianie przez 
+JOT zasobów finansowych i ludzkich organizacji JOT.
+ 
+Artykuł 32
+ 
+Finansowanie unijne
+ 
+1. 
+Finansowanie unijne może zostać przyznane organizacji 
+JOT w celu wykonywania zadań, o których mowa w art. 31 
+ust. 4. 
+2. 
+Wysokość środków przyznawanych na zadania określone 
+w art. 31 ust. 4 jest ustalana każdego roku przez władzę budże­
+tową w granicach obowiązujących ram finansowych.
+PL
+ 
+4.4.2011 
+Dziennik Urzędowy Unii Europejskiej 
+L 88/21
+ 
+(
+ 
+1
+ 
+) Dz.U. L 357 z 31.12.2002, s. 1. 
+(
+ 
+2
+ 
+) Dz.U. L 248 z 16.9.2002, s. 1.
+Artykuł 33
+ 
+Ustalenia finansowe
+ 
+1. 
+Finansowanie unijne jest zapewniane organizacji JOT bez 
+wezwania do składania wniosków w celu wykonywania zadań, 
+o których mowa w art. 31 ust. 4, na które zgodnie 
+z rozporządzeniem finansowym mogą zostać przyznane 
+dotacje. 
+2. 
+Działania sekretariatu organizacji JOT, o których mowa 
+w art. 31 ust. 4, mogą być finansowane na zasadzie dotacji 
+operacyjnych. W przypadku wznowienia dotacje operacyjne 
+nie będą automatycznie zmniejszane. 
+3. 
+Umowy w sprawie przyznania dotacji mogą dopuszczać 
+pokrywanie kosztów ogólnych ponoszonych przez beneficjenta 
+według stawki ryczałtowej, maksymalnie na poziomie 10 % 
+łącznych kwalifikowalnych kosztów bezpośrednich związanych 
+z działaniami, z wyjątkiem tych przypadków, gdy koszty 
+pośrednie ponoszone przez beneficjenta są pokrywane ze 
+środków dotacji operacyjnych pochodzących z budżetu ogól­
+nego Unii.
+ 
+Artykuł 34
+ 
+Zarządzanie i monitorowanie
+ 
+1. 
+Środki przeznaczone przez władzę budżetową na finanso­
+wanie zadań określonych w art. 31 ust. 4 mogą być również 
+wykorzystywane na pokrycie wydatków administracyjnych 
+związanych z przygotowaniem, monitorowaniem, inspekcjami, 
+audytem i oceną, które są bezpośrednio konieczne do osiąg­
+nięcia celów niniejszego rozporządzenia i które obejmują 
+w szczególności badania, posiedzenia, działalność w dziedzinie 
+informacji i publikacji, wydatki związane z sieciami informa­
+tycznymi służącymi do wymiany informacji, jak również 
+wszelkie inne wydatki na pomoc administracyjną i techniczną, 
+z której Komisja może korzystać w związku z działaniami zwią­
+zanymi z opracowywaniem i przyjmowaniem europejskich 
+dokumentów oceny oraz wydawaniem europejskich ocen tech­
+nicznych. 
+2. 
+Komisja ocenia odpowiedniość zadań określonych w art. 
+31 ust. 4, które są finansowane ze środków unijnych, w świetle 
+wymogów wynikających z polityk i prawodawstwa Unii oraz 
+informuje Parlament Europejski i Radę o rezultatach tej oceny 
+do dnia 1 stycznia 2017 r., a następnie co cztery lata.
+ 
+Artykuł 35
+ 
+Ochrona interesów finansowych Unii
+ 
+1. 
+Komisja zapewnia, aby podczas realizacji działań finanso­
+wanych na mocy niniejszego rozporządzenia interesy finansowe 
+Unii były chronione dzięki stosowaniu środków zapobiegaw­
+czych przeciwko nadużyciom, korupcji i innym czynom 
+bezprawnym, poprzez skuteczne kontrole oraz poprzez odzy­
+skiwanie kwot nienależnie wypłaconych, a także, w razie 
+wykrycia nieprawidłowości, poprzez stosowanie skutecznych, 
+proporcjonalnych 
+i 
+odstraszających 
+kar 
+zgodnie 
+z rozporządzeniem Rady (WE, Euratom) nr 2988/95 z dnia 
+18 grudnia 1995 r. w sprawie ochrony interesów finansowych 
+Wspólnot Europejskich (
+ 
+1
+ 
+), rozporządzeniem Rady (Euratom, 
+WE) nr 2185/96 z dnia 11 listopada 1996 r. w sprawie 
+kontroli na miejscu oraz inspekcji przeprowadzanych przez 
+Komisję w celu ochrony interesów finansowych Wspólnot Euro­
+pejskich przed nadużyciami finansowymi i innymi nieprawidło­
+wościami (
+ 
+2
+ 
+) oraz z rozporządzeniem (WE) nr 1073/1999 Parla­
+mentu Europejskiego i Rady z dnia 25 maja 1999 r. doty­
+czącym dochodzeń prowadzonych przez Europejski Urząd ds. 
+Zwalczania Nadużyć Finansowych (OLAF) (
+ 
+3
+ 
+). 
+2. 
+W odniesieniu do działań finansowanych na mocy niniej­
+szego rozporządzenia pojęcie nieprawidłowości, o którym 
+mowa w art. 1 ust. 2 rozporządzenia (WE, Euratom) 
+nr 2988/95, oznacza jakiekolwiek naruszenie przepisu prawa 
+Unii lub naruszenie jakiegokolwiek zobowiązania umownego, 
+będące wynikiem działania lub zaniechania ze strony podmiotu 
+gospodarczego, które spowodowało lub mogło spowodować 
+szkodę w budżecie ogólnym Unii lub w budżetach zarządza­
+nych przez nią, w wyniku nieuzasadnionego wydatku. 
+3. 
+Wszelkie porozumienia i umowy wynikające z niniejszego 
+rozporządzenia przewidują monitorowanie i kontrolę finansową 
+ze strony Komisji lub dowolnego upoważnionego przez nią 
+przedstawiciela oraz kontrole Trybunału Obrachunkowego, 
+które mogą w razie konieczności być przeprowadzane na 
+miejscu.
+ 
+ROZDZIAŁ VI
+ 
+PROCEDURY UPROSZCZONE
+ 
+Artykuł 36
+ 
+Stosowanie odpowiedniej dokumentacji technicznej
+ 
+1. 
+Przy określaniu typu wyrobu producent może zastąpić 
+badanie typu lub obliczenie typu odpowiednią dokumentacją 
+techniczną, wykazując, że: 
+a) w odniesieniu do jednej lub kilku zasadniczych charaktery­
+styk wyrobu budowlanego, który producent wprowadza do 
+obrotu, uznaje się, że wyrób ten osiąga określony poziom 
+lub klasę właściwości użytkowych bez badań lub obliczeń, 
+lub bez dalszych badań lub obliczeń, zgodnie z warunkami 
+określonymi w odpowiedniej zharmonizowanej specyfikacji 
+technicznej lub w decyzji Komisji; 
+b) wyrób budowlany, objęty normą zharmonizowaną, który 
+producent wprowadza do obrotu, należy do tego samego 
+typu wyrobu co inny wyrób budowlany, produkowany 
+przez 
+innego 
+producenta 
+i 
+już 
+zbadany 
+zgodnie 
+z odpowiednią normą zharmonizowaną. Gdy te warunki są 
+spełnione, producent jest uprawniony do deklarowania 
+właściwości użytkowych odpowiadających wszystkim lub 
+części wyników badań tego innego wyrobu. Producent 
+może wykorzystywać wyniki badań uzyskane przez innego 
+producenta jedynie po otrzymaniu zgody ze strony tego 
+producenta, który pozostaje odpowiedzialny za dokładność, 
+wiarygodność i stałość tych wyników badań; lub
+PL
+ 
+L 88/22 
+Dziennik Urzędowy Unii Europejskiej 
+4.4.2011
+ 
+(
+ 
+1
+ 
+) Dz.U. L 312 z 23.12.1995, s. 1. 
+(
+ 
+2
+ 
+) Dz.U. L 292 z 15.11.1996, s. 2. 
+(
+ 
+3
+ 
+) Dz.U. L 136 z 31.5.1999, s. 1.
+c) wyrób budowlany, objęty zharmonizowaną specyfikacją 
+techniczną, który producent wprowadza do obrotu jest, 
+systemem składającym się z części składowych, który produ­
+cent montuje, ściśle przestrzegając dokładnych instrukcji 
+udzielonych przez dostawcę takiego systemu lub jego części 
+składowej, który to dostawca zbadał już ten system lub tę 
+część składową w odniesieniu do jednej lub kilku jego zasad­
+niczych charakterystyk zgodnie z odpowiednią zharmonizo­
+waną specyfikacją techniczną. Gdy te warunki są spełnione, 
+producent jest uprawniony do deklarowania właściwości 
+użytkowych 
+odpowiadających 
+wszystkim 
+lub 
+części 
+wyników badań, którym poddano dostarczony mu system 
+lub jego część składową. Producent może wykorzystywać 
+wyniki badań uzyskane przez innego producenta lub 
+dostawcę systemu jedynie po otrzymaniu zgody ze strony 
+tego producenta lub dostawcy systemu, który pozostaje 
+odpowiedzialny za dokładność, wiarygodność i stałość tych 
+wyników badań. 
+2. 
+Jeśli wyrób budowlany, o którym mowa w ust. 1, należy 
+do rodziny wyrobów budowlanych, dla których mającym zasto­
+sowanie systemem oceny i weryfikacji stałości właściwości użyt­
+kowych jest system 1+ lub 1, określony w załączniku V, wery­
+fikacji odpowiedniej dokumentacji technicznej, o której mowa 
+w ust. 1, dokonuje notyfikowana jednostka certyfikująca wyrób, 
+o której mowa w załączniku V.
+ 
+Artykuł 37
+ 
+Stosowanie procedur uproszczonych przez 
+mikroprzedsiębiorstwa
+ 
+Mikroprzedsiębiorstwa produkujące wyroby budowlane objęte 
+normą zharmonizowaną mogą zastąpić określenie typu wyrobu 
+na podstawie badania typu w ramach mających zastosowanie 
+systemów 3 i 4 określonych w załączniku V przez zastosowanie 
+metod różniących się od metod określonych w mającej zasto­
+sowanie normie zharmonizowanej. Producenci ci mogą również 
+traktować wyroby budowlane, do których ma zastosowanie 
+system 3 zgodnie z przepisami dotyczącymi systemu 4. Gdy 
+producent stosuje te uproszczone procedury, wykazuje on 
+zgodność wyrobu budowlanego z mającymi zastosowanie 
+wymaganiami za pomocą specjalnej dokumentacji technicznej 
+oraz 
+wykazuje 
+równoważność 
+zastosowanych 
+procedur 
+z procedurami ustalonymi w normach zharmonizowanych.
+ 
+Artykuł 38
+ 
+Inne procedury uproszczone
+ 
+1. 
+W przypadku wyrobów budowlanych objętych normą 
+zharmonizowaną i które są produkowane jednostkowo lub na 
+zamówienie 
+w 
+nieseryjnym 
+procesie 
+produkcyjnym 
+w odpowiedzi na specjalne zlecenie oraz wbudowywane 
+w jednym określonym obiekcie budowlanym część mającego 
+zastosowanie systemu poświęcona ocenie właściwości użytko­
+wych, jak określono w załączniku V, może zostać zastąpiona 
+przez producenta specjalną dokumentacją techniczną wykazu­
+jącą zgodność tych wyrobów z mającymi zastosowanie wyma­
+ganiami 
+oraz 
+równoważność 
+zastosowanych 
+procedur 
+z procedurami ustalonymi w normach zharmonizowanych. 
+2. 
+Jeżeli wyrób budowlany, o którym mowa w ust. 1, należy 
+do rodziny wyrobów budowlanych, dla których mającym zasto­
+sowanie systemem oceny i weryfikacji stałości właściwości użyt­
+kowych jest system 1+ lub 1, określony w załączniku V, wery­
+fikacji specjalnej dokumentacji technicznej dokonuje notyfiko­
+wana 
+jednostka 
+certyfikująca 
+wyrób, 
+o 
+której 
+mowa 
+w załączniku V.
+ 
+ROZDZIAŁ VII
+ 
+ORGANY NOTYFIKUJĄCE I JEDNOSTKI NOTYFIKOWANE
+ 
+Artykuł 39
+ 
+Notyfikacja
+ 
+Państwa 
+członkowskie 
+notyfikują 
+Komisji 
+i 
+pozostałym 
+państwom członkowskim jednostki upoważnione do wykony­
+wania zadań strony trzeciej w procesie oceny i weryfikacji 
+stałości właściwości użytkowych na podstawie niniejszego 
+rozporządzenia (zwane dalej „jednostkami notyfikowanymi”).
+ 
+Artykuł 40
+ 
+Organy notyfikujące
+ 
+1. 
+Państwa członkowskie wyznaczają organ notyfikujący, 
+który odpowiada za opracowanie i stosowanie procedur 
+koniecznych do oceny i notyfikacji jednostek, które mają być 
+upoważnione do wykonywania zadań strony trzeciej w procesie 
+oceny i weryfikacji stałości właściwości użytkowych do celów 
+niniejszego rozporządzenia, oraz do monitorowania jednostek 
+notyfikowanych, w tym ich zgodności z art. 43. 
+2. 
+Państwa członkowskie mogą zdecydować, że ocena oraz 
+monitorowanie, o których mowa w ust. 1, są przeprowadzane 
+przez ich krajowe jednostki akredytujące w rozumieniu rozpo­
+rządzenia (WE) nr 765/2008 oraz zgodnie z nim. 
+3. 
+W przypadku gdy organ notyfikujący przekazuje lub 
+w inny sposób powierza ocenę, notyfikację lub monitorowanie, 
+o których mowa w ust. 1, podmiotowi, który nie jest instytucją 
+rządową, podmiot ten musi posiadać status
+ osoby prawnej
+ oraz 
+spełniać odpowiednio wymagania określone w art. 41. Podmiot 
+taki musi być ponadto przygotowany na zaspokajanie zobo­
+wiązań wynikających z jego działalności. 
+4. 
+Organ notyfikujący ponosi pełną odpowiedzialność za 
+zadania wykonywane przez podmiot, o którym mowa w ust. 3.
+ 
+Artykuł 41
+ 
+Wymagania dotyczące organów notyfikujących
+ 
+1. 
+Organ notyfikujący ustanawiany jest w sposób niepowo­
+dujący konfliktu interesów z jednostkami notyfikowanymi. 
+2. 
+Sposób organizacji i działania organu notyfikującego 
+zapewnia obiektywność i bezstronność jego działalności.
+PL
+ 
+4.4.2011 
+Dziennik Urzędowy Unii Europejskiej 
+L 88/23
+3. 
+Sposób organizacji organu notyfikującego gwarantuje, że 
+każda decyzja związana z notyfikacją jednostki, która ma zostać 
+upoważniona do wykonywania zadań strony trzeciej w procesie 
+oceny i weryfikacji stałości właściwości użytkowych, jest podej­
+mowana przez kompetentne osoby spoza grona osób, które 
+przeprowadziły ocenę. 
+4. 
+Organ notyfikujący nie może oferować ani realizować 
+zadań wykonywanych przez jednostki notyfikowane ani usług 
+doradczych na zasadach komercyjnych bądź konkurencyjnych. 
+5. 
+Organ notyfikujący zabezpiecza poufność uzyskanych 
+informacji. 
+6. 
+Organ notyfikujący musi mieć do dyspozycji kompetent­
+nych pracowników, których liczba jest wystarczająca do właści­
+wego wykonywania jego zadań.
+ 
+Artykuł 42
+ 
+Obowiązki państw członkowskich w zakresie 
+informowania
+ 
+Państwa członkowskie informują Komisję o swoich krajowych 
+procedurach oceny i notyfikacji jednostek, które mają być 
+upoważnione 
+do 
+wykonywania 
+zadań 
+strony 
+trzeciej 
+w procesie oceny i weryfikacji stałości właściwości użytkowych, 
+oraz monitorowania jednostek notyfikowanych i wszelkich 
+zmianach tych procedur. 
+Komisja podaje te informacje do wiadomości publicznej.
+ 
+Artykuł 43
+ 
+Wymagania dotyczące jednostek notyfikowanych
+ 
+1. 
+Do celów notyfikacji jednostka notyfikowana musi speł­
+niać wymagania określone w ust. 2–11. 
+2. 
+Jednostka 
+notyfikowana 
+jest 
+ustanawiana 
+zgodnie 
+z prawem krajowym i posiada osobowość prawną. 
+3. 
+Jednostka notyfikowana jest stroną trzecią, niezależną od 
+organizacji lub wyrobu budowlanego, które ocenia. 
+Jednostka należąca do stowarzyszenia gospodarczego lub fede­
+racji zawodowej reprezentującej przedsiębiorstwa zajmujące się 
+projektowaniem, produkcją, dostarczaniem, montażem, stoso­
+waniem 
+lub 
+konserwacją 
+wyrobów 
+budowlanych, 
+które 
+jednostka ta ocenia, może być uważana za taką jednostkę, 
+pod warunkiem że wykazana zostanie jej niezależność i brak 
+jakichkolwiek konfliktów interesów. 
+4. 
+Jednostka notyfikowana, jej ścisłe kierownictwo oraz 
+pracownicy odpowiedzialni za wykonywanie zadań strony trze­
+ciej w procesie oceny i weryfikacji stałości właściwości użytko­
+wych nie mogą być projektantami, producentami, dostawcami, 
+instalatorami, nabywcami, właścicielami, użytkownikami ani 
+konserwatorami wyrobów budowlanych, które oceniają, ani 
+upoważnionymi przedstawicielami żadnej z tych stron. Nie 
+wyklucza to wykorzystania ocenianych wyrobów, które są 
+potrzebne jednostce notyfikowanej do realizacji jej zadań ani 
+wykorzystania tych wyrobów do celów osobistych. 
+Jednostka notyfikowana, jej ścisłe kierownictwo oraz pracow­
+nicy odpowiedzialni za wykonywanie zadań strony trzeciej 
+w procesie oceny i weryfikacji stałości właściwości użytkowych 
+nie 
+mogą 
+bezpośrednio 
+uczestniczyć 
+w 
+projektowaniu, 
+produkcji lub budowie, wprowadzaniu do obrotu, instalowaniu, 
+stosowaniu lub konserwacji tych wyrobów budowlanych ani też 
+reprezentować stron zaangażowanych w te działania. Nie mogą 
+się angażować w żadną działalność, która mogłaby uchybiać 
+niezależności ich opinii i uczciwości w odniesieniu do zadań, 
+do których zostali notyfikowani. Dotyczy to w szczególności 
+usług doradczych. 
+Jednostka notyfikowana gwarantuje, że działalność jej spółek 
+zależnych lub podwykonawców nie wpływa na poufność, 
+obiektywizm i bezstronność jej działalności związanej z oceną 
+lub weryfikacją. 
+5. 
+Jednostka notyfikowana i jej pracownicy wykonują 
+zadania strony trzeciej w procesie oceny i weryfikacji stałości 
+właściwości użytkowych, zachowując najwyższy stopień uczci­
+wości zawodowej i wymaganych technicznych kompetencji 
+w danej dziedzinie oraz muszą być wolni od wszelkich naci­
+sków i bodźców, zwłaszcza finansowych, mogących wpływać 
+na ich opinię lub wyniki oceny i weryfikacji, szczególnie ze 
+strony osób lub grup osób zainteresowanych wynikami tej dzia­ 
+łalności. 
+6. 
+Jednostka notyfikowana jest zdolna do wykonywania 
+wszystkich 
+zadań 
+strony 
+trzeciej 
+w 
+procesie 
+oceny 
+i weryfikacji stałości właściwości użytkowych, przydzielonych 
+jej zgodnie z załącznikiem V i w odniesieniu do których została 
+notyfikowana, niezależnie od tego, czy dana jednostka notyfi­
+kowana wykonuje wspomniane zadania samodzielnie, czy też są 
+one realizowane w jej imieniu i na jej odpowiedzialność. 
+Przez cały czas dla każdego systemu oceny i weryfikacji stałości 
+właściwości użytkowych oraz dla każdego rodzaju lub każdej 
+kategorii wyrobów budowlanych, zasadniczych charakterystyk 
+i zadań, w odniesieniu do których została notyfikowana, 
+jednostka notyfikowana dysponuje: 
+a) potrzebnymi pracownikami posiadającymi wiedzę techniczną 
+oraz wystarczające i odpowiednie doświadczenie do wyko­
+nywania zadań strony trzeciej w procesie oceny i weryfikacji 
+stałości właściwości użytkowych;
+PL
+ 
+L 88/24 
+Dziennik Urzędowy Unii Europejskiej 
+4.4.2011
+b) potrzebnymi opisami procedur, zgodnie z którymi jest prze­
+prowadzana ocena właściwości użytkowych, zapewniającymi 
+przejrzystość oraz możliwość odtworzenia tych procedur; 
+jednostka ta prowadzi odpowiednią politykę i posiada 
+stosowne procedury, które odróżniają zadania wykonywane 
+przez nią w charakterze jednostki notyfikowanej od innych 
+rodzajów działalności; 
+c) potrzebnymi procedurami służącymi prowadzeniu jej dzia­ 
+łalności przy uwzględnieniu wielkości przedsiębiorstwa, 
+sektora, w którym prowadzi działalność, struktury przedsię­
+biorstwa, 
+stopnia 
+złożoności 
+technologii 
+wytwarzania 
+danego wyrobu oraz masowego lub seryjnego charakteru 
+procesu produkcyjnego. 
+Jednostka 
+notyfikowana 
+posiada 
+środki 
+konieczne 
+do 
+prawidłowej realizacji zadań 
+o 
+charakterze technicznym 
+i administracyjnym związanych z działalnością, w odniesieniu 
+do której została notyfikowana, oraz ma dostęp do wszystkich 
+niezbędnych urządzeń lub wyposażenia. 
+7. 
+Pracownicy odpowiedzialni za 
+wykonywanie zadań, 
+w odniesieniu do których jednostka została notyfikowana, 
+posiadają: 
+a) solidne wyszkolenie techniczne i zawodowe obejmujące 
+wszystkie 
+zadania 
+strony 
+trzeciej 
+w 
+procesie 
+oceny 
+i 
+weryfikacji 
+stałości 
+właściwości 
+użytkowych 
+w odpowiednim zakresie, w odniesieniu do którego 
+jednostka została notyfikowana; 
+b) dostateczną 
+znajomość 
+wymagań 
+dotyczących 
+ocen 
+i weryfikacji, które wykonują, oraz odpowiednie upoważ­
+nienia do wykonywania takich działań; 
+c) właściwą znajomość i zrozumienie mających zastosowanie 
+norm zharmonizowanych i odpowiednich przepisów niniej­
+szego rozporządzenia; 
+d) umiejętności wymagane do sporządzania certyfikatów, 
+ewidencji 
+i 
+sprawozdań, 
+aby 
+wykazać, 
+że 
+oceny 
+i weryfikacje zostały przeprowadzone. 
+8. 
+Gwarantuje się bezstronność jednostki notyfikowanej, jej 
+ścisłego kierownictwa i pracowników wykonujących ocenę. 
+Wynagrodzenie ścisłego kierownictwa jednostki notyfikowanej 
+oraz jej pracowników wykonujących ocenę nie jest zależne od 
+liczby wykonanych ocen ani od wyników tych ocen. 
+9. 
+Jednostka notyfikowana uzyskuje ubezpieczenie od odpo­
+wiedzialności cywilnej, chyba że zgodnie z prawem krajowym 
+odpowiedzialność spoczywa na państwie członkowskim, lub za 
+dokonaną ocenę lub weryfikację bezpośrednio odpowiada samo 
+państwo członkowskie. 
+10. 
+Pracownicy jednostki notyfikowanej są zobowiązani 
+dochować tajemnicy służbowej w odniesieniu do wszystkich 
+informacji, które uzyskują w trakcie wykonywania swoich 
+zadań zgodnie z załącznikiem V, z wyjątkiem dochowania 
+tajemnicy 
+wobec 
+właściwych 
+organów 
+administracyjnych 
+państwa członkowskiego, w którym realizowane są jej zadania. 
+Prawo własności podlega ochronie. 
+11. 
+Jednostka notyfikowana bierze udział w stosownej dzia­ 
+łalności normalizacyjnej i w działalności grupy koordynującej 
+jednostki notyfikowanej, powołanej na podstawie niniejszego 
+rozporządzenia, lub zapewnia informowanie o takiej działal­
+ności swoich pracowników, oraz stosuje decyzje administra­
+cyjne i dokumenty opracowane w wyniku prac takiej grupy 
+jako ogólne wytyczne.
+ 
+Artykuł 44
+ 
+Domniemanie zgodności
+ 
+Jeżeli jednostka notyfikowana, która ma być upoważniona do 
+wykonywania 
+zadań 
+strony 
+trzeciej 
+w 
+procesie 
+oceny 
+i weryfikacji stałości właściwości użytkowych wykaże, że spełnia 
+kryteria ustanowione w odpowiednich normach zharmonizowa­
+nych lub w ich częściach, do których odniesienia opublikowano 
+w
+ Dzienniku Urzędowym Unii Europejskiej
+, domniemywa się, że 
+jednostka 
+ta 
+spełnia 
+wymagania określone 
+w 
+art. 
+43 
+w zakresie, w jakim wymagania te są objęte mającymi zastoso­
+wanie normami zharmonizowanymi.
+ 
+Artykuł 45
+ 
+Spółki zależne i podwykonawcy jednostek 
+notyfikowanych
+ 
+1. 
+W przypadku gdy jednostka notyfikowana zleca określone 
+zadania związane z wykonywaniem zadań strony trzeciej 
+w procesie oceny i weryfikacji stałości właściwości użytkowych 
+lub gdy korzysta z usług spółki zależnej, zapewnia ona speł­
+nienie przez podwykonawcę lub spółkę zależną wymagań okre­ 
+ślonych w art. 43 oraz powiadamia organ notyfikujący. 
+2. 
+Jednostka notyfikowana ponosi pełną odpowiedzialność 
+za zadania wykonywane przez podwykonawców lub spółki 
+zależne, niezależnie od tego, gdzie mają siedzibę. 
+3. 
+Działalność może być zlecana lub prowadzona przez 
+spółkę zależną wyłącznie za zgodą klienta. 
+4. 
+Jednostka notyfikowana 
+przechowuje do 
+dyspozycji 
+organu notyfikującego odpowiednie dokumenty dotyczące 
+oceny kwalifikacji podwykonawcy lub spółki zależnej oraz 
+zadań wykonywanych przez te strony na mocy załącznika V.
+PL
+ 
+4.4.2011 
+Dziennik Urzędowy Unii Europejskiej 
+L 88/25
+Artykuł 46
+ 
+Korzystanie z urządzeń poza laboratorium badawczym 
+jednostki notyfikowanej
+ 
+1. 
+Na wniosek producenta i w przypadku gdy jest to uzasad­
+nione względami technicznymi, ekonomicznymi lub logistycz­
+nymi, 
+jednostki 
+notyfikowane 
+mogą 
+zdecydować 
+o przeprowadzeniu badań, o których mowa w załączniku V, 
+dotyczących systemów oceny i weryfikacji stałości właściwości 
+użytkowych 1+, 1 i 3 lub o zleceniu przeprowadzenia tych 
+badań pod ich nadzorem, w zakładach produkcyjnych 
+z wykorzystaniem aparatury badawczej wewnętrznego laborato­
+rium producenta, albo, za uprzednią zgodą producenta, 
+w laboratorium zewnętrznym z wykorzystaniem aparatury 
+badawczej tego laboratorium. 
+Jednostki notyfikowane prowadzące takie badania muszą zostać 
+w szczególny sposób wyznaczone jako posiadające kompetencje 
+umożliwiające im pracę poza ich własnymi akredytowanymi 
+urządzeniami badawczymi. 
+2. 
+Przed przeprowadzeniem tych badań jednostka notyfiko­
+wana sprawdza, czy spełniono wymagania związane z metodą 
+badań i ocenia, czy: 
+a) aparatura badawcza jest wyposażona w odpowiedni system 
+kalibracji i czy można zagwarantować identyfikowalność 
+pomiarów; 
+b) zagwarantowana jest jakość wyników badań.
+ 
+Artykuł 47
+ 
+Wniosek o notyfikację
+ 
+1. 
+Jednostka, która ma być upoważniona do wykonywania 
+zadań strony trzeciej w procesie oceny i weryfikacji stałości 
+właściwości użytkowych, przedkłada wniosek o notyfikację 
+organowi notyfikującemu państwa członkowskiego, w którym 
+ma siedzibę. 
+2. 
+Do wniosku dołącza się opis działalności, która ma być 
+wykonywana przez jednostkę, procedury oceny lub weryfikacji, 
+w odniesieniu do których jednostka uważa się za kompetentną, 
+jak również certyfikat akredytacji, jeżeli jednostka go posiada, 
+wydany przez krajową jednostkę akredytującą w rozumieniu 
+rozporządzenia 
+(WE) 
+nr 
+765/2008, 
+poświadczający, 
+że 
+jednostka spełnia wymagania określone w art. 43. 
+3. 
+Jeżeli dana jednostka nie może dostarczyć certyfikatu 
+akredytacji, przedkłada ona organowi notyfikującemu wszelkie 
+dokumenty konieczne do sprawdzenia, uznania i regularnego 
+nadzorowania jej zgodności z wymaganiami określonymi 
+w art. 43.
+ 
+Artykuł 48
+ 
+Procedura notyfikacji
+ 
+1. 
+Organy notyfikujące mogą notyfikować wyłącznie jedno­
+stki, które spełniają wymagania określone w art. 43. 
+2. 
+Notyfikują one te jednostki Komisji i pozostałym 
+państwom 
+członkowskim, 
+stosując 
+do 
+tego 
+celu 
+w szczególności specjalne narzędzie elektroniczne opracowane 
+i zarządzane przez Komisję. 
+W drodze wyjątku, w przypadkach określonych w załączniku 
+V pkt 3, dla których nie jest dostępne odpowiednie narzędzie 
+elektroniczne, dopuszcza się dokonywanie notyfikacji w wersji 
+drukowanej. 
+3. 
+Notyfikacja zawiera pełne szczegółowe dane dotyczące 
+funkcji, które ma pełnić dana jednostka, odniesienie do odpo­
+wiedniej zharmonizowanej specyfikacji technicznej oraz, do 
+celów systemu przewidzianego w załączniku V, zasadnicze 
+charakterystyki, w odniesieniu do których jednostka jest kompe­
+tentna. 
+Odniesienie do odpowiedniej zharmonizowanej specyfikacji 
+technicznej nie jest jednak wymagane w przypadkach określo­
+nych w załączniku V pkt 3. 
+4. 
+W przypadku gdy podstawy notyfikacji nie stanowi certy­
+fikat akredytacji, o którym mowa w art. 47 ust. 2, organ noty­
+fikujący przedkłada Komisji i pozostałym państwom członkow­
+skim wszelkie dokumenty potwierdzające kompetencje jedno­
+stki 
+notyfikowanej 
+oraz 
+wprowadzone 
+ustalenia 
+mające 
+zapewnić systematyczne monitorowanie tej jednostki i dalsze 
+spełnianie przez nią wymagań określonych w art. 43. 
+5. 
+Dana jednostka może prowadzić działalność jednostki 
+notyfikowanej wyłącznie pod warunkiem, że Komisja ani 
+pozostałe państwa członkowskie nie zgłosiły zastrzeżeń 
+w terminie dwóch tygodni od notyfikacji, w przypadku korzys­
+tania z certyfikatu akredytacji, lub w terminie dwóch miesięcy 
+od notyfikacji, w przypadku gdy certyfikat akredytacji nie jest 
+stosowany. 
+Wyłącznie taką jednostkę uznaje się za jednostkę notyfikowaną 
+do celów niniejszego rozporządzenia. 
+6. 
+Komisja i pozostałe państwa członkowskie są powiada­
+miane o wszelkich późniejszych odpowiednich zmianach 
+w notyfikacji.
+ 
+Artykuł 49
+ 
+Numery identyfikacyjne i wykaz jednostek 
+notyfikowanych
+ 
+1. 
+Komisja przydziela każdej jednostce notyfikowanej numer 
+identyfikacyjny. 
+Przydziela tylko jeden taki numer, nawet w przypadku gdy dana 
+jednostka jest notyfikowana na mocy różnych aktów prawnych 
+Unii.
+PL
+ 
+L 88/26 
+Dziennik Urzędowy Unii Europejskiej 
+4.4.2011
+2. 
+Komisja podaje do wiadomości publicznej – stosując do 
+tego celu w szczególności elektroniczne narzędzie notyfikacji 
+opracowane i zarządzane przez Komisję – wykaz jednostek 
+notyfikowanych na mocy niniejszego rozporządzenia, włącznie 
+z numerami identyfikacyjnymi, które im przydzielono, oraz 
+informacją na temat rodzaju działalności będącej przedmiotem 
+notyfikacji. 
+Komisja zapewnia stałą aktualizację tego wykazu.
+ 
+Artykuł 50
+ 
+Zmiany w notyfikacji
+ 
+1. 
+W przypadku gdy organ notyfikujący ustalił lub otrzymał 
+informację, że jednostka notyfikowana przestała spełniać wyma­
+gania określone w art. 43 lub że nie wypełnia swoich 
+obowiązków, 
+organ 
+notyfikujący 
+odpowiednio 
+ogranicza, 
+zawiesza lub wycofuje notyfikację, zależnie od stopnia niespeł­
+niania tych wymagań lub niewypełniania tych obowiązków. 
+Informuje on niezwłocznie Komisję i pozostałe państwa człon­
+kowskie, stosując do tego celu w szczególności elektroniczne 
+narzędzie notyfikacji opracowane i zarządzane przez Komisję. 
+2. 
+W przypadku wycofania, ograniczenia lub zawieszenia 
+notyfikacji lub w razie zaprzestania działalności przez jednostkę 
+notyfikowaną notyfikujące państwo członkowskie podejmuje 
+właściwe kroki, aby zapewnić, by sprawy rozpatrywane przez 
+tę jednostkę były rozpatrywane przez inną jednostkę notyfiko­
+waną lub by były dostępne na żądanie odpowiedzialnych 
+organów notyfikujących i organów nadzoru rynku.
+ 
+Artykuł 51
+ 
+Kwestionowanie kompetencji jednostek notyfikowanych
+ 
+1. 
+Komisja bada wszystkie przypadki, w których ma wątpli­
+wości lub otrzymuje informacje o wątpliwościach co do kompe­
+tencji jednostki notyfikowanej lub ciągłości wywiązywania się 
+przez jednostkę notyfikowaną z nałożonych na nią wymagań 
+i obowiązków. 
+2. 
+Na wniosek Komisji notyfikujące państwo członkowskie 
+udziela jej wszelkich informacji dotyczących podstawy notyfi­
+kacji lub utrzymania kompetencji danej jednostki. 
+3. 
+Komisja zapewnia poufność wszystkich informacji wrażli­
+wych uzyskanych w trakcie dochodzenia. 
+4. 
+Jeżeli Komisja stwierdzi, że jednostka notyfikowana nie 
+spełnia wymagań notyfikacji lub przestała je spełniać, informuje 
+o tym odpowiednio notyfikujące państwo członkowskie 
+i zwraca się do niego o podjęcie koniecznych środków napraw­
+czych, łącznie z wycofaniem notyfikacji, jeśli zachodzi taka 
+potrzeba.
+ 
+Artykuł 52
+ 
+Obowiązki 
+jednostek 
+notyfikowanych 
+w 
+zakresie 
+dotyczącym ich działalności
+ 
+1. 
+Jednostki notyfikowane wykonują zadania strony trzeciej 
+zgodnie z systemami oceny i weryfikacji stałości właściwości 
+użytkowych przewidzianymi w załączniku V. 
+2. 
+Oceny i weryfikacje stałości właściwości użytkowych prze­
+prowadza się z zachowaniem przejrzystości w odniesieniu do 
+producenta i w sposób proporcjonalny, unikając stwarzania 
+niepotrzebnych obciążeń dla podmiotów gospodarczych. Jedno­
+stki notyfikowane wykonują swe zadania, uwzględniając wiel­
+kość przedsiębiorstwa, sektor, w którym przedsiębiorstwo 
+prowadzi działalność, i jego strukturę, stopień złożoności tech­
+nologii wykorzystywanych przy produkcji oraz masowy lub 
+seryjny charakter procesu produkcyjnego. 
+Postępując w powyższy sposób, jednostki notyfikowane 
+uwzględniają jednak to, jak dalece rygorystyczne wymagania 
+zostały nałożone na wyrób niniejszym rozporządzeniem oraz 
+jaką rolę odgrywa wyrób w spełnianiu wszystkich podstawo­
+wych wymagań dotyczących obiektów budowlanych. 
+3. 
+W przypadku gdy podczas wstępnej inspekcji zakładu 
+produkcyjnego i zakładowej kontroli produkcji jednostka noty­
+fikowana stwierdza, że producent nie zapewnił stałości właści­
+wości użytkowych produkowanego wyrobu, zobowiązuje ona 
+producenta do podjęcia stosownych środków naprawczych 
+i nie wydaje mu certyfikatu. 
+4. 
+W przypadku gdy w trakcie działań w nadzorze, mających 
+na celu weryfikację stałości właściwości użytkowych produko­
+wanego wyrobu, jednostka notyfikowana stwierdza, że wyrób 
+budowlany nie posiada już tych samych właściwości użytko­
+wych co typ wyrobu, zobowiązuje ona producenta do podjęcia 
+stosownych środków naprawczych oraz zawiesza lub wycofuje 
+jego certyfikat, jeżeli zachodzi taka konieczność. 
+5. 
+W przypadku niepodjęcia środków naprawczych lub jeśli 
+środki te nie przynoszą wymaganych skutków, jednostka noty­
+fikowana odpowiednio ogranicza, zawiesza lub wycofuje 
+wszelkie certyfikaty.
+ 
+Artykuł 53
+ 
+Obowiązki 
+jednostek 
+notyfikowanych 
+w 
+zakresie 
+informowania
+ 
+1. 
+Jednostki notyfikowane informują organ notyfikujący: 
+a) o odmowie, ograniczeniu, zawieszeniu lub wycofaniu certy­
+fikatów;
+PL
+ 
+4.4.2011 
+Dziennik Urzędowy Unii Europejskiej 
+L 88/27
+b) o wszelkich okolicznościach wpływających na zakres 
+i warunki dotyczące notyfikacji; 
+c) o wszelkich żądaniach dostarczenia informacji dotyczących 
+przeprowadzonych działań związanych z oceną lub weryfi­
+kacją stałości właściwości użytkowych, otrzymanych od 
+organów nadzoru rynku; 
+d) na 
+żądanie 
+– 
+o 
+zadaniach 
+strony 
+trzeciej 
+zgodnie 
+z systemami oceny i weryfikacji stałości właściwości użytko­
+wych, wykonywanych w zakresie objętym notyfikacją, oraz 
+o innych realizowanych zadaniach, włączając w to działal­
+ność transgraniczną i podwykonawstwo. 
+2. 
+Jednostki notyfikowane przekazują innym jednostkom 
+notyfikowanym na mocy niniejszego rozporządzenia, wykonu­
+jącym podobne zadania strony trzeciej zgodnie z systemami 
+oceny i weryfikacji stałości właściwości użytkowych i dla 
+wyrobów budowlanych objętych tą samą zharmonizowaną 
+specyfikacją techniczną, odpowiednie informacje w kwestiach 
+dotyczących negatywnych, a na żądanie również pozytywnych, 
+wyników tych ocen lub weryfikacji.
+ 
+Artykuł 54
+ 
+Wymiana doświadczeń
+ 
+Komisja zapewnia organizuję wymiany doświadczeń między 
+krajowymi organami państw członkowskich odpowiedzialnymi 
+za politykę w obszarze notyfikowania.
+ 
+Artykuł 55
+ 
+Koordynacja działań jednostek notyfikowanych
+ 
+Komisja zapewnia wprowadzenie i właściwe funkcjonowanie 
+odpowiedniej koordynacji i współpracy między jednostkami 
+notyfikowanymi na mocy art. 39 w formie grupy jednostek 
+notyfikowanych. 
+Państwa członkowskie zapewniają, by notyfikowane przez nie 
+jednostki uczestniczyły w pracach tej grupy, bezpośrednio lub 
+przez wyznaczonych przedstawicieli, lub zapewniają, by przed­
+stawiciele jednostek notyfikowanych zostali o nich poinformo­
+wani.
+ 
+ROZDZIAŁ VIII
+ 
+NADZÓR RYNKU I PROCEDURY OCHRONNE
+ 
+Artykuł 56
+ 
+Procedura postępowania na poziomie krajowym 
+z wyrobami budowlanymi stanowiącymi zagrożenie
+ 
+1. 
+W przypadku gdy organy nadzoru rynku jednego 
+z państw członkowskich podjęły działania zgodnie z art. 20 
+rozporządzenia (WE) nr 765/2008 lub gdy mają one wystar­
+czające powody, by sądzić, że wyrób budowlany, objęty normą 
+zharmonizowaną lub dla którego wydano europejską ocenę 
+techniczną, nie posiada deklarowanych właściwości użytkowych 
+i stanowi zagrożenie dla spełnienia objętych niniejszym rozpo­
+rządzeniem podstawowych wymagań dotyczących obiektów 
+budowlanych, dokonują one oceny tego wyrobu pod kątem 
+spełnienia odnośnych wymagań określonych w niniejszym 
+rozporządzeniu. Odpowiednie podmioty gospodarcze współpra­
+cują w razie konieczności z organami nadzoru rynku. 
+Jeśli w toku prowadzonej oceny organy nadzoru rynku stwier­
+dzają, że dany wyrób budowlany nie spełnia wymagań okre­ 
+ślonych w niniejszym rozporządzeniu, niezwłocznie zobowią­
+zują odpowiedni podmiot gospodarczy do podjęcia wszelkich 
+właściwych działań naprawczych – które mogą zostać określone 
+przez te organy – zmierzających do doprowadzenia wyrobu do 
+zgodności 
+z 
+tymi 
+wymaganiami, 
+w 
+szczególności 
+z deklarowanymi właściwościami użytkowymi, lub do wyco­
+fania wyrobu z obrotu lub wycofania go od użytkowników 
+w rozsądnym terminie, odpowiednim do charakteru zagrożenia. 
+Organy nadzoru rynku powiadamiają o tym jednostkę notyfi­
+kowaną, jeżeli jej to dotyczy. 
+Do środków, o których mowa w akapicie drugim niniejszego 
+ustępu, ma zastosowanie art. 21 
+rozporządzenia (WE) 
+nr 765/2008. 
+2. 
+W przypadku gdy organy nadzoru rynku uznają, że 
+niezgodność nie ogranicza się wyłącznie do terytorium danego 
+państwa, informują one Komisję oraz pozostałe państwa człon­
+kowskie o wynikach oceny oraz działaniach, których podjęcia 
+zażądały od danego podmiotu gospodarczego. 
+3. 
+Podmiot 
+gospodarczy 
+zapewnia 
+podjęcie 
+wszelkich 
+stosownych działań naprawczych w odniesieniu do wszystkich 
+wyrobów 
+budowlanych 
+stanowiących 
+zagrożenie, 
+które 
+podmiot ten udostępnił na rynku w całej Unii. 
+4. 
+W przypadku gdy dany podmiot gospodarczy nie podej­
+muje odpowiednich działań naprawczych w terminie, o którym 
+mowa w ust. 1 akapit drugi, organy nadzoru rynku są zobo­
+wiązane podjąć wszelkie odpowiednie środki tymczasowe 
+w celu zakazania lub ograniczenia udostępniania danego 
+wyrobu budowlanego na rynku krajowym, wycofania go 
+z obrotu lub wycofania go od użytkowników. 
+Organy nadzoru rynku przekazują niezwłocznie Komisji 
+i pozostałym państwom członkowskim informacje na temat 
+tych środków.
+PL
+ 
+L 88/28 
+Dziennik Urzędowy Unii Europejskiej 
+4.4.2011
+5. 
+Informacje, o których mowa w ust. 4, obejmują wszelkie 
+dostępne szczegóły, przede wszystkim dane niezbędne do iden­
+tyfikacji niespełniającego wymagań wyrobu budowlanego, 
+pochodzenie wyrobu budowlanego, charakter domniemanej 
+niezgodności i związanego z tym zagrożenia, charakter 
+i okres obowiązywania podjętych środków krajowych, a także 
+argumenty przedstawione przez dany podmiot gospodarczy. 
+W szczególności organy nadzoru rynku są zobowiązane 
+wskazać, czy niezgodność ta wynika z: 
+a) niespełnienia przez wyrób budowlany deklarowanych właści­
+wości użytkowych lub wymogów związanych ze spełnie­
+niem określonych w niniejszym rozporządzeniu podstawo­
+wych wymagań dotyczących obiektów budowlanych; 
+b) uchybień w zharmonizowanych specyfikacjach technicznych 
+lub w specjalnej dokumentacji technicznej. 
+6. 
+Państwa członkowskie inne niż państwo członkowskie, 
+które wszczęło procedurę, niezwłocznie informują Komisję 
+i pozostałe państwa członkowskie o wszelkich przyjętych środ­
+kach i wszelkich dodatkowych informacjach dotyczących 
+niezgodności danego wyrobu budowlanego, którymi dysponują, 
+a w przypadku gdy nie zgadzają się z notyfikowanym środkiem 
+krajowym, o swoich zastrzeżeniach. 
+7. 
+W przypadku gdy w terminie 15 dni roboczych od otrzy­
+mania informacji, o których mowa w ust. 4, ani żadne państwo 
+członkowskie, ani Komisja nie zgłaszają zastrzeżeń wobec 
+środka tymczasowego przyjętego przez dane państwo człon­
+kowskie w odniesieniu do danego wyrobu budowlanego, środek 
+ten uznaje się za uzasadniony. 
+8. 
+Państwa członkowskie zapewniają niezwłoczne podjęcie 
+właściwych środków ograniczających w odniesieniu do danego 
+wyrobu budowlanego, takich jak wycofanie wyrobu z obrotu.
+ 
+Artykuł 57
+ 
+Unijna procedura ochronna
+ 
+1. 
+Jeżeli po zakończeniu procedury określonej w art. 56 ust. 
+3 i 4 zgłaszane są zastrzeżenia wobec środka podjętego przez 
+państwo członkowskie lub jeżeli Komisja uznaje krajowy środek 
+za sprzeczny z prawodawstwem unijnym, Komisja niezwłocznie 
+rozpoczyna 
+konsultacje 
+z 
+państwami 
+członkowskimi 
+i właściwym podmiotem gospodarczym lub właściwymi 
+podmiotami gospodarczymi oraz poddaje środek krajowy 
+ocenie. Na podstawie wyników tej oceny Komisja decyduje, 
+czy dany środek jest uzasadniony. 
+Decyzja Komisji skierowana jest do wszystkich państw człon­
+kowskich; Komisja niezwłocznie informuje o niej państwa 
+członkowskie i odpowiedni podmiot gospodarczy (odpowiednie 
+podmioty gospodarcze). 
+2. 
+W razie uznania krajowego środka za uzasadniony 
+wszystkie państwa członkowskie podejmują środki konieczne 
+do zapewnienia, by niezgodny z wymaganiami wyrób budow­
+lany został wycofany z ich rynków, i informują o nich Komisję. 
+W przypadku uznania krajowego środka za nieuzasadniony 
+dane państwo członkowskie zobowiązane jest uchylić ten 
+środek. 
+3. 
+W razie uznania krajowego środka za uzasadniony 
+i stwierdzenia, że niezgodność danego wyrobu budowlanego 
+z wymaganiami wynika z uchybień w normach zharmonizowa­
+nych, o których mowa w art. 56 ust. 5 lit. b), Komisja infor­
+muje właściwy europejski organ normalizacyjny lub właściwe 
+europejskie organy normalizacyjne i kieruje sprawę do komitetu 
+ustanowionego na mocy art. 5 dyrektywy 98/34/WE. Komitet 
+ten konsultuje się z właściwym europejskim organem normali­
+zacyjnym lub właściwymi europejskimi organami normalizacyj­
+nymi i niezwłocznie wydaje opinię. 
+W 
+razie 
+uznania 
+krajowego 
+środka 
+za 
+uzasadniony 
+i stwierdzenia, że niezgodność danego wyrobu budowlanego 
+wynika z uchybień w europejskim dokumencie oceny lub 
+w specjalnej dokumentacji technicznej, o których mowa w art. 
+56 ust. 5 lit. b), Komisja przedstawia sprawę Stałemu Komite­
+towi ds. Budownictwa, a następnie przyjmuje stosowne środki.
+ 
+Artykuł 58
+ 
+Wyroby budowlane zgodne z niniejszym 
+rozporządzeniem, które mimo tego stanowią zagrożenie 
+dla zdrowia i bezpieczeństwa
+ 
+1. 
+W przypadku gdy po przeprowadzeniu oceny na mocy 
+art. 56 ust. 1 państwo członkowskie stwierdza, że wyrób 
+budowlany jest zgodny z niniejszym rozporządzeniem, ale 
+mimo tego stanowi zagrożenie dla spełnienia podstawowych 
+wymagań dotyczących obiektów budowlanych, dla zdrowia 
+lub bezpieczeństwa osób lub dla innych kwestii ważnych 
+z punktu widzenia ochrony interesu publicznego, zobowiązuje 
+ono właściwy podmiot gospodarczy do podjęcia wszelkich 
+odpowiednich środków gwarantujących, że dany wyrób budow­
+lany nie stanowi już zagrożenia przy jego wprowadzaniu do 
+obrotu, służących wycofaniu wyrobu budowlanego z obrotu 
+lub wycofania go od użytkowników w rozsądnym terminie, 
+odpowiednim do charakteru zagrożenia, który dane państwo 
+członkowskie może wyznaczyć. 
+2. 
+Podmiot 
+gospodarczy 
+zapewnia 
+podjęcie 
+środków 
+naprawczych w odniesieniu do wszystkich wyrobów budowla­
+nych stanowiących zagrożenie, które podmiot ten udostępnił na 
+rynku w całej Unii. 
+3. 
+Państwo członkowskie niezwłocznie informuje Komisję 
+i pozostałe państwa członkowskie. Informacje te obejmują 
+wszelkie dostępne szczegóły, przede wszystkim dane niezbędne 
+do identyfikacji danego wyrobu budowlanego, pochodzenie 
+i łańcuch dostaw wyrobu, charakter występującego zagrożenia 
+oraz charakter i okres obowiązywania podjętych środków krajo­
+wych.
+PL
+ 
+4.4.2011 
+Dziennik Urzędowy Unii Europejskiej 
+L 88/29
+4. 
+Komisja 
+niezwłocznie 
+rozpoczyna 
+konsultacje 
+z państwami członkowskimi i odpowiednim podmiotem gospo­
+darczym (odpowiednimi podmiotami gospodarczymi) oraz 
+ocenia podjęte środki krajowe. Na podstawie wyników tej 
+oceny Komisja decyduje, czy dany środek jest uzasadniony, 
+oraz proponuje odpowiednie środki, o ile są konieczne. 
+5. 
+Decyzja Komisji skierowana jest do wszystkich państw 
+członkowskich; Komisja niezwłocznie informuje o niej państwa 
+członkowskie i odpowiedni podmiot gospodarczy (odpowiednie 
+podmioty gospodarcze).
+ 
+Artykuł 59
+ 
+Niezgodność formalna
+ 
+1. 
+Bez uszczerbku dla art. 56 w przypadku gdy państwo 
+członkowskie dokona jednego z poniższych ustaleń, zobowią­
+zuje ono właściwy podmiot gospodarczy do usunięcia występu­
+jącej niezgodności: 
+a) oznakowanie CE zostało umieszczone z naruszeniem art. 8 
+lub art. 9; 
+b) oznakowanie CE nie zostało umieszczone w przypadku gdy 
+jest ono wymagane, zgodnie z art. 8 ust. 2; 
+c) bez uszczerbku dla art. 5 nie sporządzono deklaracji właści­
+wości użytkowych, gdy jest to wymagane, zgodnie z art. 4; 
+d) deklaracja właściwości użytkowych nie została sporządzona 
+zgodnie z przepisami art. 4, 6 i 7; 
+e) dokumentacja techniczna jest niedostępna lub niekompletna. 
+2. 
+W przypadku utrzymującej się niezgodności, o której 
+mowa w ust. 1, państwo członkowskie podejmuje wszelkie 
+odpowiednie środki w celu ograniczenia lub zakazania udostęp­
+niania wyrobu budowlanego na rynku, lub zapewnienia jego 
+wycofania od użytkowników lub jego wycofania z obrotu.
+ 
+ROZDZIAŁ IX
+ 
+PRZEPISY KOŃCOWE
+ 
+Artykuł 60
+ 
+Akty delegowane
+ 
+Aby osiągnąć cele niniejszego rozporządzenia, w szczególności 
+usunięcie i uniknięcie ograniczeń w udostępnianiu wyrobów 
+budowlanych na rynku, następujące kwestie przekazane zostają 
+Komisji zgodnie z art. 61, z zastrzeżeniem warunków określo­
+nych w art. 62 i 63: 
+a) określanie, w stosownych przypadkach, zasadniczych charak­
+terystyk lub wartości progowych dla określonych rodzin 
+wyrobów budowlanych, w odniesieniu do których, zgodnie 
+z art. 3–6, producent deklaruje przy wprowadzaniu tych 
+wyrobów 
+do 
+obrotu 
+ich 
+właściwości 
+użytkowe 
+w 
+odniesieniu 
+do 
+zamierzonego 
+zastosowania 
+tych 
+wyrobów, wyrażone w poziomach lub klasach, lub 
+w sposób opisowy; 
+b) warunki, zgodnie z którymi deklaracja właściwości użytko­
+wych może być przetwarzana elektronicznie, by udostępnić 
+ją na stronie internetowej zgodnie z art. 7; 
+c) zmiana okresu, przez który producent przechowuje doku­
+mentację techniczną i deklarację właściwości użytkowych 
+po wprowadzeniu wyrobu budowlanego do obrotu, zgodnie 
+z art. 11, w oparciu o oczekiwaną długość życia wyrobu lub 
+jego rolę w obiektach budowlanych; 
+d) zmiana załącznika II oraz w razie potrzeby przyjmowanie 
+dodatkowych przepisów proceduralnych zgodnie z art. 19 
+ust. 3, w celu zagwarantowania zgodności z zasadami 
+zawartymi w art. 20, lub praktyczne zastosowanie procedur 
+określonych w art. 21; 
+e) dostosowanie 
+załącznika 
+III, 
+załącznika 
+IV 
+tabela 
+1 
+i załącznika V do postępu technicznego; 
+f) określenie i dostosowanie klas właściwości użytkowych 
+w odpowiedzi na postęp techniczny zgodnie z art. 27 ust. 1; 
+g) warunki, na których wyrób budowlany uznaje się za posia­
+dający pewien poziom lub klasę właściwości użytkowych 
+bez przeprowadzania badań lub bez dalszych badań zgodnie 
+z art. 27 ust. 5, o ile w ten sposób nie naraża się spełnienia 
+podstawowych wymagań dotyczących obiektów budowla­
+nych; 
+h) dostosowanie, ustanowienie i przegląd systemów oceny 
+i weryfikacji stałości właściwości użytkowych zgodnie 
+z art. 28 w odniesieniu do określonego wyrobu, rodziny 
+wyrobów lub zasadniczej charakterystyki wyrobu oraz 
+zgodnie z: 
+(i) znaczeniem, jakie ma wyrób lub te zasadnicze charak­
+terystyki w odniesieniu do podstawowych wymagań 
+dotyczących obiektów budowlanych; 
+(ii) charakterem wyrobu;
+PL
+ 
+L 88/30 
+Dziennik Urzędowy Unii Europejskiej 
+4.4.2011
+(iii) skutkami 
+zmienności 
+zasadniczych 
+charakterystyk 
+wyrobu budowlanego podczas oczekiwanej długości 
+życia wyrobu; oraz 
+(iv) podatnością na uszkodzenia wyrobu w trakcie jego 
+produkcji.
+ 
+Artykuł 61
+ 
+Wykonanie przekazania uprawnień
+ 
+1. 
+Uprawnienia do przyjmowania aktów delegowanych, 
+o których mowa w art. 60, powierza się Komisji na okres pięciu 
+lat od dnia 24 kwietnia 2011 r. Komisja przedkłada sprawoz­
+danie na temat przekazanych uprawnień nie później niż sześć 
+miesięcy przed zakończeniem tego pięcioletniego okresu. Prze­
+kazanie uprawnień zostaje automatycznie przedłużone na takie 
+same okresy, chyba że Parlament Europejski lub Rada odwołają 
+je zgodnie z art. 62. 
+2. 
+Niezwłocznie po przyjęciu aktu delegowanego Komisja 
+powiadamia o nim równocześnie Parlament Europejski i Radę. 
+3. 
+Uprawnienia do przyjmowania aktów delegowanych 
+powierzone Komisji podlegają warunkom określonym w art. 
+62 i 63.
+ 
+Artykuł 62
+ 
+Odwołanie przekazania uprawnień
+ 
+1. 
+Przekazanie uprawnień, o którym mowa w art. 60, może 
+zostać odwołane w dowolnym momencie przez Parlament 
+Europejski lub Radę. 
+2. 
+Instytucja, która wszczęła procedurę wewnętrzną mającą 
+na celu podjęcie decyzji o ewentualnym odwołaniu przekaza­
+nych uprawnień, dokłada starań, by powiadomić drugą insty­
+tucję i Komisję w rozsądnym terminie przed podjęciem osta­
+tecznej decyzji, określając, które z przekazanych uprawnień 
+mogłyby zostać odwołane, i wskazując ewentualne przyczyny 
+takiego odwołania. 
+3. 
+Decyzja o odwołaniu kończy przekazanie uprawnień 
+określonych w tej decyzji. Staje się ona skuteczna natychmiast 
+lub od późniejszej daty, która jest w niej określona. Nie wpływa 
+ona na ważność już obowiązujących aktów delegowanych. 
+Decyzja ta zostaje opublikowana w
+ Dzienniku Urzędowym Unii 
+Europejskiej
+.
+ 
+Artykuł 63
+ 
+Sprzeciw wobec aktów delegowanych
+ 
+1. 
+Parlament Europejski lub Rada mogą wyrazić sprzeciw 
+wobec aktu delegowanego w terminie trzech miesięcy od daty 
+powiadomienia. 
+Z inicjatywy Parlamentu Europejskiego lub Rady termin ten jest 
+przedłużany o trzy miesiące. 
+2. 
+Jeśli do momentu upływu terminu, o którym mowa w ust. 
+1, Parlament Europejski ani Rada nie wyrażą sprzeciwu wobec 
+aktu delegowanego, zostaje on publikowany w
+ Dzienniku Urzę­
+dowym Unii Europejskiej
+ i wchodzi w życie z dniem w nim okre­ 
+ślonym. 
+Akt delegowany może zostać opublikowany w
+ Dzienniku Urzę­
+dowym Unii Europejskiej
+ i wejść w życie przed upływem tego 
+terminu, jeżeli Parlament Europejski i Rada poinformują 
+Komisję, że nie zamierzają wyrazić sprzeciwu. 
+3. 
+Jeżeli Parlament Europejski albo Rada wyrażają sprzeciw 
+wobec aktu delegowanego w terminie, o którym mowa w ust. 
+1, nie wchodzi on w życie. Instytucja, która wyraża sprzeciw 
+wobec aktu delegowanego, przedstawia powody tego sprzeciwu.
+ 
+Artykuł 64
+ 
+Komitet
+ 
+1. 
+Komisję wspomaga Stały Komitet ds. Budownictwa. 
+2. 
+W przypadku odesłania do niniejszego ustępu stosuje się 
+art. 3 oraz art. 7 decyzji 1999/468/WE. 
+3. 
+Państwa 
+członkowskie 
+zapewniają, 
+aby 
+członkowie 
+Stałego Komitetu ds. Budownictwa mogli wykonywać swoje 
+zadania w sposób pozwalający na unikanie konfliktów inte­
+resów, zwłaszcza w kwestii procedur uzyskiwania oznakowania 
+CE.
+ 
+Artykuł 65
+ 
+Uchylenie
+ 
+1. 
+Dyrektywa 89/106/EWG traci moc. 
+2. 
+Odniesienia do uchylonej dyrektywy należy traktować 
+jako odniesienia do niniejszego rozporządzenia.
+ 
+Artykuł 66
+ 
+Przepisy przejściowe
+ 
+1. 
+Wyroby budowlane wprowadzone do obrotu zgodnie 
+z dyrektywą 89/106/EWG przed dniem 1 lipca 2013 r. uznaje 
+się za zgodne z niniejszym rozporządzeniem. 
+2. 
+Producenci mogą wystawić deklarację właściwości użytko­
+wych na podstawie certyfikatu zgodności lub deklaracji zgod­
+ności wydanych przed dniem 1 lipca 2013 r. zgodnie 
+z dyrektywą 89/106/EWG.
+PL
+ 
+4.4.2011 
+Dziennik Urzędowy Unii Europejskiej 
+L 88/31
+3. 
+Wytyczne do europejskich aprobat technicznych, opubli­
+kowane przed dniem 1 lipca 2013 r. zgodnie z art. 11 dyrek­
+tywy 89/106/EWG, mogą być stosowane jako europejskie 
+dokumenty oceny. 
+4. 
+Producenci i importerzy mogą wykorzystywać europejskie 
+aprobaty techniczne wydane zgodnie z art. 9 dyrektywy 
+89/106/EWG przed dniem 1 lipca 2013 r. jako europejskie 
+oceny techniczne do końca okresu ważności tych aprobat.
+ 
+Artykuł 67
+ 
+Przedstawianie sprawozdań przez Komisję
+ 
+1. 
+Do dnia 25 kwietnia 2014 r. Komisja dokonuje oceny 
+szczególnej potrzeby posiadania informacji o zawartości 
+substancji 
+niebezpiecznych 
+w 
+wyrobach 
+budowlanych 
+i rozważa ewentualne rozszerzenie obowiązku w zakresie infor­
+mowania, przewidzianego w art. 6 ust. 5, o inne substancje, 
+a także przedkłada sprawozdanie Parlamentowi Europejskiemu 
+i Radzie. W ocenie tej Komisja uwzględnia m.in. potrzebę 
+zapewnienia 
+wysokiego 
+poziomu 
+ochrony 
+zdrowia 
+i bezpieczeństwa pracowników używających wyrobów budow­
+lanych oraz użytkowników obiektów budowlanych, w tym 
+w odniesieniu do recyklingu lub wymogów dotyczących 
+ponownego wykorzystywania części obiektów budowlanych 
+lub materiałów. 
+W stosownym przypadku w ciągu dwóch lat po przedłożeniu 
+sprawozdania przedstawiane są odpowiednie wnioski ustawo­
+dawcze. 
+2. 
+Do dnia 25 kwietnia 2016 r. Komisja, na podstawie spra­
+wozdań przekazanych przez państwa członkowskie oraz inne 
+zainteresowane strony, przedstawia Parlamentowi Europej­
+skiemu i Radzie sprawozdanie z wdrażania niniejszego rozpo­
+rządzenia, w tym art. 19, 20, 21, 23, 24 i 37, w razie potrzeby 
+wraz ze stosownymi wnioskami.
+ 
+Artykuł 68
+ 
+Wejście w życie
+ 
+Niniejsze rozporządzenie wchodzi w życie dwudziestego dnia 
+po jego opublikowaniu w
+ Dzienniku Urzędowym Unii Europejskiej
+. 
+Jednakże art. 3–28, art. 36–38, art. 56–63, art. 65 i 66, a także 
+załączniki I, II, III i V stosuje się od dnia 1 lipca 2013 r. 
+Niniejsze rozporządzenie wiąże w całości i jest bezpośrednio stosowane we wszystkich 
+państwach członkowskich. 
+Sporządzono w Strasburgu dnia 9 marca 2011 r.
+ 
+W imieniu Parlamentu Europejskiego
+ 
+J. BUZEK
+ 
+Przewodniczący 
+W imieniu Rady
+ 
+GYŐRI E.
+ 
+Przewodniczący
+PL
+ 
+L 88/32 
+Dziennik Urzędowy Unii Europejskiej 
+4.4.2011
+ZAŁĄCZNIK I
+ 
+PODSTAWOWE WYMAGANIA DOTYCZĄCE OBIEKTÓW BUDOWLANYCH
+ 
+Obiekty budowlane jako całość oraz ich poszczególne części muszą nadawać się do użycia zgodnie z ich zamierzonym 
+zastosowaniem, przy czym należy w szczególności wziąć pod uwagę zdrowie i bezpieczeństwo osób mających z nimi 
+kontakt przez cały cykl życia tych obiektów. Przy normalnej konserwacji obiekty budowlane muszą spełniać następujące 
+podstawowe wymagania dotyczące obiektów budowlanych przez gospodarczo uzasadniony okres użytkowania. 
+1. Nośność i stateczność 
+Obiekty budowlane muszą być zaprojektowane i wykonane w taki sposób, aby obciążenia mogące na nie działać 
+podczas ich budowy i użytkowania nie prowadziły do: 
+a) zawalenia się całego obiektu budowlanego lub jego części; 
+b) znacznych odkształceń o niedopuszczalnym stopniu; 
+c) uszkodzenia innych części obiektów budowlanych, urządzeń lub zamontowanego wyposażenia w wyniku znacz­
+nych odkształceń elementów nośnych konstrukcji; 
+d) uszkodzenia na skutek wypadku w stopniu nieproporcjonalnym do wywołującej go przyczyny. 
+2. Bezpieczeństwo pożarowe 
+Obiekty budowlane muszą być zaprojektowane i wykonane w taki sposób, aby w przypadku wybuchu pożaru: 
+a) nośność konstrukcji została zachowana przez określony czas; 
+b) powstawanie i rozprzestrzenianie się ognia i dymu w obiektach budowlanych było ograniczone; 
+c) rozprzestrzenianie się ognia na sąsiednie obiekty budowlane było ograniczone; 
+d) osoby znajdujące się wewnątrz mogły opuścić obiekt budowlany lub być uratowane w inny sposób; 
+e) uwzględnione było bezpieczeństwo ekip ratowniczych. 
+3. Higiena, zdrowie i środowisko 
+Obiekty budowlane muszą być zaprojektowane i wykonane w taki sposób, aby podczas ich budowy, użytkowania 
+i rozbiórki nie stanowiły w ciągu ich całego cyklu życia zagrożenia dla higieny ani zdrowia czy bezpieczeństwa 
+pracowników, osób je zajmujących lub sąsiadów, nie wywierały w ciągu ich całego cyklu życia nadmiernego wpływu 
+na jakość środowiska ani na klimat, w szczególności w wyniku: 
+a) wydzielania toksycznych gazów; 
+b) emisji niebezpiecznych substancji, lotnych związków organicznych, gazów cieplarnianych lub niebezpiecznych 
+cząstek do powietrza wewnątrz i na zewnątrz obiektu budowlanego; 
+c) emisji niebezpiecznego promieniowania; 
+d) uwalniania niebezpiecznych substancji do wody gruntowej, wód morskich, wód powierzchniowych lub gleby; 
+e) uwalniania do wody pitnej niebezpiecznych substancji lub substancji, które w inny sposób negatywnie wpływają 
+na wodę pitną; 
+f) niewłaściwego odprowadzania ścieków, emisji gazów spalinowych lub niewłaściwego usuwania odpadów stałych 
+i płynnych; 
+g) wilgoci w częściach obiektów budowlanych lub na powierzchniach w obrębie tych obiektów.
+PL
+ 
+4.4.2011 
+Dziennik Urzędowy Unii Europejskiej 
+L 88/33
+4. Bezpieczeństwo użytkowania i dostępność obiektów 
+Obiekty budowlane muszą być zaprojektowane i wykonane w taki sposób, aby nie stwarzały niedopuszczalnego 
+ryzyka wypadków lub szkód w użytkowaniu lub w eksploatacji, takich jak poślizgnięcia, upadki, zderzenia, oparzenia, 
+porażenia prądem elektrycznym i obrażenia w wyniku eksplozji lub włamania. W szczególności obiekty budowlane 
+muszą być zaprojektowane i wykonane z uwzględnieniem ich dostępności dla osób niepełnosprawnych i ich użyt­
+kowania przez takie osoby. 
+5. Ochrona przed hałasem 
+Obiekty budowlane muszą być zaprojektowane i wykonane w taki sposób, aby hałas odbierany przez osoby je 
+zajmujące lub znajdujące się w pobliżu tych obiektów nie przekraczał poziomu stanowiącego zagrożenie dla ich 
+zdrowia oraz pozwalał im spać, odpoczywać i pracować w zadowalających warunkach. 
+6. Oszczędność energii i izolacyjność cieplna 
+Obiekty budowlane i ich instalacje grzewcze, chłodzące, oświetleniowe i wentylacyjne muszą być zaprojektowane 
+i wykonane w taki sposób, aby utrzymać na niskim poziomie ilość energii wymaganej do ich użytkowania, przy 
+uwzględnieniu potrzeb zajmujących je osób i miejscowych warunków klimatycznych. Obiekty budowlane muszą być 
+również energooszczędne i zużywać jak najmniej energii podczas ich budowy i rozbiórki. 
+7. Zrównoważone wykorzystanie zasobów naturalnych 
+Obiekty budowlane muszą być zaprojektowane, wykonane i rozebrane w taki sposób, aby wykorzystanie zasobów 
+naturalnych było zrównoważone i zapewniało w szczególności: 
+a) ponowne wykorzystanie lub recykling obiektów budowlanych oraz wchodzących w ich skład materiałów i części 
+po rozbiórce; 
+b) trwałość obiektów budowlanych; 
+c) wykorzystanie w obiektach budowlanych przyjaznych środowisku surowców i materiałów wtórnych.
+PL
+ 
+L 88/34 
+Dziennik Urzędowy Unii Europejskiej 
+4.4.2011
+ZAŁĄCZNIK II
+ 
+PROCEDURA PRZYJMOWANIA EUROPEJSKIEGO DOKUMENTU OCENY
+ 
+1. Wniosek o wydanie europejskiej oceny technicznej 
+W przypadku gdy producent zwraca się do JOT z wnioskiem o wydanie europejskiej oceny technicznej dla wyrobu 
+budowlanego i po podpisaniu przez producenta i JOT (zwaną dalej „odpowiedzialną JOT”) umowy dotyczącej tajem­
+nicy handlowej i poufności, jeżeli producent nie postanowi inaczej, producent przedkłada odpowiedzialnej JOT 
+dokumentację techniczną opisującą wyrób, jego zastosowanie przewidywane przez producenta i szczegóły zakładowej 
+kontroli produkcji, którą ma on zamiar stosować. 
+2. Umowa 
+W odniesieniu do wyrobów budowlanych, o których mowa w art. 21 ust. 1 lit. c), w terminie jednego miesiąca od 
+otrzymania dokumentacji technicznej, producent zawiera z odpowiedzialną JOT umowę dotyczącą sporządzenia 
+europejskiej oceny technicznej i określającą program prac mających na celu sporządzenie europejskiego dokumentu 
+oceny, w tym: 
+— organizację pracy w ramach organizacji JOT, 
+— skład grupy roboczej, która ma zostać ustanowiona w ramach organizacji JOT, wyznaczonej dla danej grupy 
+wyrobów, 
+— koordynację między JOT. 
+3. Program prac 
+Po zawarciu umowy z producentem organizacja JOT informuje Komisję o programie prac mających na celu sporzą­
+dzenie europejskiego dokumentu oceny, harmonogramie jego realizacji i programie oceny. Informacje te zostają 
+przekazane w terminie trzech miesięcy od daty otrzymania wniosku o wydanie europejskiej oceny technicznej. 
+4. Projekt europejskiego dokumentu oceny 
+Organizacja JOT przygotowuje projekt europejskiego dokumentu oceny w ramach grupy roboczej, której prace 
+koordynowane są przez odpowiedzialną JOT, i przedkłada ten projekt zainteresowanym stronom w terminie sześciu 
+miesięcy od daty poinformowania Komisji o programie prac. 
+5. Uczestnictwo Komisji 
+Przedstawiciel Komisji może uczestniczyć jako obserwator we wszystkich etapach realizacji programu prac. 
+6. Przedłużenie terminu i opóźnienia 
+O jakimkolwiek opóźnieniu w stosunku do terminów określonych w pkt 1–4 niniejszego załącznika grupa robocza 
+informuje organizację JOT i Komisję. 
+Jeżeli przedłużenie terminu sporządzenia europejskiego dokumentu oceny może być uzasadnione, w szczególności 
+jeżeli brak jest decyzji Komisji w sprawie mającego zastosowanie systemu oceny i weryfikacji stałości właściwości 
+użytkowych produktu budowlanego lub istnieje potrzeba opracowania nowej metody badań, Komisja ustala nowy 
+termin. 
+7. Zmiany i przyjęcie europejskiego dokumentu oceny 
+Odpowiedzialna JOT przedkłada projekt europejskiego dokumentu oceny producentowi, który ma 15 dni roboczych 
+na zajęcie stanowiska wobec tego projektu. Po upływie tego terminu organizacja JOT: 
+a) w stosownych przypadkach informuje producenta o tym, w jaki sposób uwzględniono jego stanowisko; 
+b) przyjmuje projekt europejskiego dokumentu oceny; oraz 
+c) przesyła kopię Komisji.
+PL
+ 
+4.4.2011 
+Dziennik Urzędowy Unii Europejskiej 
+L 88/35
+Jeśli Komisja, w terminie 15 dni roboczych od otrzymania projektu europejskiego dokumentu oceny, zgłasza orga­
+nizacji JOT uwagi dotyczące tego projektu, organizacja JOT, otrzymawszy możliwość wyrażenia uwag, zmienia 
+odpowiednio projekt, a następnie przesyła kopię przyjętego europejskiego dokumentu oceny producentowi i Komisji. 
+8. Publikacja ostatecznej wersji europejskiego dokumentu oceny 
+Po wydaniu przez odpowiedzialną JOT pierwszej europejskiej oceny technicznej na podstawie przyjętego europejskiego 
+dokumentu oceny ten europejski dokument oceny jest w stosownych przypadkach poprawiany na podstawie zebra­
+nych doświadczeń. Organizacja JOT przyjmuje ostateczną wersję europejskiego dokumentu oceny, a jego kopię 
+przesyła Komisji wraz z tłumaczeniem tytułu tego europejskiego dokumentu oceny na wszystkie języki urzędowe 
+Unii w celu opublikowania odniesienia do niego. Organizacja JOT udostępnia europejski dokument oceny za pomocą 
+środków elektronicznych, gdy tylko wyrób zostanie oznakowany CE.
+PL
+ 
+L 88/36 
+Dziennik Urzędowy Unii Europejskiej 
+4.4.2011
+ZAŁĄCZNIK III
+ 
+DEKLARACJA WŁAŚCIWOŚCI UŻYTKOWYCH
+ 
+Nr ................................. 
+1. Niepowtarzalny kod identyfikacyjny typu wyrobu: ........................................................................................................................... 
+2. Numer typu, partii lub serii lub jakikolwiek inny element umożliwiający identyfikację wyrobu budowlanego, wyma­
+gany zgodnie z art. 11 ust. 4: 
+............................................................................................................................................................................................................................. 
+3. Przewidziane przez producenta zamierzone zastosowanie lub zastosowania wyrobu budowlanego zgodnie z mającą 
+zastosowanie zharmonizowaną specyfikacją techniczną: 
+............................................................................................................................................................................................................................. 
+............................................................................................................................................................................................................................. 
+4. Nazwa, zastrzeżona nazwa handlowa lub zastrzeżony znak towarowy oraz adres kontaktowy producenta, wymagany 
+zgodnie z art. 11 ust. 5: 
+............................................................................................................................................................................................................................. 
+............................................................................................................................................................................................................................. 
+5. W stosownych przypadkach nazwa i adres kontaktowy upoważnionego przedstawiciela, którego pełnomocnictwo 
+obejmuje zadania określone w art. 12 ust. 2: 
+............................................................................................................................................................................................................................. 
+............................................................................................................................................................................................................................. 
+6. System lub systemy oceny i weryfikacji stałości właściwości użytkowych wyrobu budowlanego określone 
+w załączniku V: 
+............................................................................................................................................................................................................................. 
+............................................................................................................................................................................................................................. 
+7. W przypadku deklaracji właściwości użytkowych dotyczącej wyrobu budowlanego objętego normą zharmonizowaną: 
+............................................................................................................................................................................................................................. 
+(nazwa i numer identyfikacyjny jednostki notyfikowanej, jeśli dotyczy) 
+przeprowadził(-a/-o) ..............................................................................w systemie ............................................................................. 
+(opis zadań strony trzeciej, określonych w załączniku V) 
+i wydał(-a/-o) .................................................................................................................................................................................................. 
+(certyfikat stałości właściwości użytkowych, certyfikat zgodności zakładowej kontroli produkcji, sprawozdania 
+z badań/obliczeń – w zależności od przypadku) 
+8. W przypadku deklaracji właściwości użytkowych dotyczącej wyrobu budowlanego, dla którego wydana została 
+europejska ocena techniczna: 
+............................................................................................................................................................................................................................. 
+(nazwa i numer identyfikacyjny jednostki ds. oceny technicznej, jeśli dotyczy) 
+wydał(-a/-o) ..................................................................................................................................................................................................... 
+(numer referencyjny europejskiej oceny technicznej) 
+na podstawie ................................................................................................................................................................................................., 
+(numer referencyjny europejskiego dokumentu oceny)
+PL
+ 
+4.4.2011 
+Dziennik Urzędowy Unii Europejskiej 
+L 88/37
+przeprowadził(-a/-o) ..............................................................................w systemie ............................................................................. 
+(opis zadań strony trzeciej, określonych w załączniku V) 
+i wydał(-a/-o) .................................................................................................................................................................................................. 
+(certyfikat stałości właściwości użytkowych, certyfikat zgodności zakładowej kontroli produkcji, sprawozdania 
+z badań/obliczeń – w zależności od przypadku) 
+9. Deklarowane właściwości użytkowe 
+Uwagi do tabeli: 
+1. Kolumna 1 zawiera wykaz zasadniczych charakterystyk określonych w zharmonizowanych specyfikacjach tech­
+nicznych dla zamierzonego zastosowania lub zamierzonych zastosowań wskazanych w pkt 3 powyżej. 
+2. Dla każdej zasadniczej charakterystyki wymienionej w kolumnie 1 i zgodnie z wymaganiami art. 6 kolumna 2 
+zawiera deklarowane właściwości użytkowe wyrażone jako poziom lub klasa, lub w sposób opisowy, powiązane 
+z odpowiednimi zasadniczymi charakterystykami. Zawiera litery „NPD” (właściwości użytkowe nieustalone; ang.
+ 
+No Performance Determined
+), o ile właściwości użytkowe nie zostały zadeklarowane. 
+3. Dla każdej zasadniczej charakterystyki wymienionej w kolumnie 1 kolumna 3 zawiera: 
+a) datowane odniesienie do odpowiedniej normy zharmonizowanej oraz w stosownych wypadkach numer refe­
+rencyjny zastosowanej specjalnej lub odpowiedniej dokumentacji technicznej; 
+lub 
+b) datowane odniesienie do odpowiedniego europejskiego dokumentu oceny, w przypadku gdy jest on dostępny, 
+oraz numer referencyjny zastosowanej europejskiej oceny technicznej.
+ 
+Zasadnicze charakterystyki 
+(zob. uwaga 1) 
+Właściwości użytkowe 
+(zob. uwaga 2) 
+Zharmonizowana specyfikacja techniczna 
+(zob. uwaga 3)
+ 
+W przypadku gdy na podstawie art. 37 lub 38 zastosowana została specjalna dokumentacja techniczna, wymagania, 
+z którymi wyrób jest zgodny: 
+............................................................................................................................................................................................................................. 
+............................................................................................................................................................................................................................. 
+10. Właściwości użytkowe wyrobu określone w pkt 1 i 2 są zgodne z właściwościami użytkowymi deklarowanymi 
+w pkt 9. 
+Niniejsza deklaracja właściwości użytkowych wydana zostaje na wyłączną odpowiedzialność producenta określonego 
+w pkt 4. 
+W imieniu producenta podpisał(-a): 
+.............................................................................................................................................................................................................................
+ 
+(nazwisko i stanowisko)
+ 
+..................................................................................................... 
+...................................................................................................
+ 
+(miejsce i data wydania) 
+(podpis)
+PL
+ 
+L 88/38 
+Dziennik Urzędowy Unii Europejskiej 
+4.4.2011
+ZAŁĄCZNIK IV
+ 
+GRUPY WYROBÓW I WYMAGANIA DOTYCZĄCE JEDNOSTEK DS. OCENY TECHNICZNEJ 
+Tabela 1 – Grupy wyrobów
+ 
+KOD 
+GRUPY 
+GRUPA WYROBÓW
+ 
+1 
+WYROBY PREFABRYKOWANE Z BETONU ZWYKŁEGO/LEKKIEGO/AUTOKLAWIZOWANEGO NAPOWIET­
+RZONEGO 
+2 
+DRZWI, OKNA, OKIENNICE, BRAMY I POWIĄZANE Z NIMI OKUCIA BUDOWLANE 
+3 
+MEMBRANY, W TYM STOSOWANE W POSTACI PŁYNNEJ I ZESTAWY (IZOLUJĄCE PRZED WODĄ LUB 
+PARĄ WODNĄ) 
+4 
+MATERIAŁY TERMOIZOLACYJNE 
+ZŁOŻONE ZESTAWY/SYSTEMY IZOLACYJNE 
+5 
+ŁOŻYSKA KONSTRUKCYJNE 
+TRZPIENIE DO ZŁĄCZY KONSTRUKCYJNYCH 
+6 
+KOMINY, PRZEWODY KOMINOWE I WYROBY SPECJALNE 
+7 
+WYROBY GIPSOWE 
+8 
+GEOWŁÓKNINY, GEOMEMBRANY I WYROBY ZWIĄZANE 
+9 
+ŚCIANY OSŁONOWE/OKŁADZINY ŚCIAN ZEWNĘTRZNYCH/OSZKLENIE ZE SPOIWEM KONSTRUK­
+CYJNYM 
+10 
+STAŁE URZĄDZENIA GAŚNICZE (WYROBY DO WYKRYWANIA I SYGNALIZACJI POŻARU, STAŁE URZĄ­
+DZENIA GAŚNICZE, WYROBY DO KONTROLI ROZPRZESTRZENIANIA OGNIA I DYMU ORAZ DO 
+TŁUMIENIA WYBUCHU) 
+11 
+URZĄDZENIA SANITARNE 
+12 
+URZĄDZENIA BEZPIECZEŃSTWA RUCHU DROGOWEGO: WYPOSAŻENIE DRÓG 
+13 
+KONSTRUKCYJNE WYROBY/ELEMENTY DREWNIANE I WYROBY POMOCNICZE 
+14 
+PŁYTY I ELEMENTY DREWNOPOCHODNE 
+15 
+CEMENTY, WAPNA BUDOWLANE I INNE SPOIWA HYDRAULICZNE 
+16 
+STAL ZBROJENIOWA I SPRĘŻAJĄCA DO BETONU (I WYROBY POMOCNICZE) 
+ZESTAWY ZAKOTWIEŃ I CIĘGIEN 
+17 
+WYROBY MURARSKIE I WYROBY POKREWNE 
+ELEMENTY MUROWE, ZAPRAWY I WYROBY POMOCNICZE 
+18 
+WYROBY DO USUWANIA I OCZYSZCZANIA ŚCIEKÓW 
+19 
+WYROBY PODŁOGOWE I POSADZKOWE 
+20 
+KONSTRUKCYJNE WYROBY METALOWE I WYROBY POMOCNICZE 
+21 
+WYKOŃCZENIE ŚCIAN WEWNĘTRZNYCH, ZEWNĘTRZNYCH I SUFITÓW. ZESTAWY WYROBÓW DO 
+WYKONYWANIA ŚCIAN DZIAŁOWYCH 
+22 
+POKRYCIA DACHOWE, ŚWIETLIKI, OKNA DACHOWE I WYROBY POMOCNICZE, 
+ZESTAWY DACHOWE 
+23 
+WYROBY DO BUDOWY DRÓG 
+24 
+KRUSZYWA 
+25 
+KLEJE BUDOWLANE
+PL
+ 
+4.4.2011 
+Dziennik Urzędowy Unii Europejskiej 
+L 88/39
+KOD 
+GRUPY 
+GRUPA WYROBÓW
+ 
+26 
+WYROBY ZWIĄZANE Z BETONEM, ZAPRAWĄ I ZACZYNEM 
+27 
+URZĄDZENIA DO OGRZEWANIA POMIESZCZEŃ 
+28 
+RURY, ZBIORNIKI I WYROBY POMOCNICZE NIESTYKAJĄCE SIĘ Z WODĄ PRZEZNACZONĄ DO 
+SPOŻYCIA PRZEZ LUDZI 
+29 
+WYROBY BUDOWLANE STYKAJĄCE SIĘ Z WODĄ PRZEZNACZONĄ DO SPOŻYCIA PRZEZ LUDZI 
+30 
+WYROBY ZE SZKŁA PŁASKIEGO, PROFILOWANEGO I BLOKÓW SZKLANYCH 
+31 
+KABLE ZASILANIA, STERUJĄCE I KOMUNIKACYJNE 
+32 
+WYROBY DO USZCZELNIANIA ZŁĄCZY 
+33 
+MOCOWANIA/ŁĄCZNIKI 
+34 
+ZESTAWY BUDOWLANE, KOMPONENTY BUDOWLANE, PREFABRYKATY 
+35 
+WYROBY DO ZATRZYMYWANIA OGNIA, USZCZELNIAJĄCE I OCHRONY OGNIOWEJ, 
+WYROBY HAMUJĄCE PALNOŚĆ
+ 
+Tabela 2 – Wymagania dotyczące jednostek ds. oceny technicznej
+ 
+Kompetencja 
+Opis kompetencji 
+Wymagania
+ 
+1. Analiza ryzyka 
+Określanie możliwych zagrożeń i korzyści 
+związanych ze stosowaniem innowacyjnych 
+wyrobów budowlanych w przypadku gdy 
+brak jest ustalonej/skonsolidowanej informacji 
+technicznej dotyczącej właściwości użytko­
+wych tych wyrobów podczas ich wbudowy­
+wania w obiekty budowlane. 
+JOT jest ustanowiona zgodnie z prawem 
+krajowym i posiada osobowość prawną. Jest 
+niezależna od zainteresowanych podmiotów 
+i nie ma żadnych szczególnych interesów zwią­
+zanych z prowadzoną działalnością. 
+Ponadto personel JOT: 
+a) jest obiektywny i potrafi dokonać rzetelnej 
+oceny technicznej; 
+b) posiada szczegółową znajomość przepisów 
+prawnych i innych wymagań obowiązują­
+cych w państwie członkowskim, w którym 
+została 
+wyznaczona, 
+dotyczących 
+grup 
+wyrobów, dla których JOT ma być wyzna­
+czona; 
+c) posiada ogólną wiedzę na temat praktyki 
+budowlanej oraz szczegółową wiedzę tech­
+niczną 
+dotyczącą 
+grup 
+wyrobów, 
+dla 
+których JOT ma być wyznaczona; 
+d) posiada szczegółową znajomość określo­
+nych zagrożeń związanych z procesem 
+budowlanym oraz jego aspektów technicz­
+nych; 
+e) posiada szczegółową znajomość istniejących 
+norm zharmonizowanych i metod badań 
+w grupach wyrobów, dla których JOT ma 
+być wyznaczona; 
+f) ma odpowiednie umiejętności językowe. 
+Wynagrodzenie personelu JOT nie jest uzależ­
+nione od liczby przeprowadzonych ocen ani od 
+wyników tych ocen. 
+2. Określanie 
+kryte­
+riów technicznych 
+Przekształcanie wyników analizy ryzyka na 
+kryteria techniczne służące do oceny zacho­
+wania i właściwości użytkowych wyrobów 
+budowlanych w odniesieniu do spełniania 
+mających zastosowanie wymagań krajowych; 
+dostarczanie informacji technicznych potrzeb­
+nych podmiotom uczestniczącym w procesie 
+budowlanym jako potencjalni użytkownicy 
+wyrobów budowlanych (producenci, projek­
+tanci, przedsiębiorcy budowlani, instalatorzy). 
+3. Określanie metod 
+oceny 
+Projektowanie 
+i 
+walidacja 
+odpowiednich 
+metod (badań lub obliczeń) służących do 
+oceny właściwości użytkowych dla określenia 
+zasadniczych charakterystyk wyrobów budow­
+lanych, z uwzględnieniem aktualnego stanu 
+wiedzy techniczno-budowlanej.
+PL
+ 
+L 88/40 
+Dziennik Urzędowy Unii Europejskiej 
+4.4.2011
+Kompetencja 
+Opis kompetencji 
+Wymagania
+ 
+4. Ustalanie 
+okre­ 
+ślonej zakładowej 
+kontroli produkcji 
+Analiza i ocena procesu produkcyjnego okre­ 
+ślonego wyrobu w celu ustalenia odpowied­
+nich środków zapewniających stałość wyrobu 
+w ciągu danego procesu produkcyjnego. 
+Personel JOT ma odpowiednią znajomość 
+związków zachodzących między procesami 
+produkcyjnymi a charakterystykami wyrobu 
+związanymi z zakładową kontrolą produkcji. 
+5. Ocena wyrobu 
+Ocena właściwości użytkowych dla określenia 
+zasadniczych charakterystyk wyrobów budow­
+lanych 
+na 
+podstawie 
+zharmonizowanych 
+metod w zależności od zharmonizowanych 
+kryteriów. 
+Oprócz spełniania wymagań wymienionych 
+w pkt 1, 2 i 3 JOT dysponuje środkami 
+i wyposażeniem niezbędnymi do oceny właści­
+wości użytkowych dla określenia zasadniczych 
+charakterystyk 
+wyrobów 
+budowlanych 
+w grupach wyrobów, dla których JOT ma być 
+wyznaczona. 
+6. Zarządzanie 
+ogólne 
+Zapewnienie spójności, wiarygodności, obiek­
+tywizmu i odtwarzalności poprzez stałe stoso­
+wanie odpowiednich metod zarządzania. 
+JOT posiada: 
+a) dowody 
+potwierdzające 
+przestrzeganie 
+dobrej praktyki administracyjnej; 
+b) strategię i dodatkowe procedury służące 
+zapewnieniu poufności informacji szcze­
+gólnie 
+chronionych 
+w 
+obrębie 
+JOT 
+i wszystkich jej partnerów; 
+c) system kontroli dokumentów zapewniający 
+rejestrację, 
+odtwarzalność, 
+zachowanie 
+i archiwizację wszystkich właściwych doku­
+mentów; 
+d) mechanizm audytu wewnętrznego i kontroli 
+zarządzania zapewniający regularne spraw­
+dzanie, czy stosowane są właściwe metody 
+zarządzania; 
+e) procedurę 
+obiektywnego 
+rozpatrywania 
+odwołań i skarg.
+PL
+ 
+4.4.2011 
+Dziennik Urzędowy Unii Europejskiej 
+L 88/41
+ZAŁĄCZNIK V
+ 
+OCENA I WERYFIKACJA STAŁOŚCI WŁAŚCIWOŚCI UŻYTKOWYCH
+ 
+1. 
+SYSTEMY OCENY I WERYFIKACJI STAŁOŚCI WŁAŚCIWOŚCI UŻYTKOWYCH 
+1.1. System 1+ – Deklaracja właściwości użytkowych zasadniczych charakterystyk wyrobu budowlanego, dokonywana 
+przez producenta na podstawie następujących danych: 
+a) producent przeprowadza: 
+(i) zakładową kontrolę produkcji; 
+(ii) dalsze badania próbek pobranych w zakładzie zgodnie z ustalonym planem badań; 
+b) notyfikowana jednostka certyfikująca wyrób wydaje certyfikat stałości właściwości użytkowych wyrobu na 
+podstawie: 
+(i) ustalenia typu wyrobu na podstawie badań typu (w tym pobierania próbek), obliczeń typu, tabelarycznych 
+wartości lub opisowej dokumentacji wyrobu; 
+(ii) wstępnej inspekcji zakładu produkcyjnego i zakładowej kontroli produkcji; 
+(iii) stałego nadzoru, oceny i ewaluacji zakładowej kontroli produkcji; 
+(iv) kontrolnego badania próbek pobranych przed wprowadzeniem wyrobu do obrotu. 
+1.2. System 1 – Deklaracja właściwości użytkowych zasadniczych charakterystyk wyrobu budowlanego, dokonywana 
+przez producenta na podstawie następujących danych: 
+a) producent przeprowadza: 
+(i) zakładową kontrolę produkcji; 
+(ii) dalsze badania próbek pobranych w zakładzie przez producenta zgodnie z ustalonym planem badań; 
+b) notyfikowana jednostka certyfikująca wyrób wydaje certyfikat stałości właściwości użytkowych wyrobu na 
+podstawie: 
+(i) ustalenia typu wyrobu na podstawie badań typu (w tym pobierania próbek), obliczeń typu, tabelarycznych 
+wartości lub opisowej dokumentacji wyrobu; 
+(ii) wstępnej inspekcji zakładu produkcyjnego i zakładowej kontroli produkcji; 
+(iii) stałego nadzoru, oceny i ewaluacji zakładowej kontroli produkcji. 
+1.3. System 2+ – Deklaracja właściwości użytkowych zasadniczych charakterystyk wyrobu budowlanego, dokonywana 
+przez producenta na podstawie następujących danych: 
+a) producent przeprowadza: 
+(i) ustalenia typu wyrobu na podstawie badań typu (w tym pobierania próbek), obliczeń typu, tabelarycznych 
+wartości lub opisowej dokumentacji wyrobu; 
+(ii) zakładową kontrolę produkcji; 
+(iii) badania próbek pobranych w zakładzie zgodnie z ustalonym planem badań;
+PL
+ 
+L 88/42 
+Dziennik Urzędowy Unii Europejskiej 
+4.4.2011
+b) notyfikowana jednostka certyfikująca kontrolę produkcji wydaje certyfikat zgodności zakładowej kontroli 
+produkcji na podstawie: 
+(i) wstępnej inspekcji zakładu produkcyjnego i zakładowej kontroli produkcji; 
+(ii) stałego nadzoru, oceny i ewaluacji zakładowej kontroli produkcji. 
+1.4. System 3 – Deklaracja właściwości użytkowych zasadniczych charakterystyk wyrobu budowlanego, dokonywana 
+przez producenta na podstawie następujących danych: 
+a) producent przeprowadza zakładową kontrolę produkcji; 
+b) notyfikowane laboratorium badawcze dokonuje ustalenia typu wyrobu na podstawie badań typu (w oparciu 
+o próbki pobrane do badań przez producenta), obliczeń typu, tabelarycznych wartości lub opisowej dokumentacji 
+wyrobu. 
+1.5. System 4 – Deklaracja właściwości użytkowych zasadniczych charakterystyk wyrobu budowlanego, dokonywana 
+przez producenta na podstawie następujących danych: 
+a) producent przeprowadza: 
+(i) ustalenie typu wyrobu na podstawie badań typu, obliczeń typu, tabelarycznych wartości lub opisowej doku­
+mentacji wyrobu; 
+(ii) zakładową kontrolę produkcji; 
+b) brak zadań dla jednostki notyfikowanej. 
+2. 
+JEDNOSTKI BIORĄCE UDZIAŁ W OCENIE I WERYFIKACJI STAŁOŚCI WŁAŚCIWOŚCI UŻYTKOWYCH 
+W zależności od funkcji jednostek notyfikowanych biorących udział w ocenie i weryfikacji stałości właściwości 
+użytkowych dla wyrobów budowlanych rozróżnia się: 
+1) jednostkę certyfikującą wyrób: rządowa lub pozarządowa jednostka notyfikowana, posiadająca niezbędne kompe­
+tencje do przeprowadzania leżącej w jej obowiązkach certyfikacji wyrobu zgodnie z określonymi zasadami 
+procedury i zarządzania; 
+2) jednostkę certyfikującą zakładową kontrolę produkcji: jednostka notyfikowana, rządowa lub pozarządowa, posia­
+dająca niezbędne kompetencje do przeprowadzania leżącej w jej obowiązkach certyfikacji zakładowej kontroli 
+produkcji zgodnie z określonymi zasadami procedury i zarządzania; 
+3) laboratorium badawcze: notyfikowane laboratorium, które mierzy, sprawdza, bada, kalibruje lub w inny sposób 
+określa charakterystyki lub właściwości użytkowe materiałów lub wyrobów budowlanych. 
+3. 
+PRZYPADKI ZASADNICZYCH CHARAKTERYSTYK, DLA KTÓRYCH NIE JEST WYMAGANE ODNIESIENIE DO 
+STOSOWNEJ ZHARMONIZOWANEJ SPECYFIKACJI TECHNICZNEJ 
+1) Reakcja na ogień. 
+2) Odporność na ogień. 
+3) Odporność na ogień zewnętrzny. 
+4) Pochłanianie hałasu. 
+5) Emisje substancji niebezpiecznych.
+PL
+ 
+4.4.2011 
+Dziennik Urzędowy Unii Europejskiej 
+L 88/43

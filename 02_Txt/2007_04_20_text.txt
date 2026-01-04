@@ -1,0 +1,1909 @@
+579
+ROZPORZÑDZENIE MINISTRA ÂRODOWISKA
+z dnia 20 kwietnia 2007 r.
+w sprawie warunków technicznych, jakim powinny odpowiadaç budowle hydrotechniczne
+i ich usytuowanie
+1)
+Na podstawie art. 7 ust. 2 pkt 2 ustawy z dnia 7 lip-
+ca 1994 r. — Prawo budowlane (Dz. U. z 2006 r.
+Nr 156, poz. 1118 i Nr 170, poz. 1217) zarzàdza si´, co
+nast´puje:
+DZIA¸ I
+Przepisy ogólne
+§ 1. 1. Rozporzàdzenie okreÊla warunki techniczne,
+jakim powinny odpowiadaç budowle hydrotechniczne
+i ich usytuowanie, z uwzgl´dnieniem przepisów usta-
+wy z dnia 18 lipca 2001 r. — Prawo wodne (Dz. U.
+z 2005 r. Nr 239, poz. 2019, z póên. zm.
+2)
+), a tak˝e wy-
+magaƒ Polskich Norm.
+2. Przepisy rozporzàdzenia stosuje si´ przy budo-
+wie i przebudowie budowli hydrotechnicznych.
+3. Wykaz Polskich Norm przywo∏anych w rozpo-
+rzàdzeniu okreÊla za∏àcznik nr 1 do rozporzàdzenia.
+§ 2. Przepisów rozporzàdzenia nie stosuje si´ do
+budowli morskich i urzàdzeƒ melioracji wodnych
+szczegó∏owych.
+§ 3. Ilekroç w rozporzàdzeniu jest mowa o:
+1) budowli hydrotechnicznej — rozumie si´ przez to
+budowle wraz z urzàdzeniami i instalacjami tech-
+nicznymi z nimi zwiàzanymi, s∏u˝àce gospodarce
+wodnej oraz kszta∏towaniu zasobów wodnych
+i korzystaniu z nich, w tym: zapory ziemne i beto-
+nowe, jazy, budowle upustowe z przelewami
+i spustami, przepusty wa∏owe i mnichy, Êluzy ˝e-
+glugowe, wa∏y przeciwpowodziowe, si∏ownie
+i elektrownie wodne, uj´cia Êródlàdowych wód
+powierzchniowych, wyloty Êcieków, czasze zbior-
+ników wodnych wraz ze zboczami i skarpami,
+pompownie, kana∏y, sztolnie, rurociàgi hydrotech-
+niczne, syfony, lewary, akwedukty, budowle regu-
+lacyjne na rzekach i potokach, progi, grodze, nad-
+poziomowe 
+zbiorniki 
+gromadzàce 
+substancje
+p∏ynne i pó∏p∏ynne, porty, baseny, zimowiska, pir-
+sy, mola, pomosty, nabrze˝a, bulwary, pochylnie
+i falochrony na wodach Êródlàdowych, przep∏awki
+dla ryb;
+2) budowli pi´trzàcej — rozumie si´ przez to ka˝dà
+budowl´ hydrotechnicznà umo˝liwiajàcà sta∏e lub
+okresowe pi´trzenie wody oraz substancji p∏yn-
+nych lub pó∏p∏ynnych ponad przyleg∏y teren albo
+akwen;
+3) urzàdzeniu upustowym — rozumie si´ przez to sa-
+modzielnà budowl´ s∏u˝àcà do przepuszczania
+spi´trzonej wody, posiadajàcà przelewy i spusty;
+4) wysokoÊci pi´trzenia — rozumie si´ przez to ró˝ni-
+c´ rz´dnej maksymalnego poziomu pi´trzenia
+i rz´dnej zwierciad∏a wody dolnej, odpowiadajàcej
+przep∏ywowi Êredniemu niskiemu; w przypadku
+prognozowanej erozji dna rzeki lub kana∏u nale˝y
+uwzgl´dniç równie˝ t´ erozj´; gdy budowla hydro-
+———————
+1)
+ Niniejsze rozporzàdzenie zosta∏o notyfikowane Komisji
+Europejskiej w dniu 7 kwietnia 2006 r. pod numerem
+2006/0169/PL, zgodnie z § 4 rozporzàdzenia Rady Mini-
+strów z dnia 23 grudnia 2002 r. w sprawie sposobu funk-
+cjonowania krajowego systemu notyfikacji norm i aktów
+prawnych (Dz. U. Nr 239, poz. 2039 oraz z 2004 r. Nr 65,
+poz. 597), które wdra˝a dyrektyw´ 98/34/WE z dnia
+22 czerwca 1998 r. ustanawiajàcà procedur´ udzielania in-
+formacji w
+zakresie norm i
+przepisów technicznych
+(Dz. Urz. WE L 204 z 21.07.1998, z póên. zm.).
+2)
+ Zmiany tekstu jednolitego wymienionej ustawy zosta∏y
+og∏oszone w Dz. U. z 2005 r. Nr 267, poz. 2255, z 2006 r.
+Nr 170, poz. 1217 i Nr 227, poz. 1658 oraz z 2007 r. Nr 21,
+poz. 125, Nr 64, poz. 427 i Nr 75, poz. 493.
+techniczna nie styka si´ z dolnà wodà, przyjmuje
+si´ odpowiednio najni˝szà rz´dnà bezpoÊrednio
+przyleg∏ego terenu naturalnego lub uformowane-
+go sztucznie;
+5) normalnym poziomie pi´trzenia, zwanym dalej
+„NPP” — rozumie si´ przez to najwy˝szy poziom
+zwierciad∏a wody w normalnych warunkach u˝yt-
+kowania:
+a) dla budowli pi´trzàcych wod´ okresowo przyj-
+muje si´ poziom wody przy przep∏ywie miaro-
+dajnym,
+b) dla budowli hydrotechnicznych znajdujàcych
+si´ w zasi´gu cofki budowli pi´trzàcej przyjmu-
+je si´ po∏o˝enie zwierciad∏a wody wynikajàce
+z krzywej cofkowej tej budowli pi´trzàcej, usta-
+lonej dla NPP zbiornika i Êredniego rocznego
+przep∏ywu wody;
+6) maksymalnym poziomie pi´trzenia, zwanym dalej
+„Max PP” — rozumie si´ przez to najwy˝sze po∏o-
+˝enie zwierciad∏a spi´trzonej wody przy uwzgl´d-
+nieniu sta∏ej rezerwy powodziowej; dla budowli
+pi´trzàcej niemajàcej pojemnoÊci powodziowej
+Max PP równy jest NPP;
+7) sta∏ej rezerwie powodziowej — rozumie si´ przez
+to pojemnoÊç zbiornika wodnego zawartà pomi´-
+dzy NPP i Max PP; 
+8) przep∏ywie Êrednim niskim — rozumie si´ przez to
+wartoÊç Êrednià arytmetycznà obliczonà z mini-
+malnych rocznych przep∏ywów w okreÊlonych la-
+tach;
+9) maksymalnym przep∏ywie budowlanym — rozu-
+mie si´ przez to najwi´kszy przep∏yw, który nie po-
+woduje przelania si´ przez koron´ budowli hydro-
+technicznych tymczasowych; 
+10) przep∏ywie dozwolonym — rozumie si´ przez to
+przep∏yw, który nie powoduje szkód powodzio-
+wych na terenach poni˝ej budowli hydrotechnicz-
+nej;
+11) przep∏ywie nienaruszalnym — rozumie si´ przez to
+przep∏yw minimalny zapewniajàcy utrzymanie ˝y-
+cia biologicznego w cieku; 
+12) przep∏ywie miarodajnym, zwanym dalej „przep∏y-
+wem Q
+m
+” — rozumie si´ przez to przep∏yw, o któ-
+rym mowa w § 42 pkt 1 i na podstawie którego
+projektuje si´ budowle hydrotechniczne;
+13) przep∏ywie kontrolnym, zwanym dalej „przep∏y-
+wem Q
+k
+” — rozumie si´ przez to przep∏yw, o któ-
+rym mowa w § 42 pkt 2 i na podstawie którego
+sprawdza si´ bezpieczeƒstwo budowli w wyjàtko-
+wym uk∏adzie obcià˝eƒ;
+14) podstawowym uk∏adzie obcià˝eƒ budowli pi´trzà-
+cej — rozumie si´ przez to obcià˝enia wyst´pujàce
+przy pe∏nej sprawnoÊci jej urzàdzeƒ i poziomie
+pi´trzenia przy wezbraniu obliczeniowym o prze-
+p∏ywie Q
+m
+;
+15) wyjàtkowym uk∏adzie obcià˝eƒ budowli pi´trzàcej
+— rozumie si´ przez to obcià˝enia mniej korzystne
+ni˝ obcià˝enia wyst´pujàce w podstawowym uk∏a-
+dzie obcià˝eƒ budowli pi´trzàcej, w tym obcià˝enia:
+a) przy przep∏ywie Q
+k
+ lub najwy˝szym obliczenio-
+wym stanie wody (H
+m
+), o którym mowa w § 42
+pkt 3 i § 43,
+b) dynamiczne powsta∏e w wyniku oddzia∏ywaƒ
+sejsmicznych lub parasejsmicznych,
+c) spowodowane awarià budowli hydrotechnicz-
+nej, jej elementów lub niesprawnoÊcià drena˝u,
+d) wywo∏ane nierównomiernym odkszta∏ceniem
+powierzchni na terenach górniczych, na obsza-
+rach wyst´powania zjawisk krasowych oraz za-
+padania gruntów lessowych,
+e) dynamiczne wywo∏ane ruchem pojazdów, kry
+i innych przedmiotów p∏ywajàcych,
+f) spowodowane huraganowym wiatrem,
+g) spowodowane nag∏ym obni˝eniem poziomu
+pi´trzenia;
+16) konstrukcji z betonu s∏abo zbrojonego — rozumie si´
+przez to konstrukcj´, w której procent zbrojenia jest
+mniejszy od minimalnego procentu zbrojenia okre-
+Êlonego w Polskich Normach dotyczàcych projekto-
+wania konstrukcji ˝elbetowych, w zale˝noÊci od
+przyj´tego schematu obliczeniowego konstrukcji;
+17) substancjach p∏ynnych lub pó∏p∏ynnych — rozu-
+mie si´ przez to substancje ciek∏e, pó∏ciek∏e i sta∏e
+zmieszane z wodà, powsta∏e przy prowadzeniu
+dzia∏alnoÊci zak∏adów górniczych, elektrowni lub
+innych zak∏adów przemys∏owych;
+18) dopuszczalnych wartoÊciach obserwowanych zja-
+wisk — rozumie si´ przez to wartoÊci obserwowa-
+nych zjawisk, mieszczàcych si´ w przedziale war-
+toÊci prognozowanych, których przekroczenie
+wskazuje na koniecznoÊç pilnego przeprowadze-
+nia analizy przyczyn ich powstania;
+19) granicznych wartoÊciach obserwowanych zjawisk
+— rozumie si´ przez to wartoÊci obserwowanych
+zjawisk, których przekroczenie grozi katastrofà bu-
+dowlanà;
+20) próbnym obcià˝eniu wodà — rozumie si´ przez to
+obcià˝enie wodà powsta∏e podczas pierwszego
+pi´trzenia zbiornika lub budowli.
+DZIA¸ II
+Budowle hydrotechniczne
+Rozdzia∏ 1
+Ogólne warunki techniczne budowli 
+hydrotechnicznych
+§ 4. 1. Konstrukcje budowli hydrotechnicznych wy-
+konuje si´ z wyrobów i materia∏ów posiadajàcych
+aprobaty lub zaÊwiadczenia, potwierdzajàce ich jakoÊç
+oraz zachowanie trwa∏oÊci i cech u˝ytkowych w usta-
+lonym okresie u˝ytkowania.
+Dziennik Ustaw Nr 86
+— 5321 —
+Poz. 579
+2. Budowle hydrotechniczne i zwiàzane z nimi
+urzàdzenia powinny spe∏niaç wymogi w zakresie
+ochrony przeciwpo˝arowej.
+3. Elementy budowli hydrotechnicznych mogàce
+ulegaç uszkodzeniu lub korozji zabezpiecza si´ przed
+tymi zagro˝eniami i tak konstruuje, aby by∏a mo˝liwa
+ich konserwacja, naprawa lub wymiana.
+§ 5. Budowle pi´trzàce s∏u˝àce do magazynowania
+i transportowania wody oraz substancji p∏ynnych lub
+pó∏p∏ynnych zabezpiecza si´ przed przepe∏nieniem
+przez wzniesienie koron oraz brzegów tych budowli na
+bezpiecznà wysokoÊç.
+§ 6. Budowle, o których mowa w § 5, wyposa˝a si´
+w urzàdzenia upustowe, to jest przelewy, spusty
+i sztolnie lub inne urzàdzenia umo˝liwiajàce bezpiecz-
+ne odprowadzenie nagromadzonych wód lub sub-
+stancji p∏ynnych lub pó∏p∏ynnych.
+§ 7. 1. Kana∏y w nasypach wyposa˝a si´ w bramy
+awaryjne.
+2. Odstàpienie od budowy bramy awaryjnej jest
+mo˝liwe w przypadku, gdy jest to uzasadnione wzgl´-
+dami technicznymi, ekonomicznymi lub wymagania-
+mi ochrony konserwatorskiej zabytków.
+§ 8. 1. Ziemne budowle hydrotechniczne, w tym
+ich pod∏o˝e, powinny byç stateczne w ka˝dych warun-
+kach pracy, a w szczególnoÊci w przyj´tych w projek-
+cie budowlanym warunkach obcià˝eƒ, w ca∏oÊci i ele-
+mentach takich jak korpus, skarpy, umocnienia,
+uszczelnienia, warstwy ochronne, drena˝e.
+2. Ziemne budowle pi´trzàce, takie jak zapory, wa-
+∏y przeciwpowodziowe, obwa∏owania kana∏ów i nad-
+poziomowych zbiorników gromadzàcych substancje
+p∏ynne lub pó∏p∏ynne, wykonuje si´ z gruntów natu-
+ralnych lub antropogenicznych, w których zawartoÊç
+sk∏adników podlegajàcych rozk∏adowi lub rozpuszcze-
+niu w wodzie nie zagra˝a trwa∏oÊci i bezpieczeƒstwu
+zarówno w czasie budowy, jak i podczas u˝ytkowania.
+§ 9. Przecinanie ziemnych budowli pi´trzàcych in-
+nymi budowlami jest mo˝liwe wy∏àcznie w przypadku
+zastosowania zabezpieczenia przed filtracjà wzd∏u˝
+styków tych budowli z gruntem.
+§ 10. Konstrukcje ˝elbetowe i kamienne oraz wyko-
+nane z betonu s∏abo zbrojonego budowli hydrotech-
+nicznych powinny spe∏niaç wymagane warunki doty-
+czàce wytrzyma∏oÊci, ustalonego zakresu odpornoÊci
+na powstanie rys oraz wodoszczelnoÊci i mrozoodpor-
+noÊci. 
+§ 11. Pod∏o˝e i przyczó∏ki budowli pi´trzàcej zabez-
+piecza si´ przed ujemnymi skutkami filtracji, przebi-
+ciem hydraulicznym, sufozjà i wypieraniem gruntu,
+w szczególnoÊci przez stosowanie przes∏on przeciwfil-
+tracyjnych i drena˝y.
+§ 12. Budowle hydrotechniczne posadawia si´ na
+pod∏o˝u naturalnym lub wzmocnionym, które pod
+wp∏ywem obcià˝eƒ konstrukcjà, wodà lub innymi
+czynnikami nie ulegnie zmianom zagra˝ajàcym
+bezpieczeƒstwu budowli lub zak∏ócajàcym ich u˝yt-
+kowanie. 
+§ 13. 1. Budowle hydrotechniczne i ich cz´Êci prze-
+kazuje si´ do u˝ytkowania po uzyskaniu pozytywnych
+wyników próbnego obcià˝enia wodà, przy utrzymaniu
+NPP lub, jeÊli to mo˝liwe, Max PP.
+2. Próbne obcià˝enia wodà przeprowadza si´ we-
+d∏ug okreÊlonego w projekcie budowlanym sposobu
+obcià˝enia oraz zakresu niezb´dnych obserwacji i po-
+miarów kontrolnych.
+3. Wymóg próbnego obcià˝enia wodà nie dotyczy
+sk∏adowisk substancji p∏ynnych i pó∏p∏ynnych oraz
+budowli przeciwpowodziowych.
+4. Dla budowli hydrotechnicznych klasy I i II opra-
+cowuje si´ plan ewakuacji ludzi i mienia na wypadek
+zagro˝enia katastrofà budowlanà.
+§ 14. Budowla hydrotechniczna mo˝e byç dopusz-
+czona do próbnego obcià˝enia wodà, o którym mowa
+w § 13, po stwierdzeniu, ˝e:
+1) wszystkie urzàdzenia upustowe budowli hydro-
+technicznej z zamkni´ciami i nap´dami gwarantu-
+jà swobodne manewrowanie;
+2) zapewniony jest dojazd do budowli hydrotechnicz-
+nej oraz ∏àcznoÊç telefoniczna i radiowa;
+3) dokonano czynnoÊci, o których mowa w § 24
+ust. 3;
+4) zainstalowano i przekazano do u˝ytku urzàdzenia
+kontrolno-pomiarowe budowli hydrotechnicznej
+i przyleg∏ych terenów;
+5) przygotowano do zalania i odebrano technicznie
+teren zalewu;
+6) skompletowano pe∏nà dokumentacj´ technicznà
+i powykonawczà, wraz z instrukcjà u˝ytkowania
+i instrukcjà próbnego obcià˝enia wodà.
+Rozdzia∏ 2
+Usytuowanie budowli hydrotechnicznych 
+i ich oddzia∏ywanie na Êrodowisko
+§ 15. Budowle hydrotechniczne powinny byç usy-
+tuowane i projektowane tak, aby:
+1) zapewnia∏y zgodnoÊç z ustaleniami miejscowego
+planu zagospodarowania przestrzennego albo wy-
+mogami decyzji o warunkach zabudowy i zago-
+spodarowania terenu;
+2) zapewnia∏y optymalizacj´ kryteriów gospodar-
+czych, spo∏ecznych i ekologicznych;
+Dziennik Ustaw Nr 86
+— 5322 —
+Poz. 579
+3) ogranicza∏y skutki ewentualnej awarii lub katastro-
+fy budowlanej;
+4) harmonizowa∏y z istniejàcym krajobrazem, przy
+uwzgl´dnieniu regionalnych cech budownictwa
+oraz wymagaƒ wynikajàcych z przepisów o ochro-
+nie zabytków;
+5) uwzgl´dnia∏y warunki wynikajàce z badaƒ geolo-
+giczno-in˝ynierskich oraz geotechnicznych;
+6) zapewnia∏y realizacj´ warunków zawartych w po-
+zwoleniu wodnoprawnym.
+§ 16. Brzegom zbiorników wodnych oraz brzegom
+zabudowanych rzek i kana∏ów zapewnia si´ statecz-
+noÊç, zabezpieczajàc je odpowiednio przed uszkodze-
+niem przez wod´ lub inne czynniki.
+§ 17. Zbocza i brzegi zbiorników wodnych oraz za-
+budowanych rzek i kana∏ów kszta∏tuje si´ tak, aby
+umo˝liwia∏y zwierz´tom dost´p do wody; je˝eli utrud-
+nienia dost´pu nie mo˝na uniknàç, buduje si´ odpo-
+wiednie dojÊcia do wody.
+§ 18. Budowle pi´trzàce przegradzajàce rzek´ wy-
+posa˝a si´ w urzàdzenia zapewniajàce swobodne
+przedostawanie si´ ryb przez przeszkod´, o ile jest to
+uzasadnione warunkami lokalnymi, a zbiorniki wodne
+kszta∏tuje si´ tak, aby pozostawiç ostoje i tarliska dla
+ryb.
+§ 19. Przygotowanie czaszy zbiornika wodnego
+przed spi´trzeniem powinno odpowiadaç warunkom
+sanitarnym i u˝ytkowym oraz ochrony Êrodowiska.
+§ 20. Ukszta∏towanie zbiornika wodnego powinno
+ograniczaç mo˝liwoÊç powstawania zatorów lodo-
+wych i Êry˝owych oraz zapewniaç zminimalizowanie
+p∏ycizn i ods∏oni´ç dna w czasie eksploatacji.
+§ 21. Zamulanie zbiorników wodnych powinno byç
+ograniczone odpowiednià zabudowà przeciwrumowi-
+skowà zlewni lub zastosowaniem rozwiàzaƒ technicz-
+nych ograniczajàcych dop∏yw cia∏ sta∏ych; w projekcie
+budowlanym nale˝y przewidzieç mo˝liwoÊç usuwania
+powsta∏ych odk∏adów i sposób ich wykorzystania.
+§ 22. 1. Dolne stanowisko budowli pi´trzàcej oraz
+zwiàzane z nim tereny i urzàdzenia zabezpiecza si´
+przed erozjà. 
+2. W dolnym stanowisku budowli pi´trzàcej lub
+elektrowni wodnej nale˝y przewidzieç stabilizacj´ dna
+kana∏u odp∏ywowego lub rzeki przez budow´ progu
+o sta∏ym przelewie, budow´ budowli pi´trzàcej po∏o-
+˝onej poni˝ej lub odpowiednie umocnienie koryta:
+1) na pod∏o˝u rozmywalnym — gdy wysokoÊç pi´-
+trzenia przekracza 2 m;
+2) na pod∏o˝u nierozmywalnym — gdy wysokoÊç pi´-
+trzenia przekracza 10 m.
+3. Dolne stanowisko budowli pi´trzàcej zasila si´
+przep∏ywem nie mniejszym od przep∏ywu nienaruszal-
+nego.
+§ 23. Przep∏yw wi´kszy od dozwolonego dla dolne-
+go stanowiska budowli pi´trzàcej i odcinka rzeki poni-
+˝ej nie powinien przekraczaç aktualnego prognozowa-
+nego dop∏ywu do zbiornika; nale˝y okreÊliç obszary
+potencjalnego zagro˝enia przep∏ywami wi´kszymi od
+dozwolonego i
+przewidzieç sposoby ostrzegania
+mieszkaƒców tego obszaru przed przewidywanym
+przekroczeniem wartoÊci tego przep∏ywu.
+§ 24. 1. Dla ka˝dej budowli pi´trzàcej okreÊla si´
+wielkoÊç przep∏ywu nienaruszalnego i dozwolonego
+poni˝ej budowli. 
+2. Dla budowli pi´trzàcej o wysokoÊci pi´trzenia
+przekraczajàcej 2,0 m lub tworzàcej pojemnoÊç wi´k-
+szà ni˝ 0,2 mln m
+3
+ 
+wody okreÊla si´ przebieg i zasi´g
+fali wezbraniowej wywo∏anej zniszczeniem lub uszko-
+dzeniem tej budowli.
+3. Dla dolin i obszarów, na których fala wezbranio-
+wa wywo∏ana zniszczeniem lub uszkodzeniem budow-
+li pi´trzàcej mo˝e spowodowaç zagro˝enie ˝ycia lub
+straty w Êrodowisku, zabytkach oraz infrastrukturze
+technicznej, nale˝y:
+1) zainstalowaç systemy ostrzegawcze sygnalizujà-
+ce niebezpieczeƒstwo wtargni´cia fali wezbranio-
+wej;
+2) wykonaç zabezpieczenia chroniàce ludnoÊç, prze-
+mys∏ i zabytki;
+3) wskazaç drogi ewakuacyjne oraz opracowaç plany
+dzia∏aƒ w razie katastrofy.
+Rozdzia∏ 3
+Podzia∏ budowli hydrotechnicznych
+§ 25. 1. Budowle hydrotechniczne dzielà si´ na
+tymczasowe i sta∏e.
+2. Do tymczasowych budowli hydrotechnicznych
+zalicza si´:
+1) budowle, które bez wzgl´du na okres ich u˝ytko-
+wania umo˝liwiajà budow´, renowacj´ lub napra-
+w´ budowli hydrotechnicznych;
+2) budowle hydrotechniczne, których przewidywany
+czas u˝ytkowania nie przekracza 5 lat.
+3. Do sta∏ych budowli hydrotechnicznych zalicza si´:
+1) budowle hydrotechniczne g∏ówne, od stanu któ-
+rych zale˝y osiàgni´cie zamierzonych efektów
+technicznych i gospodarczych, a których awaria,
+uszkodzenie lub okresowe wy∏àczenie mogà po-
+wodowaç ograniczenie skutecznoÊci ich dzia∏ania
+lub zagro˝enie dla terenów i Êrodowiska;
+Dziennik Ustaw Nr 86
+— 5323 —
+Poz. 579
+2) budowle hydrotechniczne drugorz´dne, których
+awaria, uszkodzenie lub okresowe wy∏àczenie nie
+powodujà ani zagro˝enia bezpieczeƒstwa budowli
+hydrotechnicznej g∏ównej lub ograniczenia sku-
+tecznoÊci jej dzia∏ania, ani zagro˝enia dla terenów
+i Êrodowiska.
+§ 26. Sta∏e budowle hydrotechniczne zalicza si´ do
+jednej z czterech klas wa˝noÊci I, II, III, IV. Najwy˝szà
+klasà wa˝noÊci jest klasa I.
+§ 27. W zale˝noÊci od klasy budowli hydrotech-
+nicznych ró˝nicuje si´ warunki:
+1) przep∏ywów obliczeniowych;
+2) wspó∏czynników przyjmowanych w obliczeniach
+statycznych;
+3) bezpiecznych wzniesieƒ koron budowli hydrotech-
+nicznych, brzegów nad okreÊlonym po∏o˝eniem
+zwierciad∏a wody i poziomami wtaczania si´ fal;
+4) wyposa˝enia w urzàdzenia kontrolno-pomiarowe;
+5) zakresu wymaganych studiów przedprojektowych
+i projektowych, w tym badaƒ modelowych;
+6) wyposa˝enia budowli hydrotechnicznych w urzà-
+dzenia upustowe.
+§ 28. Klasy g∏ównych budowli hydrotechnicznych
+okreÊla si´ na podstawie wskaêników i informacji za-
+wartych w klasyfikacji g∏ównych budowli hydrotech-
+nicznych, stanowiàcej za∏àcznik nr 2 do rozporzà-
+dzenia.
+DZIA¸ III
+Ocena statecznoÊci budowli 
+hydrotechnicznych
+§ 29. Obliczanie statecznoÊci i noÊnoÊci budowli
+hydrotechnicznych wykonuje si´ wed∏ug metod okreÊ-
+lonych w Polskich Normach dotyczàcych tych obli-
+czeƒ.
+§ 30. Budowle hydrotechniczne ˝elbetowe i ka-
+mienne oraz wykonane z betonu s∏abo zbrojonego po-
+sadowione na pod∏o˝u nieskalnym powinny spe∏niaç
+warunki bezpieczeƒstwa w zakresie:
+1) przekroczenia obliczeniowego oporu granicznego
+pod∏o˝a gruntowego;
+2) poÊlizgu po pod∏o˝u lub w pod∏o˝u;
+3) przekroczenia dopuszczalnych wartoÊci osiadaƒ
+i ró˝nicy osiadaƒ oraz przechylenia;
+4) przebicia hydraulicznego i sufozji gruntu pod∏o˝a
+i przyczó∏ków;
+5) noÊnoÊci konstrukcji;
+6) wystàpienia nadmiernych ciÊnieƒ w podstawie
+budowli hydrotechnicznej oraz w pod∏o˝u.
+§ 31. Budowle pi´trzàce ˝elbetowe i kamienne oraz
+wykonane z betonu s∏abo zbrojonego, posadowione
+na pod∏o˝u skalnym sprawdza si´ w zakresie:
+1) przekroczenia obliczeniowego oporu granicznego
+pod∏o˝a;
+2) poÊlizgu po pod∏o˝u i w pod∏o˝u;
+3) obrotu;
+4) wystàpienia napr´˝eƒ rozciàgajàcych od strony
+odwodnej, w poziomie posadowienia, a dla bu-
+dowli hydrotechnicznych wykonanych z betonu
+s∏abo zbrojonego i kamiennych — równie˝ w prze-
+krojach powy˝ej poziomu posadowienia;
+5) wystàpienia nadmiernych ciÊnieƒ w podstawie bu-
+dowli hydrotechnicznej oraz w pod∏o˝u;
+6) przebiç hydraulicznych w szczelinach pod∏o˝a skal-
+nego i przyczó∏ków;
+7) noÊnoÊci konstrukcji.
+§ 32. Ziemne budowle pi´trzàce sprawdza si´
+w zakresie:
+1) statecznoÊci skarp wraz z pod∏o˝em;
+2) gradientów ciÊnieƒ filtracyjnych i mo˝liwoÊci prze-
+bicia lub sufozji;
+3) ch∏onnoÊci, wydajnoÊci drena˝y;
+4) wartoÊci osiadaƒ korpusu i odkszta∏ceƒ pod∏o˝a
+budowli hydrotechnicznej;
+5) niebezpieczeƒstwa wystàpienia poÊlizgu po pod∏o-
+˝u i w pod∏o˝u;
+6) niebezpieczeƒstwa wyparcia s∏abego gruntu spod
+budowli hydrotechnicznej.
+§ 33. W przypadku wyst´powania w pod∏o˝u i kor-
+pusie budowli pi´trzàcej gruntów piaszczystych lub
+pylastych w stanie luênym, nale˝y sprawdziç mo˝li-
+woÊç up∏ynnienia tych gruntów w wyniku dzia∏ajàcych
+obcià˝eƒ. 
+§ 34. 1. Dla sprawdzenia warunków statecznoÊci
+wed∏ug I stanu granicznego noÊnoÊci budowli hydro-
+technicznej, z wyjàtkiem skarp budowli hydrotechnicz-
+nych ziemnych i zboczy, stosuje si´ zale˝noÊç: 
+γ
+n
+ ⋅
+E
+dest
+ ≤
+m E
+stab
+gdzie:
+E
+stab
+ — oznacza obliczeniowe oddzia∏ywania stabili-
+zujàce, którymi sà:
+— obliczeniowy opór graniczny pod∏o˝a
+gruntowego,
+— suma rzutów na p∏aszczyzn´ poÊlizgu
+wszystkich si∏ od obcià˝eƒ obliczeniowych
+przeciwdzia∏ajàcych przesuni´ciu, wyzna-
+czonych z uwzgl´dnieniem obliczeniowych
+wartoÊci parametrów geotechnicznych,
+Dziennik Ustaw Nr 86
+— 5324 —
+Poz. 579
+— moment wszystkich si∏ obliczeniowych
+przeciwdzia∏ajàcych obrotowi,
+— sk∏adowa pionowa obcià˝eƒ obliczenio-
+wych w
+poziomie posadowienia przy
+sprawdzaniu statecznoÊci na wyp∏yni´cie,
+E
+dest
+ — oznacza obliczeniowe oddzia∏ywania desta-
+bilizujàce, którymi sà odpowiednio:
+— obcià˝enia przekazywane przez funda-
+menty na pod∏o˝e gruntowe,
+— sk∏adowa styczna wszystkich obcià˝eƒ
+obliczeniowych mogàcych spowodowaç
+przesuni´cia budowli hydrotechnicznej
+w p∏aszczyênie poÊlizgu,
+— momenty wszystkich si∏ obliczeniowych
+mogàcych spowodowaç obrót,
+— sk∏adowa pionowa wartoÊci obliczeniowej
+wyporu w poziomie posadowienia przy
+sprawdzaniu statecznoÊci na wyp∏yni´cie,
+γ
+n
+— oznacza wspó∏czynnik konsekwencji znisz-
+czenia,
+m
+— oznacza wspó∏czynnik korekcyjny.
+2. Zale˝noÊç okreÊlonà w ust. 1 stosuje si´ przy
+sprawdzaniu noÊnoÊci pod∏o˝a gruntowego budowli
+hydrotechnicznej, poÊlizgu budowli hydrotechnicznej
+po pod∏o˝u lub w pod∏o˝u, obrotu budowli hydrotech-
+nicznej oraz jej wyp∏yni´cia.
+3. WartoÊç obliczeniowà obcià˝eƒ, kombinacj´
+podstawowà i wyjàtkowà obcià˝eƒ oraz wartoÊci obli-
+czeniowe parametrów wytrzyma∏oÊciowych pod∏o˝a
+gruntowego, obliczeniowy opór graniczny pod∏o˝a
+i wartoÊci wspó∏czynnika korekcyjnego ustala si´
+w oparciu o Polskie Normy dotyczàce tych wartoÊci.
+4. Wspó∏czynnik konsekwencji zniszczenia budow-
+li hydrotechnicznej okreÊla za∏àcznik nr 3 do rozporzà-
+dzenia, z wy∏àczeniem budowli hydrotechnicznych na
+rzekach granicznych, dla których wartoÊç wspó∏czyn-
+nika konsekwencji zniszczenia ustala si´ indywidual-
+nie dla ka˝dej budowli, w uzgodnieniu z odpowiedni-
+mi s∏u˝bami paƒstwa sàsiedniego. Wspó∏czynnik kon-
+sekwencji zniszczenia budowli hydrotechnicznej na
+wodach granicznych nie mo˝e byç mniejszy ni˝ poda-
+ny w za∏àczniku nr 3 do rozporzàdzenia.
+5. W obliczeniach, o których mowa w ust. 1,
+uwzgl´dnia si´ napr´˝enia efektywne wyznaczane
+z
+uwzgl´dnieniem prognozowanych ciÊnieƒ wody
+w porach gruntów pod∏o˝a. Je˝eli wyniki prognozy ci-
+Ênieƒ wody w porach sà niepewne, zale˝noÊç okreÊlo-
+nà w ust. 1 sprawdza si´ zarówno dla warunków pracy
+bez drena˝u, jak i warunków pracy z drena˝em, przyj-
+mujàc odpowiednio ca∏kowite lub efektywne parame-
+try wytrzyma∏oÊciowe gruntów w pod∏o˝u.
+6. Dopuszcza si´ stosowanie innych metod obli-
+czeƒ statecznoÊci budowli hydrotechnicznych opar-
+tych na rozwiàzaniu równaƒ równowagi. Przy stoso-
+waniu innych metod wspó∏czynnik pewnoÊci powi-
+nien spe∏niaç wymagania, o których mowa w § 39
+ust. 2.
+§ 35. 1. W budowlach hydrotechnicznych wykona-
+nych z betonu s∏abo zbrojonego i kamiennych posa-
+dowionych na skale wypadkowe wszystkich si∏ pozio-
+mych  i pionowych dzia∏ajàcych na budowl´ hydro-
+technicznà odniesione do dowolnego przekroju pozio-
+mego, w tym do podstawy budowli pi´trzàcej, powin-
+ny dla podstawowego uk∏adu obcià˝eƒ mieÊciç si´
+w rdzeniu przekroju i spe∏niaç zale˝noÊç 
+
+x
+≤
+1/6 b,
+która eliminuje wyst´powanie napr´˝eƒ rozciàgajà-
+cych w korpusie budowli i jej pod∏o˝u, gdzie:
+x — oznacza odleg∏oÊç po∏o˝enia wypadkowej od
+Êrodka przekroju,
+b — oznacza szerokoÊç przekroju (podstawy).
+Dla budowli hydrotechnicznych ˝elbetowych powy˝-
+szy warunek powinien byç spe∏niony w poziomie po-
+sadowienia.
+2. W budowlach hydrotechnicznych wykonanych
+z betonu s∏abo zbrojonego posadowionych na skale,
+dla wyjàtkowego uk∏adu obcià˝eƒ, dopuszcza si´, aby
+wypadkowa wszystkich obcià˝eƒ obliczeniowych wy-
+sz∏a poza rdzeƒ przekroju, przy spe∏nieniu zale˝no-
+Êci
+
+x
+≤
+1/3 b.
+§ 36. W przypadku budowli hydrotechnicznych ˝el-
+betowych, kamiennych oraz wykonanych z betonu
+s∏abo zbrojonego poddanych obcià˝eniom dynamicz-
+nym wywo∏anym przez urzàdzenia zainstalowane
+w tych budowlach pi´trzàcych, wp∏yw tych obcià˝eƒ
+nale˝y uwzgl´dniç, przyjmujàc po prawej stronie za-
+le˝noÊci, o której mowa w § 34 ust. 1, dodatkowy
+wspó∏czynnik równy 0,95. W przypadku budowli pi´-
+trzàcych poddawanych obcià˝eniom sejsmicznym lub
+parasejsmicznym 
+oddzia∏ywanie 
+tych 
+obcià˝eƒ
+uwzgl´dnia si´ przez przyj´cie w zale˝noÊci, o której
+mowa w § 34 ust. 1, dodatkowej si∏y destabilizujàcej,
+której wielkoÊç okreÊla si´ na podstawie przewidywa-
+nych przyspieszeƒ wywo∏anych tymi obcià˝eniami. 
+§ 37. 1. Gradienty ciÊnieƒ filtracyjnych wyst´pujà-
+ce w pod∏o˝u wszystkich budowli  hydrotechnicznych
+oraz w korpusie zapór ziemnych powinny spe∏niaç za-
+le˝noÊç:
+γ
+i
+ ⋅
+i
+ ≤
+i
+kr
+gdzie:
+i
+— oznacza gradient ciÊnieƒ filtracyjnych,
+i
+kr
+ — oznacza wartoÊci krytyczne gradientu dla dane-
+go gruntu,
+γ
+i
+ — oznacza wspó∏czynnik pewnoÊci, który niezale˝-
+nie od klasy budowli wynosi:
+γ
+i 
+= 1,5 dla podstawowego uk∏adu obcià˝eƒ, 
+γ
+i
+ = 1,3 dla wyjàtkowego uk∏adu obcià˝eƒ. 
+2. WartoÊci gradientu ciÊnienia filtracyjnego nale-
+˝y wyznaczyç dla warunków filtracji ustalonej i nie-
+ustalonej, wywo∏ywanej wahaniami stanów wody
+oraz procesami konsolidacji w gruntach spoistych.
+§ 38. Obliczenia posadowienia budowli hydrotech-
+nicznych ˝elbetowych, kamiennych oraz wykonanych
+z betonu s∏abo zbrojonego wed∏ug stanu granicznego
+Dziennik Ustaw Nr 86
+— 5325 —
+Poz. 579
+u˝ytkowalnoÊci przeprowadza si´ zgodnie z Polskimi
+Normami dotyczàcymi tych obliczeƒ. WartoÊci do-
+puszczalne przemieszczeƒ ustala si´ indywidualnie dla
+ka˝dej budowli zale˝nie od wymagaƒ stawianych zain-
+stalowanym w budowlach urzàdzeniom, dopuszczal-
+nych ró˝nic przemieszczeƒ sàsiednich budowli oraz
+ich dopuszczalnych odkszta∏ceƒ.
+§ 39. 1. Sprawdzenie statecznoÊci skarp budowli
+hydrotechnicznych ziemnych oraz zboczy polega na
+wykazaniu, ˝e jest spe∏niona zale˝noÊç:
+γ
+p
+ E
+ch
+dest
+ 
+≤
+E
+ch
+stab
+gdzie:
+E
+ch
+stab
+, E
+ch
+dest
+ 
+— oznaczajà charakterystyczne od-
+dzia∏ywania stabilizujàce i destabili-
+zujàce,
+γ
+p
+— oznacza wspó∏czynnik pewnoÊci
+okreÊlony w ust. 2 i 3.
+2. WartoÊç wspó∏czynnika pewnoÊci niezale˝nie od
+klasy budowli hydrotechnicznej wynosi:
+1,5 — dla podstawowego uk∏adu obcià˝eƒ,
+1,3 — dla wyjàtkowego uk∏adu obcià˝eƒ.
+Podane wartoÊci wspó∏czynnika pewnoÊci dotyczà ob-
+liczeƒ wykonywanych dok∏adnymi metodami, w tym
+metodami Morgensterna-Price`a, GLE, Spencera, MES,
+przy przeci´tnym rozpoznaniu pod∏o˝a; w przypadku
+dok∏adnego rozpoznania budowy pod∏o˝a w uk∏adzie
+warstw geotechnicznych i przeprowadzenia badaƒ w∏a-
+ÊciwoÊci gruntów spoistych w poszczególnych war-
+stwach pod∏o˝a, podane wartoÊci mogà byç zmniejszo-
+ne do wartoÊci 1,3 dla podstawowego uk∏adu obcià˝eƒ
+i 1,15 dla wyjàtkowego uk∏adu obcià˝eƒ.
+3. Dla budowli hydrotechnicznych klasy III i IV do-
+puszcza si´ wykonywanie obliczeƒ statecznoÊci meto-
+dami uproszczonymi, w tym metodà szwedzkà lub
+metodà du˝ych bry∏; przy zastosowaniu metod
+uproszczonych wartoÊç wspó∏czynnika pewnoÊci wy-
+nosi: 
+1,3 — dla podstawowego uk∏adu obcià˝eƒ,
+1,1 — dla wyjàtkowego uk∏adu obcià˝eƒ.
+4. Dla budowli hydrotechnicznych klasy I i II para-
+metry wytrzyma∏oÊciowe gruntów spoistych powinny
+byç wyznaczane na podstawie wyników odpowied-
+nich badaƒ; dla gruntów niespoistych oraz dla grun-
+tów spoistych w
+budowlach hydrotechnicznych 
+klasy III i IV dopuszcza si´ stosowanie metod korela-
+cyjnych, w tym wyznaczanie tych parametrów na pod-
+stawie wyników sondowania statycznego, dynamicz-
+nego lub dylatometrycznego.
+5. WartoÊci charakterystyczne obcià˝eƒ i parame-
+trów geotechnicznych wyznacza si´ wed∏ug metod
+okreÊlonych w Polskich Normach dotyczàcych tych
+wartoÊci.
+6. W przypadku wyst´powania w korpusie lub bez-
+poÊrednio w pod∏o˝u pod budowlà hydrotechnicznà
+gruntów spoistych warunki statecznoÊci tej budowli
+hydrotechnicznej nale˝y sprawdziç dla dwóch przy-
+padków obliczeniowych:
+1) z uwzgl´dnieniem drena˝u — wprowadzajàc do
+obliczeƒ wyst´pujàce ciÊnienia wody w porach
+i efektywne parametry wytrzyma∏oÊciowe;
+2) bez uwzgl´dnienia drena˝u — wprowadzajàc do ob-
+liczeƒ napr´˝enia ca∏kowite i parametry wytrzyma-
+∏oÊciowe wyznaczone w warunkach bez drena˝u.
+§ 40. StatecznoÊç zboczy zbiorników sprawdza
+si´ z uwzgl´dnieniem przewidywanego zakresu wa-
+haƒ poziomów pi´trzenia i pr´dkoÊci zmian poziomu
+wody.
+§ 41. Dla okreÊlenia nadwy˝ek wysokoÊci nasypów
+ziemnych budowli hydrotechnicznych niezb´dnych
+dla utrzymania projektowanej rz´dnej korony opraco-
+wuje si´ prognoz´ osiadaƒ; dla budowli hydrotech-
+nicznych klasy I i II prognoz´ sporzàdza si´ w oparciu
+o parametry geotechniczne pod∏o˝a i materia∏u u˝yte-
+go do budowy budowli hydrotechnicznych, okreÊlone
+na podstawie wyników badaƒ polowych i laboratoryj-
+nych; dla budowli hydrotechnicznych klas ni˝szych
+parametry geotechniczne mo˝na oznaczyç na podsta-
+wie badaƒ polowych okreÊlonych w Polskich Nor-
+mach dotyczàcych tych badaƒ.
+DZIA¸ IV
+Ustalenie obliczeniowych stanów 
+i przep∏ywów wezbraniowych wód
+§ 42. ZdolnoÊç przepustowa i sposób u˝ytkowania
+urzàdzeƒ upustowych w sta∏ych budowlach hydro-
+technicznych powinny zapewniaç bezpieczeƒstwo bu-
+dowli pi´trzàcych w czasie przejÊcia wezbraƒ oblicze-
+niowych, to jest:
+1) wezbrania obliczeniowego o
+przep∏ywie Q
+m
+o prawdopodobieƒstwie pojawiania si´ okreÊlo-
+nym w za∏àczniku nr 4 do rozporzàdzenia;
+2) najwi´kszego wezbrania obliczeniowego o prze-
+p∏ywie Q
+k
+ o prawdopodobieƒstwie pojawiania si´
+okreÊlonym w za∏àczniku nr 4 do rozporzàdzenia;
+3) najwy˝szego obliczeniowego stanu wody (H
+m
+).
+§ 43. Najwy˝szy obliczeniowy stan wody, zwany
+dalej „H
+m
+”, wyznacza si´ jako najwy˝szy ze stanów
+obserwowanych lub na podstawie analizy przyczyn
+powstawania wyjàtkowych stanów wody, takich jak
+zatory lodowe, cofki wiatrowe. 
+§ 44. Je˝eli istnieje gwarancja retencjonowania
+wielkich wód przez zbiornik lub zespó∏ zbiorników, do-
+puszcza si´ mo˝liwoÊç zmniejszenia przep∏ywów obli-
+czeniowych Q
+m
+ i Q
+k
+ o wartoÊci wynikajàce z magazy-
+nowania szczytu fali; pojemnoÊcià retencyjnà jest wte-
+dy wielkoÊç sta∏ej rezerwy powodziowej. 
+Dziennik Ustaw Nr 86
+— 5326 —
+Poz. 579
+§ 45. Konstrukcja, wymiary i sposób u˝ytkowania
+tymczasowych budowli pi´trzàcych powinny zapew-
+niaç bezpieczne przeprowadzenie przep∏ywów bu-
+dowlanych o prawdopodobieƒstwie pojawiania si´
+nie wi´kszym ni˝ okreÊlone w za∏àczniku nr 5 do roz-
+porzàdzenia.
+§ 46. 1. Maksymalny przep∏yw budowlany okreÊla
+si´ na podstawie przeprowadzonej analizy nak∏adów
+na budow´ urzàdzeƒ do przeprowadzania wód i strat
+mogàcych wyniknàç z ich zbyt ma∏ej zdolnoÊci przepu-
+stowej, z uwzgl´dnieniem os∏ony hydrologicznej.
+2. Z zastrze˝eniem ust. 3, w przypadku braku ana-
+lizy, za maksymalny przep∏yw budowlany przyjmuje
+si´ odpowiednio przep∏yw, o którym mowa w za∏àcz-
+niku nr 5 do rozporzàdzenia.
+3. Je˝eli przewidywany okres budowy przekracza
+5 lat, okreÊlone w
+ust.
+2 prawdopodobieƒstwo
+zmniejsza si´ odpowiednio do 2 % dla gródz ziemnych
+i do 5 % dla pozosta∏ych gródz. 
+§ 47. Je˝eli okres u˝ytkowania tymczasowej bu-
+dowli hydrotechnicznej jest krótszy ni˝ rok, to prawdo-
+podobieƒstwo wyst´powania maksymalnego przep∏y-
+wu budowlanego okreÊla si´ dla tego okresu.
+§ 48. Je˝eli istnieje mo˝liwoÊç redukcji maksymal-
+nych przep∏ywów budowlanych przez samoczynnà
+transformacj´ fali powodziowej, zmniejsza si´ maksy-
+malne przep∏ywy wód o wartoÊç wynikajàcà z obni˝e-
+nia wezbrania.
+DZIA¸ V
+Bezpieczne wzniesienie budowli 
+hydrotechnicznych ponad poziomy wód
+i przepuszczanie wód
+Rozdzia∏ 1
+Wymagania ogólne
+§ 49. 1. Korony budowli pi´trzàcych, spody kon-
+strukcji mostowych, k∏adek, belek poddêwigowych
+i innych konstrukcji rozpi´tych nad wodà oraz po-
+wierzchnie niezalewane i górne kraw´dzie elementów
+uszczelniajàcych wznosi si´ ponad charakterystyczne
+poziomy wody na bezpiecznà wysokoÊç, zwanà dalej
+„bezpiecznym wzniesieniem budowli”.
+2. W normalnych warunkach pracy budowli hydro-
+technicznej stale pi´trzàcej wod´ nale˝y przyjmowaç
+Max PP lub poziom wód przy przep∏ywie Q
+m
+, uwzgl´d-
+niajàc przep∏yw przez wszystkie budowle upustowe,
+z zastrze˝eniem § 64 ust. 3.
+3. W wyjàtkowych warunkach pracy budowli hy-
+drotechnicznej nale˝y przyjmowaç najwy˝szy spoÊród
+poziomów wód:
+1) przy przejÊciu przep∏ywu Q
+m
+ i nieczynnej cz´Êci
+urzàdzeƒ upustowych z uwzgl´dnieniem § 68;
+2) przy przejÊciu przep∏ywu Q
+k
+;
+3) przy stanie wody H
+m
+.
+§ 50. Dla budowli tymczasowych przyjmuje si´ po-
+ziomy wód odpowiadajàcych maksymalnemu prze-
+p∏ywowi budowlanemu okreÊlonemu w § 46—48.
+§ 51. Bezpieczne wzniesienie budowli musi byç za-
+chowane po uwzgl´dnieniu osiadania budowli hydro-
+technicznej i jej pod∏o˝a oraz obni˝enia korony spowo-
+dowanego ruchem ko∏owym i drganiami, których
+przyczynà mo˝e byç praca elektrowni wodnej lub
+pompowni.
+Rozdzia∏ 2
+Bezpieczne wzniesienie korony sta∏ych budowli 
+hydrotechnicznych 
+§ 52. Bezpieczne wzniesienie korony sta∏ych bu-
+dowli hydrotechnicznych nie mo˝e byç mniejsze ni˝
+okreÊlone w za∏àczniku nr 6 do rozporzàdzenia.
+§ 53. 1. Dla ziemnej budowli hydrotechnicznej, któ-
+rej korona zaopatrzona jest w szczelny parapet, wznie-
+sienie korony budowli, o którym mowa w § 52, nale˝y
+liczyç do górnej kraw´dzi tego parapetu.
+2. Korona ziemnej budowli hydrotechnicznej za-
+opatrzona w szczelny parapet powinna byç wzniesio-
+na nad Max PP i poziom wód wywo∏any miarodajnym
+wezbraniem co najmniej o 0,4 m i nie mo˝e byç ni˝sza
+ni˝ poziom wód w wyjàtkowych warunkach pracy tej
+budowli.
+3. Parapet na koronie zapory ziemnej zabezpiecza
+si´ przed podmywaniem i utratà statecznoÊci przy po-
+ziomie wód nieprzekraczajàcym korony parapetu.
+§ 54. 1. WysokoÊç pi´trzenia wywo∏anego falowa-
+niem dla ziemnych budowli hydrotechnicznych ustala
+si´ jako sum´ wysokoÊci pi´trzenia spowodowanego
+przez wiatr i wysokoÊci wtaczania si´ fali na skarp´ bu-
+dowli, z zastrze˝eniem ust. 3.
+2. WysokoÊç pi´trzenia wywo∏anego falowaniem
+dla budowli hydrotechnicznej o Êcianie pionowej lub
+zbli˝onej do pionu ustala si´ jako sum´ pi´trzenia spo-
+wodowanego przez wiatr i wysokoÊç fali stojàcej.
+3. Dla wa∏ów przeciwpowodziowych falowanie
+uwzgl´dnia si´, je˝eli rozstaw wa∏ów jest wi´kszy ni˝
+3 km.
+§ 55. 1. Dla zbiorników o d∏ugoÊci do 3 km mo˝na
+nie uwzgl´dniaç pi´trzenia spowodowanego przez
+wiatr.
+2. Wyznaczenie wysokoÊci fali przeprowadza si´
+dla pr´dkoÊci wiatru nie mniejszej ni˝:
+1) 20 m/s — przy Max PP;
+2) 15 m/s — przy przep∏ywie Q
+m
+.
+Dziennik Ustaw Nr 86
+— 5327 —
+Poz. 579
+3. Wyznaczenie wysokoÊci fali wywo∏anej ruchem
+statków oblicza si´, dodajàc wysokoÊç fali wywo∏anej
+ruchem statków do wyznaczonej wysokoÊci fali wywo-
+∏anej przez wiatr o pr´dkoÊci, przy której mo˝e si´ jesz-
+cze odbywaç ruch statków.
+Rozdzia∏ 3
+Bezpieczne wzniesienie górnej kraw´dzi elementów
+uszczelniajàcych
+§ 56. Bezpieczne wzniesienie górnej kraw´dzi ele-
+mentów uszczelniajàcych budowli ziemnych nad NPP
+i Max PP nie mo˝e byç mniejsze ni˝ okreÊlone w za-
+∏àczniku nr 7 do rozporzàdzenia.
+Rozdzia∏ 4
+Bezpieczne wzniesienie korony tymczasowych 
+budowli hydrotechnicznych 
+§ 57. 1. Bezpieczne wzniesienie korony tymczaso-
+wych budowli hydrotechnicznych nad poziom wody
+przy maksymalnym przep∏ywie budowlanym obliczo-
+nym z uwzgl´dnieniem § 46—48  wynosi, z zastrze˝e-
+niem ust. 2 i 3, nie mniej ni˝:
+1) 0,8 m — gdy przelanie si´ wód przez koron´ tym-
+czasowej budowli hydrotechnicznej zagra˝a jej
+zniszczeniem;
+2) 0,5 m — gdy przelanie si´ wód przez koron´ tym-
+czasowej budowli hydrotechnicznej nie zagra˝a jej
+zniszczeniem.
+2. Przy ustalaniu bezpiecznego wzniesienia korony
+tymczasowych budowli hydrotechnicznych budowa-
+nych na rzekach nie uwzgl´dnia si´ falowania.
+3. Przy ustalaniu bezpiecznego wzniesienia korony
+tymczasowych budowli hydrotechnicznych budowa-
+nych na zbiornikach naturalnych lub sztucznych
+uwzgl´dnia si´ falowanie, dodajàc do poziomu wód
+przy maksymalnym przep∏ywie budowlanym, ustalo-
+nym z uwzgl´dnieniem § 46—48, wysokoÊç fali ustalo-
+nej przy pr´dkoÊci wiatru wynoszàcej 15 m/s.
+Rozdzia∏ 5
+Bezpieczne wzniesienie konstrukcji budowli 
+hydrotechnicznych znajdujàcych si´ nad wodà
+§ 58. 1. Bezpieczne wzniesienie spodu konstrukcji
+budowli hydrotechnicznych znajdujàcych si´ nad wo-
+dà powinno wynosiç co najmniej:
+1) 0,5 m — nad poziomem wody przy Max PP lub po-
+ziomie wody przy przep∏ywie Q
+m
+, je˝eli w wodzie
+w czasie wezbraƒ nie ma lodu, kry i innych cia∏
+p∏ywajàcych;
+2) 0,5 m — nad przewidywanym po∏o˝eniem górnej
+kraw´dzi lodu i innych cia∏ p∏ywajàcych przy prze-
+p∏ywie Q
+m
+, je˝eli mo˝e wystàpiç koniecznoÊç prze-
+puszczania lodu i innych cia∏ p∏ywajàcych;
+3) 0,2 m — nad zwierciad∏em wody przy przep∏ywie Q
+k
+.
+2. Przy konstrukcjach po∏o˝onych nad zbiornikiem
+wodnym uwzgl´dnia si´ wp∏yw pi´trzeƒ cofkowych.
+3. Bezpieczne wzniesienie spodu konstrukcji bu-
+dowli hydrotechnicznych, o których mowa w ust. 1 i 2,
+zlokalizowanych w korycie rzeki nie mo˝e byç mniej-
+sze ni˝ ustalone w przepisach dotyczàcych mostów na
+drogach publicznych i szlakach ˝eglownych. 
+Rozdzia∏ 6
+Bezpieczne wzniesienie korony obwa∏owaƒ kana∏ów
+§ 59. 1. Z uwzgl´dnieniem ust. 2 i 3, bezpieczne
+wzniesienie korony obwa∏owaƒ kana∏ów nieprowa-
+dzàcych wód wezbraniowych powinno byç zgodne
+z za∏àcznikiem nr 6 do rozporzàdzenia.
+2. Jako poziom wód odpowiadajàcy przep∏ywo-
+wi Q
+m
+, o którym mowa w za∏àczniku nr 6 do rozporzà-
+dzenia, przyjmuje si´ wy˝szy z wyznaczonych zgodnie
+z pkt 1 i 2 poziomów wód:
+1) poziom wody, który wystàpi przy nag∏ym unieru-
+chomieniu elektrowni lub pompowni, z uwzgl´d-
+nieniem przed unieruchomieniem pracy z pe∏nà
+wydajnoÊcià wszystkich zainstalowanych turbin
+lub pomp, ale bez uwzgl´dnienia pomp rezerwo-
+wych;
+2) poziom wody, który wystàpi przy pracy pompowni
+ze wszystkimi zainstalowanymi pompami, ∏àcznie
+z pompami rezerwowymi.
+3. Jako poziom wód odpowiadajàcy przep∏ywowi
+w wyjàtkowych warunkach pracy budowli hydrotech-
+nicznej przyjmuje si´ poziom wody przy nag∏ym za-
+trzymaniu lub uruchomieniu wszystkich turbin lub
+pomp, z uwzgl´dnieniem mo˝liwoÊci na∏o˝enia si´ fal,
+wynik∏ych z szybko po sobie nast´pujàcych operacji
+ich uruchomienia i zatrzymania.
+§ 60. Jako bezpieczne wzniesienie koron obwa∏o-
+waƒ kana∏ów prowadzàcych wody wezbraniowe
+przyjmuje si´ wartoÊç wy˝szà z ustalonych zgodnie
+z § 52 albo § 59.
+Rozdzia∏ 7
+Przepuszczanie wód podczas budowy budowli 
+hydrotechnicznych
+§ 61. 1. Podczas budowy budowli hydrotechnicz-
+nych nale˝y zapewniç przepuszczanie wód.
+2. Je˝eli do przepuszczania wód nie wykorzystuje
+si´ naturalnego koryta cieku lub jego cz´Êci, to znajdu-
+jàce si´ w trakcie budowy budowle hydrotechniczne
+wyposa˝a si´ co najmniej w jedno z urzàdzeƒ do prze-
+puszczania wód, takich jak kana∏ obiegowy, spust lub
+sztolni´; przy braku takich urzàdzeƒ nale˝y przewi-
+dzieç mo˝liwoÊç przepompowywania dop∏ywajàcej
+wody.
+Dziennik Ustaw Nr 86
+— 5328 —
+Poz. 579
+3. Urzàdzenia do przepuszczania wód powinny
+spe∏niaç nast´pujàce warunki:
+1) je˝eli podczas przepuszczania maksymalnego
+przep∏ywu budowlanego mo˝e byç zniszczona b´-
+dàca w budowie sta∏a budowla hydrotechniczna,
+nale˝y zapewniç bezpieczne przepuszczenie prze-
+p∏ywu, o którym mowa w § 46 ust. 1, oraz bez-
+pieczne wzniesienie korony budowli hydrotech-
+nicznej ustalone zgodnie z § 52, uwzgl´dniajàc
+transformacj´ fali powodziowej przez istniejàcy
+zbiornik;
+2) je˝eli podczas przepuszczania wezbrania mo˝e byç
+zniszczona tymczasowa budowla hydrotechnicz-
+na, zapewnia si´ bezpieczne przepuszczanie mak-
+symalnego przep∏ywu budowlanego okreÊlonego
+zgodnie z § 46—48 i bezpieczne wzniesienie koro-
+ny tej budowli hydrotechnicznej, ustalone zgodnie
+z § 57, uwzgl´dniajàc transformacj´ fali powodzio-
+wej przez istniejàcy zbiornik. 
+§ 62. 1. Progi wlotów urzàdzeƒ do przepuszczania
+wody budowlanej umieszcza si´ co najmniej 0,5 m po-
+nad dnem koryta lub specjalnie wykonanego osadni-
+ka rumowiska, przed wlotem.
+2. Wloty do urzàdzeƒ, o których mowa w ust. 1, na-
+le˝y wyposa˝yç w kraty chroniàce przed przedosta-
+niem si´ cia∏ p∏ywajàcych i wleczonych po dnie; kon-
+strukcja krat powinna umo˝liwiaç ich okresowe
+oczyszczanie.
+Rozdzia∏ 8
+Przepuszczanie wód podczas eksploatacji budowli
+hydrotechnicznych
+§ 63. Budowle hydrotechniczne powinny byç tak
+zaprojektowane, aby zapewnia∏y:
+1) regulowanie przep∏ywu wody zgodnie z wymaga-
+niami u˝ytkowania, ustalonymi w instrukcji u˝yt-
+kowania;
+2) bezpieczne przepuszczanie przep∏ywów wezbra-
+niowych z zachowaniem wzniesienia korony bu-
+dowli hydrotechnicznych ponad poziomy wód wy-
+st´pujàce przy tych przep∏ywach;
+3) bezpieczne przepuszczanie lodu.
+§ 64. 1. Przep∏ywy wód przez budowle pi´trzàce
+przepuszcza si´ przez przelewy i spusty, w tym dzia∏a-
+jàce pod ciÊnieniem wód, oraz inne budowle przysto-
+sowane do przepuszczania wód.
+2. ZdolnoÊç przepustowa przelewów w normal-
+nych warunkach eksploatacji powinna wynosiç co
+najmniej 80 % przep∏ywu Q
+m
+; pozosta∏a cz´Êç prze-
+p∏ywu mo˝e byç przeprowadzona przez inne urzàdze-
+nia upustowe do przepuszczania wód, z zastrze˝e-
+niem § 66.
+3. Przy okreÊlaniu warunków przepuszczania prze-
+p∏ywu Q
+m
+ w normalnych warunkach pracy budowli
+hydrotechnicznej nie uwzgl´dnia si´ liczby spustów,
+sztolni, lewarów  i turbin, którà okreÊla za∏àcznik nr 8
+do rozporzàdzenia.
+4. Przy okreÊlaniu warunków przepuszczania prze-
+p∏ywu Q
+k
+ przyjmuje si´, ˝e czynne sà wszystkie urzà-
+dzenia przystosowane do przeprowadzenia wód wez-
+braniowych.
+§ 65. 1. Przep∏ywy wezbraniowe Q
+m
+ i Q
+k
+ wprowa-
+dza si´ bezpiecznie przez urzàdzenia upustowe bu-
+dowli hydrotechnicznej do koryta rzeki lub kana∏u po-
+ni˝ej budowli.
+2. Dopuszcza si´ przepuszczanie cz´Êci przep∏ywu
+wezbraniowego poza korytem rzeki i urzàdzeniami
+upustowymi budowli hydrotechnicznej:
+1) dla zbiorników wodnych nizinnych o pojemnoÊci
+ca∏kowitej do 10 mln m
+3
+, przez obszar zalewowy,
+pod warunkiem zabezpieczenia go przed powsta-
+niem nowego koryta rzeki;
+2) dla zbiorników wodnych górskich, je˝eli cz´Êç
+przep∏ywu wezbraniowego, która jest przeprowa-
+dzana przez przelewy stokowe, siod∏a terenowe na
+nieumocnione skaliste zbocza bez koryta odp∏y-
+wowego do rzeki, nie przekracza przep∏ywu wez-
+braniowego o prawdopodobieƒstwie pojawienia
+si´ p = 5 %.
+§ 66. Stosowanie dzia∏ajàcych pod ciÊnieniem spu-
+stów i sztolni jako jedynych urzàdzeƒ do przepuszcze-
+nia wód wezbraniowych mo˝liwe jest tylko pod warun-
+kiem, ˝e przep∏ywy te mogà byç w ca∏oÊci przeprowa-
+dzone równie˝ awaryjnymi urzàdzeniami do przepusz-
+czania wód, takimi jak kana∏y, ulgi i przelewy awaryjne.
+§ 67. W przypadku braku mo˝liwoÊci uzyskania
+ostrze˝enia o zbli˝ajàcym si´ wezbraniu wód, dajàce-
+go czas na przygotowanie rezerwy w zbiorniku lub
+otwarcie na czas budowli upustowych, w szczególno-
+Êci na rzekach o gwa∏townych wezbraniach, nale˝y za-
+pewniç mo˝liwoÊç przeprowadzenia ca∏ego przep∏y-
+wu wezbraniowego przez przelewy dzia∏ajàce samo-
+czynnie.
+§ 68. W przypadku awarii jednego z zamkni´ç prze-
+lewów przep∏yw Q
+m
+ przeprowadza si´ przez pozosta∏e
+prz´s∏a przelewu, a tak˝e przez spusty, sztolnie, lewa-
+ry i turbiny, w liczbie okreÊlonej w za∏àczniku nr 8 do
+rozporzàdzenia, oraz przez Êluz´, je˝eli przystosowano
+jà do przepuszczenia wezbraƒ, przy zachowaniu bez-
+piecznego wzniesienia korony budowli hydrotechnicz-
+nej nie mniejszego ni˝ wymagane w wyjàtkowych wa-
+runkach pracy tej budowli.
+Dziennik Ustaw Nr 86
+— 5329 —
+Poz. 579
+§ 69. 1. Jazy lub przelewy z zamkni´ciami powinny
+mieç co najmniej trzy prz´s∏a, z zastrze˝eniem ust. 2 i 3.
+2. Je˝eli ∏àczne Êwiat∏o prz´se∏ jazów lub przele-
+wów nie przekracza 6,0 m, to liczba prz´se∏ mo˝e byç
+zmniejszona do dwóch.
+3. Przy Êwietle jazu nieprzekraczajàcym 3,0 m do-
+puszcza si´ jedno prz´s∏o. 
+§ 70. 1. Rurociàgi i sztolnie odprowadzajàce wody
+z przelewów wie˝owych powinny zapewniaç bezci-
+Ênieniowy odp∏yw wody wyst´pujàcy przy Max PP,
+jednak nieprzekraczajàcy 1,5-krotnej wielkoÊci prze-
+p∏ywu Q
+k
+, z zastrze˝eniem ust. 2.
+2. Dopuszcza si´ stosowanie przewodów ciÊnie-
+niowych pod warunkiem zapewnienia ca∏kowitej
+szczelnoÊci przewodów.
+§ 71. Prz´s∏a jazów i przelewów posadowionych
+na gruntach rozmywalnych  konstruuje si´ tak, aby
+przy przejÊciu przep∏ywu Q
+m
+ przez wszystkie czynne
+prz´s∏a budowli hydrotechnicznej nie wystàpi∏a nad-
+mierna erozja dna koryta odp∏ywowego i aby nie zo-
+sta∏ przekroczony na progu przep∏yw jednostkowy
+w wysokoÊci 30 m
+3
+/(s
+⋅
+m). 
+§ 72. 1. Jazy i przelewy powinny byç tak skonstru-
+owane, aby zapewnia∏y pe∏nà zdolnoÊç przepustowà
+w okresie zimowym.
+2. Konstrukcja zamkni´ç oraz Êwiat∏o prz´se∏ jazów
+i przelewów powinna umo˝liwiaç przepuszczanie lodu
+bez koniecznoÊci ca∏kowitego otwierania ich prz´se∏.
+§ 73. 1. Zbiornik wodny wyposa˝a si´ w spusty
+umo˝liwiajàce ca∏kowite jego opró˝nienie; spusty
+mo˝na wykorzystywaç do przeprowadzania wód wez-
+braniowych oraz wód budowlanych.
+2. Czas opró˝niania zbiornika i nat´˝enie przep∏y-
+wu wód do dolnego stanowiska budowli pi´trzàcych
+powinny uwzgl´dniaç warunki bezpieczeƒstwa górne-
+go i dolnego stanowiska.
+§ 74. 1. Przewody spustowe w ziemnych budow-
+lach pi´trzàcych powinny byç monolityczne — ˝elbe-
+towe lub z betonu s∏abo zbrojonego. Przewody spu-
+stowe mogà te˝ byç wykonane jako rurociàgi stalowe,
+u∏o˝one w prze∏azowych galeriach ˝elbetowych, z za-
+strze˝eniem ust. 2.
+2. Dopuszcza si´ do uk∏adania bezpoÊrednio
+w gruncie nieobetonowanych rur stalowych lub z two-
+rzyw sztucznych przy wysokoÊci pi´trzenia wody
+nieprzekraczajàcej 2,0 m.
+3. Dopuszcza si´ stosowanie prefabrykowanych
+rur ˝elbetowych w przepustach wa∏owych pod warun-
+kiem posadowienia ich na monolitycznym fundamen-
+cie i zapewnienia szczelnoÊci po∏àczeƒ.
+4. Przewody spustowe i przepusty wa∏owe zabez-
+piecza si´ przed szkodliwà filtracjà wzd∏u˝ ich Êcian.
+§ 75. Wloty do spustów zabezpiecza si´ kratami
+o odpowiednio dobranych przeÊwitach z mo˝liwoÊcià
+podnoszenia i oczyszczania krat.
+§ 76. 1. Spusty powinny byç co najmniej dwuprze-
+wodowe, z mo˝liwoÊcià wy∏àczenia z pracy jednego
+przewodu dla przeprowadzenia remontu i przeglàdu,
+przy zachowaniu sprawnoÊci pozosta∏ych spustów,
+z zastrze˝eniem ust. 2.
+2. Dopuszcza si´ stosowanie spustów jednoprze-
+wodowych, gdy pojemnoÊç ca∏kowita zbiornika obs∏u-
+giwanego przez ten spust nie przekracza 0,2 mln m
+3
+oraz wysokoÊç pi´trzenia jest ni˝sza od 2,0 m lub
+gdy istniejà inne urzàdzenia mogàce przejàç funkcj´
+spustu.
+§ 77. Dopuszcza si´ przepuszczanie cz´Êci przep∏y-
+wu wezbraniowego po terenie zalewowym obok jazu
+lub przelewu, je˝eli nie spowoduje to szkód.
+§ 78. 1. Usytuowanie, kszta∏ty i wymiary wlotów
+do urzàdzeƒ upustowych budowli hydrotechnicznej
+powinny umo˝liwiaç ∏agodne wprowadzenie do nich
+wody i ograniczyç zawirowania przep∏ywu wody,
+w celu unikni´cia zagro˝enia podmyciem tych budow-
+li, budowli sàsiednich i brzegów lub unikni´cia utrud-
+nienia w ruchu statków oraz w doprowadzaniu wody
+do po∏o˝onych w pobli˝u uj´ç.
+2. Dla budowli hydrotechnicznych klasy I i II zdol-
+noÊç przepustowà i kszta∏ty budowli hydrotechnicz-
+nych upustowych oraz urzàdzeƒ do rozpraszania ener-
+gii wodnej sprawdza si´ badaniami modelowymi; nie
+dotyczy to przepustów wa∏owych.
+§ 79. Wloty budowli hydrotechnicznych upusto-
+wych, w których mogà si´ zatrzymywaç przedmioty
+p∏ywajàce lub lód, chroni si´ kratami lub fartuchami
+lodowymi i izbicami; warunek ten nie dotyczy przele-
+wów wie˝owych o Êrednicy wewn´trznej wi´kszej ni˝
+3,0 m.
+§ 80. Budowle hydrotechniczne upustowe zaopa-
+truje si´ w urzàdzenia do rozpraszania energii wodnej
+oraz umacnia si´ skarpy i dno w celu ochrony budow-
+li i brzegów przed podmyciem zagra˝ajàcym ich sta-
+tecznoÊci i trwa∏oÊci; urzàdzenia te powinny byç do-
+stosowane do przep∏ywów odpowiadajàcych wielko-
+Êci przep∏ywu Q
+k
+.
+§ 81. Kszta∏t powierzchni przelewów dobiera si´
+tak, aby nie powstawa∏y na nich podciÊnienia mogàce
+spowodowaç kawitacj´ lub wykonuje si´ je w taki spo-
+Dziennik Ustaw Nr 86
+— 5330 —
+Poz. 579
+sób, aby kawitacja nie powodowa∏a ich niszczenia;
+w spustach stosuje si´ napowietrzanie lub dodatkowo
+zmniejszajàce skutki kawitacji — opancerzenie.
+DZIA¸ VI
+Urzàdzenia do poboru i przerzutu wód
+Rozdzia∏ 1
+Uj´cia wód
+§ 82. 1. Lokalizacja i rozwiàzania techniczne uj´ç
+wód powierzchniowych powinny uniemo˝liwiaç lub
+ograniczaç przedostawanie si´ i gromadzenie lodu,
+Êry˝u i innych cia∏ p∏ywajàcych po powierzchni lub za-
+nurzonych, a tak˝e fauny wodnej i osadów, z zastrze-
+˝eniem ust. 2.
+2. Je˝eli nie da si´ uniknàç gromadzenia osadów
+i cia∏ p∏ywajàcych przed uj´ciem wody powierzchnio-
+wej, nale˝y wyposa˝yç je w urzàdzenia do ich usuwania.
+§ 83. 1. Wloty uj´ç wód powierzchniowych powin-
+ny byç ukszta∏towane w sposób ograniczajàcy wyst´-
+powanie zawirowaƒ, zasysania powietrza i zaburzeƒ
+przep∏ywu.
+2. Korona progu wlotu powinna byç usytuowana
+na takiej wysokoÊci nad dnem cieku, aby zosta∏o mak-
+symalnie ograniczone wnoszenie do uj´cia wody ru-
+mowiska wleczonego; najmniejsze wzniesienie progu
+wlotu uj´cia wody nad próg upustu lub innego urzà-
+dzenia p∏uczàcego powinno wynosiç 0,3 m.
+§ 84. Rurociàgi uj´ç wód powierzchniowych i elek-
+trowni wodnych przecinajàce ziemne budowle pi´trzà-
+ce poni˝ej zwierciad∏a wody górnej powinny byç kon-
+struowane zgodnie z warunkami, o których mo-
+wa w § 74.
+§ 85. Górna kraw´dê wlotów do przewodów uj´ç
+wód dzia∏ajàcych pod ciÊnieniem powinna byç po∏o-
+˝ona na g∏´bokoÊci zabezpieczajàcej przed zasysa-
+niem powietrza, cia∏ p∏ywajàcych, Êry˝u i lodu.
+Rozdzia∏ 2
+Pompownie wód powierzchniowych
+§ 86. 1. Pompownie odwadniajàce i przesy∏owe
+powinny mieç doprowadzonà energi´ elektrycznà
+z dwóch niezale˝nych êróde∏; drugim êród∏em zasila-
+nia mo˝e byç agregat pràdotwórczy.
+2. Pompownie wyposa˝a si´ w pompy rezerwowe.
+Pompownie mogà nie byç wyposa˝one w pompy re-
+zerwowe pod warunkiem, ˝e w przypadku awarii lub
+remontu pomp podstawowych zapewniona jest mo˝-
+liwoÊç przepompowania wody w inny sposób.
+§ 87. 1. Podstawy silników elektrycznych pomp od-
+wadniajàcych tereny depresyjne  umieszcza si´ powy-
+˝ej maksymalnego poziomu zwierciad∏a wody przyle-
+g∏ego cieku lub zbiornika.
+2. Je˝eli spe∏nienie wymogu, o którym mowa
+w ust. 1, nie jest mo˝liwe, stosuje si´ inny sposób za-
+bezpieczenia, wykluczajàcy zatopienie silników.
+3. Przy u˝yciu pomp zatapialnych nie stosuje si´
+wymogów, o których mowa w ust. 1.
+§ 88. W przypadku awarii rurociàgów pompownie
+wód i rurociàgi t∏oczàce wod´ do po∏o˝onego wy˝ej
+zbiornika lub kana∏u powinny byç zabezpieczone
+przed zatopieniem budynku pompowni i podmyciem
+podpór rurociàgu przesy∏owego.
+§ 89. Rurociàgi pompowni przechodzàce przez
+ziemne budowle trwale pi´trzàce wod´ powinny spe∏-
+niaç warunki, o których mowa w § 74.
+Rozdzia∏ 3
+Urzàdzenia do przerzutu wód
+§ 90. 1. Trasy kana∏ów otwartych nale˝y prowadziç
+w sposób ograniczajàcy iloÊç skrzy˝owaƒ z liniami ko-
+munikacyjnymi i z ciekami oraz przejÊç przez osiedla,
+zak∏ady przemys∏owe, obszary cennych upraw, obszary
+chronione oraz obszary zagro˝eƒ sanitarnych, a tak˝e
+tereny osuwiskowe, bagniste, o znacznej przepuszczal-
+noÊci oraz wymagajàce prowadzenia kana∏u w nasypie.
+2. Promienie ∏uków trasy kana∏ów nie˝eglownych
+nie powinny byç mniejsze od 2,5-krotnej szerokoÊci
+zwierciad∏a wody w kanale, przy najwi´kszym przep∏y-
+wie obliczeniowym.
+§ 91. Konstrukcja kana∏ów otwartych powinna za-
+pewniaç wymaganà zdolnoÊç przepustowà, szczel-
+noÊç, statecznoÊç, trwa∏oÊç, ∏atwoÊç utrzymania
+i spe∏niaç wymagania ochrony Êrodowiska.
+§ 92. Brzegi i skarpy kana∏ów zabezpiecza si´ przed
+erozjà i sufozjà wywo∏anymi przez wody powierzchnio-
+we i gruntowe.
+§ 93. 1. Sztolnie, kana∏y zamkni´te i inne przewody
+bezciÊnieniowe prowadzàce wod´ powinny byç napo-
+wietrzane.
+2. Przewody ciÊnieniowe prowadzàce wod´ po-
+winny byç napowietrzane i odpowietrzane.
+§ 94. 1. Przewody ciÊnieniowe prowadzàce wod´
+przystosowuje si´ do przeniesienia uderzeƒ hydrau-
+licznych powstajàcych w
+warunkach eksploatacji
+i awarii urzàdzeƒ przesy∏owych.
+2. Zamkni´cia przewodów ciÊnieniowych nap´dza-
+ne elektrycznie wyposa˝a si´ w rezerwowy nap´d
+r´czny.
+Dziennik Ustaw Nr 86
+— 5331 —
+Poz. 579
+§ 95. Przewody bezciÊnieniowe i ciÊnieniowe pro-
+wadzàce wod´, przecinajàce ziemne budowle pi´trzà-
+ce powinny spe∏niaç warunki, o których mowa w § 74.
+DZIA¸ VII
+Wyposa˝enie budowli hydrotechnicznych
+Rozdzia∏ 1
+G∏ówne zamkni´cia budowli pi´trzàcych
+§ 96. G∏ówne zamkni´cia budowli pi´trzàcych kon-
+struuje si´ tak, aby umo˝liwia∏y manewrowanie nimi
+w p∏ynàcej wodzie i zapewnia∏y bezpiecznà ich eksplo-
+atacj´.
+§ 97. SzybkoÊç zamykania i otwierania g∏ównych
+zamkni´ç budowli pi´trzàcych dostosowuje si´ do
+przep∏ywu wód niepowodujàcego szkód w dolnym
+i górnym stanowisku budowli oraz do charakteru wez-
+braƒ i wymagaƒ eksploatacyjnych.
+§ 98. G∏ówne zamkni´cia budowli pi´trzàcych wy-
+posa˝a si´ w materia∏y i urzàdzenia techniczne zapew-
+niajàce ich prawid∏owà eksploatacj´, a w szczególno-
+Êci przeprowadzanie wezbraƒ w okresie zimowym.
+§ 99. 1. G∏ówne zamkni´cia budowli pi´trzàcych wy-
+posa˝a si´ w nap´d elektryczny zasadniczy i rezerwowy.
+2. Nap´dy g∏ównych zamkni´ç budowli pi´trzà-
+cych klasy I i II zasila si´ z dwóch niezale˝nych êróde∏,
+dwiema liniami przeprowadzonymi przez tereny nie-
+zagro˝one podmyciem, osuwiskami i lawinami. Elek-
+trownia wodna przy stopniu wodnym lub zaporze oraz
+spalinowy agregat pràdotwórczy mogà stanowiç re-
+zerwowe êród∏o zasilania.
+3. Nap´dy g∏ównych zamkni´ç budowli pi´trzàcych
+klasy III zasila si´ z dwóch niezale˝nych êróde∏; rezer-
+wowym êród∏em zasilania mo˝e byç nap´d r´czny.
+4. Nap´d zamkni´ç budowli pi´trzàcych klasy IV
+oraz budowli pi´trzàcych klasy III o wysokoÊci pi´trze-
+nia ni˝szej ni˝ 2,0 m i pojemnoÊci zbiornika mniejszej
+ni˝ 0,2 mln m
+3
+ 
+mo˝na ograniczyç do nap´du r´cznego.
+5. G∏ówne zamkni´cia budowli pi´trzàcych dzia∏a-
+jàce na zasadzie wykorzystania ró˝nicy ciÊnieƒ wody
+górnej i dolnej  wyposa˝a si´ w urzàdzenia do ich uru-
+chamiania w ka˝dych warunkach.
+§ 100. G∏ówne zamkni´cia budowli pi´trzàcych
+konstruuje si´ tak, aby nie dopuszczaç do drgaƒ zagra-
+˝ajàcych ich trwa∏oÊci, w szczególnoÊci napowietrza
+si´ przestrzenie pod strumieniami wody przelewajàcy-
+mi si´ nad zamkni´ciami i progami.
+§ 101. 1. Wzniesienie górnej kraw´dzi g∏ównych
+zamkni´ç przelewów i jazów nad poziomem maksy-
+malnego pi´trzenia powinno wynosiç nie mniej ni˝:
+1) 0,3 m — dla przelewów na zbiornikach oraz dla ja-
+zów na WiÊle, Odrze, Bugu, Narwi, Warcie i Sanie;
+2) 0,1 m — dla jazów na pozosta∏ych rzekach.
+2. Dopuszcza si´ umieszczenie górnej kraw´dzi
+g∏ównych zamkni´ç przelewów i jazów na Max PP, je-
+˝eli konstrukcja zamkni´ç umo˝liwia przelewanie si´
+wody i bezpieczne przepuszczanie lodów nad za-
+mkni´ciem.
+§ 102. 1. Mechanizmy g∏ównych zamkni´ç budow-
+li pi´trzàcych zabezpiecza si´ przed przypadkowym
+ich uruchomieniem lub uszkodzeniem.
+2. Mechanizmy g∏ównych zamkni´ç budowli pi´-
+trzàcych konstruuje si´ tak, aby by∏y one zabezpieczo-
+ne przed dzia∏aniem czynników atmosferycznych.
+3. Konstrukcja budowli pi´trzàcych powinna za-
+pewniaç bezpieczny dost´p obs∏ugi technicznej do
+mechanizmów g∏ównych zamkni´ç w ka˝dych warun-
+kach atmosferycznych i hydrologicznych. 
+4. Mechanizmy g∏ównych zamkni´ç budowli pi´-
+trzàcych  wyposa˝a si´ w ograniczniki kraƒcowe, ha-
+mulce i wskaêniki ich po∏o˝enia; mechanizmy stero-
+wane zdalnie lub automatycznie wyposa˝a si´ dodat-
+kowo w r´czne sterowanie umo˝liwiajàce ich bezpo-
+Êrednià obs∏ug´.
+§ 103. 1. Stosowanie ruchomych mechanizmów
+g∏ównych zamkni´ç budowli pi´trzàcych, przemiesz-
+czanych wzd∏u˝ budowli obs∏ugujàcych kolejno ró˝ne
+prz´s∏a jest dopuszczalne tylko w przypadku braku po-
+trzeby jednoczesnego podnoszenia lub opuszczania
+tych zamkni´ç.
+2. Urzàdzenia upustowe wyposa˝a si´ w co naj-
+mniej dwa ruchome mechanizmy g∏ównych zamkni´ç,
+przy czym jeden mechanizm mo˝e obs∏ugiwaç nie
+wi´cej ni˝ pi´ç takich zamkni´ç.
+3. Ruchomych mechanizmów g∏ównych zamkni´ç
+budowli pi´trzàcych nie stosuje si´ w przypadku za-
+stosowania zamkni´ç dzia∏ajàcych automatycznie lub
+zamkni´ç  zdalnie sterowanych.
+Rozdzia∏ 2
+Zamkni´cia awaryjne i remontowe budowli 
+pi´trzàcych
+§ 104. Konstrukcja zamkni´ç awaryjnych budowli
+pi´trzàcych powinna umo˝liwiaç:
+1) manewrowanie nimi w p∏ynàcej wodzie;
+2) szybkie zatrzymanie przep∏ywu wody w przypadku
+awarii g∏ównych zamkni´ç;
+3) bezpiecznà eksploatacj´.
+Dziennik Ustaw Nr 86
+— 5332 —
+Poz. 579
+§ 105. 1. Elektrownie wodne wyposa˝a si´ w zamk-
+ni´cia awaryjne, a inne budowle pi´trzàce — tylko
+w przypadku, gdy awaria g∏ównego zamkni´cia spo-
+wodowaç mo˝e przekroczenie przep∏ywu dozwolone-
+go poni˝ej budowli.
+2. W elektrowniach wodnych o niskim spadzie ro-
+l´ zamkni´cia awaryjnego mo˝e spe∏niaç jedno
+z urzàdzeƒ regulujàcych przep∏yw wody przez turbi-
+n´, je˝eli turbina jest zaopatrzona w dwa takie urzà-
+dzenia.
+§ 106. Zamkni´cia awaryjne mo˝na wykorzysty-
+waç jako zamkni´cia remontowe, przy czym jeden
+komplet zamkni´ç awaryjnych powinien byç zawsze
+do dyspozycji u˝ytkownika.
+§ 107. 1. Przepusty, jazy i uj´cia wody wyposa˝a
+si´ w zamkni´cie remontowe.
+2. Budowle hydrotechniczne, o których mowa
+w ust. 1, wyposa˝a si´ w co najmniej po jednym kom-
+plecie zamkni´ç remontowych od strony wody górnej
+na ka˝de pi´ç otworów, a tak˝e od strony wody dolnej,
+gdy nieodzowne sà one dla umo˝liwienia przeglàdów,
+konserwacji i remontów. Liczba kompletów zamkni´ç
+remontowych od wody dolnej odpowiada liczbie za-
+mkni´ç od wody górnej.
+3. Dopuszcza si´ brak zamkni´ç remontowych
+w budowlach hydrotechnicznych, o których mowa
+w ust. 1, o ile remont g∏ównych zamkni´ç lub samej
+budowli hydrotechnicznej jest bez nich mo˝liwy.
+§ 108. 1. Zamkni´cia remontowe powinny umo˝li-
+wiaç przeprowadzanie napraw i przeglàdów g∏ównych
+zamkni´ç oraz innych elementów budowli pi´trzàcych
+przy NPP.
+2. Konstrukcja zamkni´ç remontowych powinna
+umo˝liwiaç wype∏nianie wodà przestrzeni pomi´dzy
+zamkni´ciami remontowymi a g∏ównymi zamkni´-
+ciami.
+Rozdzia∏ 3
+Wyposa˝enie spustów oraz wlotów do spustów
+i uj´ç wód powierzchniowych
+§ 109. 1. Spusty wyposa˝a si´ w zamkni´cia g∏ów-
+ne, awaryjne, dla regulacji przep∏ywów oraz zamkni´-
+cia remontowe od strony wody górnej i wody dolnej.
+2. Spusty budowli hydrotechnicznych klasy IV mo-
+gà byç wyposa˝one w jedno zamkni´cie umieszczone
+od strony wody górnej. Dopuszcza si´ stosowanie
+jednego zamkni´cia od strony wody dolnej tylko
+w przypadku, gdy wysokoÊç pi´trzenia nie przekracza
+2,0 m, a pojemnoÊç zbiornika wodnego jest mniejsza
+od 0,2 mln m
+3
+ 
+oraz zapewnione jest bezpieczne od-
+prowadzanie przesiàków i przecieków wody z przewo-
+du spustowego.
+§ 110. 1. Dno spustu wykonuje si´ ze spadkiem po-
+d∏u˝nym, co najmniej 0,2 % w kierunku wody dolnej.
+2. Odcinki przewodów spustowych poni˝ej za-
+mkni´ç powinny byç napowietrzane.
+§ 111. Wloty uj´ç wody przeznaczonej do spo˝y-
+cia i na potrzeby przemys∏u oraz wloty wody kiero-
+wanej na pompy, turbiny i inne urzàdzenia wyposa˝a
+si´ w kraty o konstrukcji umo˝liwiajàcej ich oczysz-
+czanie.
+§ 112. Otwory wlotowe uj´ç wody zaopatruje si´
+w zamkni´cia remontowe, a gdy przewiduje si´ po-
+trzeb´ regulacji przep∏ywu na wlocie uj´cia wody lub
+koniecznoÊç szybkiego odci´cia dop∏ywu wody do
+uj´cia — równie˝ w zamkni´cia g∏ówne i awaryjne.
+Rozdzia∏ 4
+Wyposa˝enie budowli hydrotechnicznych w sprz´t,
+materia∏y i zabezpieczenia
+§ 113. Budowle hydrotechniczne wyposa˝a si´
+w maszyny, sprz´t, urzàdzenia, Êrodki transportowe
+i materia∏y niezb´dne do normalnej eksploatacji oraz
+przeznaczone do u˝ycia w przypadku awarii i dzia∏aƒ
+przeciwpowodziowych.
+§ 114. 1. Zbiorniki wodne powinny byç wyposa˝o-
+ne w sprz´t do usuwania przedmiotów p∏ywajàcych
+pochodzàcych ze zlewni i z czaszy zbiornika.
+2. Zbiorniki wodne nara˝one na powstawanie zato-
+rów lodowych lub Êry˝owych wyposa˝a si´ w sprz´t
+i Êrodki przeciwdzia∏ajàce powstawaniu zatorów lub
+przyspieszajàce ich likwidacj´.
+§ 115. Budowle pi´trzàce oddawane do eksploata-
+cji wyposa˝a si´ w zestaw cz´Êci zamiennych wystar-
+czajàcy co najmniej na pierwszy rok eksploatacji.
+§ 116. Budowle pi´trzàce i zwiàzane z nimi urzà-
+dzenia techniczne, stanowiàce przeszkod´ dla turysty-
+ki wodnej, powinny byç wyposa˝one w urzàdzenia
+umo˝liwiajàce przeprowadzanie ∏odzi i sprz´tu tury-
+stycznego.
+§ 117. Budowle hydrotechniczne powinny:
+1) byç wyposa˝one w sprz´t ratowniczy, w tym ko∏a
+i ∏odzie ratunkowe, je˝eli g∏´bokoÊç wody przekra-
+cza 1,5 m lub pr´dkoÊç przep∏ywu wody jest wi´k-
+sza od 1,5 m/s;
+2) przed urzàdzeniami upustowymi i uj´ciami wody
+mieç wyznaczonà bojami i tablicami ostrzegawczy-
+mi lini´, której przekroczenie stwarza niebezpie-
+czeƒstwo porwania przez pràd wody; dla budowli
+hydrotechnicznych o pi´trzeniu do 2,0 m dopusz-
+cza si´ stosowanie tylko tablic ostrzegawczych;
+Dziennik Ustaw Nr 86
+— 5333 —
+Poz. 579
+3) na Êcianach odwodnych oraz skarpach o nachyle-
+niu wi´kszym ni˝ 1: 3 mieç rozmieszczone w od-
+st´pach nie wi´kszych ni˝ 100 m drabinki lub
+schodki, si´gajàce 1,5 m poni˝ej najni˝szego po-
+ziomu wody lub do dna; w kana∏ach o szerokoÊci
+zwierciad∏a wody do 20 m wyposa˝enie mo˝e byç
+rozmieszczane na przemian po obu brzegach ka-
+na∏u; w przypadku braku mo˝liwoÊci umieszcze-
+nia drabinek lub schodków Êcian´ lub skarp´ za-
+bezpiecza si´ przed dost´pem osób niepowo∏a-
+nych;
+4) byç wyposa˝one w zabezpieczone kratami lub siat-
+kami wloty do przewodów podziemnych — syfo-
+nów, rurociàgów, uj´ç, których górna kraw´dê po-
+∏o˝ona jest p∏ycej ni˝ 5 m poni˝ej NPP;
+5) na poczàtku odcinków kana∏ów nie˝eglownych
+przy przep∏ywie wody o pr´dkoÊci powy˝ej 1,5 m/s
+byç wyposa˝one w kraty, siatki, ∏aƒcuchy lub inne
+urzàdzenia zabezpieczajàce przed porwaniem prà-
+dem wody ludzi, zwierzàt lub ∏odzi, o konstrukcji
+umo˝liwiajàcej usuwanie zatrzymujàcych si´ na
+tym wyposa˝eniu zanieczyszczeƒ.
+Rozdzia∏ 5
+Urzàdzenia kontrolno-pomiarowe
+§ 118. Budowle hydrotechniczne i ich otoczenie
+wyposa˝a si´ w urzàdzenia do kontroli stanu technicz-
+nego przez ca∏y okres u˝ytkowania, od momentu roz-
+pocz´cia budowy.
+§ 119. Budowle hydrotechniczne wyposa˝a si´,
+w zale˝noÊci od potrzeb, w urzàdzenia kontrolno-po-
+miarowe umo˝liwiajàce obserwacje i pomiary:
+1) przemieszczeƒ i odkszta∏ceƒ budowli hydrotech-
+nicznej, jej pod∏o˝a oraz przyleg∏ego terenu;
+2) napr´˝eƒ w konstrukcji budowli hydrotechnicznej;
+3) poziomów i ciÊnieƒ wód podziemnych oraz proce-
+sów filtracji zachodzàcych w budowli hydrotech-
+nicznej, jej pod∏o˝u i przyczó∏kach;
+4) stanów wody górnej i wody dolnej oraz stanu wód
+na g∏ównych dop∏ywach;
+5) zmian dna i brzegów;
+6) zjawisk lodowych;
+7) zjawisk meteorologicznych.
+§ 120. 1. Rodzaj, liczb´ i rozmieszczenie urzàdzeƒ
+kontrolno-pomiarowych oraz stopieƒ dok∏adnoÊci po-
+miarów ustala si´ indywidualnie dla ka˝dej budowli
+hydrotechnicznej w zale˝noÊci od jej klasy oraz kon-
+strukcji i rodzaju pod∏o˝a pod tà budowlà, w taki spo-
+sób, aby wyniki obserwacji pomiarów umo˝liwia∏y
+ocen´ stanu technicznego i bezpieczeƒstwa. 
+2. Budowle pi´trzàce o wysokoÊci pi´trzenia ni˝-
+szej ni˝ 2,0 m i pojemnoÊci zbiornika mniejszej od
+0,2 mln m
+3
+ 
+nie muszà byç wyposa˝ane w urzàdzenia
+kontrolno-pomiarowe.
+§ 121. Budowle hydrotechniczne klasy I i II wypo-
+sa˝a si´ w urzàdzenia kontrolno-pomiarowe przysto-
+sowane do automatycznego odczytu oraz zapewniajà-
+ce okresowà kontrol´ prawid∏owoÊci wskazaƒ urzà-
+dzeƒ automatycznych za pomocà innych urzàdzeƒ nie-
+automatycznych, tak aby istnia∏a mo˝liwoÊç porówna-
+nia wyników obserwacji urzàdzeƒ automatycznych
+i nieautomatycznych.
+§ 122. 1. Urzàdzenia kontrolno-pomiarowe roz-
+mieszcza si´ w oparciu o znajomoÊç zasad pracy ele-
+mentów budowli hydrotechnicznych.
+2. Urzàdzenia kontrolno-pomiarowe umieszcza si´
+w budowli hydrotechnicznej oraz w jej pod∏o˝u, z za-
+g´szczeniem w strefach wi´kszego zagro˝enia.
+3. Do stref wi´kszego zagro˝enia zalicza si´:
+1) uskoki, wk∏adki s∏abych gruntów lub ska∏ i staro-
+rzecza — w pod∏o˝u budowli hydrotechnicznych;
+2) strefy koncentracji napr´˝eƒ, po∏àczenia nasypów
+z
+elementami betonowymi i
+przyczó∏kami —
+w konstrukcjach budowli hydrotechnicznych.
+4. Po∏o˝enie urzàdzeƒ kontrolno-pomiarowych
+okreÊla si´ z uwzgl´dnieniem geodezyjnej sieci odnie-
+sienia.
+§ 123. Na etapie projektowania budowli hydro-
+technicznej dla pomiarów dokonywanych z u˝yciem
+urzàdzeƒ kontrolno-pomiarowych ustala si´:
+1) dopuszczalne i graniczne wartoÊci obserwowa-
+nych zjawisk i ich dynamik´;
+2) cz´stoÊç dokonywania pomiarów;
+3) termin aktualizacji instrukcji pomiarowej. 
+DZIA¸ VIII
+Dojazd, ∏àcznoÊç i pomieszczenia budowli 
+hydrotechnicznych
+§ 124. 1. Do budowli hydrotechnicznej powinny
+byç doprowadzone drogi dojazdowe. 
+2. Drogi dojazdowe dostosowuje si´ do rodzaju
+Êrodków transportu umo˝liwiajàcych przewóz nie-
+zb´dnego sprz´tu i materia∏ów; drogi dojazdowe do
+zapór bocznych i obwa∏owaƒ przeciwpowodziowych
+powinny byç budowane wzd∏u˝ tych obiektów lub po
+ich koronie i posiadaç po∏àczenia z drogami publiczny-
+mi — nie rzadziej ni˝ co 4 km. 
+Dziennik Ustaw Nr 86
+— 5334 —
+Poz. 579
+3. Dla zbiorników wodnych i kana∏ów zapewnia si´
+transport wodny, a w razie braku mo˝liwoÊci technicz-
+nych zorganizowania transportu wodnego nale˝y za-
+pewniç dojazdy gwarantujàce bezpiecznà eksploatacj´
+obiektu.
+§ 125. 1. Galerie kontrolno-zastrzykowe i korytarze
+transportowe powinny mieç wysokoÊç co najmniej
+2,2 m oraz szerokoÊç nie mniejszà ni˝ 1,4 m; szerokoÊç
+galerii kontrolno-zastrzykowych mo˝e byç zmniejszo-
+na do 1,2 m, je˝eli w galerii nie przewidziano koryta
+dla odprowadzenia wód z przecieków.
+2. Wymiary galerii kontrolno-zastrzykowych po-
+winny umo˝liwiaç transport i prac´ sprz´tu wiertnicze-
+go u˝ywanego do wykonywania cementacji pod∏o˝a
+pod budowlà hydrotechnicznà.
+3. Galerie i korytarze transportowe powinny mieç
+szerokoÊç wi´kszà o 0,3 m od szerokoÊci najwi´kszego
+transportowanego elementu; je˝eli przewidziano ruch
+pieszy obok przemieszczanych lub umiejscowionych
+przedmiotów, szerokoÊç t´ nale˝y zwi´kszyç jedno-
+stronnie o 1,0 m.
+§ 126. Korytarze transportowe, galerie kontrolno-
+-zastrzykowe, szyby, pochylnie transportowe i komu-
+nikacyjne wewnàtrz budowli hydrotechnicznych lub
+w jej pod∏o˝u powinny spe∏niaç warunki bezpieczeƒ-
+stwa i higieny pracy, a w szczególnoÊci powinny byç
+zaopatrzone w:
+1) grawitacyjnà lub mechanicznà wentylacj´;
+2) grawitacyjne lub pompowe odwodnienie z pom-
+pami rezerwowymi, które mo˝na uruchomiç
+w przypadku zalania galerii;
+3) oÊwietlenie elektryczne;
+4) schody, tak˝e w sytuacji, gdy przewidziano trans-
+port pionowy wewnàtrz budowli pi´trzàcej.
+§ 127. W∏azy, otwory i zag∏´bienia w budowli hy-
+drotechnicznej powinny byç zabezpieczone pokrywa-
+mi lub barierami.
+§ 128. W budowli hydrotechnicznej transport pio-
+nowy sprz´tu i urzàdzeƒ mo˝e si´ odbywaç schodami,
+szybami lub pochylniami za pomocà wózków i dêwi-
+gów z nap´dem elektrycznym.
+§ 129. Na terenie budowli hydrotechnicznej
+umieszcza si´ tablice kierunkowe, tablice okreÊlajàce
+dopuszczalne obcià˝enie i
+maksymalne gabaryty
+transportowanych przedmiotów oraz znaki drogowe.
+§ 130. Zbiorniki wodne mogà posiadaç przystaƒ
+z nabrze˝em lub pochylnià do podnoszenia i wodowa-
+nia ∏odzi inspekcyjnych i taboru eksploatacyjnego;
+w przypadku wykorzystania ich do transportu wodne-
+go zbiorniki wodne wyposa˝a si´ w miejsca i urzàdze-
+nia prze∏adunkowe dla  sprz´tu i materia∏ów.
+§ 131. 1. Sta∏e budowle pi´trzàce wyposa˝a si´
+w urzàdzenia zapewniajàce ∏àcznoÊç wewn´trznà i ze-
+wn´trznà.
+2. Budowle klasy I i II wyposa˝a si´ w ∏àcznoÊç za
+pomocà co najmniej dwóch niezale˝nych systemów;
+budowle te powinny byç wyposa˝one w ∏àcznoÊç ze
+stacjami pomiarowymi w zlewni i jednostkami spra-
+wujàcymi os∏on´ hydrologicznà dla uzyskania pro-
+gnoz dop∏ywów.
+3. Budowle hydrotechniczne, o których mowa
+w ust. 1 i 2, wyposa˝a si´ w urzàdzenia zapewniajàce
+∏àcznoÊç z w∏aÊciwymi s∏u˝bami odpowiedzialnymi za
+ochron´ przed powodzià.
+§ 132. W budowlach hydrotechnicznych pomieszcze-
+nia dla mechanizmów i innych urzàdzeƒ wyposa˝a si´ w:
+1) grawitacyjnà lub mechanicznà wentylacj´;
+2) oÊwietlenie;
+3) oznakowanie drogi ewakuacyjnej;
+4) odwodnienie grawitacyjne lub pompowe, z pom-
+pami rezerwowymi;
+5) zabezpieczenia przed mrozem;
+6) sprz´t i urzàdzenia przeciwpo˝arowe;
+7) oznakowania informujàce o dopuszczalnych obcià-
+˝eniach na stropy i inne elementy;
+8) urzàdzenia umo˝liwiajàce transport i podnoszenie
+cz´Êci maszyn lub urzàdzeƒ.
+DZIA¸ IX
+Przepisy przejÊciowe i koƒcowe
+§ 133. Do budowli hydrotechnicznych, wobec któ-
+rych przed dniem wejÊcia w ˝ycie rozporzàdzenia zo-
+sta∏a wydana decyzja o pozwoleniu na budow´ lub zo-
+sta∏ z∏o˝ony wniosek o wydanie takiej decyzji, stosuje
+si´ przepisy dotychczasowe.
+§ 134. Traci moc rozporzàdzenie Ministra Ochrony
+Ârodowiska, Zasobów Naturalnych i LeÊnictwa z dnia
+20 grudnia 1996 r. w sprawie warunków technicznych,
+jakim powinny odpowiadaç obiekty budowlane go-
+spodarki wodnej i ich usytuowanie (Dz. U. z 1997 r.
+Nr 21, poz. 111).
+§ 135. Rozporzàdzenie wchodzi w ˝ycie po up∏ywie
+30 dni od dnia og∏oszenia.
+Minister Ârodowiska: 
+J. Szyszko
+Dziennik Ustaw Nr 86
+— 5335 —
+Poz. 579
+Dziennik Ustaw Nr 86
+— 5336 —
+Poz. 579
+Za∏àczniki do rozporzàdzenia Ministra Ârodowiska
+z dnia 20 kwietnia 2007 r.  (poz. 579)
+Za∏àcznik nr 1
+WYKAZ POLSKICH NORM PRZYWO¸ANYCH W ROZPORZÑDZENIU
+PN-82/B-02000
+Obcià˝enia budowli — Zasady ustalania wartoÊci
+PN-82/B-02001
+Obcià˝enia budowli — Obcià˝enia sta∏e
+PN-82/B-02003
+Podstawowe obcià˝enia technologiczne i monta˝owe
+PN-80/B-02010/Az1:2006
+Obcià˝enia w obliczeniach statycznych — Obcià˝enie Êniegiem
+PN-77/B-02011
+Obcià˝enia w obliczeniach statycznych — Obcià˝enie wiatrem
+PN-88/B-02014
+Obcià˝enia budowli — Obcià˝enie gruntem
+PN-86/B-02015
+Obcià˝enia budowli — Obcià˝enie temperaturà 
+PN-86/B-02480
+Grunty budowlane. OkreÊlenia, symbole, podzia∏ i opis gruntów
+PN-76/B-03001
+Konstrukcje i pod∏o˝a budowli — Ogólne zasady obliczeƒ
+PN-83/B-03010
+Âciany oporowe — Obliczenia statyczne i projektowanie
+PN-81/B-03020
+Grunty budowlane — Posadowienie bezpoÊrednie budowli — Obliczenia sta-
+tyczne i projektowanie
+PN-88/B-04481
+Grunty budowlane. Badania próbek gruntu
+PN-B-02479:1998
+Geotechnika — Dokumentowanie geotechniczne. Zasady ogólne
+PN-B-02481:1998
+Geotechnika. Terminologia podstawowa, symbole literowe i jednostki miar
+PN-B-03203:2000
+Konstrukcje stalowe — Zamkni´cia hydrotechniczne — Projektowanie i wyko-
+nanie
+PN-B-03264: 2002/Ap1:2004
+Konstrukcje betonowe, ˝elbetowe i spr´˝one — Obliczenia statyczne i projekto-
+wanie
+PN-B-04452:2002
+Geotechnika. Badania polowe
+PN-B-06050:1999
+Geotechnika — Roboty ziemne — Wymagania ogólne
+PN-EN 12063:2001
+Wykonawstwo specjalnych robót geotechnicznych — Âcianki szczelne
+PN-EN 1537:2002
+Wykonawstwo specjalnych robót geotechnicznych — Kotwy gruntowe
+PN-EN 1538:2002
+Wykonawstwo specjalnych robót geotechnicznych — Âciany szczelinowe
+Dziennik Ustaw Nr 86
+— 5337 —
+Poz. 579
+Za∏àcznik nr 2
+KLASYFIKACJA G¸ÓWNYCH BUDOWLI HYDROTECHNICZNYCH
+Dziennik Ustaw Nr 86
+— 5338 —
+Poz. 579
+ObjaÊnienia:
+1) Klas´ budowli drugorz´dnej przyjmuje si´ o jeden stopieƒ ni˝szà od ostatecznie ustalonej klasy budowli g∏ównej.
+2) Gdy budowla g∏ówna zaliczona jest do klasy IV, równie˝ budowl´ drugorz´dnà zalicza si´ do tej klasy.
+3) Tymczasowych budowli hydrotechnicznych nie zalicza si´ do poszczególnych klas, z wyjàtkiem przypadków, gdy ich zniszczenie mo˝e wywo∏aç nast´pstwa o charak-
+terze katastrofalnym dla miast i osiedli oraz placu budowy realizowanych budowli g∏ównych klas I i II.
+4) Tymczasowà budowl´, w sytuacji okreÊlonej w pkt 3, zalicza si´ do klasy nie wy˝szej ni˝ III.
+5) Budowle pi´trzàce o wysokoÊci pi´trzenia nieprzekraczajàcej 2,0 m i gromadzàce wod´ w iloÊci poni˝ej 0,2 mln m
+3
+ nie podlegajà klasyfikacji wed∏ug niniejszego za-
+∏àcznika pod warunkiem, ˝e ich zniszczenie nie zagra˝a terenom zabudowanym.
+6) Budowle wymienione w pkt 5 powinny spe∏niaç warunki techniczne dla budowli klasy IV.
+7) Klasa budowli powinna byç ustalona w projekcie budowlanym zatwierdzanym przez w∏aÊciwy organ administracji architektoniczno-budowlanej.
+8) Budowle hydrotechniczne nale˝y zaliczaç do klasy najwy˝szej spoÊród klas ustalonych na podstawie poszczególnych wskaêników.
+9) Budowle hydrotechniczne okresowo pi´trzàce wod´ przeznaczone do ochrony przeciwpowodziowej nale˝y klasyfikowaç wy∏àcznie wed∏ug lp. 3.
+10) Budowle hydrotechniczne wymienione w lp. 3 nie mogà byç zaliczone do klasy ni˝szej ni˝ I, je˝eli ich zniszczenie mo˝e mieç katastrofalne skutki dla aglomeracji i za-
+bytków oraz zak∏adów przemys∏owych o podstawowym znaczeniu dla gospodarki. Ustalonà III i IV klas´ budowli hydrotechnicznej nale˝y podnieÊç o jeden stopieƒ
+wa˝noÊci, gdy jej zniszczenie mo˝e zagroziç terenom zamieszka∏ym lub terenom intensywnych upraw rolnych.
+Za∏àcznik nr 3
+WSPÓ¸CZYNNIKI KONSEKWENCJI ZNISZCZENIA BUDOWLI HYDROTECHNICZNEJ
+(Z WY¸ÑCZENIEM SKARP I ZBOCZY)
+Dziennik Ustaw Nr 86
+— 5339 —
+Poz. 579
+Za∏àcznik nr 4
+PRAWDOPODOBIE¡STWO POJAWIANIA SI¢ PRZEP¸YWÓW MIARODAJNYCH 
+I KONTROLNYCH DLA STA¸YCH BUDOWLI HYDROTECHNICZNYCH
+ObjaÊnienia:
+1) Dla obwa∏owaƒ chroniàcych wy∏àcznie u˝ytki zielone i zaliczanych w oparciu o za∏àcznik nr 2 do rozporzàdzenia do klasy IV,
+dopuszcza si´ jako wod´ miarodajnà Q
+m
+ o prawdopodobieƒstwie p = 10 %, a jako wod´ kontrolnà — Q
+k
+ o prawdopodo-
+bieƒstwie p = 5 %.
+2) Wyznaczenie Q
+m
+ i Q
+k
+ nast´puje przez przyj´cie prawdopodobieƒstwa tych przep∏ywów dla sta∏ych budowli pi´trzàcych
+wed∏ug niniejszego za∏àcznika w zale˝noÊci od klasy budowli, z zastrze˝eniem pkt 3.
+3) Obliczenie Q
+k
+, o którym mowa w pkt 2, dla rzek i potoków na terenach górskich i podgórskich nale˝y przeprowadziç przez
+dodanie do Q
+k
+, okreÊlonego w niniejszym za∏àczniku, Êredniego b∏´du oszacowania tej wartoÊci 
+δ
+, przy t
+α
+ = 1 i poziomie
+ufnoÊci równym 0,84; do wymiarowania budowli za Q
+k
+ nale˝y przyjàç przep∏yw równy (1+ 
+δ
+) Q
+k
+.
+Za∏àcznik nr 5
+PRAWDOPODOBIE¡STWO POJAWIANIA SI¢ MAKSYMALNYCH PRZEP¸YWÓW BUDOWLANYCH
+DLA TYMCZASOWYCH BUDOWLI HYDROTECHNICZNYCH
+Za∏àcznik nr 6
+BEZPIECZNE WZNIESIENIE KORONY STA¸YCH BUDOWLI HYDROTECHNICZNYCH
+Dziennik Ustaw Nr 86
+— 5340 —
+Poz. 579
+Za∏àcznik nr 7
+WZNIESIENIE GÓRNEJ KRAW¢DZI USZCZELNIE¡ BUDOWLI ZIEMNYCH
+ObjaÊnienie:
+Dla wa∏ów przeciwpowodziowych górna kraw´dê uszczelnieƒ nie powinna byç ni˝sza ni˝ poziom wód przy Q
+k
+.
+Za∏àcznik nr 8
+LICZBA SPUSTÓW, SZTOLNI, LEWARÓW I TURBIN, KTÓRYCH NIE NALE˚Y UWZGL¢DNIAå 
+PRZY OKREÂLANIU WARUNKÓW PRZEPUSZCZENIA PRZEP¸YWU MIARODAJNEGO
